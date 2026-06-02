@@ -183,7 +183,7 @@ if __name__ == '__main__':
         inp = sys.argv[1]
         out = Path(inp).stem + '_normalized.md'
     else:
-        inp = 'page_1301_1495.md'
-        out = 'page_1301_1495_normalized.md'
+        inp = 'page_99_406.md'
+        out = 'page_99_406_normalized.md'
 
     normalize_file(inp, out)

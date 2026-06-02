@@ -6,7 +6,9 @@
 
 **Loại thuốc:** Thuốc lợi tiểu kháng aldosteron.
 
-**Dạng thuốc và hàm lượng:**  Viên nén 25 mg; 50 mg; 100 mg.
+## **Dạng thuốc và hàm lượng:**  
+
+Viên nén 25 mg; 50 mg; 100 mg.
 
 Hỗn dịch uống: 5 mg, 10 mg, 25 mg, 50 mg và 100 mg/5 ml.
 
@@ -520,7 +522,9 @@ Streptokinase có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 # **STREPTOMYCIN**
 
-**Tên chung quốc tế:** Streptomycine. **Mã ATC:** A07AA04, J01GA01.
+**Tên chung quốc tế:** Streptomycine. 
+
+**Mã ATC:** A07AA04, J01GA01.
 
 **Loại thuốc:** Kháng sinh nhóm aminoglycosid.
 
@@ -722,9 +726,9 @@ Mystrep; Strepto-Fatol; Trepmycin; Tsar Streptomycin.
 
 # **SUCRALFAT**
 
-Tên chung quốc tế: Sucralfate.
+**Tên chung quốc tế:** Sucralfate.
 
-Mã ATC: A02BX02.
+**Mã ATC:** A02BX02.
 
 **Loại thuốc:** Thuốc bảo vệ niêm mạc dạ dày; điều trị loét dạ dày, tá tràng.
 
@@ -1348,9 +1352,9 @@ Ancicon; Anxita; Biosride; Cadipiride; Devodil 50; Docnotine; Dogatina; Dogmatil
 
 # **SUMATRIPTAN**
 
-Tên chung quốc tế: Sumatriptan
+**Tên chung quốc tế:** Sumatriptan
 
-Mã ATC: N02CC01
+**Mã ATC:** N02CC01
 
 **Loại thuốc:** Thuốc chủ vận thụ thể serotonin  $5\text{-HT}_{\text{IB, 1D}}$ , thuốc chống đau nửa đầu.
 
@@ -1550,7 +1554,7 @@ Sumatriptan có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 **Loại thuốc:** Thuốc chẹn thần kinh - cơ khử cực.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Thuốc tiêm: 20 mg; 50 mg; 100 mg/ml. Lọ thuốc bột pha tiêm: 50 mg; 100 mg.
 
@@ -1686,9 +1690,13 @@ Suxamethonium clorid có trong Danh mục thuốc thiết yếu tân dược ban
 
 # **TACROLIMUS**
 
-**Tên chung quốc tế:** Tacrolimus. **Mã ATC:** D11AH01, L04AD02. **Lọai thuốc:** Thuốc ức chế miễn dịch.
+**Tên chung quốc tế:** Tacrolimus. 
 
-**Dạng thuốc và hàm lượng**
+**Mã ATC:** D11AH01, L04AD02. 
+
+**Lọai thuốc:** Thuốc ức chế miễn dịch.
+
+## **Dạng thuốc và hàm lượng**
 
 Viên nang: 0,5 mg; 1 mg; 5 mg. Thuốc tiêm: 5 mg/5 ml. Thuốc mỡ: 0,03%; 0,1%.
 
@@ -2664,11 +2672,11 @@ Temobela; Temodal; Temoside 100; Venutel.
 
 # **TENIPOSID**
 
-Tên chung quốc tế: Teniposide.
+**Tên chung quốc tế:** Teniposide.
 
-Mã ATC: L01CB02.
+**Mã ATC:** L01CB02.
 
-Loại thuốc: Thuốc chống ung thư.
+**Loại thuốc:** Thuốc chống ung thư.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -3112,7 +3120,9 @@ Tenoxicam có trong Danh mục thuốc chữa bệnh chủ yếu sử dụng t�
 
 **Loại thuốc:** Thuốc chẹn thụ thể alpha<sup>1</sup> -adrenergic.
 
-**Dạng thuốc và hàm lượng** Viên nang: 1mg, 2mg, 5mg, 10mg.
+## **Dạng thuốc và hàm lượng** 
+
+Viên nang: 1mg, 2mg, 5mg, 10mg.
 
 Viên nén: 2mg.
 
@@ -3260,7 +3270,7 @@ Có một báo cáo về nhịp tim chậm xoang và hạ huyết áp xảy ra �
 
 **Loại thuốc:** Thuốc chống nấm, dẫn chất allylamin.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Thuốc cốm: Gói 125 mg, gói 187,5 mg.
 
@@ -3648,7 +3658,13 @@ Terbutalin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Hormon sinh dục nam (androgen).
 
-**Dạng thuốc và hàm lượng** Viên nén: 5; 10; 25; 50 mg; Viên nang: 40, 200 mg; Viên ngậm dưới lưỡi: 10 mg;
+## **Dạng thuốc và hàm lượng** 
+
+Viên nén: 5; 10; 25; 50 mg; 
+
+Viên nang: 40, 200 mg; 
+
+Viên ngậm dưới lưỡi: 10 mg;
 
 Ống tiêm: 10, 25, 50, 100, 250 mg/ml;
 
@@ -4746,7 +4762,9 @@ Thalidomid có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Mã ATC:** A07BA01.
 
-**Loại thuốc:** Thuốc giải độc. **Dạng thuốc và hàm lượng**
+**Loại thuốc:** Thuốc giải độc. 
+
+## **Dạng thuốc và hàm lượng**
 
 Nang 250 mg; viên nén 250 mg, 500 mg.
 
@@ -4842,7 +4860,9 @@ Than hoạt có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Thuốc giãn phế quản.
 
-**Dạng thuốc và hàm lượng** Nang: 100 mg, 200 mg.
+## **Dạng thuốc và hàm lượng** 
+
+Nang: 100 mg, 200 mg.
 
 Nang giải phóng kéo dài: 50 mg, 60 mg, 65 mg, 75 mg, 100 mg, 125 mg, 130 mg, 200 mg, 250 mg, 260 mg, 300 mg, 400 mg.
 
@@ -5088,9 +5108,13 @@ Theophylin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc kháng giáp, dẫn chất thioimidazol.
 
-# **Dạng thuốc và hàm lượng** Viên nén: 5 mg, 10 mg và 20 mg.
+## **Dạng thuốc và hàm lượng** 
 
-**Dược lý và cơ chế tác dụng** Thiamazol là một thuốc kháng giáp tổng hợp, dẫn chất thioimidazol có tác dụng ức chế quá trình tổng hợp hormon tuyến giáp bằng cách làm thay đổi phản ứng kết hợp iodid đã được oxy hóa vào gốc tyrosin của phân tử thyroglobulin và phản ứng cặp đôi phân tử iodotyrosin thành iodothyronin. Ngoài ra, thiamazol còn ức chế enzym peroxydase của tuyến giáp dẫn đến ngăn cản sự oxy hóa iodid và iodtyrosin thành dạng có hoạt tính. Thiamazol không ức chế tác dụng của hormon tuyến giáp đã hình thành trong tuyến giáp hoặc có trong tuần hoàn, không ức chế giải phóng hormon tuyến giáp, cũng không ảnh hưởng đến hiệu quả của hormon tuyến giáp đưa từ ngoài vào. Do đó, thiamazol không có tác dụng trong điều trị nhiễm độc giáp do dùng quá liều hormon tuyến giáp.
+Viên nén: 5 mg, 10 mg và 20 mg.
+
+## **Dược lý và cơ chế tác dụng** 
+
+Thiamazol là một thuốc kháng giáp tổng hợp, dẫn chất thioimidazol có tác dụng ức chế quá trình tổng hợp hormon tuyến giáp bằng cách làm thay đổi phản ứng kết hợp iodid đã được oxy hóa vào gốc tyrosin của phân tử thyroglobulin và phản ứng cặp đôi phân tử iodotyrosin thành iodothyronin. Ngoài ra, thiamazol còn ức chế enzym peroxydase của tuyến giáp dẫn đến ngăn cản sự oxy hóa iodid và iodtyrosin thành dạng có hoạt tính. Thiamazol không ức chế tác dụng của hormon tuyến giáp đã hình thành trong tuyến giáp hoặc có trong tuần hoàn, không ức chế giải phóng hormon tuyến giáp, cũng không ảnh hưởng đến hiệu quả của hormon tuyến giáp đưa từ ngoài vào. Do đó, thiamazol không có tác dụng trong điều trị nhiễm độc giáp do dùng quá liều hormon tuyến giáp.
 
 Trong trường hợp tuyến giáp đã có một nồng độ iod tương đối cao (do dùng iod từ trước hoặc do dùng iod phóng xạ trong chẩn đoán) cơ thể sẽ đáp ứng chậm với thiamazol.
 
@@ -5250,7 +5274,9 @@ Thiamazol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Tên chung quốc tế:** Thiamine.
 
-**Mã ATC:** A11DA01. **Loại thuốc:** Vitamin.
+**Mã ATC:** A11DA01. 
+
+**Loại thuốc:** Vitamin.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -5386,7 +5412,7 @@ Thiamin có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 
 **Loại thuốc:** Thuốc chống ung thư loại chống chuyển hóa.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Viên nén 40 mg.
 
@@ -5498,7 +5524,9 @@ Chưa có phương pháp giải độc đặc hiệu quá liều thioguanin. N�
 
 # **THIOPENTAL**
 
-**Tên chung quốc tế:** Thiopental. **Mã ATC:** N01AF03, N05CA19.
+**Tên chung quốc tế:** Thiopental. 
+
+**Mã ATC:** N01AF03, N05CA19.
 
 **Loại thuốc:** Thuốc mê đường tĩnh mạch.
 
@@ -6034,7 +6062,7 @@ Thuốc gây nghiện.
 
 # **THUỐC TƯƠNG TỰ HORMON GIẢI PHÓNG GONADOTROPIN**
 
-#### **Tên chung quốc tế và mã ATC**
+**Tên chung quốc tế và mã ATC**
 
 Buserelin: L02AE01 Leuprorelin: L02AE02. Goserelin: L02AE03 Triptorelin: L02A E04. Nafarelin: H01C A02 Histrelin: H01C A03.
 
@@ -7015,7 +7043,9 @@ Timolol có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 
 # **TINIDAZOL**
 
-**Tên chung quốc tế**: Tinidazole. **Mã ATC:** J01XD02; P01AB02.
+**Tên chung quốc tế**: Tinidazole. 
+
+**Mã ATC:** J01XD02; P01AB02.
 
 **Loại thuốc:** Thuốc kháng khuẩn; kháng động vật nguyên sinh.
 
@@ -7269,7 +7299,9 @@ Tinidazol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 # **TIOCONAZOL**
 
-**Tên chung quốc tế**: Tioconazole. **Mã ATC:** D01AC07, G01AF08.
+**Tên chung quốc tế**: Tioconazole. 
+
+**Mã ATC:** D01AC07, G01AF08.
 
 **Loại thuốc:** Thuốc chống nấm (tại chỗ).
 
@@ -7883,7 +7915,9 @@ Tizanidin hydroclorid có trong Danh mục thuốc tân dược thuộc phạm v
 
 # **TOBRAMYCIN**
 
-**Tên chung quốc tế:** Tobramycin. **Mã ATC:** J01GB01, S01AA12.
+**Tên chung quốc tế:** Tobramycin. 
+
+**Mã ATC:** J01GB01, S01AA12.
 
 **Loại thuốc:** Kháng sinh nhóm aminoglycosid.
 
@@ -8545,7 +8579,7 @@ Bảo quản trong bao bì kín, ở nhiệt độ 15 - 30 <sup>o</sup> C.
 
 **Loại thuốc:** Thuốc giảm đau tổng hợp nhóm opioid.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Viên nén: 50 mg.
 
@@ -8905,7 +8939,7 @@ Chưa có dữ liệu về quá liều và ngộ độc cấp trastuzumab, ngay 
 
 **Loại thuốc:** Retinoid dùng bôi trị trứng cá.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Kem để bôi: 0,025%; 0,05%; 0,1% Gel: 0,01%; 0,025%; 0,04%; 0,05%
 
@@ -9231,7 +9265,7 @@ Tretinoin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Glucocorticoid.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Kem bôi, mỡ, bột nhão: 0,1%.
 
@@ -9407,9 +9441,15 @@ Triamcinolon có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc lợi tiểu giữ kali.
 
-**Dạng thuốc và hàm lượng** Viên nang: 50 mg, 100 mg. Viên nén: 50 mg và 100 mg.
+## **Dạng thuốc và hàm lượng** 
 
-#### **Dược lý và cơ chế tác dụng** Triamteren là thuốc lợi tiểu yếu giữ kali, tác dụng trực tiếp lên ống lượn xa của nephron, để ức chế tái hấp thu ion Na+ bài tiết ion K+ , H+
+Viên nang: 50 mg, 100 mg. 
+
+Viên nén: 50 mg và 100 mg.
+
+## **Dược lý và cơ chế tác dụng** 
+
+Triamteren là thuốc lợi tiểu yếu giữ kali, tác dụng trực tiếp lên ống lượn xa của nephron, để ức chế tái hấp thu ion Na+ bài tiết ion K+ , H+
 
 . Triamteren không ức chế cạnh tranh aldosteron và có hoạt tính không phụ thuộc nồng độ aldosteron. Triamteren không ức chế carbonic anhydrase. Triamteren làm tăng thải trừ ion Na<sup>+</sup> , Ca+2, Mg+2, HCO<sup>3</sup> - . Trong huyết thanh, nồng độ ion K+ , Clthường tăng và nồng độ ion HCO<sup>3</sup> thường xuyên giảm trong quá trình điều trị bằng triamteren.
 
@@ -9899,7 +9939,11 @@ Trimetazidin có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Mã ATC:** J01EA01.
 
-**Loại thuốc:** Kháng khuẩn. **Dạng thuốc và hàm lượng** Viên nén: 100 mg; 200 mg. Dung dịch uống: 50 mg/ml.
+**Loại thuốc:** Kháng khuẩn. 
+
+## **Dạng thuốc và hàm lượng** 
+
+Viên nén: 100 mg; 200 mg. Dung dịch uống: 50 mg/ml.
 
 Thuốc tiêm: 20 mg/ml (dưới dạng lactat).
 
@@ -11267,7 +11311,9 @@ Vắc xin Lao (BCG) có trong Danh mục thuốc thiết yếu tân dược ban 
 
 # **VẮC XIN DẠI**
 
-**Tên chung quốc tế:** Vaccinum rabiei ex cellulis ad usum humanum **Mã ATC:** J07BG01 (Rabies, inactivated, whole virus; rabies vaccine).
+**Tên chung quốc tế:** Vaccinum rabiei ex cellulis ad usum humanum 
+
+**Mã ATC:** J07BG01 (Rabies, inactivated, whole virus; rabies vaccine).
 
 **Loại thuốc:** Vắc xin virus bất hoạt.
 
@@ -11457,7 +11503,9 @@ Vắc xin dại có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 # **VẮC XIN HAEMOPHILUS INFLUENZAE TYP B CỘNG HỢP**
 
-**Tên chung quốc tế:** Vaccinum Haemophili stirpi b coniugatum **Mã ATC:** J07AG01 (Haemophilus influenzae type b, purified antigen conjugated).
+**Tên chung quốc tế:** Vaccinum Haemophili stirpi b coniugatum 
+
+**Mã ATC:** J07AG01 (Haemophilus influenzae type b, purified antigen conjugated).
 
 **Loại thuốc:** Vắc xin polysaccarid bất hoạt cộng hợp.
 
@@ -11607,7 +11655,9 @@ Bảo quản trong tủ lạnh (2 - 8 <sup>o</sup> C). Không được để đ�
 
 # **VẮC XIN NÃO MÔ CẦU**
 
-**Tên chung quốc tế:** Vaccinum meningococcale polysaccharidicum **Mã ATC:** J07AH04 **(**Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen).
+**Tên chung quốc tế:** Vaccinum meningococcale polysaccharidicum 
+
+**Mã ATC:** J07AH04 **(**Meningococcus A, C, Y, W-135, tetravalent purified polysaccharides antigen).
 
 **Loại thuốc:** Vắc xin polysaccarid bất hoạt.
 
@@ -11745,7 +11795,11 @@ Vắc xin sau khi hoàn nguyên cần dùng trong vòng 30 phút.
 
 # **VẮC XIN RUBELLA**
 
-**Tên chung quốc tế:** Vaccinum rubellae vivum **Mã ATC:** J07BJ01 (Rubella, live attenuated). **Loại thuốc:** Vắc xin sống giảm độc lực.
+**Tên chung quốc tế:** Vaccinum rubellae vivum 
+
+**Mã ATC:** J07BJ01 (Rubella, live attenuated). 
+
+**Loại thuốc:** Vắc xin sống giảm độc lực.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -12581,9 +12635,9 @@ Vắc xin thương hàn có trong Danh mục thuốc thiết yếu tân dược 
 
 **Mã ATC:** J07BC01 (Hepatidis B, purified antigen; Recombinant hepatitis B vaccine).
 
-# **Loại thuốc:** Vắc xin.
+**Loại thuốc:** Vắc xin.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Hỗn dịch tiêm, đóng lọ hoặc bơm tiêm 0,5 ml hoặc 1 ml chứa 5 microgam, 10 microgam hoặc 20 microgam HBsAg (thay đổi tùy nhà sản xuất).
 
@@ -13049,7 +13103,9 @@ Valsartan có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 # **VANCOMYCIN**
 
-**Tên chung quốc tế:** Vancomycin. **Mã ATC:** A07AA09, J01XA01.
+**Tên chung quốc tế:** Vancomycin. 
+
+**Mã ATC:** A07AA09, J01XA01.
 
 **Loại thuốc:** Kháng sinh glycopeptid nhân 3 vòng phổ hẹp.
 
@@ -13307,7 +13363,7 @@ Lypressin (Lysin-8-vasopressin): H01BA03. Argipressin (D-arginin-8-vasopressin):
 
 **Loại thuốc:** Hormon chống bài niệu.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Vasopressin: 20 đvqt/1 ml (thuốc tiêm, nhỏ mũi).
 
@@ -13817,7 +13873,11 @@ Venlafaxin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc chẹn kênh calci nhóm non-dihydropyridin.
 
-**Dạng thuốc và hàm lượng** Viên bao 40 mg, 80 mg, 120 mg. Viên nén giải phóng kéo dài: 120 mg, 180 mg, 240 mg.
+## **Dạng thuốc và hàm lượng** 
+
+Viên bao 40 mg, 80 mg, 120 mg. 
+
+Viên nén giải phóng kéo dài: 120 mg, 180 mg, 240 mg.
 
 Thuốc tiêm: Ống 5 mg/2 ml; 10 mg/4 ml và lọ 5 mg/2 ml; 20 mg/4 ml. Mỗi ml dung dịch chứa 2,5 mg verapamil hydroclorid và 8,5 mg natri clorid hòa tan trong nước cất pha tiêm, pH 4,1 - 6,0.
 
@@ -16023,7 +16083,9 @@ Zidovudin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 **Mã ATC:** N05CF02.
 
-**Loại thuốc:** An thần gây ngủ. **Dạng thuốc và hàm lượng**
+**Loại thuốc:** An thần gây ngủ. 
+
+## **Dạng thuốc và hàm lượng**
 
 Viên nén, viên bao phim 5 mg và 10 mg (zolpidem tartrat). Viên giải phóng chậm 6,25 mg và 12,5 mg (zolpidem tartrat).
 
