@@ -174,7 +174,7 @@ Abacavir có trong Danh mục thuốc thiết yếu tân dược ban hành lần
 
 # **ACARBOSE**
 
-**Tên chung quốc tế:** Acarbose.
+**Tên chung quốc tế**: Acarbose.
 
 **Mã ATC:** A10BF01.
 
@@ -288,7 +288,7 @@ Cần tránh dùng đồng thời với các thuốc kháng acid, cholestyramin,
 
 Neomycin làm tăng tác dụng giảm glucose huyết của acarbose. Acarbose làm giảm tác dụng của digoxin do ức chế hấp thu digoxin.
 
-## **Quá liều và xử trí**
+## **Ouá liều và xử trí**
 
 Không giống như sulfonylurê hoặc insulin, quá liều acarbose không gây hạ glucose huyết. Quá liều acarbose có thể gây tăng trướng bụng, ia chảy, đau bụng, nhưng các triệu chứng thường hết nhanh chóng. Trong trường hợp quá liều, không nên cho người bệnh dùng đồ uống hoặc thức ăn chứa nhiều hydrat carbon (polysaccharid, oligosaccharid, và disaccharid) trong 4 - 6 giờ.
 
@@ -897,15 +897,13 @@ Acetazolamid có trong Danh mục thuốc thiết yếu tân dược ban hành l
 
 ## **Dạng thuốc và hàm lượng**
 
-Viên nén: 200 mg. 
+Viên nén: 200 mg. Gói thuốc bột: 200 mg.
 
-Gói thuốc bột: 200 mg.
+Dung dịch thuốc hít qua miệng, thuốc nhỏ vào khí quản và thuốc
 
-Dung dịch thuốc hít qua miệng, thuốc nhỏ vào khí quản và thuốc uống: 100 mg/ml, 200 mg/ml.
+uống: 100 mg/ml, 200 mg/ml.
 
-Dung dịch tiêm đậm đặc: 200 mg/ml để pha dịch truyền. 
-
-Thuốc nhỏ mắt: Acetylcystein 5%, hypromelose 0,35%.
+Dung dịch tiêm đậm đặc: 200 mg/ml để pha dịch truyền. Thuốc nhỏ mắt: Acetylcystein 5%, hypromelose 0,35%.
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -998,6 +996,7 @@ Nếu dùng làm thuốc giải độc trong quá liều paracetamol, có thể 
 ### *Bảng 1:*
 
 | Thể trọng | Thể tích acetylcystein đậm đặc nồng độ 200 mg/ml cần thiết để chuẩn bị dịch truyền tĩnh mạch giai đoạn 1 |
+| --- | --- |
 | **40 - 49 kg** | 34 ml |
 | **50 - 59 kg** | 42 ml |
 | **60 - 69 kg** | 49 ml |
@@ -1013,6 +1012,7 @@ Giai đoạn 2 (lần truyền thứ 2): Bắt đầu ngay sau khi kết thúc g
 ### *Bảng 2:*
 
 | Thể trọng | Thể tích acetylcystein đậm đặc nồng độ 200 mg/ml cần thiết để chuẩn bị dịch truyền tĩnh mạch giai đoạn 2 |
+| --- | --- |
 | **40 - 49 kg** | 12 ml |
 | **50 - 59 kg** | 14 ml |
 | **60 - 69 kg** | 17 ml |
@@ -1028,6 +1028,7 @@ Giai đoạn 3 (lần truyền thứ 3): Bắt đầu ngay sau khi kết thúc g
 ### *Bảng 3:*
 
 | Thể trọng | Thể tích acetylcystein đậm đặc nồng độ 200 mg/ml để chuẩn bị dịch tiêm truyền tĩnh mạch giai đoạn 3 |
+| --- | --- |
 | **40 - 49 kg** | 23 ml |
 | **50 - 59 kg** | 28 ml |
 | **60 - 69 kg** | 33 ml |
@@ -1109,7 +1110,6 @@ Acetylcystein có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 *ACC; Aceblue; Ace-Cold; Acecyst; Acehasan; Acemuc; Acenews; Acetydona; Acinmuxi; Acitys; AC-lyte; Andonmuc; Atazeny Caps; Atazeny Sachet; Becocystein; Beemecin; Besamux; Bivicetyl; BromystSaVi; Broncemuc; Cadimusol; Coducystin 200; Esomez; Euxamus; Exomuc; Flemex-AC; Fluidasa; Gargalex; Glotamuc; Hacimux; Imecystine; Intes; Kacystein; Mecemuc; Mechomuk; Mekomucosol; Mitux; Mitux E; Mucobrima Granule; Mucocet; Mucokapp; Mucorid Granules; Mucoserine; Multuc 200; Mutastyl; Muxco; Muxenon; Muxystine; Mycomucc; Myercough; Mysoven Granules; Opebroncho; Oribier; Paratriam; Picymuc; Promid; SaVi Acetylcystein 200; SaViBromyst; Snelcough Cap.; Solmucol; Spalung; Stenac Effervescent; Suresh; Travimuc; Tufsine; Tylcyst; Uscmusol; Vacomuc; Vincystin; Xumocolat; Zentomyst 100.*
 
-
 # **ACICLOVIR**
 
 **Tên chung quốc tế:** Aciclovir (Acyclovir).
@@ -1190,11 +1190,11 @@ Aciclovir được bài tiết qua sữa mẹ khi dùng đường uống, tuy nh
 
 Các ADR thường hiếm gặp sau khi uống hoặc tiêm tĩnh mạch aciclovir.
 
-Ít gặp, 1/1000 < ADR < 1/100
+Ít gặp, 1/1~000 < ADR < 1/100
 
 Tại chỗ tiêm: Thường do thuốc tiêm ra ngoài tĩnh mạch, gây viêm và hoại tử mô.
 
-Hiếm gặp, ADR < 1/1000
+Hiếm gặp, ADR < 1/1 000
 
 Tiêu hóa: Buồn nôn, nôn, ia chảy, đau bụng, chán ăn, rối loạn tiêu hóa (khi uống hoặc tiêm tĩnh mạch).
 
@@ -1232,11 +1232,7 @@ Nhiễm HSV ở mắt:
 
 Dự phòng tái phát, viêm giác mạc: (sau 3 lần tái phát/năm): 800 mg/ngày chia làm 2 lần. Đánh giá lại sau 6 - 12 tháng điều trị. Trường hợp phải phẫu thuật mắt: 800 mg/ngày, chia làm 2 lần.
 
-Thủy đậu: 800 mg/lần, 4 hoặc 5 lần/ngày. Uống trong 5 - 7 ngày. 
-
-Zona: Người lớn, 800 mg/lần, 5 lần/ngày, uống trong 5 - 10 ngày. 
-
-Trẻ em: 2 tuổi hoặc trên 2 tuổi: Liều như người lớn. Dưới 2 tuổi: dùng 1/2 liều người lớn.
+Thủy đậu: 800 mg/lần, 4 hoặc 5 lần/ngày. Uống trong 5 - 7 ngày. Zona: Người lớn, 800 mg/lần, 5 lần/ngày, uống trong 5 - 10 ngày. Trẻ em: 2 tuổi hoặc trên 2 tuổi: Liều như người lớn. Dưới 2 tuổi: dùng 1/2 liều người lớn.
 
 Thủy đậu: Trên 2 tuổi: 20 mg/kg, tối đa 800 mg/lần, uống 4 lần/ngày. Uống trong 5 ngày.
 
@@ -1280,17 +1276,14 @@ Thuốc mỡ tra mắt: Ngày bôi 5 lần (tiếp tục ít nhất 3 ngày sau 
 
 *Với người bệnh suy thận:*
 
-Dưới đây là bảng được trình bày lại dựa trên hình ảnh bạn cung cấp. Để bảng dễ đọc và rõ ràng nhất trong định dạng markdown, mình đã tách các thông số tương ứng thành từng dòng riêng biệt:
-
-| Liều thông thường | Độ thanh thải creatinin (ml/phút) | Liều điều chỉnh |
-| --- | --- | --- |
-| **200 mg, cách nhau 4 giờ/lần, 5 lần/ngày** | > 10 | Không cần điều chỉnh |
-|  | 0 - 10 | 200 mg, cách nhau 12 giờ |
-| **400 mg, cách nhau 12 giờ/lần** | > 10 | Không cần điều chỉnh |
-|  | 0 - 10 | 200 mg, cách nhau 12 giờ |
-| **800 mg, cách nhau 4 giờ/lần, 5 lần/ngày** | > 25 | Không cần điều chỉnh liều |
-|  | 10 - 25 | 800 mg, cách nhau 8 giờ/lần |
-|  | 0 - 10 | 800 mg, cách nhau 12 giờ/lần |
+| Liều thông<br>thường                          | Độ thanh thải<br>creatinin<br>(ml/phút) | Liều điều chỉnh                                  |
+|-----------------------------------------------|-----------------------------------------|--------------------------------------------------|
+| 200 mg, cách<br>nhau 4 giờ/lần,<br>5 lần/ngày | > 10<br>0 - 10                          | Không cần điều chỉnh<br>200 mg, cách nhau 12 giờ |
+| 400 mg, cách                                  | > 10                                    | Không cần điều chỉnh                             |
+| nhau 12 giờ/lần                               | 0 - 10                                  | 200 mg, cách nhau 12 giờ                         |
+| 800 mg, cách                                  | > 25                                    | Không cần điều chỉnh liều                        |
+| nhau 4 giờ/lần,                               | 10 - 25                                 | 800 mg, cách nhau 8 giờ/lần                      |
+| 5 lần/ngày                                    | 0 - 10                                  | 800 mg, cách nhau 12 giờ/lần                     |
 
 *Uống:* Liều và số lần uống phải thay đổi tùy theo mức độ tổn thương thận.
 
@@ -1298,31 +1291,31 @@ Dưới đây là bảng được trình bày lại dựa trên hình ảnh bạ
 
 Thẩm phân máu: Bổ sung 1 liều ngay sau mỗi lần thẩm phân máu. Liều uống với người bệnh suy thận kèm nhiễm HIV như sau:
 
-| Độ thanh thải creatinin (ml/phút) | Cách dùng |
-| --- | --- |
-| **> 80** | Không điều chỉnh liều |
-| **50 - 80** | 200 - 800 mg, cách nhau 6 - 8 giờ |
-| **25 - 50** | 200 - 800 mg, cách nhau 8 - 12 giờ |
-| **10 - 25** | 200 - 800 mg, cách nhau 12 - 24 giờ |
-| **< 10** | 200 - 400 mg, cách nhau 24 giờ |
+| Độ thanh thải creatinin<br>(ml/phút) | Cách dùng                           |
+|--------------------------------------|-------------------------------------|
+| > 80                                 | Không điều chỉnh liều               |
+| 50 - 80                              | 200 - 800 mg, cách nhau 6 - 8 giờ   |
+| 25 - 50                              | 200 - 800 mg, cách nhau 8 - 12 giờ  |
+| 10 - 25                              | 200 - 800 mg, cách nhau 12 - 24 giờ |
+| < 10                                 | 200 - 400 mg, cách nhau 24 giờ      |
 
 *Tiêm truyền tĩnh mạch:*
 
 Liều tiêm truyền tĩnh mạch ở người suy thận như sau:
 
-| Độ thanh thải creatinin (ml/phút) | Cách dùng |
-|---|---|
-| 25 - 50  | 5 - 10 mg/kg, cách nhau 12 giờ  |
-| 10 - 25  | 5 - 10 mg/kg, cách nhau 24 giờ  |
-| < 10     | 2,5 - 5 mg/kg, cách nhau 24 giờ |
+| Độ thanh thải<br>creatinin (ml/phút) | Cách dùng                       |
+|--------------------------------------|---------------------------------|
+| 25 - 50                              | 5 - 10 mg/kg, cách nhau 12 giờ  |
+| 10 - 25                              | 5 - 10 mg/kg, cách nhau 24 giờ  |
+| < 10                                 | 2,5 - 5 mg/kg, cách nhau 24 giờ |
 
 Liều tiêm truyền tĩnh mạch ở người suy thận kèm nhiễm HIV như sau:
 
-| Độ thanh thải<br>creatinin (ml/phút) | Cách dùng |
-|---|---|
-| > 50      | Không điều chỉnh liều          |
-| 10 - 50   | 5 mg/kg, cách nhau 12 - 24 giờ |
-| < 10      | 2,5 mg/kg, cách nhau 24 giờ    |
+| Độ thanh thải<br>creatinin (ml/phút) | Cách dùng                      |  |
+|--------------------------------------|--------------------------------|--|
+| > 50                                 | Không điều chỉnh liều          |  |
+| 10 - 50                              | 5 mg/kg, cách nhau 12 - 24 giờ |  |
+| < 10                                 | 2,5 mg/kg, cách nhau 24 giờ    |  |
 
 Thẩm phân máu: Liều 2,5 - 5 mg/kg thể trọng, 24 giờ một lần, sau khi thẩm phân.
 
@@ -1360,10 +1353,11 @@ Tương kỵ với các chế phẩm của máu và dung dịch chứa protein. 
 
 ## **Quá liều và xử trí**
 
-Triệu chứng: Ở người suy thận khi dùng aciclovir tiêm tĩnh mạch liều quá cao đã thấy ý thức thay đổi từ lú lẫn, ảo giác đến hôn mê. Tiến triển thường tốt sau khi ngừng thuốc và làm thẩm tách máu. Tiêm tĩnh mạch liều duy nhất 80 mg/kg chưa gây ra triệu chứng quá 
-liều.
+*Triệu chứng:* Ở người suy thận khi dùng aciclovir tiêm tĩnh mạch liều quá cao đã thấy ý thức thay đổi từ lú lẫn, ảo giác đến hôn mê. Tiến triển thường tốt sau khi ngừng thuốc và làm thẩm tách máu. 
 
-Xử trí: Thẩm phân máu người bệnh cho đến khi chức năng thận phục hồi, ngừng thuốc, cho truyền nước và điện giải.
+> Tiêm tĩnh mạch liều duy nhất 80 mg/kg chưa gây ra triệu chứng quá liều.
+
+> Xử trí: Thẩm phân máu người bệnh cho đến khi chức năng thận phục hồi, ngừng thuốc, cho truyền nước và điện giải.
 
 ## **Thông tin quy chế**
 
@@ -1375,7 +1369,7 @@ Aciclovir có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 # **ACID ACETYLSALICYLIC (Aspirin)**
 
-**Tên chung quốc tế:** Acetylsalicylic acid.
+**Tên chung quốc tế**: Acetylsalicylic acid.
 
 **Mã ATC:** A01AD05, B01AC06, N02BA01.
 
@@ -1415,7 +1409,6 @@ Aspirin cũng được sử dụng trong chứng viêm cấp và mạn như viê
 
 Nhờ tác dụng chống kết tập tiểu cầu, aspirin được sử dụng trong một số bệnh lý tim mạch như đau thắt ngực, nhồi máu cơ tim và dự phòng biến chứng tim mạch ở các bệnh nhân có nguy cơ tim mạch cao. Thuốc cũng được sử dụng trong điều trị và dự phòng một số bệnh lý mạch não như đột quỵ. Aspirin được chỉ định trong điều trị hội chứng Kawasaki vì có tác dụng chống viêm, hạ sốt và chống huyết khối.
 
-
 ## **Chống chỉ định**
 
 Do nguy cơ dị ứng chéo, không dùng aspirin cho người đã có triệu chứng hen, viêm mũi hoặc mày đay khi dùng aspirin hoặc những thuốc chống viêm không steroid khác trước đây. Người có tiền sử bệnh hen không được dùng aspirin, do nguy cơ gây hen thông qua tương tác với cân bằng prostaglandin và thromboxan. Những người không được dùng aspirin còn gồm người có bệnh ưa chảy máu, giảm tiểu cầu, loét dạ dày hoặc tá tràng đang hoạt động, suy tim vừa và nặng, suy gan, suy thận, đặc biệt người có tốc độ lọc cầu thận dưới 30 ml/phút và xơ gan.
@@ -1454,7 +1447,7 @@ Thần kinh - cơ và xương: Yếu cơ. Hô hấp: Khó thở.
 
 Khác: Sốc phản vệ.
 
-*Ít gặp, 1/1000 < ADR <1/100* TKTW: Mất ngủ, bồn chồn, cáu gắt. Nội tiết và chuyển hóa: Thiếu sắt.
+*Ít gặp, 1/1 000 < ADR <1/100* TKTW: Mất ngủ, bồn chồn, cáu gắt. Nội tiết và chuyển hóa: Thiếu sắt.
 
 Huyết học: Chảy máu ẩn, thời gian chảy máu kéo dài, giảm bạch
 
@@ -1492,8 +1485,7 @@ Nói chung nồng độ salicylat trong huyết tương ít bị ảnh hưởng 
 
 ## **Độ ổn định và bảo quản**
 
-
-giấm; nhiệt làm tăng tốc độ thủy phân. Bảo quản thuốc đạn trong tủ lạnh, không để đóng băng. Không dùng nếu thuốc có mùi giống như giấm mạnh.
+Cần bảo quản aspirin ở nơi khô và mát. Trong không khí ẩm, thuốc thủy phân dần dần thành acid salicylic và acetic và có mùi giống như giấm; nhiệt làm tăng tốc độ thủy phân. Bảo quản thuốc đạn trong tủ lạnh, không để đóng băng. Không dùng nếu thuốc có mùi giống như giấm mạnh.
 
 ## **Tương kỵ**
 
@@ -1522,7 +1514,6 @@ Acid acetylsalicylic có trong Danh mục thuốc thiết yếu tân dược ban
 ## **Tên thương mại**
 
 *Ascard-75; Aspegic; Aspilets EC; Aspirin; Aspirin MKP 81; Aspirin pH8; Opeasprin.*
-
 
 # **ACID AMINOCAPROIC**
 
@@ -1580,8 +1571,7 @@ Chỉ được dùng acid aminocaproic trong những trường hợp tình trạ
 
 Khi không biết chắc chắn nguyên nhân chảy máu là do tiêu fibrin nguyên phát hay là do đông máu nội mạch rải rác thì cần phân biệt rõ trước khi dùng acid aminocaproic. Không được dùng acid aminocaproic trong trường hợp đông máu nội mạch rải rác nếu không kèm liệu pháp heparin.
 
-
-nguồn gốc từ đường tiết niệu trên, trừ khi đã cân nhắc lợi ích lớn hơn thiệt hại có thể gặp.
+Dùng thận trọng ở người có bệnh thận, tim và gan, tăng urê huyết. Liệu pháp acid aminocaproic đã từng gây tắc thận do huyết khối trong mao mạch cầu thận hoặc do cục máu đông trong bể thận và niệu quản ở người bệnh bị chảy máu đường tiết niệu trên, vì vậy không dùng thuốc này cho người đái ra máu có nguồn gốc từ đường tiết niệu trên, trừ khi đã cân nhắc lợi ích lớn hơn thiệt hại có thể gặp.
 
 Nếu có bệnh lý cơ - xương như yếu cơ, đau cơ, mệt nhọc xảy ra ở người bệnh đang dùng acid aminocaproic thì phải xem xét khả năng cơ tim cũng có thể bị thương tổn. Phải theo dõi nồng độ enzym creatin phosphokinase trong huyết thanh của người bệnh đang điều trị dài ngày với thuốc này, nếu thấy tăng rõ, phải ngừng thuốc.
 
@@ -1615,9 +1605,7 @@ Hệ tiết niệu: Tắc bàng quang do cục máu đông, tăng urê, hiếm t
 
 Tiêu hoá: Đau bụng, ỉa chảy, buồn nôn, nôn.
 
-Huyết học: Mất bạch cầu hạt, rối loạn đông máu, giảm tiểu cầu. 
-
-Cơ - xương: Tăng creatinin phosphokinase, yếu cơ, bệnh lý cơ, tiêu cơ vân, viêm cơ.
+Huyết học: Mất bạch cầu hạt, rối loạn đông máu, giảm tiểu cầu. Cơ - xương: Tăng creatinin phosphokinase, yếu cơ, bệnh lý cơ, tiêu cơ vân, viêm cơ.
 
 Thần kinh: Lú lẫn, co giật, ảo giác, tăng áp lực nội sọ, đột quỵ, chóng mặt, ngất.
 
@@ -1681,8 +1669,7 @@ Không được để đông lạnh thuốc tiêm hoặc dung dịch uống.
 
 ## **Quá liều và xử trí**
 
-
-liều acid aminocaproic. Tuy nhiên, thuốc có thể loại bằng thẩm phân lọc máu.
+Thông tin nhiễm độc cấp ở người dùng acid aminocaproic còn hạn chế. Không rõ liều nào hoặc nồng độ nào của thuốc trong các dịch cơ thể gây nhiễm độc hoặc quá liều. Trong khi một người bệnh có thể dung nạp được acid aminocaproic với liều cao tới 100 g thì suy thận cấp đã từng xảy ra sau một liều 12 g. Biểu hiện quá liều có thể từ không có phản ứng gì cho đến hạ huyết áp nhất thời hoặc suy thận cấp nặng dẫn đến tử vong. Co giật đã xảy ra ở một người bệnh có tiền sử u não và co giật khi dùng cả liều 8 g tiêm ngay 1 lần. Nhà sản xuất thông báo, chưa biết có thuốc nào giải độc quá liều acid aminocaproic. Tuy nhiên, thuốc có thể loại bằng thẩm phân lọc máu.
 
 ## **Thông tin quy chế**
 
@@ -1746,7 +1733,6 @@ Acid ascorbic đi qua được nhau thai và phân bố trong sữa mẹ.
 
 Thải trừ: Acid ascorbic oxy hóa thuận nghịch thành acid dehydroascorbic. Một ít vitamin C chuyển hóa thành những hợp chất không có hoạt tính gồm ascorbic acid-2-sulfat và acid oxalic được bài tiết trong nước tiểu. Có một ngưỡng đào thải acid ascorbic qua thận khoảng 14 microgam/ml, ngưỡng này có thể thay đổi tuỳ theo từng người. Khi cơ thể bão hoà acid ascorbic và nồng độ máu vượt quá ngưỡng, acid ascorbic không biến đổi được và đào thải vào nước tiểu. Đây là cơ sở để làm test bão hòa acid ascorbic cho tình trạng dinh dưỡng vitamin C. Khi bão hòa ở mô và nồng độ acid ascorbic ở máu thấp, acid ascorbic đào thải ít hoặc không đào thải vào nước tiểu. Acid ascorbic có thể loại bỏ được bằng thẩm phân máu.
 
-
 ## **Chỉ định**
 
 *Chỉ định chính:*
@@ -1805,7 +1791,7 @@ Tăng oxalat niệu, buồn nôn, nôn, ợ nóng, co cứng cơ bụng, mệt m
 
 Thận: Tăng oxalat niệu.
 
-*Ít gặp, 1/1000 < ADR < 1/100*
+*Ít gặp, 1/1 000 < ADR < 1/100*
 
 Máu: Thiếu máu tan máu. Tim mạch: Bừng đỏ, suy tim.
 
@@ -1821,11 +1807,11 @@ Không nên ngừng đột ngột sau khi sử dụng vitamin C liều cao trong
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+*Cách dùng:*
 
 Thường uống vitamin C. Khi không thể uống được hoặc khi nghi kém hấp thu, và chỉ trong những trường hợp rất đặc biệt, mới dùng đường tiêm. Có thể tiêm bắp, tiêm tĩnh mạch hoặc tiêm dưới da. Khi dùng đường tiêm, tốt nhất là nên tiêm bắp mặc dù thuốc gây đau tại nơi tiêm.
 
-### *Liều lượng:*
+*Liều lượng:*
 
 Trẻ em:
 
@@ -1853,14 +1839,11 @@ Test bão hòa trạng thái dinh dưỡng vitamin C: Uống acid ascorbic 11 mg
 
 Dùng đồng thời theo tỷ lệ trên 200 mg vitamin C với 30 mg sắt nguyên tố làm tăng hấp thu sắt qua đường dạ dày - ruột; tuy vậy, đa số người bệnh đều có khả năng hấp thu sắt uống vào một cách đầy đủ mà không phải dùng đồng thời vitamin C.
 
-
-> vitamin C ở các mô cơ thể không tăng. Do đó, bổ sung vitamin C cho người đang dùng salicylat là không bảo đảm. Tuy vậy, người bệnh dùng liều cao salicylat mà không có bất cứ triệu chứng nào của thiếu vitamin C thì cũng cần phải đánh giá tình trạng thiếu hụt. Dùng đồng thời vitamin C và fluphenazin dẫn đến giảm nồng độ fluphenazin huyết tương.
+Dùng đồng thời vitamin C với aspirin làm tăng bài tiết vitamin C và giảm bài tiết aspirin trong nước tiểu. Salicylat ức chế bạch cầu và tiểu cầu hấp thu acid ascorbic. Do đó, nồng độ acid ascorbic ở bạch cầu và ở huyết tương bị giảm, chỉ cao hơn chút ít so với nồng độ của người bị thiếu hụt acid ascorbic ở mô. Tuy vậy, cho đến nay chưa có chứng cứ nào cho thấy liệu pháp salicylat thúc đẩy tình trạng thiếu acid ascorbic. Tuy bổ sung vitamin C cho người đang dùng salicylat, nồng độ acid ascorbic trong huyết tương tăng, nhưng nồng độ acid ascorbic trong bạch cầu không tăng và dự trữ vitamin C ở các mô cơ thể không tăng. Do đó, bổ sung vitamin C cho người đang dùng salicylat là không bảo đảm. Tuy vậy, người bệnh dùng liều cao salicylat mà không có bất cứ triệu chứng nào của thiếu vitamin C thì cũng cần phải đánh giá tình trạng thiếu hụt. Dùng đồng thời vitamin C và fluphenazin dẫn đến giảm nồng độ fluphenazin huyết tương.
 
 > Sự acid hóa nước tiểu sau khi dùng vitamin C có thể làm thay đổi sự bài tiết của các thuốc khác.
 
-> Vitamin C liều cao có thể phá hủy vitamin B12; cần khuyên người bệnh tránh uống vitamin C liều cao
-
-trong vòng một giờ trước hoặc sau khi uống vitamin B12.
+> Vitamin C liều cao có thể phá hủy vitamin B12; cần khuyên người bệnh tránh uống vitamin C liều cao trong vòng một giờ trước hoặc sau khi uống vitamin B12.
 
 Vitamin C có thể làm giảm hấp thụ selen (uống cách nhau ít nhất 4 giờ).
 
@@ -1892,7 +1875,6 @@ Vitamin C có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Ascorneo Inj.; C 500 Glomed; Cixtor; Codu-vitamin C 250; Euro-Cee; Star lemon; UPSA-C; Vitamin C Kabi; Vitamin C Larjan; VitCfort.*
 
-
 # **ACID BORIC**
 
 **Tên chung quốc tế:** Boric acid.
@@ -1901,7 +1883,9 @@ Vitamin C có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 **Loại thuốc:** Sát khuẩn tại chỗ. 
 
-**Dạng thuốc và hàm lượng** Thuốc mỡ tra mắt: 5%, 10%.
+## **Dạng thuốc và hàm lượng** 
+
+Thuốc mỡ tra mắt: 5%, 10%.
 
 Thuốc mỡ dùng ngoài da: 5%, 10%.
 
@@ -1955,8 +1939,7 @@ Không có thông tin nào nói về độc tính của thuốc khi dùng trong 
 
 Tác dụng có hại không đáng kể khi bôi thuốc có nồng độ 5% hoặc ít hơn lên các vùng da nguyên vẹn.
 
-
-ứng, rụng lông tóc. Kích thích hoặc ức chế thần kinh trung ương, có thể co giật, sốt. Rối loạn chức năng gan hay vàng da hiếm thấy.
+Tác dụng không mong muốn liên quan đến nhiễm độc acid boric cấp như: Rối loạn tiêu hóa, buồn nôn, nôn, ỉa chảy. Ban đỏ, ngứa, kích ứng, rụng lông tóc. Kích thích hoặc ức chế thần kinh trung ương, có thể co giật, sốt. Rối loạn chức năng gan hay vàng da hiếm thấy.
 
 Acid boric thải trừ chậm nên có thể gây độc tính mạn (tích lũy) như: Chán ăn, rối loạn tiêu hóa, suy nhược, lú lẫn, viêm da, rối loạn kinh nguyệt, thiếu máu, co giật, rụng tóc.
 
@@ -2014,7 +1997,7 @@ Acid boric có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc chống sỏi mật.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Nang 250 mg.
 
@@ -2042,7 +2025,6 @@ Rối loạn chức năng gan hoặc bất thường đường dẫn mật (ứ 
 
 Sỏi cản tia X (chứa calci).
 
-
 Sỏi mật có biến chứng hoặc có chỉ định phải phẫu thuật. Bệnh viêm ruột hoặc loét dạ dày - tá tràng đang hoạt động. Thời kỳ mang thai.
 
 ## **Thận trọng**
@@ -2067,17 +2049,15 @@ Thường gặp, ADR > 1/100
 
 Tiêu hóa: La chảy (nhẹ), đau vùng túi mật.
 
-Khác: Tăng aminotransferase. 
+Khác: Tăng aminotransferase. Ít gặp, 1/1~000 < ADR < 1/100
 
-Ít gặp, 1/1000 < ADR < 1/100
+Nội tiết và chuyển hóa: Tăng cholesterol và cholesterol trong
 
-Nội tiết và chuyển hóa: Tăng cholesterol và cholesterol trong lipoprotein tỷ trọng thấp. 
+lipoprotein tỷ trọng thấp. Tiêu hóa: Khó tiêu. *Hiếm gặp, ADR* < 1/1 000
 
-Tiêu hóa: Khó tiêu. 
+Tiêu hóa: Ía chảy (nặng), co cứng cơ, buồn nôn, nôn, đầy hơi, táo
 
-*Hiếm gặp, ADR* < 1/1000
-
-Tiêu hóa: Ía chảy (nặng), co cứng cơ, buồn nôn, nôn, đầy hơi, táo bón.
+bón.
 
 Huyết học: Giảm bạch cầu. Gan: Ú mật trong gan.
 
@@ -2093,9 +2073,11 @@ Nếu ia chảy xuất hiện trong khi đang tăng liều hoặc cuối thời 
 
 Liều thường dùng cho trẻ em chưa được xác định.
 
-Chú ý:
+Chú v:
 
-Tùy theo kích cỡ và thành phần của sởi mật có cholesterol, có thể phải điều trị kéo dài 3 tháng đến 2 năm. Cứ cách từ 3 đến 9 tháng lại chụp X-quang túi mật hoặc siêu âm để theo dõi đáp ứng với thuốc. Việc điều trị có thể cần tới 2 năm, phụ thuộc vào kích cỡ của sởi. Nên tiếp tục điều trị khoảng 3 tháng sau khi chụp X-quang không còn sởi. Chenodiol sẽ không hòa tan sởi vôi hóa (cản tia X) và sởi sắc tố mật không cản quang. Phải giám sát aminotransferase huyết thanh hàng tháng trong 3 tháng đầu điều trị và sau đó cách 3 tháng làm xét nghiệm một lần. Nếu thấy aminotransferase huyết thanh tăng trên 3 lần bình thường, phải ngừng thuốc ngay.
+Tùy theo kích cỡ và thành phần của sởi mật có cholesterol, có thể phải điều trị kéo dài 3 tháng đến 2 năm. Cứ cách từ 3 đến 9 tháng lại chụp X-quang túi mật hoặc siêu âm để theo dõi đáp ứng với thuốc. Việc điều trị có thể cần tới 2 năm, phụ thuộc vào kích cỡ của sởi. Nên tiếp tục điều trị khoảng 3 tháng sau khi chụp X-quang không còn sởi. Chenodiol sẽ không hòa tan sởi vôi hóa (cản tia X) và sởi sắc tố mật không cản quang. Phải giám sát aminotransferase
+
+huyết thanh hàng tháng trong 3 tháng đầu điều trị và sau đó cách 3 tháng làm xét nghiệm một lần. Nếu thấy aminotransferase huyết thanh tăng trên 3 lần bình thường, phải ngừng thuốc ngay.
 
 ## **Tương tác thuốc**
 
@@ -2115,14 +2097,15 @@ Bảo quản dưới 40 °C, tốt nhất từ 15 - 30 °C, trong lọ kín.
 
 Các triệu chứng quá liều gồm ia chảy và rối loạn chức năng gan. Không có thuốc giải độc đặc hiệu, chỉ điều trị hỗ trợ bằng rửa dạ dày với ít nhất một lít hỗn dịch cholestyramin hoặc than hoạt (nồng độ 2 g trong 100 ml nước) và uống 50 ml hỗn dịch nhôm hydroxyd.
 
-
 # **ACID ETHACRYNIC**
 
 **Tên chung quốc tế:** Ethacrynic acid.
 
-**Mã ATC:** C03CC01.
+**Mã ATC:** C03CC01. 
 
-**Loại thuốc:** Lợi tiểu quai. Dạng thuốc và hàm lượng.
+**Loại thuốc:** Lợi tiểu quai. 
+
+## **Dạng thuốc và hàm lượng**
 
 Viên nén 25 mg.
 
@@ -2216,9 +2199,7 @@ Tại chỗ tiêm: Kích ứng, nóng, đau, viêm tĩnh mạch huyết khối
 
 Điều chỉnh sự thiếu hụt điện giải.
 
-Trường hợp xảy ra mất cân bằng điện giải và/hoặc lợi tiểu quá mức, nên ngừng thuốc hoặc giảm liều cho tới khi cân bằng nội môi được DTQGVN 2 Acid ethacrynic 127
-
-thiết lập trở lại. Ngừng dùng thuốc nếu tiêu chảy nặng và không dùng lai thuốc.
+Trường hợp xảy ra mất cân bằng điện giải và/hoặc lợi tiểu quá mức, nên ngừng thuốc hoặc giảm liều cho tới khi cân bằng nội môi được thiết lập trở lại. Ngừng dùng thuốc nếu tiêu chảy nặng và không dùng lai thuốc.
 
 ## **Liều lượng và cách dùng**
 
@@ -2278,8 +2259,7 @@ Tác dụng của acid ethacrynic có thể bị giảm do các chất gắn aci
 
 ## **Độ ổn định và bảo quản**
 
-
-ethacrynat chỉ bền vững trong thời gian ngắn ở khoảng pH 7, ở nhiệt độ phòng và phải dùng trong vòng 24 giờ sau khi pha. Dung dịch kém bền hơn khi nhiệt độ và pH tăng lên.
+Bảo quản dạng viên nén và dạng bột pha tiêm ở nhiệt độ 15 - 30 °C. Dạng viên nén phải để trong lọ nút chặt. Dung dịch tiêm natri ethacrynat chỉ bền vững trong thời gian ngắn ở khoảng pH 7, ở nhiệt độ phòng và phải dùng trong vòng 24 giờ sau khi pha. Dung dịch kém bền hơn khi nhiệt độ và pH tăng lên.
 
 ## **Tương kỵ**
 
@@ -2289,7 +2269,6 @@ Dung dịch natri ethacrynat tương kỵ với Normosol-M và với các dung d
 
 Quá liều có thể dẫn đến bài niệu quá mức, mất điện giải và mất nước. Điều trị hỗ trợ và điều trị triệu chứng. Gây nôn hoặc rửa dạ dày. Điều trị các triệu chứng mất nước, mất cân bằng điện giải, hôn mê gan, hạ huyết áp. Nếu bị suy hô hấp có thể cần thở oxygen và hô hấp nhân tạo.
 
-
 # **ACID FOLIC**
 
 **Tên chung quốc tế:** Folic acid.
@@ -2298,7 +2277,7 @@ Quá liều có thể dẫn đến bài niệu quá mức, mất điện giải 
 
 **Loại thuốc:** Vitamin nhóm B, chất dinh dưỡng.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Thuốc nang, viên nén 0,4 mg; 0,8 mg; 1 mg; 5 mg.
 
@@ -2310,7 +2289,7 @@ Dung dịch, thuốc tiêm: 5 mg/ml (dưới dạng muối natri folat).
 
 Acid folic là một vitamin hòa tan trong nước thuộc nhóm B. Đối với người, acid folic trong thức ăn cần thiết để tổng hợp nucleoprotein và duy trì tạo hồng cầu bình thường. Trong cơ thể, acid folic bị khử thành tetrahydrofolat hoạt động như một coenzym trong nhiều quá trình chuyển hóa, bao gồm tổng hợp purin và thymidylat của acid nucleic. Tổn hại đến tổng hợp thymidylat ở người thiếu hụt acid folic tác động xấu đến tổng hợp DNA, dẫn đến hình thành nguyên hồng cầu khổng lồ và thiếu máu nguyên hồng cầu khổng lồ và hồng cầu to. Acid folic cũng tham gia vào hoán chuyển các acid amin (nghĩa là dị hóa histidin thành acid glutamic, hoán chuyển giữa serin và glycin, chuyển homocystein thành methionin) và sản sinh format. Acid folic làm tăng đào thải acid formic, là một chất chuyển hóa trong nhiễm độc methanol.
 
-*Dược động học:*
+### *Dược động học:*
 
 Hấp thu: Acid folic được hấp thu nhanh ở đường tiêu hóa, chủ yếu ở đoạn đầu (tá tràng, hỗng tràng). Polyglutamat folat trong thiên nhiên được thủy phân do enzym ở đường tiêu hóa thành các dạng monoglutamat của acid folic, trước khi được hấp thu. Sau khi uống, hoạt tính cao nhất của thuốc đạt được trong vòng 30 - 60 phút. Acid folic tổng hợp có sinh khả dụng là 100% khi uống lúc đói, còn sinh khả dụng của folat có trong thiên nhiên ở thức ăn chỉ bằng khoảng 50%. Sinh khả dụng acid folic tổng hợp khi uống cùng với bữa ăn dao động từ 85 - 100%.
 
@@ -2337,7 +2316,6 @@ Người mang thai: Dự phòng dị dạng ống thần kinh ở bào thai 4 tu
 Trạng thái thiếu acid folic: Do dinh dưỡng (suy dinh dưỡng), kém hấp thu (bệnh sprue nhiệt đới), tăng nhu cầu (mang thai, thiếu máu huyết tán mạn tính), tăng mất (thẩm phân máu) hoặc dùng các thuốc đối kháng folat.
 
 Không dùng cho thiếu hụt folat do các chất ức chế dihydrofolat reductase. Phải dùng calci folinat.
-
 
 ## **Chống chỉ định**
 
@@ -2407,7 +2385,6 @@ Acid folic có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *Appeton Essentials Folic Acid.*
 
-
 # **ACID FUSIDIC**
 
 **Tên chung quốc tế:** Fusidic acid.
@@ -2416,7 +2393,7 @@ Acid folic có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Kháng sinh cấu trúc steroid, hoạt phổ hẹp.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Viên nén natri fusidat 250 mg.
 
@@ -2437,7 +2414,6 @@ Acid fusidic ức chế vi khuẩn tổng hợp protein thông qua ức chế m�
 Acid fusidic tác dụng tốt trên các chủng *Staphylococcus*, đặc biệt là *S. aureus* và *S. epidermidis* (bao gồm cả những chủng kháng meticilin). *Nocardia asteroides* và nhiều chủng *Clostridium* cũng rất nhạy cảm với thuốc. Các chủng *Streptococcus* và *Enterococcus* ít nhạy cảm hơn.
 
 Hầu hết các chủng Gram âm đều không nhạy cảm với acid fusidic, tuy nhiên thuốc tác dụng tốt đối với *Neisseria* spp.*, Bacteroides fragilis, Mycobacterium leprae*, và một phần trên *M. tuberculosis*. Thuốc có tác dụng trên một số động vật nguyên sinh bao gồm *Giardia lamblia, Plasmodium falciparum*. Ở nồng độ cao, *in vitro*, thuốc có tác dụng ức chế virus phát triển, kể cả HIV, tuy nhiên chưa rõ đó thực sự là tác dụng kháng virus của thuốc hay là tác dụng diện hoạt hoặc tác dụng độc hại tế bào nói chung. Thuốc không có tác dụng đối với nấm.
-
 
 Kháng thuốc có thể thấy xuất hiện ở các chủng thông thường nhạy cảm với acid fusidic thuộc typ nhiễm sắc thể. Tỷ lệ đột biến kháng thuốc cao *in vitro*. Cho tới nay, chưa thấy kháng chéo với các kháng sinh khác. Acid fusidic rất dễ bị kháng thuốc nên cần kết hợp với các kháng sinh khác.
 
@@ -2523,8 +2499,7 @@ Liều thông thường cho người lớn là một viên nén natri fusidat 50
 
 Liều uống của hỗn dịch acid fusidic: Trẻ dưới 1 tuổi: 50 mg/kg/ ngày, chia làm 3 lần. Trẻ từ 1 đến 5 tuổi: 250 mg/lần, 3 lần/ngày. Trẻ từ 5 đến 12 tuổi: 500 mg/lần, 3 lần/ngày. Trẻ trên 12 tuổi và người lớn: 750 mg/lần, 3 lần/ngày.
 
-
-tiêm trực tiếp vào tĩnh mạch. Bột pha tiêm sau khi hòa tan vào dung môi có thể bảo quản ở nhiệt độ dưới 25 o C trong vòng 48 giờ. Thuốc bị kết tủa nếu pha với các dịch truyền có pH dưới 7,4.
+Trường hợp nhiễm khuẩn nặng có thể dùng natri fusidat truyền tĩnh mạch chậm. Người lớn cân nặng trên 50 kg dùng liều 500 mg/lần, 3 lần/ngày. Trẻ em và người lớn cân nặng dưới 50 kg, dùng liều 6 - 7 mg/kg/lần, 3 lần/ngày. Hòa tan lọ bột tiêm 500 mg với 10 ml dung môi. Sau đó pha vào 250 - 500 ml dịch truyền natri clorid 0,9% hoặc glucose 5% và truyền trong ít nhất 2 giờ. Không được tiêm trực tiếp vào tĩnh mạch. Bột pha tiêm sau khi hòa tan vào dung môi có thể bảo quản ở nhiệt độ dưới 25 o C trong vòng 48 giờ. Thuốc bị kết tủa nếu pha với các dịch truyền có pH dưới 7,4.
 
 Kem và mỡ bôi ngoài da 2%: Bôi một lớp mỏng thuốc 1 hoặc 2 lần mỗi ngày lên vùng da bị nhiễm khuẩn sau khi đã rửa sạch, có thể băng lại nếu cần. Tránh bôi thuốc thành lớp dày. Giới hạn đợt điều trị trong 1 tuần.
 
@@ -2554,7 +2529,6 @@ Acid fusidic có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 *Axcel Fusidic; Fendexi; Flusterix; Foban; Fucidin; Fusidic; Germacid; Lafusidex; Nopetigo.*
 
-
 # **ACID IOPANOIC**
 
 **Tên chung quốc tế:** Iopanoic acid.
@@ -2563,7 +2537,7 @@ Acid fusidic có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc chụp X - quang đường mật.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Viên nén 500 mg có chứa 66,7% iod.
 
@@ -2600,7 +2574,6 @@ Không nên dùng gấp đôi liều chất cản quang cho người có tiền 
 Ở người vừa mới có biểu hiện bệnh động mạch vành, biện pháp dự phòng hợp lý là dùng atropin để tránh bị kích thích do tác dụng tiết acetylcholin của chất chụp X - quang đường mật.
 
 Sử dụng chất cản quang chứa iod có thể ảnh hưởng đến các xét nghiệm chức năng tuyến giáp và cả một số xét nghiệm máu và nước tiểu.
-
 
 ## **Thời kỳ mang thai**
 
@@ -2678,7 +2651,6 @@ Dùng cholestyramin để làm giảm hấp thu thuốc chụp X - quang đườ
 
 Theo dõi huyết áp.
 
-
 # **ACID IOXAGLIC**
 
 **Tên chung quốc tế:** Ioxaglic acid.
@@ -2687,7 +2659,7 @@ Theo dõi huyết áp.
 
 **Loại thuốc:** Thuốc cản quang iod, tan trong nước, có nồng độ osmol/kg thấp.
 
-**Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng**
 
 Lọ 10, 50, 100 ml để tiêm, có các hàm lượng:
 
@@ -2717,10 +2689,7 @@ Dùng cho trẻ em và người lớn.
 
 *Loại 320 mg iod/ml:*
 
-Chụp X quang đường niệu qua tĩnh mạch, chụp mạch các vùng (kể
-
-
-cả ở não và mạch vành), chụp khớp, chụp đường tiêu hóa, chụp tử cung - vòi trứng, chụp tuyến nước bọt.
+Chụp X quang đường niệu qua tĩnh mạch, chụp mạch các vùng (kể cả ở não và mạch vành), chụp khớp, chụp đường tiêu hóa, chụp tử cung - vòi trứng, chụp tuyến nước bọt.
 
 *Loại 200 mg iod/ml:*
 
@@ -2808,23 +2777,25 @@ Liều lượng tùy theo thủ thuật và khu vực cần tạo cản quang, t
 
 Liều trung bình đường vào trong mạch hoặc vào khoang được khuyến cáo:
 
-
-| Chỉ định | Liều trung bình | Tổng thể tích (tối thiểu - tối đa) (ml) |
-| --- | --- | --- |
-| **Chụp đường tiết niệu qua đường tĩnh mạch** (phải nhịn ăn nhưng không hạn chế uống). Liều phụ thuộc vào cân nặng và chức năng thận | 1 mg/kg | 50 - 150 |
-| **Chụp mạch:** Tiêm vào mạch máu | Liều tổng cộng không được quá 4 - 5 ml/kg; tiêm làm nhiều lần, không vượt quá 100 ml mỗi lần tiêm, tốc độ tiêm tuỳ thuộc từng thủ thuật. | 75 - 400 |
-| **Chụp khớp:** Tiêm trong khớp | Liều phụ thuộc từng khớp | 5 - 20 |
-| **Thăm khám đường tiêu hóa: Bơm trực tiếp vào ống tiêu hóa** |  |  |
-| - Người lớn: Uống | 200 ml thuốc, thêm 250 ml nước | < 500 |
-| - Người lớn: Đường trực tràng | 400 ml thuốc, thêm 400 ml nước | < 1500 |
-| - Trẻ em: Uống | 40 ml thuốc, thêm 10 ml nước | < 100 |
-| - Trẻ em: Đường trực tràng | 30 ml đến 150 ml thuốc không pha | < 200 |
-| **Chụp cắt lớp vi tính toàn thân ở người lớn** | 50 ml thuốc, thêm 950 ml nước | < 1300 |
-| **Chụp tử cung - vòi trứng:** Tiêm vào trong tử cung bằng đường dưới | Phụ thuộc vào thể tích tử cung | 5 - 20 |
-| **Chụp tuyến nước bọt:** Tiêm vào ống tiết | 3 ml | 1 - 6 |
+| Chỉ định                                                                                                                                             | Liều trung bình                                                                                                                                            | Tổng thể tích<br>(tối thiểu -<br>tối đa)(ml) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| Chụp đường tiết<br>niệu qua đường<br>tĩnh mạch (phải<br>nhịn ăn nhưng<br>không hạn chế<br>uống). Liều phụ<br>thuộc vào cân nặng<br>và chức năng thận | 1 mg/kg                                                                                                                                                    | 50 - 150                                     |
+| Chụp mạch: Tiêm<br>vào mạch máu                                                                                                                      | Liều tổng cộng không<br>được quá 4 - 5 ml/kg;<br>tiêm làm nhiều lần,<br>không vượt quá 100 ml<br>mỗi lần tiêm, tốc độ<br>tiêm tuỳ thuộc từng<br>thủ thuật. | 75 - 400                                     |
+| Chụp khớp: Tiêm<br>trong khớp                                                                                                                        | Liều phụ thuộc từng<br>khớp                                                                                                                                | 5 - 20                                       |
+| Thăm khám đường<br>tiêu hóa: Bơm trực<br>tiếp vào ống tiêu<br>hóa                                                                                    |                                                                                                                                                            |                                              |
 
 
-*Loại 200 mg iod/ml:*
+| - Người lớn:<br>Uống                                                      | 200 ml thuốc, thêm<br>250 ml nước   | < 500   |
+|---------------------------------------------------------------------------|-------------------------------------|---------|
+| Đường trực tràng                                                          | 400 ml thuốc, thêm<br>400 nước      | < 1 500 |
+| - Trẻ em:                                                                 | 40 ml thuốc, thêm                   | < 100   |
+| Uống                                                                      | 10 ml nước                          |         |
+| Đường trực tràng                                                          | 30 ml đến 150 ml<br>thuốc không pha | < 200   |
+| Chụp cắt lớp vi<br>tính toàn thân ở<br>người lớn                          | 50 ml thuốc, thêm<br>950 ml nước    | < 1 300 |
+| Chụp tử cung - vòi<br>trứng: Tiêm vào<br>trong tử cung bằng<br>đường dưới | Phụ thuộc vào thể tích<br>tử cung   | 5 - 20  |
+| Chụp tuyến nước<br>bọt: Tiêm vào ống<br>tiết                              | 3 ml                                | 1 - 6   |
+
+### *Loại 200 mg iod/ml:*
 
 Chụp X quang tĩnh mạch: Liều thường dùng từ 100 - 200 ml. Chụp mạch kỹ thuật số: Liều dùng tùy theo vùng và kỹ thuật thực hiện.
 
@@ -2862,10 +2833,9 @@ Bảo quản ở nhiệt độ 25 o C, tránh ánh sáng.
 
 Muối natri của acid ioxaglic và meglumin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **ACID NALIDIXIC**
 
-**Tên chung quốc tế:** Nalidixic acid.
+**Tên chung quốc tế**: Nalidixic acid.
 
 **Mã ATC:** J01MB02.
 
@@ -2875,7 +2845,7 @@ Muối natri của acid ioxaglic và meglumin có trong Danh mục thuốc tân 
 
 Viên nén 0,25 g, 0,5 g, 1,0 g acid nalidixic. Hỗn dịch uống 5 ml có chứa 0,25 g acid nalidixic.
 
-# **Dược lý học và cơ chế tác dụng**
+## **Dược lý học và cơ chế tác dụng**
 
 Acid nalidixic là một 4-quinolon có phổ kháng khuẩn rộng, tác dụng với hầu hết các vi khuẩn hiếu khí Gram âm như *E. coli, Proteus, Klebsiella, Enterobacter, Salmonella và Shigella*, thường nhạy cảm với thuốc. Tuy nhiên, *Pseudomonas aeruginosa*, vi khuẩn Gram dương (*Enterococcus* và *Staphylococcus*), vi khuẩn kỵ khí không nhạy cảm với acid nalidixic. Phần lớn các nhiễm khuẩn đường tiết niệu cấp và mạn tính do vi khuẩn đường ruột Gram âm. Vì vậy, acid nalidixic thường được dùng để trị nhiễm khuẩn đường tiết niệu.
 
@@ -2925,7 +2895,7 @@ Tiêu hóa: Buồn nôn, nôn, ia chảy, đau bụng. Mắt: Nhìn mờ, nhìn 
 
 Da: Phản ứng mẫn cảm ánh sáng với các mụn nước trong trường hợp phơi nắng khi điều trị hoặc sau điều trị.
 
-Ít gặp, 1/1000 < ADR < 1/100
+Ít gặp, 1/1~000 < ADR < 1/100
 
 Thần kinh trung ương: Tăng áp lực nội sọ đặc biệt ở trẻ nhỏ.
 
@@ -2984,8 +2954,6 @@ Acid nalidixic có trong Danh mục thuốc tân được thuộc phạm vi than
 ## **Tên thương mại**
 
 Aginalxic; Axodic-500; Becodixic; Glomelid; Graxidcure; Intermedic Nalidixic Acid; Itadixic; Nadixlife; Nalibigra 500; Nalicid; Nalidixic; Naligram; Napain; Negradixid; Negrative; Nergamdicin; Nivirxone; pms-Nalox 500; Quinoneg 500; Roxnic; Squalid Dry Syrup; Uroneg; Winonyn.
-
-
 
 # **ACID PANTOTHENIC**
 
@@ -3071,7 +3039,7 @@ Phải ngừng dùng dexpanthenol nếu có phản ứng dị ứng.
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+*Cách dùng:*
 
 Acid pantothenic và calci pantothenat được dùng đường uống. Dexpanthenol thường được tiêm bắp hoặc truyền tĩnh mạch chậm, và cũng được dùng tại chỗ dưới dạng kem bôi, dạng phun bọt. Khi truyền tĩnh mạch chậm, dexpanthenol được pha với một lượng lớn dung dịch tiêm truyền dextrose 5% hoặc dung dịch Ringer lactat.
 
@@ -3084,7 +3052,6 @@ Acid pantothenic và calci pantothenat được dùng đường uống. Dexpanth
 *Dùng tại chỗ:*
 
 Khi sử dụng tại chỗ để chữa ngứa và bệnh da, bôi thuốc kem chứa 2% dexpanthenol vào vùng bị tổn thương, ngày 1 hoặc 2 lần, hoặc nhiều hơn nếu cần.
-
 
 ## **Tương tác thuốc**
 
@@ -3110,14 +3077,17 @@ Dexpanthenol tương kỵ với các chất kiềm và acid mạnh.
 
 Vitamin B<sup>5</sup> có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **ACID PARA-AMINOBENZOIC**
 
 **Tên chung quốc tế:** Para-aminobenzoic acid.
 
 **Mã ATC:** D02BA01.
 
-**Loại thuốc:** Thuốc chống nắng. **Dạng thuốc và hàm lượng** Dung dịch 5% trong ethanol.
+**Loại thuốc:** Thuốc chống nắng. 
+
+## **Dạng thuốc và hàm lượng** 
+
+Dung dịch 5% trong ethanol.
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -3169,14 +3139,13 @@ Acid para-aminobenzoic tan trong ethanol theo tỷ lệ 1 : 8.
 
 Acid para-aminobenzoic có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **ACID SALICYLIC**
 
-**Tên chung quốc tế:** Salicylic acid.
+**Tên chung quốc tế**: Salicylic acid.
 
 **Mã ATC:** D01AE12, S01BC08.
 
-**Loại thuốc:** Thuốc tróc lớp sừng da, chống tiết bã nhờn, trị vảy nến; chất ăn da.
+**Loại thuốc**: Thuốc tróc lớp sừng da, chống tiết bã nhờn, trị vảy nến; chất ăn da.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -3248,7 +3217,7 @@ Dùng dài ngày acid salicylic trên diện rộng có thể bị ngộ độc 
 
 Kích ứng da nhẹ, cảm giác bị châm đốt.
 
-*Ít gặp, 1/1000 < ADR < 1/100*
+*Ít gặp, 1/1 000 < ADR < 1/100*
 
 Kích ứng da, trung bình đến nặng. Loét hoặc ăn mòn da, đặc biệt khi dùng chế phẩm acid salicylic có nồng độ cao.
 
@@ -3289,8 +3258,6 @@ Khi uống phải acid salicylic, triệu chứng ngộ độc thường biểu 
 ## **Thông tin quy chế**
 
 Acid salicylic có trong Danh mục thuốc thiết yếu tân dược ban hành lần thứ VI, năm 2013 và Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
-
-
 
 # **ACID TRANEXAMIC**
 
@@ -3382,7 +3349,6 @@ Huyết học: Giảm tiểu cầu, rối loạn đông máu, thời gian chảy
 
 Thị giác: Bất thường về thị giác kiểu loạn màu sắc, giảm thị giác, bệnh võng mạc tĩnh mạch trung tâm. Tiết niệu: Hoại tử vỏ thận cấp ở người bị bệnh ưa chảy máu A. Suy thận kết hợp với hoại tử vỏ thận cấp hiếm gặp.
 
-
 ## **Hướng dẫn cách xử trí ADR**
 
 Giảm liều khi có các rối loạn tiêu hóa. Ngừng dùng thuốc khi có các rối loạn về thị giác.
@@ -3459,7 +3425,6 @@ Acid tranexamic có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 *Bru-Dolo; Cammic; Cetecrin inj; Dezendin Inj; Examin; Exirol; Haemostop; Herxam Cap.; Hubic inj.; Hutocin; Macnexa 250; Medisamin; Medsamic; Nesamid inj.; Pauzin-500; Proklot; Selk-C Inj; Taxamic; Teretect A; Thexamix; Toxaxine Inj; Tranex; Tranexamic; Tranmix; Tranoxel; Transamin; Tranzil; Ventran; Xuronic inj.*
 
-
 # **ACID VALPROIC**
 
 **Tên chung quốc tế:** Valproic acid.
@@ -3494,7 +3459,7 @@ Acid valproic hoặc natri valproat là thuốc chống động kinh, bị phân
 
 Acid valproic ức chế histon deacetylase 1 (HDAC1), một enzym giúp virus HIV tiềm tàng và tăng biểu hiện trong các tế bào T CD4. Do đó, acid valproic có thể có tác dụng ức chế sự lây nhiễm tiềm ẩn trong các tế bào T CD4 ở bệnh nhân nhiễm HIV. Tác dụng này đã được đánh giá trong một nghiên cứu lâm sàng quy mô nhỏ với 4 bệnh nhân HIV. Sau 16 - 18 tuần điều trị phối hợp giữa acid valproic và enfuvirtid, có sự giảm đáng kể tỷ lệ HIV còn khả năng sao chép trong các tế bào T CD4. Tuy nhiên, cần có những nghiên cứu quy mô lớn hơn để đánh giá tác dụng của acid valproic trên bệnh nhân nhiễm HIV.
 
-## *Dược động học*
+### *Dược động học*
 
 Acid valproic (hoặc natri valproat) hấp thu nhanh sau khi uống. Nồng độ đỉnh của acid valproic trong huyết tương đạt vào 1 - 4 giờ sau khi uống liều duy nhất acid valproic hoặc dạng muối natri valproat, 3 - 5 giờ sau khi uống liều duy nhất natri divalproex. Hiệu quả điều trị bắt đầu xuất hiện sau từ vài ngày đến hơn một tuần kể từ khi bắt đầu dùng thuốc. Khi dùng cùng với thức ăn, thuốc được hấp thu chậm hơn, nhưng không ảnh hưởng đến tổng lượng hấp thu. Sinh khả dụng của valproat từ dạng viên giải phóng kéo dài và viên nang chứa các hạt bao tương đương với viên nang bình thường chứa acid valproic.
 
@@ -3606,9 +3571,9 @@ Cần tiến hành các xét nghiệm: Chức năng gan, thời gian đông máu
 
 Không được bắt đầu dùng hoặc phải ngừng valproat nếu xảy ra các bất thường sau: Giảm fibrinogen huyết, rối loạn đông máu, trị số transaminase tăng gấp ba lần, tăng phosphatase kiềm và bilirubin trong huyết thanh kèm theo các triệu chứng lâm sàng về nhiễm độc gan. Nếu chỉ thấy transaminase tăng ít, cần giảm liều và theo dõi chức năng gan và xét nghiệm đông máu. Nếu xảy ra đau bụng nặng và nôn, cần xác định amylase trong huyết thanh, nếu thấy kết quả bệnh lý, cần ngừng thuốc.
 
-## **Liều lượng và cách dùng** 
+## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+*Cách dùng:*
 
 Acid valproic uống, viên nang acid valproic phải nuốt, không nhai, để tránh kích ứng tại chỗ ở miệng, họng. Nếu kích ứng đường tiêu hóa, thuốc có thể uống cùng thức ăn. Những bệnh nhân không dung nạp được thuốc do các tác dụng phụ trên đường tiêu hóa có thể chuyển sang dùng natri divalproex.
 
@@ -3620,11 +3585,13 @@ Dung dịch uống natri valproat không nên dùng cùng nước soda vì có t
 
 *Dạng uống*
 
-Động kinh (co giật): Phạm vi điều trị (định lượng huyết thanh): 50 - 100 microgam/ml. Dùng liều 250 mg/ngày chia làm nhiều lần. Động kinh cục bộ phức hợp: Đối với người lớn và trẻ em 10 tuổi, 10 - 15 mg/kg/ngày, sau mỗi tuần có thể tăng thêm 5 - 10 mg/kg/ ngày cho đến khi đạt tới liều điều trị thích hợp. Liều tối đa là 60 mg/kg/ngày. Đối với trẻ nhỏ hơn có thể cần liều duy trì lớn hơn. Cơn vắng ý thức đơn giản hoặc phức hợp: Liều ban đầu thông thường 15 mg/kg/ngày. Liều lượng có thể tăng 5 - 10 mg/kg/ngày cho đến khi đạt tới liều điều trị thích hợp. Liều tối đa là 60 mg/kg/ngày. Đối với trẻ nhỏ hơn có thể cần liều duy trì lớn hơn. Cơn vắng ý thức đơn giản hoặc phức hợp: Liều ban đầu thông thường 15 mg/kg/ngày. Liều lượng có thể tăng 5 - 10 mg/kg/ngày cách nhau 1 tuần cho tới khi kiểm soát được cơn co giật hoặc các tác dụng phụ ngăn cản tăng liều thêm.
+Động kinh (co giật): Phạm vi điều trị (định lượng huyết thanh): 50 - 100 microgam/ml. Dùng liều 250 mg/ngày chia làm nhiều lần. Động kinh cục bộ phức hợp: Đối với người lớn và trẻ em 10 tuổi, 10 - 15 mg/kg/ngày, sau mỗi tuần có thể tăng thêm 5 - 10 mg/kg/ ngày cho đến khi đạt tới liều điều trị thích hợp. Liều tối đa là 60 mg/kg/ngày. Đối với trẻ nhỏ hơn có thể cần liều duy trì lớn hơn. Cơn vắng ý thức đơn giản hoặc phức hợp: Liều ban đầu thông thường 15 mg/kg/ngày. Liều lượng có thể tăng 5 - 10 mg/kg/ngày
 
-Liều tối đa khuyến cáo: 60 mg/kg/ngày.
+tác dụng phụ ngăn cản tăng liều thêm. Liều tối đa khuyến cáo: 60 mg/kg/ngày.
 
 Thuốc phải uống làm 2 lần hoặc hơn khi liều vượt quá 250 mg hàng ngày. Điều trị trạng thái động kinh kháng thuốc bằng diazepam tĩnh mạch: 400 - 600 mg acid valproic thụt hậu môn hoặc thuốc đạn, cách 6 giờ/1 lần.
+
+cách nhau 1 tuần cho tới khi kiểm soát được cơn co giật hoặc các
 
 *Dạng tiêm tĩnh mạch:*
 
@@ -3702,7 +3669,6 @@ Acid valproic có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 *Alpovic; Isoin.*
 
-
 # **ACID ZOLEDRONIC**
 
 **Tên chung quốc tế:** Zoledronic acid.
@@ -3725,7 +3691,7 @@ Nghiên cứu lâu dài trên động vật cho thấy acid zoledronic ức ch�
 
 *In vivo*, ức chế tiêu xương do hủy cốt bào làm thay đổi vi môi trường tủy xương gây bất lợi cho sự phát triển các tế bào u, làm giảm hoạt tính sinh mạch máu và có tác dụng chống đau.
 
-In vitro, ức chế tăng sinh nguyên cốt bào, có hoạt tính kìm tế bào trực tiếp và làm chết các tế bào u, hiệp đồng tác dụng kìm tế bào kết hợp với các thuốc chống ung thư khác, tác dụng chống bám dính, xâm lấn tế bào.
+*In vitro*, ức chế tăng sinh nguyên cốt bào, có hoạt tính kìm tế bào trực tiếp và làm chết các tế bào u, hiệp đồng tác dụng kìm tế bào kết hợp với các thuốc chống ung thư khác, tác dụng chống bám dính, xâm lấn tế bào.
 
 *Dược động học*
 
@@ -3809,11 +3775,7 @@ Dùng một liều đơn 4 mg, hòa tan trong 100 ml dung dịch natri clorid 0,
 
 Clcr> 60 ml/phút: 4 mg (không cần chỉnh liều).
 
-Clcr 50 - 60 ml/phút: 3,5 mg. 
-
-Clcr 40 - 49 ml/phút: 3,3 mg. 
-
-Clcr 30 - 39 ml/phút: 3 mg.
+Clcr 50 - 60 ml/phút: 3,5 mg. Clcr 40 - 49 ml/phút: 3,3 mg. Clcr 30 - 39 ml/phút: 3 mg.
 
 Clcr< 30 ml/phút: Không khuyến cáo sử dụng.
 
@@ -3839,7 +3801,6 @@ Acid zoledronic có trong Danh mục thuốc tân dược thuộc phạm vi than
 
 *Aclasta; Simpla; Zoldria; Zolenate; Zometa.*
 
-
 # **ACITRETIN**
 
 **Tên chung quốc tế:** Acitretin.
@@ -3848,7 +3809,9 @@ Acid zoledronic có trong Danh mục thuốc tân dược thuộc phạm vi than
 
 **Loại thuốc:** Thuốc điều trị vảy nến (toàn thân).
 
-**Dạng thuốc và hàm lượng** Viên nang 10 mg, 25 mg.
+## **Dạng thuốc và hàm lượng** 
+
+Viên nang 10 mg, 25 mg.
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -3990,7 +3953,6 @@ Phải làm xét nghiệm chức năng gan của người bệnh hàng tuần n�
 
 Cần ngừng thuốc và kiểm tra mắt nếu người bệnh bị giảm thị lực. Nếu người bệnh xuất hiện những triệu chứng sớm của giả u não (đau đầu nặng kéo dài, nôn và buồn nôn, nhìn mờ, giảm thị lực) cần ngừng thuốc ngay và kiểm tra ở chuyên khoa thần kinh.
 
-
 ## **Liều lượng và cách dùng**
 
 ### *Cách dùng:*
@@ -4043,7 +4005,6 @@ Thuốc bảo quản ở nhiệt độ 15 - 25 o C, tránh ẩm, tránh ánh sá
 
 Acitretin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **ADENOSIN**
 
 **Tên chung quốc tế:** Adenosine.
@@ -4079,7 +4040,6 @@ Chẩn đoán phân biệt nhịp nhanh trên thất.
 ## **Chống chỉ định**
 
 Mẫn cảm với adenosin.
-
 
 Người đã có từ trước hội chứng suy nút xoang hay blốc nhĩ thất độ hai hoặc ba mà không cấy máy tạo nhịp, do nguy cơ ngừng xoang kéo dài hoặc blốc nhĩ thất hoàn toàn. Người có hội chứng QT dài, hạ huyết áp nặng, suy tim mất bù.
 
@@ -4202,7 +4162,6 @@ Adenosin có trong Danh mục thuốc tân được thuộc phạm vi thanh toá
 
 A.T.P; Adecard; Ampecyclal; Atepadene; ATP; ATPDNA; Denosin; DHNPATP Tab.; Etexatri; Vincosine.
 
-
 # **ADIPIODON**
 
 **Tên chung quốc tế:** Adipiodone.
@@ -4219,7 +4178,9 @@ Thường dùng dạng meglumin adipiodon. Dung dịch tiêm tĩnh mạch: 52%, 
 
 Adipiodon là thuốc cản quang loại dime dạng ion chứa iod hữu cơ, mỗi phân tử có 6 nguyên tử iod với tỷ lệ iod chiếm 66,8%. Trong y được thường dùng loại adipiodon meglumin có hàm lượng iod 49,8%.
 
-Adipiodon được dùng để chụp X quang kiểm tra túi mật và đường dẫn mật. Thuốc làm tăng hấp thụ tia X khi chiếu qua cơ thể, do đó hiện rõ cấu trúc của túi mật và đường dẫn mật. Mức độ cản quang tỷ lệ thuận với nồng độ iod.
+Adipiodon được dùng để chụp X quang kiểm tra túi mật và đường
+
+dẫn mật. Thuốc làm tăng hấp thụ tia X khi chiếu qua cơ thể, do đó hiện rõ cấu trúc của túi mật và đường dẫn mật. Mức độ cản quang tỷ lệ thuận với nồng độ iod.
 
 Dược động học
 
@@ -4227,7 +4188,7 @@ Sau khi tiêm tĩnh mạch, thuốc phân bố nhanh vào dịch ngoài tế bà
 
 Thuốc được thải trừ dạng không biến đổi qua phân 80 - 95%. Một lượng nhỏ được thải qua nước tiểu. Nửa đời thải trừ cuối cùng khoảng 2 giờ.
 
-## **Chỉ định**
+#### Chỉ đinh
 
 Adipiodon được dùng làm thuốc cản quang để chiếu chụp X quang túi mật và đường dẫn mật.
 
@@ -4287,7 +4248,6 @@ Adipiodon tương kỵ với một số thuốc kháng histamin và nhiều thu�
 
 Adipiodon meglumin có trong Danh mục tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **ALBENDAZOL**
 
 **Tên chung quốc tế:** Albendazole.
@@ -4343,7 +4303,6 @@ Có tiền sử quá mẫn cảm với các hợp chất loại benzimidazol ho�
 Trước khi điều trị bệnh ấu trùng sán lợn ở mô thần kinh, người bệnh cần phải được khám cẩn thận về mắt để loại trừ tổn thương võng mạc. Cần hết sức thận trọng khi dùng bất cứ một thuốc diệt ấu trùng sán lợn nào (albendazol), ngay cả khi đã dùng corticosteroid cũng có thể gây tổn thương không hồi phục khi điều trị các nang ở mắt hoặc tủy sống. Do đó, cần phải khám mắt để loại trừ nang ở võng mạc trước khi điều trị bệnh ấu trùng sán lợn thần kinh. Albendazol chuyển hóa mạnh ở gan nên khi xơ gan, tốc độ thanh thải thuốc qua gan sẽ giảm, qua đó sẽ làm tăng tích lũy thuốc và tăng tác dụng không mong muốn của albendazol. Vì thế, cần thận trọng khi dùng albendazol cho những người có rối loạn chức năng gan. Cần thận trọng theo dõi chức năng gan và đếm huyết cầu 2 lần trong mỗi chu trình điều trị, khi điều trị liều cao và lâu dài trong bệnh ấu trùng sán lợn hoặc bệnh nang sán chó *Echinococcus*.
 
 Phải loại trừ mang thai 1 tháng trước khi bắt đầu điều trị liều cao và dài ngày (bằng phương pháp tránh thai không dùng thuốc nội tiết trong và sau khi dùng thuốc 1 tháng).
-
 
 ## **Thời kỳ mang thai**
 
@@ -4445,7 +4404,6 @@ Praziquantel: Praziquantel (40 mg/kg) làm tăng nồng độ trung bình trong 
 
 Theophylin: Dược động học của theophylin không thay đổi sau khi uống 1 liều albendazol 400 mg.
 
-
 ## **Độ ổn định và bảo quản**
 
 Bảo quản ở nhiệt độ 20 - 30 ºC. Tránh ánh sáng trực tiếp.
@@ -4461,7 +4419,6 @@ Albendazol có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 ## **Tên thương mại**
 
 *Albefar; Alben; Albenca 200; Albenzee; Albet 400; Albex- 400; Alobixe; Alzed; Askaben 200; Askaben 400; Azole; BABIchoco; Bueno; Cbizentrax Tab; Daehwa Albendazole; Didalbendazole; Ebnax 400; Etomol; Euroalba; Farica 400; Fucaris; Hatalbena; Helmzole Chewalbe; Hyaron 400; Korus Albendazole Tab; Larzole 400; Londu 100; Mekozetel; Miten-400; Pentinox; SaVi Albendazol 200; Sosworm; SP-Zentab; Unaben; Verben; Vermexin; Vidoca; Vinfuca; Zenbendal 400; Zumtil.*
-
 
 # **ALBUMIN**
 
@@ -4547,7 +4504,6 @@ Chưa thấy có nguy cơ gây hại do truyền albumin.
 
 Một số phản ứng phản vệ có thể do các phân tử bị đông vón trong các chế phẩm protein hoặc sự có mặt của các kháng thể kháng protein di truyền của albumin người.
 
-
 ## **Hướng dẫn cách xử trí ADR**
 
 Trường hợp xuất hiện phản ứng phản vệ, phải ngừng truyền albumin và xử lý bằng các biện pháp thích hợp (dùng kháng histamin hay điều trị hỗ trợ đặc hiệu).
@@ -4594,14 +4550,13 @@ Albumin có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 
 *Albumin Inj.-GCC; Albuminar 25; Albutein; Human Albumin Biotest; Human Albumin Baxter; Human Albumin Behring; Human Albumin Grifols; Human Albumin Octapharma; Relab; SK Albumin; Vabiotech-Albumin; Zenalb 20.*
 
-
 # **ALCURONIUM CLORID**
 
 **Tên chung quốc tế:** Alcuronium chloride.
 
-**Mã ATC:** M03AA01.
+**Mã ATC**: M03AA01.
 
-**Loại thuốc:** Phong bế thần kinh - cơ.
+**Loại thuốc**: Phong bế thần kinh - cơ.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -4632,7 +4587,6 @@ Người bệnh có tiền sử hen hoặc quá mẫn với các thuốc phong b
 Sự kháng thuốc có thể xảy ra ở người suy gan. Người bệnh suy thận, do thuốc chủ yếu thải qua nước tiểu.
 
 Tác dụng của thuốc tăng lên khi có nhiễm acid hô hấp, kali huyết giảm, thân nhiệt cao và tác dụng giảm khi hạ thân nhiệt.
-
 
 Thận trọng khi dùng alcuronium cho người bị rối loạn chuyển hoá porphyrin vì đã chứng tỏ được là thuốc đã tạo ra porphyrin ở động vật.
 
@@ -4728,10 +4682,7 @@ Khi pha với 1,2 ml nước cất pha tiêm, mỗi ml dung dịch có chứa 18
 
 Interleukin-2 (IL-2) là một cytokin được sản xuất bởi các lympho bào T hoạt hóa. Nó gắn vào các thụ thể tế bào T để gây đáp ứng tăng sinh và biệt hóa thành các tế bào diệt, được hoạt hóa bởi lymphokin (LAK) trong máu và các lympho bào thâm nhiễm vào khối u (tế bào TIL) tại các u đặc hiệu. Aldesleukin (interleukin-2 tái tổ hợp; rIL-2) là các phân tử không glycosyl hóa, được tạo ra bằng các kỹ thuật tái tổ hợp DNA ở vi khuẩn *Escherichia coli*. Loại IL-2 người tái tổ hợp này khác với IL-2 tự nhiên ở các đặc điểm sau:
 
-Phân tử không bị glycosyl hóa, vì do *E. coli* tạo ra. Phân tử không có alanin N tận cùng.
-
-
-Trong phân tử có sự thay thế serin cho cystein tại vị trí acid amin 125. Sự thay đổi của 2 acid amin này đã tạo ra một sản phẩm IL-2 đồng nhất hơn. Các hoạt tính sinh học của aldesleukin và IL-2 tự nhiên của người (một lymphokin tạo ra một cách tự nhiên) tương tự nhau; cả 2 đều điều hòa đáp ứng miễn dịch. Sử dụng aldesleukin cho thấy làm giảm sự phát triển và lan rộng của khối u. Cơ chế chính xác của sự kích thích miễn dịch thông qua aldesleukin để có hoạt tính chống khối u hiện vẫn còn chưa được biết rõ.
+Phân tử không bị glycosyl hóa, vì do *E. coli* tạo ra. Phân tử không có alanin N tận cùng. Trong phân tử có sự thay thế serin cho cystein tại vị trí acid amin 125. Sự thay đổi của 2 acid amin này đã tạo ra một sản phẩm IL-2 đồng nhất hơn. Các hoạt tính sinh học của aldesleukin và IL-2 tự nhiên của người (một lymphokin tạo ra một cách tự nhiên) tương tự nhau; cả 2 đều điều hòa đáp ứng miễn dịch. Sử dụng aldesleukin cho thấy làm giảm sự phát triển và lan rộng của khối u. Cơ chế chính xác của sự kích thích miễn dịch thông qua aldesleukin để có hoạt tính chống khối u hiện vẫn còn chưa được biết rõ.
 
 *Dược động học*
 
@@ -4841,7 +4792,6 @@ Tim mạch: Suy tim sung huyết, viêm nội tâm mạc, viêm cơ tim, bệnh 
 
 Huyết học: Huyết khối.
 
-
 Thần kinh: Hôn mê, động kinh, đột quỵ Khác: Hoại tử, đau hoặc tấy đỏ nơi tiêm.
 
 ## **Hướng dẫn cách xử trí ADR**
@@ -4924,14 +4874,13 @@ Các thuốc chẹn beta và các thuốc chống tăng huyết áp có thể l�
 
 Không sử dụng nước cất tiêm có chất kìm khuẩn hoặc dung dịch natri clorid 0,9% để pha thuốc vì sẽ làm tăng kết tủa thuốc.
 
-
 ## **Quá liều và xử trí**
 
 Các tác dụng phụ xảy ra khi dùng aldesleukin thường liên quan với liều. Sử dụng nhiều hơn liều khuyến cáo thường làm xuất hiện các độc tính nhanh hơn. Các tác dụng phụ nói chung sẽ hết khi ngừng thuốc vì nửa đời của thuốc ngắn.
 
 Cần điều trị hỗ trợ đối với bất cứ triệu chứng nào vẫn còn kéo dài. Các độc tính đe dọa tính mạng được cải thiện bằng cách tiêm tĩnh mạch dexamethason, tuy nhiên thuốc này có thể làm giảm hiệu quả điều trị của aldesleukin.
 
-## **ALENDRONAT NATRI (Muối natri của acid alendronic)**
+# **ALENDRONAT NATRI (Muối natri của acid alendronic)**
 
 **Tên chung quốc tế:** Alendronate sodium.
 
@@ -4951,7 +4900,7 @@ Dung dịch uống: 70 mg.
 
 Alendronat là một aminobisphosphonat tổng hợp, một chất đồng đẳng của pyrophosphat, có tác dụng đặc hiệu ức chế tiêu xương. Khác với pyrophosphat nhưng giống etidronat và pamidronat, alendronat không bị các phosphatase thủy phân. Các nghiên cứu tiền lâm sàng cho thấy alendronat tích tụ chọn lọc ở các vị trí tiêu xương đang hoạt động, nơi mà alendronat ức chế sự hoạt động của các hủy cốt bào. Alendronat gắn vào xương và có nửa đời đào thải cuối cùng kéo dài tới trên 10 năm; tuy nhiên alendronat vẫn có hoạt tính dược lý khi gắn vào khung xương. Các nghiên cứu lâm sàng cho thấy điều trị bằng alendronat có thể làm tăng đáng kể khối lượng xương ở xương cột sống, cổ xương đùi và mấu chuyển. Trong các nghiên cứu lâm sàng ở phụ nữ mãn kinh từ 40 đến 85 tuổi bị loãng xương (được xác định là có khối lượng xương thấp, ít nhất là 2 độ lệch chuẩn dưới trung bình của thời kỳ trước mãn kinh), điều trị bằng alendronat làm giảm đáng kể số lần gãy đốt sống sau 3 năm dùng thuốc. Mật độ chất khoáng ở xương tăng rõ sau 3 tháng điều trị bằng alendronat và còn tiếp tục trong suốt quá trình dùng thuốc. Tuy nhiên sau 1 - 2 năm điều trị, nếu ngừng liệu pháp alendronat thì không duy trì được sự tăng khối lượng xương. Điều đó chứng tỏ phải liên tục điều trị hàng ngày mới duy trì được hiệu quả chữa bệnh.
 
-#### *Dược động học*
+### *Dược động học*
 
 Alendronat được hấp thu ít theo đường uống. Hấp thu thuốc giảm bởi thức ăn, bởi các chất chứa calci hay các cation đa hóa trị. Khả dụng sinh học đường uống khoảng 0,4% nếu uống 30 phút trước khi ăn; và hầu như không đáng kể nếu uống trong vòng 2 giờ sau khi ăn. Khoảng 78% thuốc được hấp thu gắn với protein huyết tương. Thuốc không bị chuyển hóa; khoảng một nửa thuốc được hấp thu được đào thải qua nước tiểu; nửa còn lại được giữ lại ở xương trong một thời gian dài.
 
@@ -5000,7 +4949,6 @@ Trong các nghiên cứu lâm sàng, các phản ứng có hại do dùng alendr
 *Thường gặp, ADR > 1/100*
 
 Hệ thần kinh trung ương: Nhức đầu (2,6%); đau (4,1%).
-
 
 Tiêu hóa: Đầy hơi (2,6%); trào ngược acid (2%); viêm loét thực quản (1,5%); nuốt khó, chướng bụng (1%), ỉa chảy.
 
@@ -5064,14 +5012,13 @@ Alendronat natri có trong Danh mục thuốc tân dược thuộc phạm vi tha
 
 *Acid Alendronic Farmoz; Afolmax Tab; Aldren 70; Aldromax; Alenax; Alenbe; Alenbone; Alendor; Alendrate; Alenfosa; Alenroste-10; Alenta; Alentop; Aronatboston; Bonlife; Brek 70; Cendos-10; Doxemac; Drate; Drolenic; Ducpro; Fosaden; Fosamax; Fosamax; Fossapower; Graceftil; Maxlen-70; Mebathon; Messi; Nepar-10; Novotec; Ortigan; Oss; Ossomaxe Tab; Ossoneo; Ostemax 70 comfort; Osteopor 70; Osteotis; Ostomir; Pharmadronate; Redsamax; Risenate; Ronadium; Sagafosa; Savi Alendronate; Sona-Tium Tab; Spitro; Suhanir; Syncake; Tibon Weekly Tablets; Troyfos 10; Vicalen; Vonland; Yunic Tab.*
 
-
 # **ALFUZOSIN HYDROCLORID**
 
 **Tên chung quốc tế:** Alfuzosin hydrochloride.
 
 **Mã ATC:** G04CA01.
 
-**Loại thuốc:** Thuốc đối kháng alpha-adrenergic, dùng trong phì đại tuyến tiền liệt lành tính, thuốc chẹn alpha<sup>1</sup>.
+**Loại thuốc:** Thuốc đối kháng alpha-adrenergic, dùng trong phì đại tuyến tiền liệt lành tính, thuốc chẹn alpha<sup>1</sup>
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -5079,9 +5026,7 @@ Viên nén bao phim: 2,5 mg. Viên nén tác dụng kéo dài: 10 mg.
 
 ## **Dược lý và cơ chế tác dụng**
 
-Alfuzosin là một dẫn chất của quinazolin dùng đường uống, có tác dụng đối kháng chọn lọc các thụ thể alpha<sup>1</sup> -adrenergic. Alfuzosin có cấu trúc và dược học liên quan đến prazosin, doxazosin và terazosin và liên quan dược học với tamsulosin. Alfuzosin có tác dụng chọn lọc với các thụ thể alpha<sup>1</sup> -adrenergic ở đường tiết niệu dưới, tuyến tiền liệt, vỏ tuyến tiền liệt, vùng đáy, cổ bàng quang và niệu đạo. Thuốc tác động trực tiếp trên cơ trơn tuyến tiền liệt, làm giảm tắc nghẽn ở cổ bàng quang và giảm áp lực niệu đạo, DTQGVN 2 Alfuzosin hydroclorid 159
-
-nhờ vậy thuốc làm giảm cản trở dòng nước tiểu. Nghiên cứu *in vivo* cho thấy alfuzosin có tác dụng chọn lọc hơn prazosin hoặc terazosin đối với thụ thể alpha, ở đường tiết niệu dưới so với hệ mạch. Không giống prazosin hoặc terazosin, alfuzosin có thể làm giảm hiệu quả sức cản của niệu đạo với liều không ảnh hưởng đến huyết áp. Trên mô người phân lập, alfuzosin so với tamsulosin, doxazosin và terazosin có tỷ lệ chọn lọc cao nhất đối với mô tuyến tiền liệt trên mô mạch máu. Trong lâm sàng, tính chất chọn lọc đối với đường tiết niệu dưới của alfuzosin không bị ảnh hưởng do tuổi của người bệnh. Tác động làm giảm áp lực niệu đạo của thuốc lớn hơn nhiều so với làm giảm huyết áp.
+Alfuzosin là một dẫn chất của quinazolin dùng đường uống, có tác dụng đối kháng chọn lọc các thụ thể alpha<sup>1</sup> -adrenergic. Alfuzosin có cấu trúc và dược học liên quan đến prazosin, doxazosin và terazosin và liên quan dược học với tamsulosin. Alfuzosin có tác dụng chọn lọc với các thụ thể alpha<sup>1</sup> -adrenergic ở đường tiết niệu dưới, tuyến tiền liệt, vỏ tuyến tiền liệt, vùng đáy, cổ bàng quang và niệu đạo. Thuốc tác động trực tiếp trên cơ trơn tuyến tiền liệt, làm giảm tắc nghẽn ở cổ bàng quang và giảm áp lực niệu đạo, nhờ vậy thuốc làm giảm cản trở dòng nước tiểu. Nghiên cứu *in vivo* cho thấy alfuzosin có tác dụng chọn lọc hơn prazosin hoặc terazosin đối với thụ thể alpha, ở đường tiết niệu dưới so với hệ mạch. Không giống prazosin hoặc terazosin, alfuzosin có thể làm giảm hiệu quả sức cản của niệu đạo với liều không ảnh hưởng đến huyết áp. Trên mô người phân lập, alfuzosin so với tamsulosin, doxazosin và terazosin có tỷ lệ chọn lọc cao nhất đối với mô tuyến tiền liệt trên mô mạch máu. Trong lâm sàng, tính chất chọn lọc đối với đường tiết niệu dưới của alfuzosin không bị ảnh hưởng do tuổi của người bệnh. Tác động làm giảm áp lực niệu đạo của thuốc lớn hơn nhiều so với làm giảm huyết áp.
 
 Ở người bệnh phì đại lành tính tuyến tiền liệt có lưu lượng nước tiểu dưới 15 ml/giây, alfuzosin làm tăng lưu lượng khoảng 30%. Tác dụng này xuất hiện ngay sau khi dùng liều đầu tiên; làm giảm đáng kể áp lực co bóp của cơ chỏm bàng quang và làm tăng thể tích nước tiểu gây cảm giác mót tiểu, cũng như làm giảm thể tích nước tiểu tồn đọng trong bàng quang sau khi đi tiểu. Các tác dụng này làm giảm bớt các triệu chứng kích thích và tắc nghẽn đường niêu.
 
@@ -5219,16 +5164,15 @@ Alfuzosin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Alsiful S.R.; Chimal; Flotral; Gomzat; Xatral SR; Xatral XL.*
 
-
 # **ALIMEMAZIN**
 
-#### **(Trimeprazine, Methylpromazin)**
+**(Trimeprazine, Methylpromazin)**
 
 **Tên chung quốc tế:** Alimemazine.
 
-**Mã ATC:** R06AD01.
+**Mã ATC**: R06AD01.
 
-**Loại thuốc:** Đối kháng thụ thể histamin H<sup>1</sup> , thuốc an thần.
+**Loại thuốc**: Đối kháng thụ thể histamin H<sup>1</sup> , thuốc an thần.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -5259,7 +5203,6 @@ Tiền mê trước phẫu thuật.
 Dị ứng hô hấp (viêm mũi, hắt hơi, sổ mũi) và ngoài da (mày đay, ngứa).
 
 Mất ngủ của trẻ em và người lớn.
-
 
 ## **Chống chỉ định**
 
@@ -5339,7 +5282,7 @@ Mặc dù tỉ lệ tác dụng không mong muốn xảy ra ở hệ máu thấp
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+*Cách dùng:*
 
 Không dùng cho trẻ em dưới 2 tuổi. Liều được tính theo lượng alimemazin tartrat; nếu có quy đổi ra lượng alimemazin.
 
@@ -5366,7 +5309,6 @@ Trẻ em 2 - 7 tuổi: Uống liều cao nhất là 2 mg/kg thể trọng, một
 *Dùng với tác dụng kháng histamin, kháng ho:*
 
 Người lớn uống 5 - 40 mg/ngày, chia nhiều lần.
-
 
 Trẻ em uống 0,5 - 1 mg/kg thể trọng/ngày, chia nhiều lần.
 
@@ -5428,14 +5370,13 @@ Alimemazin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *Acezin DHG; Aginmezin; Aligic; Atheren; Euvilen; Meyeralene; Pemazin; Spidextan; Tamerlane; Tanasolene; Teremazin; Thegalin; Thelargen; Thelergil; Thelizin; Thémaxtene; Themogene; Thenadin; Theralene; Theratussine; Tusalene; Tuxsinal.*
 
-
 # **ALOPURINOL**
 
-**Tên chung quốc tế:** Allopurinol.
+**Tên chung quốc tế**: Allopurinol.
 
-**Mã ATC:** M04AA01.
+**Mã ATC**: M04AA01.
 
-**Loại thuốc:** Thuốc chống gút.
+**Loại thuốc**: Thuốc chống gút.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -5447,9 +5388,7 @@ Lọ bột alopurinol natri 500 mg (để pha dung dịch truyền tĩnh mạch)
 
 Alopurinol và chất chuyển hóa oxipurinol làm giảm sản xuất acid uric do ức chế xanthin oxidase là enzym chuyển hypoxanthin thành xanthin và chuyển xanthin thành acid uric. Do đó alopurinol làm giảm nồng độ acid uric cả trong huyết thanh và trong nước tiểu. Nồng độ xanthin oxidase không thay đổi khi dùng alopurinol kéo dài. Alopurinol cũng làm tăng tái sử dụng hypoxanthin và xanthin để tổng hợp acid nucleic và nucleotid, kết quả làm tăng nồng độ nucleotid dẫn tới ức chế ngược lần nữa tổng hợp purin. Nồng độ acid uric trong huyết thanh thường giảm có ý nghĩa trong vòng 2 - 3 ngày sau khi dùng thuốc, đạt nồng độ thấp nhất sau 1 - 3 tuần điều trị và trở lại giá trị như trước khi điều trị sau khi ngừng thuốc 1 - 2 tuần. Lượng purin nước tiểu bình thường hầu như hoàn toàn là acid uric, nhưng sau khi điều trị bằng alopurinol, nước tiểu thải ra acid uric, xanthin và hypoxanthin, mỗi chất này có độ tan riêng rẽ. Như vậy nguy cơ bài niệu tinh thể giảm, nguy cơ này càng giảm nếu kiềm hoá nước tiểu.
 
-Do làm giảm nồng độ của acid uric cả trong huyết thanh và nước tiểu ở dưới giới hạn độ tan, alopurinol ngăn ngừa hoặc làm giảm sự lắng đọng urat, do đó ngăn ngừa sự xảy ra hoặc tiến triển của cả viêm khớp trong bệnh gút và bệnh thận do urat. Ở bệnh nhân bị gút mạn tính, alopurinol có thể ngăn ngừa hoặc làm giảm sự hình DTQGVN 2 Alopurinol 163
-
-thành sạn urat (hạt tophi) và các thay đổi mạn tính ở khớp. Sau vài tháng điều trị, làm giảm tần suất của các cơn gút cấp, làm giảm nồng độ urat trong nước tiểu, ngăn ngừa hoặc giảm sự hình thành của sởi acid uric hoặc calci oxalat ở thận.
+Do làm giảm nồng độ của acid uric cả trong huyết thanh và nước tiểu ở dưới giới hạn độ tan, alopurinol ngăn ngừa hoặc làm giảm sự lắng đọng urat, do đó ngăn ngừa sự xảy ra hoặc tiến triển của cả viêm khớp trong bệnh gút và bệnh thận do urat. Ở bệnh nhân bị gút mạn tính, alopurinol có thể ngăn ngừa hoặc làm giảm sự hình thành sạn urat (hạt tophi) và các thay đổi mạn tính ở khớp. Sau vài tháng điều trị, làm giảm tần suất của các cơn gút cấp, làm giảm nồng độ urat trong nước tiểu, ngăn ngừa hoặc giảm sự hình thành của sởi acid uric hoặc calci oxalat ở thận.
 
 Alopurinol không có tác dụng giảm đau và chống viêm nên không dùng trong điều trị các đợt gút cấp. Thuốc có thể làm viêm kéo dài và nặng lên trong đợt cấp. Alopurinol có thể làm tăng tần suất các đợt cấp trong 6 - 12 tháng đầu điều trị, ngay cả khi đã duy trì được nồng độ urat huyết thanh bình thường hoặc gần bình thường. Do đó, cần phải cho colchinin liều dự phòng đồng thời trong 3 - 6 tháng đầu liệu pháp alopurinol. Mặc dù vậy, cơn cấp vẫn có thể xảy ra, nhưng cơn ngắn hơn và nhẹ hơn. Vẫn phải tiếp tục điều trị alopurinol, không thay đổi liều. Alopurinol không được dùng trong tăng acid uric máu không có triệu chứng.
 
@@ -5521,7 +5460,6 @@ Tiêu hóa: Buồn nôn, nôn, đau bụng, tiêu chảy, táo bón, đầy hơi
 
 Xương khớp: Đau khớp.
 
-
 Mắt: Đục thủy tinh thể, viêm dây thần kinh thị giác, rối loạn thị giác. Thần kinh: Bệnh thần kinh ngoại biên, viêm dây thần kinh, dị cảm, đau đầu, cơn co giật, động kinh, giật cơ, giảm trương lực, kích động, thay đổi tình trạng tâm thần, nhồi máu não, hôn mê, loạn trương lực cơ, liệt, run, ngủ gà, chóng mặt, trầm cảm, lẫn lộn, mất ngủ, suy nhược.
 
 Nội tiết: Chứng vú to ở nam. Tim mạch: Tăng huyết áp. Tiết niệu: Suy thận.
@@ -5589,7 +5527,6 @@ Dùng đồng thời alopurinol với cyclophosphamid có thể làm tăng độ
 
 Dùng đồng thời alopurinol với tamoxifen có thể tăng độc với gan. Khi dùng alopurinol với pentostatin, có thể gây viêm mạch dị ứng, dẫn đến tử vong, vì vậy không dùng phối hợp 2 thuốc này.
 
-
 Dùng đồng thời alopurinol và cyclosporin gây tăng nồng độ cyclosporin trong máu. Phải theo dõi nồng độ cyclosporin trong máu và điều chỉnh liều cyclosporin.
 
 Các thuốc chống đông máu: Alopurinol ức chế chuyển hóa qua gan của dicumarol, làm tăng thời gian bán thải của thuốc này. Phải theo dõi tác dụng chống đông máu và thời gian prothrombin ở những bệnh nhân dùng đồng thời alopurinol và dicumarol.
@@ -5636,10 +5573,9 @@ Alopurinol có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Tên chung quốc tế:** Alpha tocopherol.
 
-**Mã ATC:** A11HA03.
+**Mã ATC:** A11HA03. 
 
 **Loại thuốc:** Vitamin.
-
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -5669,12 +5605,11 @@ Vitamin E là một vitamin tan trong dầu mỡ, phân bố rộng rãi trong t
 
 Thiếu vitamin E rất hiếm, chỉ xảy ra ở những người không có khả năng hấp thu vitamin E hoặc mắc 1 số bệnh di truyền ngăn cản duy trì nồng độ bình thường vitamin E trong máu.
 
-
 Chức năng sinh học chính xác của vitamin E chưa được biết đầy đủ ở người. Vitamin E được coi là một chất chống oxy hoá. Vitamin E ngăn chặn sự oxy hoá các acid béo cao phân tử chưa bão hoà (các acid này là thành phần của màng tế bào, phospholipid và lipoprotein huyết tương) cũng như các chất nhạy cảm với oxy khác như vitamin A và acid ascorbic (vitamin C). Các gốc tự do sinh ra do nhiều quá trình phản ứng trong tế bào có khả năng gây tác hại cho màng tế bào, protein và acid nucleic, dẫn đến rối loạn chức năng và gây bệnh cho tế bào. Vitamin E phản ứng với các gốc tự do, làm mất các gốc peroxyl (gốc peroxyl phản ứng với vitamin E nhanh gấp 1000 lần so với các acid béo cao phân tử chưa bão hoà). Trong quá trình phản ứng, vitamin E không tạo thêm gốc tự do khác.
 
 Do tính chất chống oxy hoá của vitamin E, đã có nhiều công trình nghiên cứu dùng vitamin E để làm làm giảm nhẹ chứng mất trí nhớ của bệnh Alzheimer sớm hoặc do lão hoá, bệnh thoái hoá hoàng điểm liên quan đến tuổi tác, ung thư, xơ cứng động mạch, bệnh mạch vành, đục thuỷ tinh thể… nhưng đến nay chưa được chứng minh hiệu quả rõ ràng. Một số nhà lâm sàng đã điều trị để làm giảm nguy cơ thoái hoá hoàng điểm liên quan đến tuổi tác như sau: Liều vitamin C 500 mg/ngày kết hợp với beta caroten 15 mg/ ngày, vitamin E 400 mg/ngày và kẽm (dạng kẽm oxyd) 80 mg/ ngày. Bệnh Alzheimer và bệnh động mạch vành: Liều từ 200 - 800 đvqt/ngày. Tuy nhiên hiện tại vẫn chưa đủ dữ liệu chứng minh hiệu quả điều trị của thuốc đối với các bệnh này và cần lưu ý liều 400 mg/ ngày trở lên có thể làm tăng tỷ lệ tử vong. *In vitro,* vitamin E còn có tác dụng ngăn chống tan hồng cầu do các chất oxy hoá và làm tăng đáp ứng miễn dịch ở người cao tuổi khoẻ mạnh, làm giảm kết tụ tiểu cầu.
 
-#### *Dược động học*
+### *Dược động học*
 
 Hấp thu: Để vitamin E hấp thu qua đường tiêu hóa, mật và tuyến tụy phải hoạt động bình thường. Lượng vitamin E hấp thu giảm khi liều dùng tăng lên. Khoảng 20 - 60% vitamin được hấp thu từ nguồn thức ăn. Ở người bệnh bị hội chứng hấp thu kém và trẻ đẻ non nhẹ cân, hấp thu vitamin E có thể giảm đi rất nhiều. Chế phẩm dạng phân tán trong nước có thể hấp thu qua ruột tốt hơn so với chế phẩm dạng dầu.
 
@@ -5734,7 +5669,6 @@ Vitamin E nên dùng qua đường uống. Nếu không uống được, hoặc 
 
 Điều trị thiếu hụt vitamin E:
 
-
 Ở trẻ sơ sinh thiếu tháng nhẹ cân: 25 - 50 đvqt/ngày, đạt được nồng độ bình thường trong vòng 1 tuần.
 
 Ở trẻ em thiếu hụt vitamin E do hội chứng kém hấp thu: Uống vitamin E dạng phân tán trong nước với liều 1 đvqt/kg hàng ngày đến khi nồng độ tocopherol huyết tương tăng lên đến giới hạn bình thường và duy trì nồng độ bình thường trong vòng 2 tháng.
@@ -5779,7 +5713,6 @@ Vitamin E có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Austen-S; Auvinat; Biorich E; E-Care 400 Natural; Enat; E-NIC 400; E-OPC 400 Vitamin E thiên nhiên; E-Tot; Etovit - 400; Eurovita - E400; Ezavit; Fine life Natural E 400; Fine Life Vit-E 400; Fonat E; Hanobaek; Homtamin Beauty; Kensivit; Metid; Natopherol; Natural Vitamin E400 TR-G; Nicee; pms-vitamin E 400 IU; Procaps Vitamin E; Queenlife E; Rob Vitamin E; Usatonic-Natural Vitamin E; Uscpherol 400; Veronco; Vietra.*
 
-
 # **ALPRAZOLAM**
 
 **Tên chung quốc tế:** Alprazolam.
@@ -5817,7 +5750,6 @@ Các hội chứng hoảng sợ, có hoặc không kèm theo chứng sợ khoả
 ## **Chống chỉ định**
 
 Suy hô hấp mạn tính hoặc cấp tính, yếu cơ hô hấp, hội chứng ngừng thở khi ngủ.
-
 
 Nhược cơ. Suy gan nặng. Rối loạn tâm thần mạn tính. Quá mẫn với các benzodiazepin. Glôcôm góc hẹp cấp tính.
 
@@ -5877,7 +5809,6 @@ Nếu dùng viên thuốc giải phóng chậm, nên uống ngày một lần, v
 
 Khi ngừng điều trị phải giảm liều từ từ trước khi ngừng hẳn, mỗi lần giảm 0,5 mg, cách 3 ngày giảm một lần, cho tới lúc còn 2 mg/ ngày sẽ giảm mỗi lần 0,25 mg, cách 3 ngày giảm một lần cho đến hết.
 
-
 Liều dùng điều trị chống lo âu cho trẻ em tới 18 tuổi, chưa xác định được độ an toàn và hiệu quả.
 
 Ở người lớn, có thể dùng thuốc theo đường thụt hoặc đặt thuốc (dạng viên đạn) vào hậu môn trong trường hợp không uống được. Chỉ tiêm bắp khi không thể dùng thuốc theo đường uống hoặc đường tiêm tĩnh mạch.
@@ -5908,10 +5839,9 @@ Thuốc hướng tâm thần.
 
 *Frixitas; Toranax 0.25; Zypraz.*
 
-
 # **ALTEPLASE**
 
-**Tên chung quốc tế:** Alteplase.
+**Tên chung quốc tế**: Alteplase.
 
 **Mã ATC:** B01AD02, S01XA13.
 
@@ -5941,8 +5871,7 @@ Thuốc còn được dùng để làm thông ống thông bị tắc, khôi ph�
 
 Alteplase dùng tiêm tĩnh mạch. Thuốc không hấp thu qua đường tiêu hóa. Alteplase nội sinh tồn tại trong huyết tương dưới dạng tự do và dưới dạng phức hợp trong tuần hoàn với các chất ức chế protease trong huyết tương.
 
-
-phút sau khi ngừng tiêm truyền thuốc còn lại dưới 20% và hai mươi phút sau khi ngừng tiêm truyền, chỉ còn lại dưới 10%. Vì vậy có thể tiến hành sớm các phẫu thuật cần thiết sau khi đã ngừng tiêm truyền.
+Tác dụng gây tan cục máu và hủy fibrin của alteplase phụ thuộc vào liều. Ở người bệnh dùng liều duy trì truyền tĩnh mạch alteplase, nồng độ ổn định ở mức 0,45 microgam/ml alteplase trong huyết tương có thể ngăn ngừa tái phát tắc động mạch vành sau khi làm tan hoàn toàn cục máu; nhưng với nồng độ ổn định 0,34 microgam/ ml thì không thể ngăn ngừa được. Mặc dù mức độ hủy fibrinogen ở người bệnh dùng alteplase có thể phụ thuộc vào liều, nhưng các chỉ số xét nghiệm chức năng cầm máu thường không dùng được để dự đoán tỉ lệ biến chứng chảy máu ở người bệnh dùng thuốc này. Thuốc đào thải nhanh ra khỏi máu chủ yếu qua gan với độ thanh thải khoảng 550 - 650 ml/phút. Sau khi tiêm truyền tĩnh mạch, nồng độ thuốc trong huyết tương giảm theo 2 pha. Ở người nhồi máu cơ tim, nửa đời của alteplase trong pha phân bố ban đầu (t1/2 alpha) khoảng 3,6 - 4,6 phút và trong pha thải trừ cuối (t1/2 beta) khoảng 39 - 53 phút. Năm phút sau khi ngừng tiêm truyền, thuốc còn lại dưới 50% lượng thuốc ban đầu trong huyết tương, mười phút sau khi ngừng tiêm truyền thuốc còn lại dưới 20% và hai mươi phút sau khi ngừng tiêm truyền, chỉ còn lại dưới 10%. Vì vậy có thể tiến hành sớm các phẫu thuật cần thiết sau khi đã ngừng tiêm truyền.
 
 ## **Chỉ định**
 
@@ -6014,7 +5943,6 @@ Chung: Dị ứng, phản ứng phản vệ, phát ban và mày đay (0,02%), co
 
 Tuần hoàn: Nghẽn mạch do tinh thể cholesterol sau huyết khối ngoại vi.
 
-
 Bổ sung những tác dụng không mong muốn đi kèm sử dụng trong nhồi máu cơ tim: Chẹn nhĩ thất, sốc do tim, suy tim, ngừng tim, tái phát nhồi máu/thiếu máu cục bộ, thoát vị cơ tim, phân ly điện cơ, tràn dịch ngoại tâm mạc, viêm ngoại tâm mạc, phun ngược ở van hai lá, chèn ép tim, nghẽn mạch huyết khối, phù nề phổi, nhịp tim nhanh thất, nhịp tim chậm, biến dạng nhĩ thất nội sọ do thoát vị, viêm túi thanh mạc xuất huyết.
 
 Bổ sung những tác dụng không mong muốn đi kèm với sử dụng trong nghẽn mạch phổi: Tái phát nghẽn mạch phổi, phù phổi, tràn dịch màng phổi, nghẽn mạch huyết khối.
@@ -6039,7 +5967,9 @@ Hạ huyết áp đột ngột: Nếu hạ huyết áp đột ngột xảy ra tr
 
 Sốt trên 39 o C: Dùng paracetamol. Không nên hạ sốt bằng aspirin nếu đã có biến chứng chảy máu do alteplase.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Alteplase chỉ dùng để tiêm tĩnh mạch. Thoát mạch khi tiêm truyền alteplase có thể gây bầm máu và/hoặc viêm.
 
@@ -6070,7 +6000,6 @@ Không nên dùng cho người già ngoài 80 tuổi.
 Người bệnh < 30 kg: Liều dùng là 110% thể tích bên trong của cathete, không được quá 2 mg/2 ml, giữ trong cathete từ 0,5 đến 2 giờ. Sau 2 giờ có thể nhắc lại liều nếu cathete vẫn còn bị tắc.
 
 Người bệnh 30 kg: Liều dùng là 2 mg (2 ml), giữ trong cathete từ 0,5 đến 2 giờ. Sau 2 giờ có thể nhắc lại liều nếu cathete vẫn còn bị tắc.
-
 
 Liều cho trẻ sơ sinh, trẻ nhỏ và trẻ em:
 
@@ -6113,7 +6042,6 @@ Alteplase có trong Danh mục thuốc tân được thuộc phạm vi thanh to�
 ## **Tên thương mại**
 
 Actilyse
-
 
 # **ALVERIN CITRAT**
 
@@ -6183,7 +6111,6 @@ Dùng đường uống hoặc đặt hậu môn.
 
 Uống: Người lớn (kể cả người cao tuổi) mỗi lần 60 - 120 mg dưới dạng citrat, ngày 1 - 3 lần.
 
-
 Đặt hậu môn: Mỗi lần 80 mg, ngày 2 - 3 lần. Trẻ em dưới 12 tuổi không nên dùng.
 
 #### Đô ổn đinh và bảo quản
@@ -6202,14 +6129,13 @@ Alverin citrat có trong Danh mục thuốc thiết yếu tân được ban hàn
 
 Akavic; Averinal; Beclorax; Cadispasmin; Dofopam; Dospasmin; Eftispasmin; Gloverin; Harine; Kasparin; Medilspas; Motalv; NDC-Alverin; Nicspa; NIC-SPA; pms-Sparenil; Qbipharine; Quinospastyl; Savisang; Spacmarizine; Spalaxin; Spas-Agi; Spas-Meyer; Spasdipyrin; Spasmaboston; Spasmapyline; Spasmavidi; Spasmcil; Spasmebi; Spasmedil; Spasovanin; Spaspyzin; Spasrincaps; Spasvina; Vacoverin.
 
-
 # **AMANTADIN**
 
 **Tên chung quốc tế:** Amantadine.
 
 **Mã ATC:** N04BB01.
 
-**Loại thuốc:** Thuốc kháng virus cúm A; thuốc điều trị bệnh Parkinson.
+**Loại thuốc:** Thuốc kháng virus cúm A; thuốc điều trị bệnh Parkinson
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -6239,10 +6165,7 @@ Cơ chế tác dụng hiện nay chưa biết đầy đủ: Các triệu chứng
 
 Dược động học
 
-Hấp thu: Amantadin hấp thu tốt qua đường tiêu hóa. Sau khi uống duy nhất một nang 100 mg,  $C_{max}$  trong huyết tương đạt được 0,22 microgam/ml trong vòng 3,3 giờ. Nếu uống dung dịch 100 mg,  $C_{max}$  khoảng 0,24 microgam/ml trong vòng 2 - 4 giờ. Nếu uống dung dịch 100 mg ngày 2 lần trong 15 ngày,  $C_{max}$  khoảng 0,47 microgam/ml. Nếu uống viên 200 mg lúc đói ở người trưởng thành 19 - 27 tuổi hoặc ở người 60 - 70 tuổi,  $C_{max}$  tương ứng khoảng 0,51 hoặc 0,8 microgam/ml. Nồng độ amantadin trong huyết thanh ở người cao tuổi uống liều 100 mg hàng ngày xấp xỉ nồng độ đạt được ở người trẻ tuổi uống liều 200 mg hàng ngày; chưa rõ như vậy là do suy giảm chức năng thận ở người cao tuổi hay do các yếu tố khác liên quan đến tuổi. Sau khi uống 200 mg hàng ngày, 3 người bệnh bị suy thận nặng có biểu hiện nhiễm độc, nồng độ ổn định cao trong máu (2,5 - 4,4 microgam/ml). Dưới 50% người uống 1 liều duy nhất 200 mg amantadin đã phát hiện được một chất chuyển hóa
-
-
-của amantadin, chất acetylamantadin trong huyết tương. Ở những người phát hiện được trong huyết tương chất chuyển hóa đó, nồng độ của chất chuyển hóa này biểu hiện tới 80% nồng độ amantadin hiện có.
+Hấp thu: Amantadin hấp thu tốt qua đường tiêu hóa. Sau khi uống duy nhất một nang 100 mg,  $C_{max}$  trong huyết tương đạt được 0,22 microgam/ml trong vòng 3,3 giờ. Nếu uống dung dịch 100 mg,  $C_{max}$  khoảng 0,24 microgam/ml trong vòng 2 - 4 giờ. Nếu uống dung dịch 100 mg ngày 2 lần trong 15 ngày,  $C_{max}$  khoảng 0,47 microgam/ml. Nếu uống viên 200 mg lúc đói ở người trưởng thành 19 - 27 tuổi hoặc ở người 60 - 70 tuổi,  $C_{max}$  tương ứng khoảng 0,51 hoặc 0,8 microgam/ml. Nồng độ amantadin trong huyết thanh ở người cao tuổi uống liều 100 mg hàng ngày xấp xỉ nồng độ đạt được ở người trẻ tuổi uống liều 200 mg hàng ngày; chưa rõ như vậy là do suy giảm chức năng thận ở người cao tuổi hay do các yếu tố khác liên quan đến tuổi. Sau khi uống 200 mg hàng ngày, 3 người bệnh bị suy thận nặng có biểu hiện nhiễm độc, nồng độ ổn định cao trong máu (2,5 - 4,4 microgam/ml). Dưới 50% người uống 1 liều duy nhất 200 mg amantadin đã phát hiện được một chất chuyển hóa của amantadin, chất acetylamantadin trong huyết tương. Ở những người phát hiện được trong huyết tương chất chuyển hóa đó, nồng độ của chất chuyển hóa này biểu hiện tới 80% nồng độ amantadin hiện có.
 
 Sinh khả dụng là 86 - 90%.
 
@@ -6360,9 +6283,7 @@ Ngừng thuốc nếu cần.
 
 *Điều trị bệnh Parkinson:* 
 
-Liệu pháp dùng 1 thuốc: Liều thông thường là 100 mg/lần, ngày uống 2 lần. Liều tối đa là 400 mg/ngày, chia làm nhiều lần. Cần DTQGVN 2 Ambroxol 175
-
-theo dõi chặt chẽ người dùng amantadin liều cao. Phải dùng liều thấp nhất có hiệu quả đối với người bệnh trên 65 tuổi vì có tiềm năng hệ số thanh thải thận bị giảm ở lứa tuổi này. Khi ngừng điều trị amantadin, phải giảm liều dần dần để tránh bệnh nặng lên. Cách 1 tuần, giảm nửa liều.
+Liệu pháp dùng 1 thuốc: Liều thông thường là 100 mg/lần, ngày uống 2 lần. Liều tối đa là 400 mg/ngày, chia làm nhiều lần. Cần theo dõi chặt chẽ người dùng amantadin liều cao. Phải dùng liều thấp nhất có hiệu quả đối với người bệnh trên 65 tuổi vì có tiềm năng hệ số thanh thải thận bị giảm ở lứa tuổi này. Khi ngừng điều trị amantadin, phải giảm liều dần dần để tránh bệnh nặng lên. Cách 1 tuần, giảm nửa liều.
 
 Dùng kết hợp với levodopa: Liều duy trì của amantadin là 100 - 200 mg/ngày; còn liều levodopa thì được tăng dần lên, như vậy làm giảm bớt được dao động tác dụng đôi khi xảy ra do dùng liệu pháp dopamin đơn độc, nhưng amantadin cũng rất hữu ích đối với người bệnh không thể tăng liều levodopa do tác dụng không mong muốn. Đối với người mắc bệnh nặng kết hợp hoặc người đang uống liều cao các thuốc chống Parkinson khác: liều ban đầu là 100 mg/ngày. Sau 7 - 14 ngày dùng liều 100 mg/ngày, liều có thể tăng lên 100 mg/lần, 2 lần mỗi ngày nếu cần.
 
@@ -6416,7 +6337,6 @@ Bảo quản amantadin trong lọ kín, để nơi khô ráo, nhiệt độ 15 -
 
 Không có thuốc giải độc đặc hiệu đối với quá liều amantadin. Nếu quá liều mới xảy ra, thì cần rửa ngay đạ dày hoặc gây nôn. Cần phải điều trị hỗ trợ toàn thân (đảm bảo thông khí, giữ đường thở thông, cung cấp oxy, hô hấp hỗ trợ) và phải theo dõi tình trạng tim mạch, huyết áp, mạch, hô hấp, thân nhiệt, điện giải, lưu lượng nước tiểu, pH nước tiểu. Cần cho người bệnh nhiều nước và nếu cần thì truyền dịch tĩnh mạch. Có thể dùng chất làm toan nước tiểu để làm tăng tốc độ đào thải amantadin. Cần theo dõi người bệnh xem có dấu hiệu bị kích thích hoặc động kinh không; nếu có thì phải dùng thuốc an thần và thuốc chống co giật. Truyền chậm vào tĩnh mạch physostigmin 1 - 2 mg mỗi lần, cách nhau 1 - 2 giờ cho người lớn và 0,5 mg mỗi lần, cách nhau 5 - 10 phút (tối đa là 2 mg/giờ) cho trẻ em sẽ có tác dụng tốt trong trường hợp hệ thần kinh trung ương bị ngộ độc amantadin. Phải theo dõi xem người bệnh có bị loạn nhịp tim và hạ huyết áp hay không; nếu cần thì phải điều trị loạn nhịp và ha huyết áp. Phải cần thân khi dùng các thuốc cường giao cảm nhằm duy trì tần số tim và huyết áp, vì các thuốc này có thể làm cho người bệnh dễ bị nhịp nhanh thất nghiêm trọng.
 
-
 # **AMBROXOL**
 
 **Tên chung quốc tế:** Ambroxol.
@@ -6424,7 +6344,6 @@ Không có thuốc giải độc đặc hiệu đối với quá liều amantadi
 **Mã ATC:** R05CB06.
 
 **Loại thuốc:** Thuốc long đờm.
-
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -6530,7 +6449,6 @@ Ambroxol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 *Abrocto; Adiovir; Ambrocap; Ambroco; Ambroflam; Ambron; Ambrotor; Ammuson; Amsolyn YY; Amucap; Ancolator; Axomus; Babysolvan; Becobrol 30; Befabrol; Cadiroxol; Clobunil; Cozz Expec; Halixol; Latoxol; Legomux; Lobonxol; Lucyxone; Meyerbroxol; Mucosolvan; Mussan; Muxol; Nabro; Naroxol; Olesom; Ovenka; Qamasol; Ramol syrup; SAVIBroxol 30; Shinoxol; SP Ambroxol; Unibraxol Tab; Vinka; Xolibrox.*
 
-
 # **AMIKACIN**
 
 **Tên chung quốc tế:** Amikacin.
@@ -6547,7 +6465,6 @@ Bột amikacin sulfat để pha tiêm (không có sulfit): Lọ 250 mg hoặc 50
 
 Biểu thị liều lượng và hàm lượng của amikacin sulfat dưới dạng amikacin. 1,3 mg amikacin sulfat tương ứng với 1,0 mg amikacin.
 
-
 ## **Dược lý và cơ chế tác dụng**
 
 Amikacin sulfat là kháng sinh bán tổng hợp họ aminoglycosid. Thuốc diệt khuẩn nhanh do gắn hẳn vào tiểu đơn vị 30S của ribosom vi khuẩn và ngăn chặn sự tổng hợp protein của vi khuẩn. Aminoglycosid bị thu giữ và xâm nhập qua màng tế bào là một quá trình phụ thuộc năng lượng ưa khí. Như vậy, hoạt tính aminoglycosid bị giảm nhiều trong môi trường kỵ khí. Aminoglycosid có đặc điểm là có tác dụng hậu kháng sinh, nghĩa là hoạt tính diệt khuẩn vẫn còn sau khi nồng độ thuốc trong huyết thanh đã xuống dưới nồng độ ức chế tối thiểu. Đặc tính này có thể giải thích hiệu quả của thuốc dùng một lần trong ngày.
@@ -6560,7 +6477,7 @@ Amikacin là một aminoglycosid kháng lại phần lớn các enzym làm bất
 
 Theo thông báo của Ban giám sát quốc gia về tính kháng thuốc của vi khuẩn (ASTS) của Bộ Y tế Việt Nam năm 2002: Mức độ kháng amikacin của *Escherichia coli* là 7,5%, mức độ kháng của loài *Enterobacter* là 24,4%, của loài *Krebsiella* là 18,1%, của loài *Citrobacter* là 19,2%, của loài *Proteus,* là 10,7%, của *Staphylococcus aureus* là 20,8%, của *Moraxella catarrhalis* là 0%. *Pseudomonas aeruginosa* kháng amikacin là 33%, loài *Acinetobacter*  là 46,7%, *Staphylococcus viridans* là 85,4%, *Staphylococcus pyogenes* là 67,2%.
 
-#### *Dược động học*
+### *Dược động học*
 
 Amikacin hấp thu kém qua đường tiêu hóa. Sau khi tiêm bắp 1 liều đơn 7,5 mg/kg amikacin cho người lớn có chức năng thận bình thường nồng độ đỉnh huyết tương 17 - 25 microgam/ml đạt được trong 45 phút đến 2 giờ. Khi truyền tĩnh mạch với liều 7,5 mg/kg trong 30 phút, nồng độ đỉnh của thuốc trung bình 38 microgam/ml đạt ngay sau khi truyền, giảm xuống 18 microgam/ml 1 giờ sau và và 0,75 microgam/ml 10 giờ sau.
 
@@ -6613,7 +6530,6 @@ Nhất thiết phải định lượng nồng độ thuốc trong huyết thanh 
 Khi người bệnh uống nhiều nước và có chức năng thận bình thường thì ít nguy cơ nhiễm độc thận, nếu không vượt quá liều khuyến cáo. Việc kiểm tra chức năng thận trong quá trình điều trị bằng aminoglycosid ở người bệnh cao tuổi có suy giảm chức năng thận là đặc biệt quan trọng.
 
 Phải dùng thận trọng amikacin với các người bệnh rối loạn hoạt động cơ, như nhược cơ hoặc Parkinson, vì thuốc này làm yếu cơ trầm trọng, do tác dụng kiểu cura của thuốc lên liên kết thần kinh cơ. Giống các kháng sinh khác, dùng amikacin có thể gây tăng sinh các vi sinh vật không nhạy cảm. Nếu xuất hiện điều đó, phải tiến hành điều trị thích hợp.
-
 
 ## **Thời kỳ mang thai**
 
@@ -6714,7 +6630,6 @@ Bảo quản amikacin sulfat tiêm ở nhiệt độ 15 - 30 oC, tránh đông l
 
 Không được trộn lẫn amikacin với các thuốc khác, đặc biệt là với kháng sinh nhóm beta-lactam.
 
-
 ## **Quá liều và xử trí**
 
 Khi gặp quá liều hoặc có phản ứng độc, có thể chạy thận nhân tạo hoặc thẩm phân màng bụng để đẩy nhanh quá trình thải trừ amikacin. Ở trẻ sơ sinh, có thể thay máu.
@@ -6727,10 +6642,9 @@ Amikacin có trong Danh mục thuốc thiết yếu tân dược ban hành lần
 
 *Abicin 250; Akicin inj.; Amikabiotic; Amikacina; Amikaye; Amiktale; Amisine; Amkey; Biodacyna; Chemacin; Daehandakacin; Inakin; Itamekacin; Kacina; Kiaso Inj.; Koprixacin Inj; Kupramickin; Likacin; Midakacin; Mikacin; Mikalogis; Psudon; Risabin; Sanmica; Scomik; Selemycin; Siam-Amikacin; Solmiran; Thekacin; Unidikan; Uzix; Vinphacine.*
 
-
 # **AMILORID HYDROCLORID**
 
-**Tên chung quốc tế:** Amiloride hydrochloride.
+**Tên chung quốc tế**: Amiloride hydrochloride.
 
 **Mã ATC:** C03DB01.
 
@@ -6738,7 +6652,7 @@ Amikacin có trong Danh mục thuốc thiết yếu tân dược ban hành lần
 
 # **Dạng thuốc và hàm lượng** Viên nén không bao: 5 mg.
 
-## **Dược lý và cơ chế tác dụng**
+**Dược lý và cơ chế tác dụng**
 
 Amilorid là một thuốc lợi tiểu giữ kali.
 
@@ -6830,7 +6744,6 @@ Nên uống amilorid trong bữa ăn hoặc vừa ăn xong để giảm tác d�
 
 *Amilorid hydroclorid dùng liều đơn:* Lúc đầu thường uống 10 mg, 1 lần hoặc 5 mg, 2 lần trong một ngày. Tổng liều trong một ngày không được quá 20 mg amilorid (tương đương 4 viên 5 mg). Sau khi đạt được tác dụng lợi tiểu, có thể giảm liều, mỗi lần giảm 5 mg, cho đến khi đạt liều thấp nhất vẫn có hiệu quả.
 
-
 *Amilorid dùng kết hợp với thuốc lợi tiểu khác:*
 
 Khi thuốc lợi tiểu khác được dùng cách quãng, thì phải uống amilorid cùng thời gian với thuốc lợi tiểu đó.
@@ -6869,7 +6782,6 @@ Chưa có số liệu và cũng chưa biết thuốc này có thể thẩm tách
 
 Những dấu hiệu và triệu chứng chung nhất là mất nước, mất cân bằng chất điện giải. Phải ngừng dùng thuốc và theo dõi người bệnh chặt chẽ. Chưa có thuốc giải độc đặc hiệu. Nếu mới uống amilorid, phải gây nôn hoặc rửa dạ dày. Nếu kali máu tăng, phải dùng các biện pháp hữu hiệu để giảm kali máu.
 
-
 # **AMIODARON**
 
 **Tên chung quốc tế:** Amiodarone.
@@ -6902,8 +6814,7 @@ Tác dụng chống loạn nhịp và điện sinh lý của amiodaron khi tiêm
 
 Tác dụng đối với nút xoang: Amiodaron thường làm suy giảm chức năng nút xoang. Khi uống lâu ngày, tần số xoang giảm khoảng 10 - 20%; nhưng sau tiêm tĩnh mạch 1 liều, thay đổi của nhịp xoang không rõ ràng. Nhịp xoang chậm hoặc ngừng xoang hoặc blốc tim có thể xảy ra ở 1 số người bệnh. Amiodaron làm giảm tính tự động nút xoang: Amiodaron có thể làm giảm một phần tính tự động do làm tăng thời gian điện thế hoạt động và làm giảm độ dốc khử cực tâm trương ở nút xoang.
 
-
-ngăn chặn và làm hết cơn nhịp nhanh kịch phát trên thất do vòng vào lại.
+Amiodaron tác dụng lên hệ thống His-Purkinje và cả các đường phụ dẫn truyền của nút nhĩ - thất và cơ chế vòng vào lại. Tác dụng điện sinh lý của amiodaron lên các đường dẫn truyền phụ, nút nhĩ thất, hệ thống His-Purkinje và/hoặc cơ nhĩ và thất, có thể góp phần ngăn chặn và làm hết cơn nhịp nhanh kịch phát trên thất do vòng vào lại.
 
 Tác dụng kháng adrenalin: Amiodaron ức chế không cạnh tranh với đáp ứng alpha và beta adrenergic khi có kích thích giao cảm và dùng catecholamin. *In vitro* và *in vivo*, các số liệu cho thấy thuốc đối kháng không cạnh tranh với tác dụng tim mạch (như nhịp tim nhanh, tăng huyết áp, tăng tiêu thụ oxy cơ tim) gây ra do epinephrin, norepinephrin, và/hoặc isoproterenol. Cơ chế chính xác ức chế adrenalin còn chưa rõ. Tuy vậy, hoạt tính kháng adrenalin của amiodaron có thể góp phần làm thuốc có hiệu quả chống loạn nhịp và chống đau thắt ngực.
 
@@ -6954,7 +6865,6 @@ Dự phòng tiên phát nhịp nhanh thất kéo dài (thí dụ nhịp nhanh th
 Chuyển nhịp từ rung nhĩ sang nhịp xoang bình thường ở bệnh nhân bị rung nhĩ kéo dài ≤ 48 giờ. Mặc dù sốc điện thường được lựa chọn, nhưng nếu dùng thuốc, amiodaron tiêm tĩnh mạch thường là thuốc được chọn ưu tiên trong một số thuốc được chọn để chuyển rung nhĩ sang nhịp xoang ở người có chức năng thất trái bảo tồn hoặc suy. Ở bệnh nhân hội chứng Wolff-Parkinson-White có suy tim mạn hoặc rung nhĩ hoặc cuồng động nhĩ do hội chứng tiền kích thích thuốc cũng được lựa chọn ban đầu để chuyển nhịp.
 
 Kiểm soát tần số tim ở người bệnh bị rung nhĩ và suy tim (không có đường phụ).
-
 
 Dự phòng rung nhĩ sau phẫu thuật trong phẫu thuật tim - lồng ngực. Nhịp nhanh có phức hợp QRS rộng cơ chế chưa rõ:
 
@@ -7054,8 +6964,7 @@ Cần theo dõi lâm sàng chặt chẽ và điều trị các phản ứng có 
 
 Các phản ứng có hại lên hệ thần kinh và hệ tiêu hóa xảy ra ở khoảng 20 - 40% số ca điều trị khi mới dùng thuốc và mất đi trong vòng 1 - 2 tháng điều trị. Bệnh dây thần kinh ngoại vi và bệnh về cơ ít gặp nhưng nặng và không phải luôn luôn có khả năng hồi phục.
 
-
-điều trị (trong vòng 2 - 3 tháng). Suy giáp có thể xảy ra nhanh, xử trí bằng cách giảm liều từ từ và điều trị cẩn thận bằng L-thyroxin. Chức năng tuyến giáp sẽ hồi phục trong vòng 3 tháng sau khi ngừng dùng thuốc. Cường giáp cũng có thể xảy ra nhanh, cần phải ngừng dùng amiodaron. Các thuốc kháng giáp trạng đôi khi không có tác dụng, xử trí bằng glucocorticoid liều cao (prednisolon 1 mg/kg) trong vài tuần.
+Cả suy giáp lẫn cường giáp đã xảy ra khi điều trị với amiodaron. Iod chiếm 37,3% (khối lượng/khối lượng) trong phân tử amiodaron hydroclorid, vì vậy cần đánh giá chức năng tuyến giáp trong và sau điều trị (trong vòng 2 - 3 tháng). Suy giáp có thể xảy ra nhanh, xử trí bằng cách giảm liều từ từ và điều trị cẩn thận bằng L-thyroxin. Chức năng tuyến giáp sẽ hồi phục trong vòng 3 tháng sau khi ngừng dùng thuốc. Cường giáp cũng có thể xảy ra nhanh, cần phải ngừng dùng amiodaron. Các thuốc kháng giáp trạng đôi khi không có tác dụng, xử trí bằng glucocorticoid liều cao (prednisolon 1 mg/kg) trong vài tuần.
 
 Mẫn cảm ánh sáng có thể xảy ra, cần phải giảm liều và hiếm khi phải ngừng dùng thuốc.
 
@@ -7065,7 +6974,9 @@ Vi lắng đọng giác mạc không triệu chứng gặp ở hầu hết các 
 
 Viêm phế nang lan tỏa và xơ phổi là phản ứng có hại thường gặp và có thể gây tử vong ở một vài người bệnh. Có hai dạng nhiễm độc phổi: một dạng có thể phát hiện sớm với liều thấp và có cơ chế miễn dịch, dạng thứ hai liên quan đến thời gian điều trị và liều, phụ thuộc vào độc tính trực tiếp của thuốc. Triệu chứng là khó thở (có hoặc không có bệnh cảnh toàn thân). Người bệnh khó thở cần được kiểm tra kỹ lưỡng khi có nghi ngờ viêm phế nang. Cần ngừng thuốc ngay và có thể sử dụng corticosteroid.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Amiodaron có thể uống, tiêm truyền tĩnh mạch (tốt nhất là vào tĩnh mạch trung tâm); có thể tiêm tĩnh mạch ngoại biên và vào trong xương. Thuốc uống thường được uống 1 lần/ngày. Nếu liều cao ≥ 1 g hoặc không dung nạp được do uống thì có thể uống làm 2 lần, cùng với thức ăn. Đối với trẻ nhỏ, thuốc viên có thể nghiền, phân tán trong nước. Không được cho uống dung dịch tiêm (gây kích ứng).
 
@@ -7116,7 +7027,6 @@ Tiêm truyền tĩnh mạch: Liều trong 24 giờ đầu khoảng 1000 mg, ph�
 Pha tấn công: Liều tấn công nhanh ban đầu: 150 mg cho với tốc độ truyền 15 mg/phút (nghĩa là trong vòng 10 phút). Sau đó, liều tấn công chậm: 360 mg cho với tốc độ 1 mg/phút (nghĩa là trong 6 giờ). Liều truyền trong pha duy trì đầu tiên: 540 mg cho với tốc độ 0,5 mg/phút (nghĩa là trong 18 giờ). Sau 24 giờ đầu:
 
 Truyền duy trì: 0,5 mg/phút (tức là 720 mg trong 24 giờ) có thể thận trọng cho trong 2 - 3 tuần, không cần chú ý đến tuổi, chức năng thận, hoặc chức năng thất trái của người bệnh.
-
 
 Phát hiện đợt rung thất hoặc nhịp nhanh thất có huyết động không ổn định: Truyền bổ sung 150 mg với tốc độ 15 mg/phút (tức là trong 10 phút).
 
@@ -7185,8 +7095,6 @@ Amiodaron hydroclorid có trong Danh mục thuốc thiết yếu tân dược ba
 ## **Tên thương mại**
 
 Adatot-200; Aldarone; Amidorol; Biodaron; Cordarone; Cordomine; Cormiron; Miradone; Syndaron; Zydarone.
-
-
 
 # **AMITRIPTYLIN**
 
@@ -7388,7 +7296,6 @@ Amitriptylin làm giảm tác dụng của các thuốc chống động kinh (do
 
 Thuốc tiêm amitriptylin hydroclorid phải bảo quản ở nhiệt độ dưới  $40~^{\circ}\text{C}$ , tốt nhất là 15 -  $30~^{\circ}\text{C}$ ; tránh để đông lạnh, tránh ánh sáng vì có thể tạo thành ceton và tủa nếu để tiếp xúc với ánh sáng. Dạng viên nén amitriptylin hydroclorid phải bảo quản trong đồ đựng kín ở nhiệt độ 15 -  $30~^{\circ}\text{C}$ . Tránh tiếp xúc với nhiệt độ trên  $30~^{\circ}\text{C}$ .
 
-
 ## **Tương kỵ**
 
 Không được pha loãng thuốc với nước ép bưởi hoặc đồ uống có chứa carbonat.
@@ -7417,14 +7324,13 @@ Amitriptilin hydroclorid có trong Danh mục thuốc thiết yếu tân dược
 
 Amilavil.
 
-
 # **AMLODIPIN**
 
 **Tên chung quốc tế:** Amlodipine.
 
-**Mã ATC:** C08CA01.
+Mã ATC: C08CA01.
 
-**Loại thuốc:** Chống đau thắt ngực, chống tăng huyết áp, chất đối kháng kênh calci.
+**Loại thuốc**: Chống đau thắt ngực, chống tăng huyết áp, chất đối kháng kênh calci.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -7473,7 +7379,6 @@ Phản ứng phụ thường gặp nhất của amlodipin là phù cổ chân, t
 Thường gặp, ADR > 1/100
 
 Toàn thân: Phù cổ chân, nhức đầu, chóng mặt, đỏ bừng mặt và có cảm giác nóng, mệt mỏi, suy nhược.
-
 
 Tuần hoàn: Đánh trống ngực. Thần kinh trung ương: Chuột rút. Tiêu hóa: Buồn nôn, đau bụng, khó tiêu.
 
@@ -7543,14 +7448,13 @@ Amlodipin có trong Danh mục thuốc thiết yếu tân được ban hành l�
 
 Acipta; Adipin; Agindopin; Aldan Tablets; Alodip 5; Ambelin; Amcardia-5; Amdepin 5; Amdicopin; Amdicor 5; Amdipress; Amdirel; Amidile-G; Amip; Amlaxopin; Amlibon; Amlobest; Amloboston 5; Amlocor; Amloda; Amlodac 5; Amlo-Denk; Amloefti; Amloget; Amlomarksans 5; Amlong; Amlopin; Amlor; Amlorus; Amlosin; Amlostar; Amlosun; Amlotens; Amlothepam; Amlothope; Amlotino; Amlovas; Amnorpyn; Ampdiline; Amsyn-5; Amtas-in 5; Amtim; Apitim 5; Arcadia 5; Aropme; Ausdipine; Bebloc-5; Becamlodin; Belod-5; Bluepine; Cardidose-5; Cardilopin; Cardivasor; Cetaju Tab.; Ceteco Amlocen; Citidipin; Dalopin; Diezar; Diplin 5; Dipsope; Dorodipin; Emlip-5; Emlocin 5; Enlopin 5; Eroamlo; Flamodip; Foloup; Frandipin; Hasanlor 5; Imedipin; Lodimax; Lodipine-C; Lordivas; Madodipin; Meyerdipin 5; Mildotab; Monovas; Motamse; NDC-Amlodipin 5; Normodipine; Pamlonor; Pleamod; Primodil-5; Pyme Am5 caps; PymeAlong 5; Ramilo-5; Remedipin; Resines; Samlo-5; Sampine; SAVI Amlod; Savi Amlod 5; Shadipine; Sodip; Stadovas; Stamlo; Telopin Tab.; Tenox; Timol Neo; Tipharmlor; TV. Amlodipin; TV-Amlodipin; Umecard-5; Varosc Tab.; Vascam; Woorieverdin; Xynopine; Xynopine; Zoamco-A; Zolpidon 5.
 
-
 # **AMOXICILIN**
 
 **Tên chung quốc tế:** Amoxicillin.
 
 **Mã ATC:** J01CA04.
 
-Loai thuốc: Kháng sinh nhóm beta-lactam, aminopenicilin.
+**Loai thuốc:** Kháng sinh nhóm beta-lactam, aminopenicilin.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -7568,10 +7472,7 @@ Bột pha tiêm: Lọ 500 mg và 1 g amoxicilin.
 
 Amoxicilin là aminopenicilin, bền trong môi trường acid, có phổ tác dụng rộng hơn benzylpenicilin, đặc biệt có tác dụng chống trực khuẩn Gram âm. Tương tự các penicilin khác, amoxicilin có tác dụng diệt khuẩn, do thuốc gắn vào một hoặc nhiều protein gắn penicilin của vi khuẩn (PBP) để ức chế sinh tổng hợp peptidoglycan, là một thành phần quan trọng của thành tế bào vi khuẩn. Cuối cùng vi khuẩn tự phân hủy do các enzym tự hủy của thành tế bào vi khuẩn (autolysin và murein hydrolase).
 
-Amoxicilin có tác dụng *in vitro* mạnh hơn ampicilin đối với *Enterococcus faecalis, Helicobacter pylori* và *Salmonella* spp., nhưng kém tác dụng hơn đối với *Shigella* spp. và *Enterobacter*. Amoxicilin dạng uống được ưa dùng hơn ampicilin dạng uống, đặc
-
-
-biệt trong điều trị nhiễm khuẩn đường hô hấp, do được hấp thu hoàn toàn hơn từ đường tiêu hóa, nồng độ trong huyết thanh, mô và dịch cao hơn, tần suất uống ít hơn và ít xảy ra tác dụng phụ (tiêu chảy) hơn. Phổ tác dụng: Amoxicilin cũng như các aminopenicilin khác, có hoạt tính in vitro chống đa số cầu khuẩn ưa khí Gram dương và Gram âm (trừ các chủng tạo penicilinase), một số trực khuẩn ưa khí và ky khí Gram dương và một số xoắn khuẩn. Thuốc cũng có hoạt tính in vitro chống một vài trực khuẩn ưa khí và kỵ khí Gram âm, thuốc có tác dụng chống Mycoplasma, Rickettsia, nấm và virut. Vi khuẩn nhạy cảm khi nồng độ thuốc ức chế tối thiểu (MIC)  $\leq 4$ microgam/ml và kháng thuốc khi MIC > 16 microgam/ml. Đối với S. pneumoniae nhạy cảm khi MIC ≤ 0,5 microgam/ml và kháng thuốc nếu MIC > 2 microgam/ml. Tỷ lệ kháng thuốc mắc phải có thể thay đổi tùy theo địa điểm và thời gian; đối với một số chủng cần có thông tin tham khảo tỷ lệ kháng thuốc tại chỗ, nhất là đối với bệnh nặng.
+Amoxicilin có tác dụng *in vitro* mạnh hơn ampicilin đối với *Enterococcus faecalis, Helicobacter pylori* và *Salmonella* spp., nhưng kém tác dụng hơn đối với *Shigella* spp. và *Enterobacter*. Amoxicilin dạng uống được ưa dùng hơn ampicilin dạng uống, đặc biệt trong điều trị nhiễm khuẩn đường hô hấp, do được hấp thu hoàn toàn hơn từ đường tiêu hóa, nồng độ trong huyết thanh, mô và dịch cao hơn, tần suất uống ít hơn và ít xảy ra tác dụng phụ (tiêu chảy) hơn. Phổ tác dụng: Amoxicilin cũng như các aminopenicilin khác, có hoạt tính in vitro chống đa số cầu khuẩn ưa khí Gram dương và Gram âm (trừ các chủng tạo penicilinase), một số trực khuẩn ưa khí và ky khí Gram dương và một số xoắn khuẩn. Thuốc cũng có hoạt tính in vitro chống một vài trực khuẩn ưa khí và kỵ khí Gram âm, thuốc có tác dụng chống Mycoplasma, Rickettsia, nấm và virut. Vi khuẩn nhạy cảm khi nồng độ thuốc ức chế tối thiểu (MIC)  $\leq 4$ microgam/ml và kháng thuốc khi MIC > 16 microgam/ml. Đối với S. pneumoniae nhạy cảm khi MIC ≤ 0,5 microgam/ml và kháng thuốc nếu MIC > 2 microgam/ml. Tỷ lệ kháng thuốc mắc phải có thể thay đổi tùy theo địa điểm và thời gian; đối với một số chủng cần có thông tin tham khảo tỷ lệ kháng thuốc tại chỗ, nhất là đối với bệnh nặng.
 
 Vì khuẩn nhạy cảm:
 
@@ -7630,7 +7531,6 @@ Nhiễm *Chlamydia trachomatis* đường tiết niệu sinh dục ở người 
 Viêm dạ dày - ruột (bao gồm viêm ruột do *Salmonella*, không do ly trực khuẩn), viêm màng trong tim (đặc biệt để dự phòng ở bệnh nhân phẫu thuật hoặc nhổ răng), sốt thương hàn và sốt phó thương hàn.
 
 Phối hợp với các thuốc khác trong điều trị nhiễm *H. pylori* ở bệnh nhân loét dạ dày tá tràng.
-
 
 ## **Chống chỉ định**
 
@@ -7738,7 +7638,6 @@ Người lớn: 1 g amoxicilin ngày uống 2 lần, phối hợp với clarithr
 
 Dự phòng viêm nội tâm mạc nhiễm khuẩn:
 
-
 Người lớn: Một liều duy nhất 2 g, uống 1 giờ trước khi làm thủ thuật. Trẻ em: Một liều duy nhất 50 mg/kg (không được vượt liều người lớn), uống 1 giờ trước khi làm thủ thuật.
 
 Bệnh Lyme:
@@ -7837,16 +7736,13 @@ Amoxicilin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *AmoDHG; Amomid; Amoxclo; Amoxfap; Amoxico-500; Amoxipen; Amoxividi 250; Amoxmarksans; Amoxy; Amoxybiotic; Ardimox 250; Asiamox; Auclanityl; Aumoxtine; Ausmoxy; Axomox; Bididufamox; Bidimoxy 500; Bimoxine; Buclar 250; Cefucom 250; Cepmox; Clamoxyl; Clatexyl; Codamox; Dharoxin; Doromox; Droplie; Etonxy; Eumoxin; Fabamox; Franmoxy; Hadikramox; Hadomox; Haetamox; Hagimox; Halacimox; Hanpromox; Hanproxy; Healmoxy; Helcrosin; Hiconcil; Hipen 500; Intasmox; Interamox; Kamox DS Amoxicillin; Lupimox; Lykamox; Mekomoxin; Midamox; Mocecil; Moxacin; Moxilen; Nesmox; Newcimax; Novoxim-500; Osavix; Ospamox; Ozirmox 500; Penfortin 1000; Penmoxy 250; Pharmox SA; pms-Pharmox; Polyclox; Praverix; Pulmoxy; Quafamox; Servamox; Tarimox forte; Tiamoxicilin 250; Tranfaximox; Trozal; Upanmox 500; Uparomax; Vantamox 500; Vidaloxin; Viduximox; Vifamox; Zentomoxy CPC; Zentomoxy CPC1.*
 
-
-
 # **AMOXICILIN VÀ KALI CLAVULANAT**
 
 **Tên chung quốc tế:** Amoxicillin and potassium clavulanate.
 
-**Mã ATC:** J01CR02.
+**Mã ATC:** J01CR02. 
 
 **Loại thuốc:** Kháng sinh.
-
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -7886,10 +7782,7 @@ Amoxicilin và kali clavulanat đều hấp thu dễ dàng qua đường uống 
 
 Kali clavulanat không làm ảnh hưởng tới dược động học của amoxicilin, tuy nhiên amoxicilin có thể làm tăng hấp thu qua đường tiêu hóa và thải trừ qua đường niệu đối với kali clavulanat so với khi dùng kali clavulanat đơn độc. Sau khi uống thuốc viên liều 250 mg amoxicilin và 125 mg acid clavulanic, nồng độ trong huyết thanh đạt 3,7 - 4,8 microgam/ml đối với amoxicilin và 2,2 - 3,5 microgam/ml đối với acid clavulanic. Sau khi uống thuốc viên liều 500 mg amoxicilin và 125 mg acid clavulanic, nồng độ trong huyết thanh đạt 6,5 - 9,7 microgam/ml với amoxicilin và 2,1 - 3,9 microgam/ml đối với acid clavulanic. Với liều đơn hỗn dịch dùng đường uống chứa 250 mg amoxicilin và 62,5 mg acid clavulanic, nồng độ amoxicilin đạt trung bình 6,9 microgam/ml và acid clavulanic đạt 1,6 microgam/ml. Sau 1 giờ uống 20 mg/kg amoxicilin + 5 mg/kg acid clavulanic, sẽ có trung bình 8,7 microgam/ml amoxicillin và 3,0 microgam/ml acid clavulanic trong huyết thanh. Sự hấp thu của thuốc không bị ảnh hưởng bởi thức ăn với dạng chế phẩm phối hợp thông thường. Tuy nhiên, dạng viên giải phóng kéo dài cho hấp thu tốt nhất khi uống thuốc ngay trước bữa ăn. Đồng thời không nên uống dạng viên giải phóng kéo dài với bữa ăn có nhiều chất béo do hấp thu clavulanat bị giảm và cũng không nên uống dạng thuốc này trong khi đói do hấp thu amoxicilin bị giảm.
 
-Sau khi uống, cả amoxicilin và acid clavulanic đều phân bố vào phổi, dịch màng phổi và dịch màng bụng, đi qua nhau thai. Một lượng thuốc nhỏ được tìm thấy trong đờm, nước bọt cũng như trong sữa mẹ. Khi màng não không bị viêm, nồng độ thuốc trong dịch não tủy rất thấp, tuy nhiên lượng thuốc lớn hơn đạt được khi màng não bị viêm. Amoxicilin liên kết với protein huyết thanh khoảng 17 - 20% và acid clavulanic được thông báo liên kết với protein khoảng 22 - 30%.
-
-
-Khả dụng sinh học đường uống của amoxicilin là 90% và của acid clavulanic là 75%. Nửa đời sinh học của amoxicilin là 1 - 2 giờ và của acid clavulanic là khoảng 1 giờ.
+Sau khi uống, cả amoxicilin và acid clavulanic đều phân bố vào phổi, dịch màng phổi và dịch màng bụng, đi qua nhau thai. Một lượng thuốc nhỏ được tìm thấy trong đờm, nước bọt cũng như trong sữa mẹ. Khi màng não không bị viêm, nồng độ thuốc trong dịch não tủy rất thấp, tuy nhiên lượng thuốc lớn hơn đạt được khi màng não bị viêm. Amoxicilin liên kết với protein huyết thanh khoảng 17 - 20% và acid clavulanic được thông báo liên kết với protein khoảng 22 - 30%. Khả dụng sinh học đường uống của amoxicilin là 90% và của acid clavulanic là 75%. Nửa đời sinh học của amoxicilin là 1 - 2 giờ và của acid clavulanic là khoảng 1 giờ.
 
 Sau khi uống liều đơn amoxicilin và kali clavulanat ở người lớn có chức năng thận bình thường, 50 - 73% amoxicilin và 25 - 45% acid clavulanic được thải qua nước tiểu dưới dạng không đổi trong vòng 6 đến 8 giờ. Ở người suy thận, nồng độ huyết thanh của cả amoxicilin và acid clavulanic đều cao hơn cũng như nửa đời thải trừ cũng kéo dài hơn. Ở bệnh nhân với thanh thải creatinin 9 ml/phút, nửa đời của amoxicilin và acid clavulanic lần lượt là 7,5 và 4,3 giờ. Cả amoxicilin và acid clavulanic đều bị loại bỏ khi thẩm phân máu. Khi thẩm phân màng bụng, acid clavulanic cũng bị loại bỏ trong khi chỉ một lượng rất nhỏ amoxicilin bị loại bỏ.
 
@@ -7981,8 +7874,9 @@ Nếu phản ứng dị ứng xảy ra như ban đỏ, phù Quincke, sốc phả
 
 Viêm đại tràng có màng giả: Nếu nhẹ: Ngừng thuốc; nếu nặng (khả năng do *Clostridium difficile*): Bồi phụ nước và điện giải, dùng kháng sinh chống *Clostridium* (metronidazol, vancomycin).
 
+## **Liều lượng và cách dùng**
 
-# **Liều lượng và cách dùng** *Liều lượng:*
+*Liều lượng:*
 
 *Dạng uống:*
 
@@ -8052,9 +7946,7 @@ Không dùng thuốc quá 14 ngày mà không kiểm tra xem xét lại cách đ
 
 Uống thuốc vào lúc bắt đầu ăn để giảm thiểu hiện tượng không dung nạp thuốc ở dạ dày - ruột. Viên phân tán được khuấy trong một ít nước trước khi uống.
 
-Thuốc chỉ tiêm hoặc truyền tĩnh mạch, không tiêm bắp. Tiêm tĩnh mạch trực tiếp rất chậm trong 3 phút, tiêm truyền khoảng 30 phút. Chỉ pha dung dịch trước khi tiêm. Khi pha có thể thấy dung dịch có màu hơi hồng nhất thời rồi chuyển sang vàng nhạt hoặc hơi có ánh trắng sữa: Phải pha với nước cất pha tiêm hoặc dung dịch natri clorid pha tiêm 0,9%. Để tiêm truyền, có thể dùng dung dịch natri lactat (M/6), dung dịch Ringer hoặc Hartmann. Không được pha với các dung dịch chứa glucose, natri bicarbonat hoặc dextran. Nói chung, không nên trộn thuốc trong cùng bơm tiêm DTQGVN 2 Amoxicilin và kali clavulanat 195
-
-hoặc bình tiêm truyền với 1 thuốc khác, nhất là corticoid hoặc aminoglycosid. Thuốc tương ky với hydrocortison succinat, dung dịch acid amin, dịch thủy phân protein, nhũ dịch lipid, neosynephrin hydroclorid, dung dịch manitol.
+Thuốc chỉ tiêm hoặc truyền tĩnh mạch, không tiêm bắp. Tiêm tĩnh mạch trực tiếp rất chậm trong 3 phút, tiêm truyền khoảng 30 phút. Chỉ pha dung dịch trước khi tiêm. Khi pha có thể thấy dung dịch có màu hơi hồng nhất thời rồi chuyển sang vàng nhạt hoặc hơi có ánh trắng sữa: Phải pha với nước cất pha tiêm hoặc dung dịch natri clorid pha tiêm 0,9%. Để tiêm truyền, có thể dùng dung dịch natri lactat (M/6), dung dịch Ringer hoặc Hartmann. Không được pha với các dung dịch chứa glucose, natri bicarbonat hoặc dextran. Nói chung, không nên trộn thuốc trong cùng bơm tiêm hoặc bình tiêm truyền với 1 thuốc khác, nhất là corticoid hoặc aminoglycosid. Thuốc tương ky với hydrocortison succinat, dung dịch acid amin, dịch thủy phân protein, nhũ dịch lipid, neosynephrin hydroclorid, dung dịch manitol.
 
 Độ bền của dung dịch chế phẩm phụ thuộc theo nồng độ. Vì vậy sau khi pha, phải dùng ngay. Phải tuân thủ thể tích pha, cách pha và thời hạn dùng như trong bảng "Cách dùng thuốc tiêm".
 
@@ -8117,8 +8009,6 @@ Amoxicilin và kali clavulanat có trong Danh mục thuốc thiết yếu tân d
 ## **Tên thương mại**
 
 Acle; Alclav; Amclav; AMK 625; Amocat; Amoclal Winthrop; Amoksiklav Quick Tabs; Amolic; Amonalic duo syrup; Amonalic Syrup; Amoxsam tab; Ardineclav 500/125; Auclanityl; Augbactam; Augbest; Augbidil; Augdim For I.V.; Augentax; Auglist; Augmentin; Augmentin SR; Augmex; Augmex Duo; Augtipha; Augxicine; Aumakin; Bifoxit; Bimoclav 625; Bioment-Bid; Camoxxy; Clamax 1000; Clasanvyl sachet; Clavatrox; Clavmarksans; Clavophynamox; Clavsun; Clavurol; Clavutin; Clavuxel; Claxivon; Cledomox; Curam; Duomoxyl 625; Duonasa 500; Enhancin; Euvi-Mentin; Fleming; Fugentin; G5 Damamox 625; Getimox; Iba-mentin; Imarex; Indclav 375; Intasclamo; Jenimax; Kamcilin; Klamentin; Klamex; Klatrimox; Klavunamox; Kmoxilin; Koact; Kuniclav; Medoclav; Mexid 625; MGP Moxinase-625; Midagentin; Midantin; Mioxen 625; Miraclay; Moxicle; Moxicle Duo; Nacova DT; Nacova-625; Noramoxical; Ofmantine; Osavix; Oxnas; Oxnas duo; Pencimox 625; Penfortin; Peptimedi; pms-Claminat; Promoxy; Rapiclav; Reclav; Rezoclav; Riclapen; Sanbeclaneksi; Shinacin; Skyclamos; Soonmelt; Synergex; Tasmoxil inj.; Viamomentin; Xiclav; Xivumic; Zentomentin CPC1.
-
-
 
 # **AMPHOTERICIN B**
 
@@ -8190,10 +8080,7 @@ Mẫn cảm với amphotericin B hoặc với bất cứ một thành phần nà
 
 Bệnh nhân cần phải được theo dõi tại bệnh viện vì thuốc tiêm truyền có nhiều tai biến trong quá trình điều trị, đa số bệnh nhân ít nhiều có tai biến phụ, đặc biệt liều đầu tiên, thường xảy ra từ 1 - 3 giờ sau khi bắt đầu truyền.
 
-Phải giám sát chức năng thận, gan, huyết học. Phải kiểm tra chức năng thận ít nhất 2 - 3 lần/tuần; chức năng gan và huyết học mỗi tuần
-
-
-1 - 2 lần trong thời gian điều trị ban đầu. Vì thuốc có tiềm năng gây độc cho thận nên phải thận trọng khi dùng amphotericin B thông thường cho người có chức năng thận suy giảm. Phải giám sát chặt chẽ khi dùng phối hợp bất cứ một chế phẩm amphotericin B nào với một thuốc có tiềm năng gây độc cho thận.
+Phải giám sát chức năng thận, gan, huyết học. Phải kiểm tra chức năng thận ít nhất 2 - 3 lần/tuần; chức năng gan và huyết học mỗi tuần 1 - 2 lần trong thời gian điều trị ban đầu. Vì thuốc có tiềm năng gây độc cho thận nên phải thận trọng khi dùng amphotericin B thông thường cho người có chức năng thận suy giảm. Phải giám sát chặt chẽ khi dùng phối hợp bất cứ một chế phẩm amphotericin B nào với một thuốc có tiềm năng gây độc cho thận.
 
 Phải tránh truyền nhanh dưới 60 phút vì dễ gây sốc, loạn nhịp tim.
 
@@ -8263,10 +8150,7 @@ Amphotericin B cholesteryl sulfat complex (Amphotec): Cho 10 ml hoặc 20 ml nư
 
 Amphotericin B lipid complex (*Abelcet*): Phải pha loãng hỗn dịch này với dung dịch tiêm dextrose 5% để có nồng độ 1 mg/ml; nồng độ 2 mg/ml có thể thích hợp với trẻ em và người mắc bệnh tim mạch. Không được dùng dung dịch natri clorid hoặc chứa các chất kìm khuẩn để pha loãng và cũng không được trộn các thuốc khác hoặc các chất điện giải. Trước khi hoàn nguyên, lọ chứa 5 mg/ml phải lắc nhẹ cho tới khi hết cặn màu vàng ở đáy lọ. Phải pha loãng amphotericin B lipid complex bằng dung dịch tiêm dextrose 5% và nếu có vẩn không được dùng. Phải dùng bộ dây truyền riêng và không có bộ lọc. Phải truyền với tốc độ 2,5 mg/kg/giờ. Trước khi truyền phải lắc lọ truyền cho tới khi thuốc hoà tan hết và cứ 2 giờ lại phải lắc lọ truyền nếu truyền quá 2 giờ.
 
-Amphotericin B dạng liposom (*Ambisome*): Cho 12 ml nước vô khuẩn để tiêm vào lọ bột amphotericin B dạng liposom 50 mg để có nồng độ 4 mg/ml. Không được dùng các dung dịch natri clorid hoặc một chất kìm khuẩn để hoàn nguyên. Dung dịch hoàn nguyên được bom qua một bộ lọc do nhà sản xuất cung cấp vào dung dịch
-
-
-tiêm dextrose 5% để được nồng độ 1 - 2 mg/ml. Các nồng thấp hơn (0,2 - 0,5 mg/ml) có thể thích hợp với trẻ nhỏ. Amphotericin B dạng liposom có thể truyền qua bộ lọc miễn là đường kính trung bình của lỗ màng lọc không dưới 1 micromét. Có thể truyền qua dây truyền đang dùng với điều kiện là phải tráng sạch trước bằng dung dịch tiêm dextrose 5%. Phải truyền trong khoảng 2 giờ. Nếu thuốc được dung nạp tốt, thời gian truyền có thể rút xuống khoảng 1 giờ.
+Amphotericin B dạng liposom (*Ambisome*): Cho 12 ml nước vô khuẩn để tiêm vào lọ bột amphotericin B dạng liposom 50 mg để có nồng độ 4 mg/ml. Không được dùng các dung dịch natri clorid hoặc một chất kìm khuẩn để hoàn nguyên. Dung dịch hoàn nguyên được bom qua một bộ lọc do nhà sản xuất cung cấp vào dung dịch tiêm dextrose 5% để được nồng độ 1 - 2 mg/ml. Các nồng thấp hơn (0,2 - 0,5 mg/ml) có thể thích hợp với trẻ nhỏ. Amphotericin B dạng liposom có thể truyền qua bộ lọc miễn là đường kính trung bình của lỗ màng lọc không dưới 1 micromét. Có thể truyền qua dây truyền đang dùng với điều kiện là phải tráng sạch trước bằng dung dịch tiêm dextrose 5%. Phải truyền trong khoảng 2 giờ. Nếu thuốc được dung nạp tốt, thời gian truyền có thể rút xuống khoảng 1 giờ.
 
 ### *Liều lượng:*
 
@@ -8308,10 +8192,7 @@ Zidovudin: Dùng phối hợp 2 thuốc này trên chó trong 30 ngày thấy t�
 
 Thuốc chống ung thư (như meclorethamin) có thể làm tăng độc tính cho thận, co thắt phế quản và hạ huyết áp ở người bệnh dùng đồng thời 2 thuốc đó.
 
-Corticosteroid có thể làm tăng mất kali trong cơ thể do amphotericin B thông thường nên không được phối hợp, trừ khi cần thiết để điều trị các phản ứng phụ của amphotericin B. Nếu phải phối hợp corticosteroid với bất cứ chế phẩm nào của amphotericin B, phải theo dõi sát chức năng tim và điện giải huyết thanh.
-
-
-Truyền bạch cầu: Phản ứng phổi (khó thở cấp, thở gấp, giảm oxy máu, ho ra máu và thâm nhiễm tổ chức kẽ lan toả) đã được báo cáo khi dùng amphotericin B trong vòng 4 giờ đầu sau khi truyền bạch cầu, đặc biệt ở người nhiễm khuẩn huyết vi khuẩn Gram âm.
+Corticosteroid có thể làm tăng mất kali trong cơ thể do amphotericin B thông thường nên không được phối hợp, trừ khi cần thiết để điều trị các phản ứng phụ của amphotericin B. Nếu phải phối hợp corticosteroid với bất cứ chế phẩm nào của amphotericin B, phải theo dõi sát chức năng tim và điện giải huyết thanh. Truyền bạch cầu: Phản ứng phổi (khó thở cấp, thở gấp, giảm oxy máu, ho ra máu và thâm nhiễm tổ chức kẽ lan toả) đã được báo cáo khi dùng amphotericin B trong vòng 4 giờ đầu sau khi truyền bạch cầu, đặc biệt ở người nhiễm khuẩn huyết vi khuẩn Gram âm.
 
 ## **Tương kỵ**
 
@@ -8323,7 +8204,7 @@ Amphotericin B thông thường: Thuốc bột bảo quản ở 2 - 8 o C. Dung 
 
 Amphotericin B cholesteryl sulfat complex, bột đông khô: Phải bảo quản ở 15 - 30 o C. Sau khi hoàn nguyên bằng nước vô khuẩn để tiêm, dung dịch keo phải để ở 2 - 8 o C và dùng trong 24 giờ. Chế phẩm này khi đã hoàn nguyên không được để đông lạnh. Sau khi pha với dung dịch tiêm dextrose 5% phải để ở 2 - 8 o C và phải dùng trong 24 giờ; bất cứ lọ thuốc nào đã dùng một phần đều phải loại bỏ. Amphotericin B lipid complex: Hỗn dịch phải để ở 2 - 8 o C và tránh ánh sáng. Sau khi pha với dung dịch tiêm dextrose 5%, dung dịch ổn định tới 48 giờ ở 2 - 8 o C và thêm 6 giờ ở nhiệt độ phòng. Chế phẩm này không được làm đông lạnh, dung dịch thuốc còn lại phải loại bỏ. Amphotericin B dạng liposom: Bột đông khô phải để ở 2 - 8 o C, sau khi đã hoàn nguyên, dung dịch thuốc có nồng độ 4 mg/ml có thể bảo quản đến 24 giờ ở 2 - 8 o C và không được làm đông lạnh. Phải bắt đầu truyền tĩnh mạch trong vòng 6 giờ sau khi pha vào dung dịch tiêm dextrose 5%. Phải loại bỏ thuốc dùng thừa.
 
-## **Quá liều và xử trí**
+# **Quá liều và cách xử trí**
 
 Quá liều amphotericin B thông thường có thể gây ngừng tim, hô hấp. Một số trẻ em dùng quá liều thường có những tai biến về tim mạch như hạ huyết áp, nhịp tim chậm và ngừng tim. Một trẻ em đã dùng liều 4,6 mg/kg, amphotericin B thông thường truyền tĩnh mạch trong 2 giờ đã bị nôn, co giật và ngừng tim ngay sau khi truyền xong. Phải theo dõi chặt chẽ người bệnh để ngừng thuốc, điều trị hỗ trợ triệu chứng, amphotericin B không thẩm tách máu được. Tình trạng bệnh nhân phải được ổn định bao gồm cả điều chỉnh điện giải huyết thanh trước khi cho điều trị lại.
 
@@ -8335,13 +8216,11 @@ Amphotericin B có trong Danh mục thuốc thiết yếu tân dược ban hành
 
 *Ampholip; Amphot; Amphotre*t.
 
-
 # **AMPICILIN**
 
-**Tên chung quốc tế:** Ampicillin.
+**Tên chung quốc tế:** Ampicillin. 
 
 **Mã ATC:** J01CA01, S01AA19.
-
 
 **Loại thuốc:** Kháng sinh nhóm beta-lactam, phân nhóm penicilin A.
 
@@ -8382,7 +8261,6 @@ Sau đây là độ nhạy cảm của một vài loại vi khuẩn đối với
 Sau khi tiêm bắp 1 liều 500 mg ampicilin, sau 1 giờ đạt được nồng độ đỉnh trong huyết thanh là 8 - 10 mg/lít, với nửa đời thải trừ là 80 phút. Uống liều 0,5 g, sau 2 giờ sẽ có nồng độ đỉnh trong huyết thanh khoảng 3 mg/lít. Sinh khả dụng đường uống là 30 - 55%, bị giảm bởi thức ăn. Ở người tình nguyện, bình thường sau khi tiêm truyền tĩnh mạch ampicilin với liều 2,5 g/1,73 m<sup>2</sup> da cơ thể thì nồng độ trung bình thuốc trong huyết tương là 197 mg/lít, nửa đời là 1,68 giờ và độ thanh thải của thuốc là 210 ml/phút. Thuốc xuất hiện với nồng độ điều trị trong dịch phúc mạc, dịch màng phổi và dịch khớp. Ở trẻ sơ sinh 2 - 7 ngày, nửa đời là 4 giờ; 8 - 14 ngày, nửa đời là 2,8 giờ; 15 - 30 ngày, nửa đời là 1,7 giờ. Ở người suy thận nặng, nửa đời là 7 - 20 giờ.
 
 Ở người mang thai, nồng độ thuốc trong huyết thanh chỉ bằng 50% so với phụ nữ không mang thai, do ở người mang thai, ampicilin có thể tích phân bố lớn hơn nhiều và ampicilin khuếch tán qua nhau thai vào tuần hoàn của thai nhi và vào nước ối.
-
 
 Ampicilin không qua được hàng rào máu - não. Trong viêm màng não mủ, do hàng rào máu - não bị viêm và thay đổi độ thấm, nên thông thường ampicilin thâm nhập vào hệ thần kinh trung ương đủ để có tác dụng và trung bình nồng độ thuốc trong dịch não tủy đạt tới 10 - 35% nồng độ thuốc trong huyết thanh. Thuốc qua được hàng rào nhau thai. Ampicilin thải trừ nhanh xấp xỉ như benzyl penicilin, chủ yếu qua ống thận (80%) và ống mật. Sau khi tiêm tĩnh mạch cả liều 2 g, nồng độ thuốc trong huyết thanh đạt xấp xỉ 1 mg/lít sau 6 giờ. Thường cách nhau 6 - 8 giờ, cho thêm liều mới để duy trì nồng độ.
 
@@ -8464,7 +8342,6 @@ Ampicilin thường được uống dưới dạng trihydrat và tiêm dưới d
 
 Đối với điều trị khởi đầu trong nhiễm khuẩn huyết hoặc viêm màng não nhiễm khuẩn phải tiêm tĩnh mạch ít nhất 3 ngày và sau đó có thể tiêm bắp.
 
-
 *Trẻ em:* 
 
 Nhiễm khuẩn đường hô hấp hoặc ngoài da: trẻ cân nặng dưới hoặc bằng 40 kg: 25 - 50 mg/kg/ngày chia đều nhau, cách 6 giờ/lần. Viêm đường tiết niệu: 50 - 100 mg/kg/ngày, cách 6 giờ/lần.
@@ -8511,7 +8388,6 @@ Ampicilin natri có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 *Ampica; Franpicin 500; Midampi; Rainbrucin; Servicillin; Standacillin; Zentopicil CPC1.*
 
-
 # **AMPICILIN VÀ SULBACTAM**
 
 **Tên chung quốc tế:** Ampicillin and sulbactam.
@@ -8547,7 +8423,6 @@ Vi khuẩn Gram dương: *Staphylococcus aureus* (cả loại sinh beta-lactamas
 Vi khuẩn Gram âm: *Haemophilus influenzae* (cả loài sinh betalactamase và không sinh beta-lactamase), *Moraxella catarrhalis* (cả loài sinh beta-lactamase và không sinh beta-lactamase), *Klebsiella sp* (tất cả các loài này đều sinh beta-lactamase), *Proteus mirabilis* (cả loài sinh beta-lactamase và không sinh betalactamase), *Proteus vulgaris, Providencia rettgeri* và *Neisseria gonorrhoeae* (cả loài sinh beta-lactamase và không sinh betalactamase), *Enterobacteriacae* (ví dụ một số chủng *E.coli, Proteus mirabilis, Salmonella, Shigella*).
 
 Vi khuẩn kỵ khí:Các loài *Clostridium,* các loài *Peptococcus*, các loài *Bacteroides* bao gồm cả *Bacteroides fragilis*, *Bifido bacterium, Peptococcus, Fusobacterium, Prevotella...*
-
 
 Vi khuẩn kháng thuốc: Tụ cầu kháng methicilin, oxacilin hoặc nafcilin phải coi là cũng kháng lại cả ampicilin/sulbactam*.*
 
@@ -8703,7 +8578,6 @@ Bảo quản lọ nguyên vẹn chứa bột thuốc để pha tiêm, màu trắ
 | Dextrose 5% trong nước             | 15 - 30<br>3<br>30                             | 2<br>4 | 4               |
 | Dextrose 5%<br>trong NaCl<br>0,45% | 3<br>15                                        | 4      | 4               |
 
-
 Phải bảo quản hỗn dịch để uống sau khi pha ở 2 - 8 o C và loại bỏ sau 14 ngày.
 
 ## **Tương kỵ**
@@ -8722,7 +8596,6 @@ Ampicilin và sulbactam có trong Danh mục thuốc tân dược thuộc phạm
 
 *Aupisin; Auropennz; Bipisyn; Midactam; Pentacillin; Senitram; Shinbac; Sulacilin; Sulamcin; Sulbaci; Sultacil; Sultampi; Sultasin; Ukcin; Unasyn; Visulin.*
 
-
 # **ANASTROZOL**
 
 **Tên chung quốc tế:** Anastrozole.
@@ -8731,7 +8604,9 @@ Ampicilin và sulbactam có trong Danh mục thuốc tân dược thuộc phạm
 
 **Loại thuốc:** Thuốc chống ung thư, thuốc ức chế aromatase.
 
-**Dạng thuốc và hàm lượng** Viên nén bao phim: 1 mg.
+## **Dạng thuốc và hàm lượng**
+
+Viên nén bao phim: 1 mg.
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -8772,7 +8647,6 @@ Người bị loãng xương. Vì anastrozol làm giảm nồng độ estrogen t
 ## **Thời kỳ mang thai**
 
 Chưa rõ thuốc có qua nhau thai hay không. Anastrozol có thể gây độc cho thai; tuy nhiên trong một số trường hợp cụ thể (tính mạng bị đe dọa, không dùng được các thuốc khác hoặc thuốc khác không có tác dụng) có thể phải dùng mặc dù có nguy cơ cho thai. Phải thông báo cho bệnh nhân mang thai hoặc mang thai trong thời gian trị liệu biết các nguy cơ đối với thai do thuốc.
-
 
 ## **Thời kỳ cho con bú**
 
@@ -8874,19 +8748,17 @@ Anastrozol có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 *Anastrol; Anazo; Arezol; Arimidex; Femizet; Victans.*
 
-
 # **ARGININ**
 
 **Tên chung quốc tế:** Arginine.
 
-**Mã ATC:** Arginin glutamat: A05BA01 Arginin hydroclorid: B05XB01.
+**Mã ATC:** Arginin glutamat: A05BA01 Arginin hydroclorid: B05XB01
 
 **Loại thuốc:** Thuốc chẩn đoán chức năng tuyến yên - Thuốc chuyển hoá nội tiết - Bổ sung acid amin.
 
 ## **Dạng thuốc và hàm lượng**
 
 Thuốc tiêm arginin hydroclorid 10% (dung dịch 1 g/10 ml), lọ 300 ml. Viên nang, viên nén: 500 mg, 700 mg.
-
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -8938,11 +8810,11 @@ Vì arginin chứa hàm lượng cao nitơ có thể chuyển hoá, nên trướ
 
 Không dùng arginin cho bệnh nhân sau nhồi máu cơ tim.
 
-## **Thời kì mang thai**
+## **Thời kỳ mang thai**
 
 Không có nghiên cứu đầy đủ và được kiểm chứng tốt về việc dùng arginin ở phụ nữ mang thai nên không dùng thuốc này cho phụ nữ trong thời kì mang thai.
 
-# **Thời kì cho con bú**
+## **Thời kỳ cho con bú**
 
 Không biết rõ arginin có được tiết với lượng đáng kể trong sữa người hay không. Cần cân nhắc giữa lợi ích của việc điều trị với thuốc và nguy cơ đối với thai để quyết định việc dùng thuốc và ngừng cho con bú.
 
@@ -8986,8 +8858,7 @@ Thuốc tiêm arginin hydroclorid được dùng truyền tĩnh mạch. Vì có 
 
 Thử nghiệm được thực hiện vào buổi sáng, sau một đêm ngủ và nhịn đói qua đêm; phải tiếp tục nhịn đói và nằm nghỉ trong khi làm thử nghiệm. Tránh căng thẳng và gắng sức vì làm thay đổi nồng độ hormon tăng trưởng. Lấy mẫu máu tĩnh mạch ở cánh tay đối diện 30 phút trước, và ngay trước khi bắt đầu truyền arginin và cách nhau 30 phút lấy máu 1 lần trong 2,5 giờ sau đó. Phải ly tâm ngay mẫu máu và bảo quản ở -20 o C cho tới khi thử nghiệm.
 
-
-phút. Người lớn: 30 g. Trẻ em: 1 liều 500 mg/kg. Dùng liều không thích hợp hoặc kéo dài thời gian tiêm truyền có thể làm giảm kích thích tuyến yên và làm hỏng thử nghiệm. Do đó, arginin uống không hiệu quả.
+Người lớn: Dung dịch 100 mg/ml arginin hydroclorid truyền tĩnh mạch với tốc độ không đổi (nên dùng máy bơm truyền) trong 30 phút. Người lớn: 30 g. Trẻ em: 1 liều 500 mg/kg. Dùng liều không thích hợp hoặc kéo dài thời gian tiêm truyền có thể làm giảm kích thích tuyến yên và làm hỏng thử nghiệm. Do đó, arginin uống không hiệu quả.
 
 Kết quả: Chức năng tuyến yên bình thường: Nồng độ hormon tăng trưởng trong huyết tương 10 - 30 nanogam/ml thường 60 phút sau khi bắt đầu truyền arginin. Đối với một số nhà lâm sàng, tiêu chuẩn dự trữ hormon tăng trưởng trong huyết tương phải đạt được từ 7 nanogam/ml trở lên, với nồng độ hormon huyết tương do arginin gây ra phải ít nhất 5 nanogam/ml. Bệnh khổng lồ và to đầu cực có thể phản ánh qua mất khả năng đáp ứng với kích thích do arginin. Khi nồng độ hormon tăng trưởng huyết tương bằng 4 nanogam/ml hoặc ít hơn thì chứng tỏ sự thiếu hụt hormon tăng trưởng tuyến yên. Nồng độ hormon tăng trưởng tăng do arginin có thể cao ở nữ hơn ở nam và cao ở phụ nữ mang thai hơn phụ nữ không mang thai. Đáp ứng với arginin có thể không rõ nét ở người béo phì và người suy tuyến giáp. Kết quả dương tính giả và âm tính giả tương đối phổ biến, do đó, không thể chỉ dựa vào một test duy nhất. Một test thứ hai với arginin hoặc insulin có thể làm sau 24 giờ.
 
@@ -9043,17 +8914,15 @@ Arginin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán 
 
 *Adigi; Agine-B; Amp-Ginine; Apharmincap; Arbitol; Arfosdin; Argide; Argimisan; Armeginin; Arpalgine; Ataganin; Atigimin; Atticmin; Auliral-A; Bavotin; Beco-Arginine; Bishepa; Blesta; Btogaron; Daganine; Daspa; Diasolic; Doginine; Eganeen ; Eganin; Elcocef Fort; Euformin; Fudhexa; Fudophar; Ganinhepa; Ganpotec; Gazore; Gelganin; Germarginin; Heparma; Hepasyzin; Inopantine; Jonghepa; Kahepa; Libefid; Lionel; Liverese; Macpower; Morganin; Nodizine; Orgrinin; Pevitax; Recohepa Soft Cap.; Rigaton; Rigaton-S; Rofizin; Superhepa; Tanagimax; Targinos; Toganin; Verniking; Viasarginin; Visganin; Ziegler; Zinxime.*
 
-
-
 # **ARSENIC TRIOXYD**
 
 **Tên chung quốc tế:** Arsenic trioxide.
 
-**Mã ATC:** L01XX27.
+**Mã ATC:** L01XX27
 
 **Loại thuốc:** Thuốc điều trị ung thư.
 
-## **Dạng thuốc và hàm lượng**
+## **Dạng thuốc và hàm lượng** 
 
 Thuốc tiêm: 1 mg/ml, lọ 5 ml, 10 ml.
 
@@ -9100,7 +8969,6 @@ Arsenic trioxyd cần được sử dụng dưới sự giám sát chặt chẽ 
 Hội chứng hoạt hóa bạch cầu (hội chứng khác biệt APL): 25% bệnh nhân bị bệnh bạch cầu cấp tiền tủy bào (APL) điều trị bằng arsenic trioxid có thể gặp các triệu chứng tương tự như hội chứng acid retinoid - bệnh bạch cầu cấp tiền tủy bào (RA - APL) hoặc hội chứng khác biệt APL (APL Differentiation Syndrome), đặc trưng bởi các triệu chứng sốt, khó thở, tăng cân, thâm nhiễm phổi, tràn dịch màng phổi hoặc màng tim, kèm hoặc không kèm theo tăng bạch cầu. Hội chứng này có thể đe dọa tính mạng. Cách xử trí chưa được nghiên cứu đầy đủ, nhưng khi nghi ngờ xảy ra hội chứng này có thể sử dụng ngay steroid liều cao (ví dụ như dexamethason 10mg tiêm tĩnh mạch 2 lần/ngày trong 3 ngày hoặc có thể lâu hơn cho đến khi giải quyết được triệu chứng) mà không cần phải chú ý đến số lượng bạch cầu của bệnh nhân và thường không cần thiết phải ngừng dùng arsenic trioxyd.
 
 Bất thường trên điện tâm đồ: arsenic trioxyd có thể gây kéo dài khoảng QT và gây bloc nhĩ thất hoàn toàn. Kéo dài khoảng QT có thể là nguyên nhân dẫn đến loạn nhịp thất dạng xoắn đỉnh (torsade de point), có nguy cơ đe dọa tính mạng. Điều trị trước đó bằng các anthracyclin sẽ làm tăng nguy cơ kéo dài khoảng QT. Nguy cơ xoắn đỉnh có liên quan đến mức độ kéo dài khoảng QT, điều trị phối hợp với các thuốc cũng có khả năng kéo dài khoảng QT (xem phần tương tác thuốc), tiền sử bệnh nhân đã từng bị xoắn đỉnh, đã có khoảng QT kéo dài từ trước, suy tim sung huyết, sử dụng các thuốc lợi tiểu thải kali; amphotericinB hoặc các tình trạng khác dẫn đến hạ kali máu hoặc hạ magnesi máu. Trong các thử nghiệm lâm sàng, 40% bệnh nhân dùng arsenic trioxyd có kéo dài khoảng QT điều chỉnh (QTc) trên 500 mili giây (msec). ADR này xảy ra trong khoảng tuần thứ nhất đến tuần thứ năm sau khi bắt đầu truyền arsenic trioxid và trở lại như ban đầu vào cuối tuần thứ tám sau khi truyền thuốc.
-
 
 Giám sát điện giải và điện tâm đồ: trước khi bắt đầu sử dụng arsenic trioxyd, cần làm điện tâm đồ 12 chuyển đạo và đánh giá creatinin cũng như các chất điện giải trong huyết tương (kali, calci, magnesi).
 
@@ -9244,7 +9112,6 @@ Trị liệu arsenic trioxyd phải tạm ngừng, điều chỉnh hoặc ngừn
 
 Với các trường hợp có bất thường về điện tâm đồ và điện giải, xem phần thận trọng.
 
-
 *Bệnh nhân suy gan và/hoặc suy thận:*
 
 Vì có rất ít dữ liệu, cần dùng arsenic trioxyd thận trọng trên nhóm bệnh nhân này.
@@ -9257,7 +9124,7 @@ Chưa thiết lập được tính an toàn và hiệu quả của thuốc đố
 
 Sử dụng liều tương tự với liều của người lớn.
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Arsenic trioxyd sau khi lấy ra khỏi ống phải được pha ngay trong 100 đến 250 ml dung dịch dextrose 5% hoặc dung dịch natri clorid 0,9% và phải được truyền tĩnh mạch trong vòng 1 - 2 giờ, thời gian truyền có thể kéo dài thành 4 giờ nếu có biểu hiện của phản ứng vận mạch. Không cần đặt catheter để truyền tĩnh mạch trung tâm. Mỗi ống thuốc chỉ dùng một lần, không giữ lại phần thuốc còn thừa trong ống cho lần điều trị tiếp theo. Không được trộn lẫn với thuốc khác.
 
@@ -9289,7 +9156,6 @@ Arsenic trioxyd có trong Danh mục thuốc tân dược thuộc phạm vi than
 
 *Asadin.*
 
-
 # **ARTEMETHER**
 
 *Để tránh tình trạng kháng thuốc, Cục Quản lý Dược đã yêu cầu ngừng sử dụng các thuốc dạng đơn chất chứa artemisinin hoặc các dẫn xuất của artemisinin (xem Thông tin quy chế). Các thông tin về chế phẩm dạng uống đơn chất chứa artemether dưới đây có tính chất tham khảo.*
@@ -9316,8 +9182,7 @@ Cơ chế tác dụng cơ bản của artemether là ức chế tổng hợp pro
 
 *Dược động học*
 
-
-dihydroartemisin chiếm ưu thế trong huyết tương. Artemether bị thủy phân nhanh trong cơ thể thành chất chuyển hóa có hoạt tính là dihydroartemisinin, rồi bị chuyển hóa tiếp thông qua enzym cytochrom P450 CYP3A4 và thải trừ qua nước tiểu. Thời gian bán thải khoảng 1 giờ. Khi tiêm bắp thời gian thải trừ kéo dài hơn vì thuốc vẫn tiếp tục hấp thu cùng với thải trừ.
+Artemether có thể dùng đường uống hoặc tiêm bắp. Sau khi uống, artemether hấp thu nhanh, đạt nồng độ đỉnh trong huyết tương trong vòng 2 - 3 giờ, nhưng nếu tiêm bắp thì phải 4 - 9 giờ, thường trong vòng 6 giờ. Một số trường hợp thuốc hấp thu chậm và thất thường, thời gian đạt nồng độ đỉnh có thể tới 18 giờ hoặc lâu hơn. Artemether liên kết với protein huyết tương là 95%. Sau khi tiêm bắp, artemether chiếm ưu thế, trái lại sau khi uống, dihydroartemisin chiếm ưu thế trong huyết tương. Artemether bị thủy phân nhanh trong cơ thể thành chất chuyển hóa có hoạt tính là dihydroartemisinin, rồi bị chuyển hóa tiếp thông qua enzym cytochrom P450 CYP3A4 và thải trừ qua nước tiểu. Thời gian bán thải khoảng 1 giờ. Khi tiêm bắp thời gian thải trừ kéo dài hơn vì thuốc vẫn tiếp tục hấp thu cùng với thải trừ.
 
 Các chất chuyển hóa khác của artemether là 3-alpha-hydroxydeoxy dihydroartemisinin, 2-alpha-hydroxyartemether và 9-alpha-hydroxyartemether. Sau khi tiêm tĩnh mạch artemether cho chuột, thấy một lượng đáng kể chất này trong não, chứng tỏ thuốc đi qua được hàng rào máu - não. Điều này có thể có liên quan đến tác dụng của artemether đối với sốt rét thể não. Dữ liệu của 19 công trình nghiên cứu lâm sàng kể từ năm 1982 tới gần đây đã được xem xét. Những nghiên cứu này bao gồm 812 người bệnh sốt rét do *P. falciparum* với mức độ nặng nhẹ khác nhau. Artemether có tác dụng cắt sốt nhanh với thời gian dao động trong khoảng 17 - 47 giờ (trung bình là 24 giờ). Trong 14 nghiên cứu, thời gian hết sốt ở người bệnh sốt rét không có biến chứng (17 - 30 giờ, trung bình là 22 giờ) nhanh hơn so với 5 nghiên cứu với sốt rét nặng (30 - 84 giờ, trung bình là 43 giờ). Không có biểu hiện độc tại chỗ hoặc toàn thân.
 
@@ -9391,9 +9256,7 @@ Artemether dù uống hay tiêm cũng chỉ dùng ngày 1 lần. Khi tiêm cho t
 
 Tránh phối hợp các dẫn chất của artemisinin với các thuốc kéo dài khoảng QT.
 
-Artemisinin được coi là một chất ức chế mạnh isoenzym CYP1A2 của cytochrom P450, nên có thể tương tác với các thuốc được chuyển hóa thông qua enzym này (như theophylin). Trái lại, DTQGVN 2 Artemisinin 213
-
-artemisinin lại được coi lá một chất kích thích CYP2A6, tuy vậy, ý nghĩa lâm sàng chưa rõ ràng.
+Artemisinin được coi là một chất ức chế mạnh isoenzym CYP1A2 của cytochrom P450, nên có thể tương tác với các thuốc được chuyển hóa thông qua enzym này (như theophylin). Trái lại, artemisinin lại được coi lá một chất kích thích CYP2A6, tuy vậy, ý nghĩa lâm sàng chưa rõ ràng.
 
 Nước ép bưởi: Sinh khả dụng của artemether qua đường uống có thể tăng khi uống cùng với nước ép bưởi.
 
@@ -9419,7 +9282,7 @@ Cục Quản lý Dược đã có Công văn số 7873/QLD-CL ngày 24/5/2013 y�
 
 Artesiane.
 
-#### ARTEMISININ
+# **ARTEMISININ**
 
 Để tránh tình trạng kháng thuốc, Cục Quản lý Dược đã yêu cầu ngừng sử dụng các thuốc uống dạng đơn chất chứa artemisinin hoặc các dẫn xuất của artemisinin (xem Thông tin qui chế). Các thông tin về chế phẩm dạng uống đơn chất chứa artemisinin dưới đây có tính chất tham khảo.
 
@@ -9464,7 +9327,6 @@ Chưa được biết rõ.
 ## **Thận trọng**
 
 Chưa thấy có báo cáo về vấn đề này. Tuy vậy, vẫn cần thận trọng khi dùng.
-
 
 ## **Thời kỳ mang thai**
 
@@ -9514,16 +9376,15 @@ Trong trường hợp quá liều, cần điều trị khẩn cấp theo triệu
 
 Cục Quản lý Dược đã có Công văn số 7873/QLD-CL ngày 24/5/2013 yêu cầu ngừng sử dụng các thuốc uống dạng đơn chất chứa artemisinin hoặc các dẫn xuất của artemisinin.
 
-
 # **ARTESUNAT**
 
 *Để tránh tình trạng kháng thuốc, Cục Quản lý Dược đã yêu cầu ngừng sử dụng thuốc uống dạng đơn chất chứa artemisinin hoặc các dẫn xuất của artemisinin (xem Thông tin quy chế). Các thông tin về chế phẩm dạng uống đơn chất chứa artesunat dưới đây có tính chất tham khảo.*
 
 **Tên chung quốc tế:** Artesunate.
 
-**Mã ATC:** P01BE03.
+**Mã ATC**: P01BE03.
 
-**Loại thuốc:** Thuốc chống sốt rét.
+**Loại thuốc**: Thuốc chống sốt rét.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -9548,7 +9409,6 @@ Trong thử nghiệm lâm sàng so sánh ngẫu nhiên lợi ích của artesuna
 *Dược động học:*
 
 Artesunat được dùng đường uống, tiêm bắp hoặc đặt trực tràng. Thuốc hấp thu nhanh sau khi uống, đặt hoặc tiêm bắp, đạt nồng độ đỉnh trong huyết tương tương ứng là 1,5 giờ, 2 giờ và 0,5 giờ. Artesunat bị chuyển hóa nhanh hầu như toàn bộ trong cơ thể thành chất chuyển hóa có hoạt tính là dihydroartemisinin, rồi bị chuyển hóa tiếp thông qua enzym cytochrom P450 CYP3A4 và thải trừ qua nước tiểu. Khi tiêm tĩnh mạch thời gian bán thải khoảng 45 phút.
-
 
 ## **Chỉ định**
 
@@ -9622,19 +9482,17 @@ Artesunat có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 Cục Quản lý Dược đã có Công văn số 7873/QLD-CL ngày 24/5/2013 yêu cầu ngừng sử dụng các thuốc uống dạng đơn chất chứa artemisinin hoặc các dẫn xuất của artemisinin.
 
-
 # **ASPARAGINASE**
 
-**Tên chung quốc tế:** Asparaginase.
+**Tên chung quốc tế:** Asparaginase
 
-**Mã ATC:** L01X X02.
+**Mã ATC:** L01X X02
 
 **Loại thuốc:** Thuốc chống ung thư.
 
 ## **Dạng thuốc và hàm lượng**
 
-
-nước. Mỗi lọ còn chứa 80 mg manitol là một thành phần không có hoạt tính.
+Lọ 10 000 đơn vị quốc tế (đvqt) dưới dạng bột hoặc thành khối đông khô hình cái nút, màu trắng đã tiệt khuẩn, rất dễ tan trong nước. Mỗi lọ còn chứa 80 mg manitol là một thành phần không có hoạt tính.
 
 1 đvqt của L-asparaginase tương đương với lượng enzym gây ra 1 micromol amoniac trong 1 phút từ L-asparagin trong điều kiện chuẩn (37 o C).
 
@@ -9642,7 +9500,7 @@ nước. Mỗi lọ còn chứa 80 mg manitol là một thành phần không có
 
 L-asparaginase là đồng phân quay trái của một protein phân tử lượng lớn, chiết từ *Escherichia coli* và các vi khuẩn khác. Enzym này thủy phân asparagin là một acid amin thiết yếu trong huyết thanh, do đó làm mất đi một yếu tố cần thiết để tổng hợp protein của các tế bào lympho ác tính nhạy cảm. Trong bệnh bạch cầu cấp, đặc biệt bệnh bạch cầu cấp dòng lympho, tế bào ác tính phải phụ thuộc vào nguồn asparagin từ bên ngoài để tồn tại; còn các tế bào bình thường lại có thể tổng hợp được asparagin và do đó bị ảnh hưởng ít hơn khi thiếu asparagin do điều trị asparaginase. Tuy nhiên, gần đây người ta thấy có rất nhiều mô bình thường nhạy cảm với asparaginase và có thể gây ra nhiễm độc với nhiều mức độ khác nhau. Ngoài ra, các tế bào bạch cầu bệnh ở người có thể nhanh chóng kháng thuốc do xuất hiện các dòng có chứa asparaginase synthetase. Đây cũng là lý do người ta thường dùng thuốc dạng kết hợp với các hóa chất khác.
 
-#### *Dược động học*
+### *Dược động học*
 
 Sau khi tiêm bắp, nồng độ đỉnh trong huyết tương đạt được sau 14 đến 24 giờ và chỉ bằng 50% nồng độ đỉnh trong huyết tương sau khi tiêm tĩnh mạch. Thuốc phân bố không đáng kể ở bên ngoài khoang mạch máu, thải trừ qua mật và nước tiểu rất ít. Sự thải trừ thuốc không bị ảnh hưởng bởi tuổi, chức năng thận hoặc chức năng gan. Asparaginase vẫn còn phát hiện được trong huyết thanh 13 - 22 ngày sau khi dùng. Nửa đời của asparaginase thay đổi từ 8 đến 30 giờ sau khi tiêm tĩnh mạch và không phụ thuộc vào liều dùng, giới tính, tuổi, diện tích bề mặt cơ thể, mức độ bệnh, chức năng gan hoặc thận. Nửa đời của asparaginase sau khi tiêm bắp là 39 đến 49 giờ. Thể tích phân bố biểu kiến là 4 - 5 lít/kg, khoảng 70 - 80% thể tích huyết tương. Trong dịch bạch huyết và dịch não tủy có phát hiện thấy asparaginase.
 
@@ -9702,8 +9560,7 @@ Tác dụng khác: Suy thận cấp, giảm albumin, xuất huyết não, tắc 
 
 Chỉ được dùng asparaginase cho người bệnh ở bệnh viện, có sự theo dõi của thầy thuốc được đào tạo và có kinh nghiệm sử dụng các hóa trị liệu chữa ung thư, vì có thể gây ra các phản ứng nặng, kể cả phản ứng phản vệ và chết đột ngột.
 
-
-cẩn thận về lợi ích do điều trị đạt được so với nguy cơ độc tính của thuốc.
+Thầy thuốc phải chuẩn bị sẵn để xử lý phản ứng phản vệ mỗi lần dùng thuốc. Đối với từng người bệnh, thầy thuốc đều phải cân nhắc cẩn thận về lợi ích do điều trị đạt được so với nguy cơ độc tính của thuốc.
 
 Rối loạn đông máu, có thể gây biến chứng nặng như xuất huyết não, nhồi máu não, xuất huyết phổi, nên cần theo dõi thường xuyên fibrinogen, plasminogen, antithrombin III, và protein C trong khi điều trị. Nếu thấy kết quả bất thường, cần ngừng dùng thuốc hoặc giảm liều.
 
@@ -9783,8 +9640,7 @@ Các chế phẩm thuốc tiêm của asparaginase cần được kiểm tra b�
 
 Để tiêm tĩnh mạch: Pha L-asparaginase với nước cất tiêm vô khuẩn hoặc dung dịch tiêm natri clorid. Thể tích cần pha là 5 ml cho 1 lọ 10 000 đvqt. Khi pha chế, lắc bình thường không làm mất hoạt tính của enzym. Dung dịch này có thể tiêm tĩnh mạch trực tiếp trong vòng 8 giờ sau khi pha. Để truyền tĩnh mạch, pha dung dịch thuốc với dung dịch tiêm natri clorid 9% hoặc dung dịch tiêm glucose 5%. Các dung dịch này nên được truyền trong vòng 8 giờ và chỉ dùng nếu trong suốt. Sau khi pha với dung dịch natri clorid 0,9% hoặc nước pha tiêm, dung dịch thu được có pH xấp xỉ 7,4. Enzym có hoạt tính ở pH 6,5 đến 8,0.
 
-
-dùng để loại bỏ các tiểu phân này mà vẫn không mất hiệu lực. Hiệu lực giảm đi nếu dùng lọc 0,2 micron.
+Đôi khi có một số lượng nhỏ các tiểu phân giống như sợi gelatin xuất hiện khi để yên dung dịch. Cần lọc qua lọc 5 micron trong khi dùng để loại bỏ các tiểu phân này mà vẫn không mất hiệu lực. Hiệu lực giảm đi nếu dùng lọc 0,2 micron.
 
 Để tiêm bắp: Pha thuốc được thực hiện bằng cách thêm 2 ml dung dịch tiêm natri clorid vào lọ 10 000 đvqt. Dung dịch đã pha chỉ nên dùng trong vòng 8 giờ và nếu dung dịch trong suốt. Thể tích tiêm mỗi chỗ không quá 2 ml.
 
@@ -9799,7 +9655,6 @@ Không được trộn dung dịch asparaginase với thuốc khác.
 Các triệu chứng sốc có thể xảy ra (thậm chí với liều thường dùng). Nếu có các triệu chứng như ý thức u ám, co giật, hạ huyết áp, rét run, sốt hoặc nôn, cần ngừng thuốc ngay và có biện pháp xử trí thích hợp.
 
 Không có thuốc giải độc. Nếu có phản ứng phản vệ cần dùng ngay epinephrin, oxygen và tiêm tĩnh mạch corticosteroid. Có thể sử dụng insulin để điều trị tăng glucose máu.
-
 
 # **ATAPULGIT**
 
@@ -9915,8 +9770,6 @@ Atapulgit hoạt hóa có trong Danh mục thuốc chủ yếu sử dụng tại
 
 *Attagast; Diarrest; Meyerpulgit; New-Diatabs.*
 
-
-
 # **ATENOLOL**
 
 **Tên chung quốc tế:** Atenolol.
@@ -9982,7 +9835,6 @@ Thuốc chẹn beta có thể qua được nhau thai. Dùng thuốc chẹn beta 
 ## **Thời kỳ cho con bú**
 
 Atenolol bài tiết vào sữa mẹ với tỷ lệ gấp 1,5 - 6,8 lần so với nồng độ thuốc trong huyết tương người mẹ. Đã có những thông báo về tác hại của thuốc đối với trẻ em bú mẹ khi người mẹ dùng atenolol, như chậm nhịp tim hoặc giảm glucose máu có ý nghĩa lâm sàng.
-
 
 Trẻ đẻ non, hoặc trẻ suy thận có thể dễ mắc các tác dụng không mong muốn hơn. Bởi vậy, không nên dùng atenolol cho người cho con bú.
 
@@ -10062,7 +9914,6 @@ Với quinidin và các thuốc chống loạn nhịp tim nhóm 1, có thể x�
 
 Với insulin hoặc các thuốc uống chống đái tháo đường, atenolol có thể che lấp chứng nhịp tim nhanh do hạ glucose máu.
 
-
 ## **Độ ổn định và bảo quản**
 
 Bảo quản ở nhiệt độ 20 - 25 o C, đựng trong bao bì kín, tránh ánh sáng.
@@ -10092,7 +9943,6 @@ Atenolol có trong Danh mục thuốc thiết yếu tân dược ban hành lần
 ## **Tên thương mại**
 
 *Aginolol 50; Anol; Atefulton; Atena; Betacard-50; Donolol; Ipcatenolon-50; NDC-Atenolol 50; Osacadi; Pharmaniaga Atenolol; Sefmeloc; Teginol 50; Tenocar; Tenolan; Tenormin; Tevanolol; Tracemic.*
-
 
 # **ATRACURIUM BESYLAT**
 
@@ -10133,7 +9983,6 @@ Thuốc qua nhau thai một lượng nhỏ, chưa biết thuốc có vào sữa 
 Chuyển hoá: Sau khi tiêm tĩnh mạch, atracurium besylat bị chuyển hoá nhanh qua sự thải trừ Hofmann và qua sự thuỷ phân ester do enzym không đặc trưng. Tất cả các chất chuyển hoá của thuốc không có hoạt tính phong bế thần kinh - cơ.
 
 Thải trừ: Atracurium besylat và các chất chuyển hoá được thải trừ qua nước tiểu và phân.
-
 
 ## **Chỉ định**
 
@@ -10211,8 +10060,7 @@ Nhà sản xuất khuyến cáo phải giảm liều ban đầu ở người l�
 
 *Liều duy trì - Tiêm tĩnh mạch cách quãng:* Để duy trì sự phong bế thần kinh - cơ trong các phẫu thuật kéo dài, liều được hiệu chỉnh theo từng cá nhân và liều thường dùng ở người lớn là 0,08 - 0,1 mg/kg. Ở bệnh nhân được gây mê phối hợp, liều duy trì đầu tiên thường cần thiết ở 20 - 45 phút sau khi dùng liều ban đầu. Có thể dùng liều duy trì nhắc lại ở các khoảng cách tương đối đều là 15 - 25 phút ở bệnh nhân được gây mê phối hợp. Khi enfluran hoặc isofluran được dùng để gây mê hoặc khi dùng liều duy trì atracurium besylat cao hơn, có thể dùng liều duy trì này ở khoảng cách dài hơn.
 
-
-mạch liên tục cho người lớn với tốc độ ban đầu là 9 - 10 microgam/ kg/phút, và sau đó duy trì với tốc độ tiêm truyền là 5 - 9 microgam/ kg/phút ở bệnh nhân được gây mê phối hợp. Tốc độ tiêm truyền giảm khoảng 33% khi gây mê ở trạng thái ổn định với enfluran hoặc isofluran.
+*Tiêm truyền tĩnh mạch liên tục:* Trong các phẫu thuật kéo dài, có thể truyền tĩnh mạch liên tục atracurium besylat sau khi tiêm tĩnh mạch nhanh liều ban đầu. Chỉ bắt đầu tiêm truyền thuốc sau khi bắt đầu phục hồi từ liều tiêm tĩnh mạch ban đầu. Tiêm truyền tĩnh mạch liên tục cho người lớn với tốc độ ban đầu là 9 - 10 microgam/ kg/phút, và sau đó duy trì với tốc độ tiêm truyền là 5 - 9 microgam/ kg/phút ở bệnh nhân được gây mê phối hợp. Tốc độ tiêm truyền giảm khoảng 33% khi gây mê ở trạng thái ổn định với enfluran hoặc isofluran.
 
 *Trẻ em:*
 
@@ -10258,7 +10106,6 @@ Atracurium besylat có trong Danh mục thuốc tân dược thuộc phạm vi t
 
 *Hanaatra inj.; Notrixum; Tracrium*.
 
-
 # **ATROPIN**
 
 **Tên chung quốc tế:** Atropine.
@@ -10292,7 +10139,6 @@ Atropin được hấp thu nhanh qua đường tiêu hóa, qua tiêm bắp, qua 
 Điều trị triệu chứng co thắt cơ trơn ở bộ máy tiêu hóa, đường mật, đau quặn thận.
 
 Ngộ độc thuốc trừ sâu (phospho hữu cơ, carbamat), chất độc thần kinh, nấm *Amanita muscaria*.
-
 
 Nhịp tim chậm, tụt huyết áp trong hồi sức cấp cứu tim - phổi, sau nhồi máu cơ tim, do dùng nitroglycerin, ngộ độc digitalis hoặc do thuốc halothan, propofol, suxamethonium.
 
@@ -10392,7 +10238,6 @@ Atropin và các thuốc kháng acetyl cholin khác: Các tác dụng kháng ace
 
 Atropin và một số thuốc kháng histamin, butyrophenon, phenothiazin, thuốc chống trầm cảm ba vòng, ức chế MAO: Nếu dùng atropin đồng thời với các thuốc trên thì tác dụng của atropin sẽ tăng lên.
 
-
 Atropin có thể làm giảm hấp thu thuốc khác vì làm giảm nhu động của dạ dày.
 
 ## **Tương kỵ**
@@ -10418,7 +10263,6 @@ Atropin sulfat có trong Danh mục thuốc thiết yếu tân dược ban hành
 ## **Tên thương mại**
 
 *Fupin.*
-
 
 # **AZATHIOPRIN**
 
@@ -10468,8 +10312,7 @@ Không dùng azathioprin cho người bệnh mẫn cảm với thuốc. Không d
 
 ## **Thận trọng**
 
-
-làm cho các tế bào tiền ung thư đang ở trạng thái tiềm ẩn phát triển thành u nhanh hơn và xuất hiện ung thư sớm hơn.
+Khả năng gây ung thư của azathioprin còn đang tranh cãi, tuy nhiên nguy cơ thúc đẩy u phát triển đã được xác định; có nghĩa là thuốc làm cho các tế bào tiền ung thư đang ở trạng thái tiềm ẩn phát triển thành u nhanh hơn và xuất hiện ung thư sớm hơn.
 
 Tỉ lệ các chất chuyển hóa khác nhau ở mỗi người, nên mức độ và thời gian tác dụng thuốc cũng khác nhau.
 
@@ -10539,7 +10382,6 @@ Azathioprin thường dùng hàng ngày. Liều ban đầu mỗi ngày khoảng 
 
 Điều trị duy trì nên dùng liều thấp nhất có hiệu quả. Cách 4 tuần giảm liều 1 lần, mỗi ngày giảm 0,5 mg/kg hoặc khoảng 25 mg/ ngày, trong khi các trị liệu khác vẫn giữ nguyên. Thời gian tối ưu duy trì azathioprin chưa được xác định. Có thể ngừng đột ngột azathioprin nhưng tác dụng có thể vẫn còn kéo dài.
 
-
 *Dùng cho người suy thận:*
 
 Người bệnh đái ít, đặc biệt người bị hoại tử ống thận, độ thanh thải của azathioprin và các chất chuyển hóa sẽ kéo dài, cần phải giảm liều.
@@ -10598,7 +10440,6 @@ Azathioprin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *Wedes.*
 
-
 # **AZITHROMYCIN**
 
 **Tên chung quốc tế:** Azithromycin.
@@ -10627,8 +10468,7 @@ Azithromycin ức chế tổng hợp protein ở các vi khuẩn nhạy cảm b�
 
 Vi khuẩn ưa khí Gram dương: Azithromycin có tác dụng *in vitro* và *in vivo* đối với *S. aureus, Streptococcus agalactiae, S. pneumoniae* và *S. pyogenes.* Nồng độ ức chế tối thiểu (MIC) của azithromycin đối với đa số tụ cầu và liên cầu khuẩn thường tương tự hoặc cao hơn gấp 2 lần MIC của erythromycin; azithromycin không ức chế được các chủng phân lập kháng erythromycin. Tụ cầu khuẩn kháng methicilin và tụ cầu khuẩn coagulase âm (*Staphylococcus epidermidis)* thường kháng cả hai azithromycin và erythromycin. Azithromycin không tác dụng với các cầu khuẩn ruột *(Enterococcus faecalis).*
 
-
-*Mycobacterium avium complex (MAC).* Nhưng *M. tuberculosis, M. kansaii, M. scrofulaceum, M. leprae* kháng với azithromycin. Vi khuẩn kỵ khí: *Clostridium perfringens, Peptostreptococcus* spp., *Propionibacterium acnes, Prevotella* (trước đây là *Bacteroides*  spp.) nhạy cảm với azithromycin.
+Vi khuẩn ưa khí Gram âm: Azithromycin tác dụng gấp 2 tới 8 lần so với erythromycin đối với các vi khuẩn Gram âm nhạy cảm với erythromycin: *Haemophilus influenzae, H. ducreyi, Moraxella catarrhalis, Legionella pneumophila* và *N. gonorrhoeae.*  Azithromycin cũng có tác dụng *in vitro* đối với *N. meningitidis*  và một số chủng *Bordetella pertussis* và *Legionella pneumophila.*  Mycobacteria: Azithromycin có tác dụng *in vitro* và *in vivo* đối với *Mycobacterium avium complex (MAC).* Nhưng *M. tuberculosis, M. kansaii, M. scrofulaceum, M. leprae* kháng với azithromycin. Vi khuẩn kỵ khí: *Clostridium perfringens, Peptostreptococcus* spp., *Propionibacterium acnes, Prevotella* (trước đây là *Bacteroides*  spp.) nhạy cảm với azithromycin.
 
 *Chlamydiae:* Có tác dụng *in vitro* và *in vivo* với *Chlamydophila pneumophilae* và *C. trachomatis. Mycoplasma:* Azithromycin thường có tác dụng tương đương đối với *Mycoplasma pneumoniae*  so với erythromycin hoặc clarithromycin, nhưng tác dụng kém hơn đối với *Ureoplasma urealyticum* so với clarithromycin.
 
@@ -10684,9 +10524,7 @@ Tuy chưa có báo cáo trong thử nghiệm lâm sàng, nhưng khi dùng kháng
 
 ## **Thời kỳ mang thai**
 
-Chưa có dữ liệu nghiên cứu trên người mang thai. Chỉ nên sử dụng azithromycin khi không có các thuốc thích hợp khác. Số liệu sơ bộ cho thấy azithromycin có thể dùng an toàn và có hiệu quả để điều DTQGVN 2 Azithromycin 229
-
-trị nhiễm *Chlamydia* ở người mang thai; tuy vậy, số liệu chưa đủ để khuyến cáo dùng thường quy azithromycin trong thời kỳ mang thai
+Chưa có dữ liệu nghiên cứu trên người mang thai. Chỉ nên sử dụng azithromycin khi không có các thuốc thích hợp khác. Số liệu sơ bộ cho thấy azithromycin có thể dùng an toàn và có hiệu quả để điều trị nhiễm *Chlamydia* ở người mang thai; tuy vậy, số liệu chưa đủ để khuyến cáo dùng thường quy azithromycin trong thời kỳ mang thai
 
 ## **Thời kỳ cho con bú**
 
@@ -10722,7 +10560,9 @@ Máu: Giảm nhẹ bạch cầu trung tính nhất thời.
 
 Azithromycin thường dung nạp tốt. Đa số ADR nhẹ hoặc trung bình, ít tai biến hơn erythromycin và thường hồi phục sau khi ngừng thuốc. Cho uống viên hoặc hỗn hợp uống azithromycin cùng với thức ăn có thể cải thiện được khả năng dung nạp thuốc. Các phản ứng dị ứng nghiêm trọng hiếm xảy ra. Các triệu chứng thường hết khi ngừng thuốc và phải điều trị triệu chứng. Tuy nhiên các biểu hiện dị ứng lại xuất hiện khi dừng điều trị triệu chứng ban đầu. Đối với trường hợp nặng, phải theo dõi và điều trị triệu chứng trong một thời gian dài. Các bất thường về test chức năng gan ở người bệnh điều trị azithromycin thường hồi phục, nhưng nếu cao nhiều, phải ngừng thuốc.
 
-# Liều lượng và cách dùng Cách dùng:
+## **Liều lượng và cách dùng**
+
+### *Cách dùng:*
 
 Azithromycin có thể uống hoặc tiêm truyền tĩnh mạch, không được tiêm thẳng vào tĩnh mạch hoặc tiêm bắp.
 
@@ -10750,10 +10590,7 @@ Bệnh lậu (viêm niệu quản và viêm cổ tử cung) khi không có thu�
 
 Bệnh Leptospira: 1 liều duy nhất 1 g vào ngày 1 sau đó cho 500 mg/lần/ngày trong 2 ngày. Có thể cho 15 mg/kg/ngày chia thành 2 liều nhỏ, cho trong 7 ngày.
 
-Nhiễm *Mycobacterium avium complex* (MAC): Dự phòng tiên phát nhiễm MAC lan toả ở người lớn và thiếu niên nhiễm HIV giai đoạn muộn: Liều uống azithromycin 1,2 mg/1 lần/tuần. Thường dùng đơn độc nhưng có thể phối hợp với rifabutin 300 mg/ngày. Điều trị và dự phòng tái phát nhiễm MAC lan tỏa: 600 mg/1 lần/ngày, phối hợp với ethambutol (15 mg/kg/ngày), có thể thêm thuốc chống nấm tuỳ theo quyết định của thầy thuốc. Ở người lớn và thiếu niên nhiễm HIV giai đoạn muộn: 500 - 600 mg azithromycin uống 1 lần/ngày phối hợp với ethambutol (15 mg/kg/ngày) kèm theo hoặc không kèm theo rifabutin (300 mg/1 lần/ngày). Điều trị
-
-
-nhiễm MAC ở phổi: điều trị ban đầu azithromycin uống 500 - 600 mg/1lần, 3 lần hàng tuần phối hợp với ethambutol (25 mg/kg/lần, 3 lần hàng tuần) và rifampin (600 mg/lần, 3 lần hàng tuần). Điều trị phải tiếp tục cho tới khi nuôi cấy âm tính trong 1 năm.
+Nhiễm *Mycobacterium avium complex* (MAC): Dự phòng tiên phát nhiễm MAC lan toả ở người lớn và thiếu niên nhiễm HIV giai đoạn muộn: Liều uống azithromycin 1,2 mg/1 lần/tuần. Thường dùng đơn độc nhưng có thể phối hợp với rifabutin 300 mg/ngày. Điều trị và dự phòng tái phát nhiễm MAC lan tỏa: 600 mg/1 lần/ngày, phối hợp với ethambutol (15 mg/kg/ngày), có thể thêm thuốc chống nấm tuỳ theo quyết định của thầy thuốc. Ở người lớn và thiếu niên nhiễm HIV giai đoạn muộn: 500 - 600 mg azithromycin uống 1 lần/ngày phối hợp với ethambutol (15 mg/kg/ngày) kèm theo hoặc không kèm theo rifabutin (300 mg/1 lần/ngày). Điều trị nhiễm MAC ở phổi: điều trị ban đầu azithromycin uống 500 - 600 mg/1lần, 3 lần hàng tuần phối hợp với ethambutol (25 mg/kg/lần, 3 lần hàng tuần) và rifampin (600 mg/lần, 3 lần hàng tuần). Điều trị phải tiếp tục cho tới khi nuôi cấy âm tính trong 1 năm.
 
 Ho gà: Liều đầu uống 500 mg/lần/ngày, ngày 2 đến ngày 5: 250 mg/lần/ngày.
 
@@ -10819,9 +10656,7 @@ Azithromycin có trong Danh mục thuốc thiết yếu tân dược ban hành l
 
 ## **Tên thương mại**
 
-
-*Azitnew; Azitomex; Azitromicina Farmoz; Aziuromine; Aziwok; Azizi; Azoget; Azotimax; Azyter; Azythronat; Babyzirmax; Becazithro; Binozyt; Bivazit; Cadiazith; Capzith 250; Carlozik; Cefren; Cromazin; Doromax; Euphoric- Azoric; Fabazixin; Frazix; Geozif; Glazi; Hamilion-500; Heptamax; Ipcazifast; Katrozax; Kazaston Caps.; Macromax; Macsure; Maczith-250; Markaz 250; Maxazith; Megazith Soft; Mulasmin-500; Mybrucin; Myeromax 500; Nadymax 500; Nawazit; Neazi; Neozith 250; Opeatrop 250; Opeazitro; Osazit oral; pms-Azimax; Puzicil; PymeAzi; Quafa-Azi 250; Ry-Ril; SaVi Azit; Sazith-250; Sisocin; Sukanlov; Synazithral; Synerzith; Tauxiz; Tazamax Dry; Thromax; Thromiz-500; Tobpit; Trom 250; Vizicin 125; Zaha; Zikiss; Zithronam; Zitrex 500; Zitrocin-OPC; Zitrolid; Zitromax; Zybitrip; Zycin DT; Zylyte 100 DT; Zymycin*.
-
+*Acizit; Agitro; AlembicAzithral; Alozilacto; Arioxina; Asiclacin; Athxin; Ausmax; Azee; Azencin; Azicap 250; Azicine; Aziefranc; Aziefti; Azieurolife; Azifar 500; Azifonten 250; Azigene; Azikago; Azikid; Azilide; Azimax 250; Azindus 500; Aziplus; Azirode; Azirutec; Azismile Dry Syrup; Azissel; Azithfort; Azithrin-250; Azitino;Azitnew; Azitomex; Azitromicina Farmoz; Aziuromine; Aziwok; Azizi; Azoget; Azotimax; Azyter; Azythronat; Babyzirmax; Becazithro; Binozyt; Bivazit; Cadiazith; Capzith 250; Carlozik; Cefren; Cromazin; Doromax; Euphoric- Azoric; Fabazixin; Frazix; Geozif; Glazi; Hamilion-500; Heptamax; Ipcazifast; Katrozax; Kazaston Caps.; Macromax; Macsure; Maczith-250; Markaz 250; Maxazith; Megazith Soft; Mulasmin-500; Mybrucin; Myeromax 500; Nadymax 500; Nawazit; Neazi; Neozith 250; Opeatrop 250; Opeazitro; Osazit oral; pms-Azimax; Puzicil; PymeAzi; Quafa-Azi 250; Ry-Ril; SaVi Azit; Sazith-250; Sisocin; Sukanlov; Synazithral; Synerzith; Tauxiz; Tazamax Dry; Thromax; Thromiz-500; Tobpit; Trom 250; Vizicin 125; Zaha; Zikiss; Zithronam; Zitrex 500; Zitrocin-OPC; Zitrolid; Zitromax; Zybitrip; Zycin DT; Zylyte 100 DT; Zymycin*.
 
 # **AZTREONAM**
 
@@ -10885,10 +10720,7 @@ Tiền sử dị ứng với aztreonam.
 
 ## **Thận trọng**
 
-Trước khi dùng aztreonam cần hỏi kỹ tiền sử phản ứng với các
-
-
-thuốc kháng khuẩn gồm các kháng sinh beta-lactam khác. Giữa các kháng sinh beta-lactam hai vòng (penicilin, cephalosporin, cephamycin và carbapenem) có dị ứng chéo một phần. Tuy ít có dị ứng chéo giữa kháng sinh beta-lactam hai vòng và aztreonam nhưng cũng cần phải thận trọng đối với người có tiền sử dị ứng đặc biệt với thuốc.
+Trước khi dùng aztreonam cần hỏi kỹ tiền sử phản ứng với các thuốc kháng khuẩn gồm các kháng sinh beta-lactam khác. Giữa các kháng sinh beta-lactam hai vòng (penicilin, cephalosporin, cephamycin và carbapenem) có dị ứng chéo một phần. Tuy ít có dị ứng chéo giữa kháng sinh beta-lactam hai vòng và aztreonam nhưng cũng cần phải thận trọng đối với người có tiền sử dị ứng đặc biệt với thuốc.
 
 Dùng aztreonam có thể làm các vi khuẩn không nhạy cảm, đặc biệt các vi khuẩn Gram dương (tụ cầu vàng, *S. pneumoniae*) hoặc nấm phát triển quá mức. Phải theo dõi sát, nếu có bội nhiễm, phải điều trị.
 
@@ -10980,8 +10812,7 @@ Thời gian điều trị: Thời gian điều trị phụ thuộc vào loại v
 
 Suy thận: Đối với trẻ em chưa có liều khuyến cáo. Người lớn nhất là cao tuổi, phải dựa vào độ thanh thải creatinin (Clcr): Người lớn: Clcr> 30 ml/phút/1,73 m<sup>2</sup> : liều thường dùng. Nếu Clcr: 10 - 30 ml/ phút: liều đầu tấn công 500 mg, 1 g hoặc 2 g, sau đó cho liều duy trì bằng 1/2 liều thường dùng (nghĩa là 250 mg, 500 mg hoặc 1 g) cách nhau một khoảng thời gian thông thường. Nếu Clcr< 10 ml/ phút (bao gồm cả người bệnh thẩm phân máu): 1 liều tấn công đầu tiên bằng liều thường dùng (nghĩa là 500 mg, 1 g hoặc 2 g), sau đó cho liều duy trì bằng 1/4 liều thường dùng (nghĩa là 125 mg, 250 mg hoặc 500 mg) cho cách nhau một khoảng thời gian thường dùng. Vì aztreonam loại bỏ được bằng thẩm phân máu, nên người thẩm phân máu phải được bổ sung 1 liều aztreonam bằng 1/4 liều đầu tiên (nghĩa là 62,5 mg, 125 mg hoặc 250 mg) ngay sau mỗi lần thẩm phân.
 
-
-500 mg) cách nhau một khoảng thời gian thường dùng.
+Người lớn thẩm phân màng bụng: Liều đầu tấn công aztreonam bằng liều thường dùng (nghĩa là 500 mg, 1 g hoặc 2 g) sau đó liều duy trì bằng 1/4 liều thường dùng (nghĩa là 125 mg, 250 mg hoặc 500 mg) cách nhau một khoảng thời gian thường dùng.
 
 Suy gan: kinh nghiệm còn ít. Một số khuyến cáo giảm 20 - 25% liều ở người xơ gan do rượu, đặc biệt khi dùng aztreonam kéo dài. Một số khác dùng không cần giảm liều nếu chức năng thận vẫn tốt.
 
@@ -11023,7 +10854,6 @@ Aztreonam tương kỵ với nafcilin natri, cephradin, vancomycin hoặc metron
 
 Nếu cần thì thẩm tách máu hoặc thẩm tách màng bụng để loại trừ aztreonam ra khỏi huyết thanh.
 
-
 # **BACITRACIN**
 
 **Tên chung quốc tế:** Bacitracin.
@@ -11061,7 +10891,6 @@ Bacitracin và bacitracin kẽm được dùng đơn độc hoặc kết hợp v
 Bacitracin không hấp thu qua đường tiêu hóa, qua màng phổi hoặc hoạt dịch. Bacitracin được hấp thu nhanh và gần như hoàn toàn khi tiêm bắp và hấp thu không đáng kể khi dùng ngoài.
 
 Bacitracin phân bố rộng rãi trong tất cả các cơ quan của cơ thể, trong dịch cổ trướng và dịch màng phổi sau khi tiêm bắp. Bacitracin ít gắn với protein. Bacitracin qua hàng rào máu - não rất ít và chỉ ở dạng vết trong dịch não tủy, trừ khi màng não bị viêm.
-
 
 Sau khi uống, bacitracin bài tiết vào phân. Sau một liều tiêm bắp, 10 - 40% liều được bài tiết chậm qua cầu thận và xuất hiện ở nước tiểu trong vòng 24 giờ. Một lượng lớn bacitracin không được tìm thấy và người ta cho là nó bị giữ lại hoặc bị phá hủy trong cơ thể.
 
@@ -11167,15 +10996,15 @@ Bacitracin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 *Orovalat.*
 
-
-
 # **BACLOFEN**
 
 **Tên chung quốc tế:** Baclofen.
 
 **Mã ATC:** M03BX01.
 
-**Loại thuốc:** Thuốc giãn cơ vân. **Dạng thuốc và hàm lượng.
+**Loại thuốc:** Thuốc giãn cơ vân. 
+
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 10 mg; 20 mg.
 
@@ -11229,10 +11058,7 @@ Bệnh nhân được cấy bơm để thực hiện liệu pháp truyền baclo
 
 Ngừng đột ngột liệu pháp baclofen uống, bất luận nguyên nhân nào, đã dẫn đến ảo giác và co giật. Sự ngừng đột ngột liệu pháp baclofen truyền trong màng não tủy dẫn đến co giật, sốt cao, thay đổi trạng thái tâm thần, sự co cứng trầm trọng trở lại và sự cứng đơ cơ; trong các trường hợp hiếm, đã tiến triển tới tiêu cơ vân, suy nhiều cơ quan, và tử vong.
 
-Cần quan tâm đặc biệt đến bệnh nhân có nguy cơ rõ về ngừng thuốc (như tổn thương tủy sống ở T6 trở lên, tiền sử triệu chứng cai thuốc đối với baclofen uống hoặc truyền trong màng não tủy). Việc điều trị triệu chứng cai thuốc đối với liệu pháp truyền baclofen trong màng não tủy gồm phục hồi việc truyền baclofen trong màng não tủy. Nếu việc này bị chậm trễ, có thể dùng các thuốc làm tăng tác dụng của GABA (như baclofen uống hoặc benzodiazepin uống hoặc tiêm tĩnh mạch) để dự phòng các di chứng có thể gây tử vong. Nhà sản xuất cho rằng liệu pháp baclofen uống không tin cậy được để ngăn chặn tiến triển của cai thuốc truyền trong màng não tủy. *Thận trọng đối với trẻ em:* Chưa xác định sự an toàn của liệu pháp baclofen uống hoặc truyền trong màng não tủy ở trẻ em dưới 12
-
-hoặc 4 tuổi, tương ứng.
-
+Cần quan tâm đặc biệt đến bệnh nhân có nguy cơ rõ về ngừng thuốc (như tổn thương tủy sống ở T6 trở lên, tiền sử triệu chứng cai thuốc đối với baclofen uống hoặc truyền trong màng não tủy). Việc điều trị triệu chứng cai thuốc đối với liệu pháp truyền baclofen trong màng não tủy gồm phục hồi việc truyền baclofen trong màng não tủy. Nếu việc này bị chậm trễ, có thể dùng các thuốc làm tăng tác dụng của GABA (như baclofen uống hoặc benzodiazepin uống hoặc tiêm tĩnh mạch) để dự phòng các di chứng có thể gây tử vong. Nhà sản xuất cho rằng liệu pháp baclofen uống không tin cậy được để ngăn chặn tiến triển của cai thuốc truyền trong màng não tủy. *Thận trọng đối với trẻ em:* Chưa xác định sự an toàn của liệu pháp baclofen uống hoặc truyền trong màng não tủy ở trẻ em dưới 12 hoặc 4 tuổi, tương ứng.
 
 Tác dụng trên khả năng lái xe và sử dụng máy móc: Baclofen có thể làm giảm khả năng thực hiện các hoạt động cần sự tỉnh táo như vận hành máy móc hoặc lái xe.
 
@@ -11311,7 +11137,6 @@ Việc dùng baclofen tiêm truyền trong màng não tủy không được khuy
 
 Rượu và các thuốc ức chế hệ TKTW có thể làm tăng các tác dụng trên TKTW của baclofen nên phải tránh dùng. Triệu chứng tăng vận động tăng nặng thêm ở người bệnh dùng lithi. Có thể có tăng sự yếu cơ nếu dùng baclofen cho người bệnh đang dùng thuốc chống trầm cảm ba vòng và có thể có tăng tác dụng hạ huyết áp nếu dùng baclofen cho người bệnh đang dùng thuốc chống tăng huyết áp. Ibuprofen và các thuốc khác gây suy thận có thể làm giảm sự bài tiết baclofen dẫn đến độc tính.
 
-
 ## **Độ ổn định và bảo quản**
 
 Viên nén baclofen được bảo quản trong lọ đóng kín ở nhiệt độ 15 - 30 °C.
@@ -11338,7 +11163,7 @@ Baclofen có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 *Baclosal; Bamifen; Maxcino; Pharmaclofen; Prindax; Yylofen.*
 
-## **BẠC SULFADIAZIN**
+# **BẠC SULFADIAZIN**
 
 **Tên chung quốc tế:** Silver sulfadiazine.
 
@@ -11382,10 +11207,7 @@ Trong kem bạc sulfadiazin có propylen glycol, có thể tác động đến k
 
 ## **Thời kỳ mang thai**
 
-Chưa có nghiên cứu đầy đủ ở phụ nữ mang thai. Chỉ dùng cho
-
-
-người mang thai nếu cân nhắc thấy lợi ích cho mẹ hơn nguy cơ cho thai. Chống chỉ định dùng bạc sulfadiazin cho phụ nữ mang thai sắp đến hoặc đến ngày sinh vì có thể gây vàng da nhân cho trẻ sơ sinh.
+Chưa có nghiên cứu đầy đủ ở phụ nữ mang thai. Chỉ dùng cho người mang thai nếu cân nhắc thấy lợi ích cho mẹ hơn nguy cơ cho thai. Chống chỉ định dùng bạc sulfadiazin cho phụ nữ mang thai sắp đến hoặc đến ngày sinh vì có thể gây vàng da nhân cho trẻ sơ sinh.
 
 ## **Thời kỳ cho con bú**
 
@@ -11439,12 +11261,11 @@ Bạc sulfadiazin có trong Danh mục thuốc thiết yếu tân dược ban h�
 
 *Siliverine; Yashsilver-S.*
 
-
 # **BARI SULFAT**
 
-**Tên chung quốc tế:** Barium sulfate.
+**Tên chung quốc tế**: Barium sulfate.
 
-**Mã ATC:** V08BA01, V08BA02.
+**Mã ATC**: V08BA01, V08BA02.
 
 **Loại thuốc:** Thuốc cản quang (không phối hợp) đường tiêu hóa.
 
@@ -11484,9 +11305,7 @@ Tắc nghẽn hoặc thủng trên đường tiêu hóa.
 
 ## **Thận trọng**
 
-Bari sulfat không được chỉ định cho người bệnh bị tắc ruột và phải thận trọng đối với người có chứng hẹp môn vị hoặc có tổn thương dễ dẫn đến tắc nghẽn ống tiêu hóa. Phải tránh dùng thuốc, nhất là cho qua đường hậu môn, ở những người có nguy cơ bị thủng như trong viêm đại tràng loét cấp hoặc viêm túi thừa Meckel, sau khi DTQGVN 2 Beclometason 239
-
-làm sinh thiết trực tràng hoặc đại tràng, soi đại tràng sigma hoặc quang tuyến liệu pháp.
+Bari sulfat không được chỉ định cho người bệnh bị tắc ruột và phải thận trọng đối với người có chứng hẹp môn vị hoặc có tổn thương dễ dẫn đến tắc nghẽn ống tiêu hóa. Phải tránh dùng thuốc, nhất là cho qua đường hậu môn, ở những người có nguy cơ bị thủng như trong viêm đại tràng loét cấp hoặc viêm túi thừa Meckel, sau khi làm sinh thiết trực tràng hoặc đại tràng, soi đại tràng sigma hoặc quang tuyến liệu pháp.
 
 Thận trọng đối với người bị suy kiệt nặng. Để tránh táo bón sau khi dùng bari sulfat, cần cho người bệnh uống nước đủ.
 
@@ -11550,14 +11369,15 @@ Bari sulfat có trong Danh mục thuốc thiết yếu tân được ban hành l
 
 Barihadopha; Barihd; Barisvidi; Hadubaris.
 
-
 # **BECLOMETASON**
 
-**Tên chung quốc tế:** Beclomethasone.
+Tên chung quốc tế: Beclomethasone.
 
-**Mã ATC:** A07EA07, D07AC15, R01AD01, R03BA01.
+Mã ATC: A07EA07, D07AC15, R01AD01, R03BA01.
 
-**Loại thuốc:** Corticosteroid. Dạng thuốc và hàm lượng.
+Loại thuốc: Corticosteroid. 
+
+Dạng thuốc và hàm lượng
 
 Beclometason dùng ở dạng beclometason dipropionat.
 
@@ -11579,10 +11399,7 @@ Cơ chế tác dụng chống viêm chủ yếu liên quan đến khả năng l�
 
 Dược động học
 
-Beclometason ở dạng khí dung hoặc ở dạng bột rất mịn trộn với lactose, khi hít thuốc sẽ vào đường hô hấp, khoảng 25% đến 60% liều hít tới đường hô hấp dưới để tác dụng ở phế quản và các tiểu phế quản. Một phần của liều thuốc thường bị nuốt. Khi dùng xịt qua đường mũi, 41 - 43% lượng thuốc sẽ đọng lại tại vùng mũi hầu, trong đó 4% sẽ phát huy tác dụng tại hốc xoang mũi, một phần thuốc còn lại sẽ được hấp thu qua niêm mạc mũi vào tuần hoàn chung. Tỷ lệ liên kết với protein huyết tương của beclomethason dipropionat khoảng 87%. Lượng beclometason dipropionat hấp
-
-
-thu vào máu từ đường hô hấp sẽ bị chuyển hóa dưới tác dụng của enzym hydroxylase thành beclomethason monopropionat (còn một phần hoạt tính chống viêm) và beclomethason với gốc alcol tự do mất hoàn toàn hoạt tính. Thuốc và các chất chuyển hóa không bị tích lũy ở các mô. Chỉ một phần rất nhỏ liều dùng được bài tiết qua nước tiểu, phần còn lại được đào thải qua phân dưới dạng dẫn chất chuyển hóa. Nửa đời thải trừ của chất mẹ trong huyết tương khoảng 3 giờ.
+Beclometason ở dạng khí dung hoặc ở dạng bột rất mịn trộn với lactose, khi hít thuốc sẽ vào đường hô hấp, khoảng 25% đến 60% liều hít tới đường hô hấp dưới để tác dụng ở phế quản và các tiểu phế quản. Một phần của liều thuốc thường bị nuốt. Khi dùng xịt qua đường mũi, 41 - 43% lượng thuốc sẽ đọng lại tại vùng mũi hầu, trong đó 4% sẽ phát huy tác dụng tại hốc xoang mũi, một phần thuốc còn lại sẽ được hấp thu qua niêm mạc mũi vào tuần hoàn chung. Tỷ lệ liên kết với protein huyết tương của beclomethason dipropionat khoảng 87%. Lượng beclometason dipropionat hấp thu vào máu từ đường hô hấp sẽ bị chuyển hóa dưới tác dụng của enzym hydroxylase thành beclomethason monopropionat (còn một phần hoạt tính chống viêm) và beclomethason với gốc alcol tự do mất hoàn toàn hoạt tính. Thuốc và các chất chuyển hóa không bị tích lũy ở các mô. Chỉ một phần rất nhỏ liều dùng được bài tiết qua nước tiểu, phần còn lại được đào thải qua phân dưới dạng dẫn chất chuyển hóa. Nửa đời thải trừ của chất mẹ trong huyết tương khoảng 3 giờ.
 
 ## **Chỉ định**
 
@@ -11646,12 +11463,9 @@ Trong điều trị viêm mũi dị ứng: Các phản ứng thường gặp là
 
 Để tránh và điều trị co thắt phế quản: Sử dụng các thuốc giãn phế quản tác dụng nhanh đường xông hít như salbutamol hay terbutalin. Phòng nhiễm nấm *Candida albicans* hoặc *Aspergillus niger*: Súc miệng kỹ bằng nước sau khi hít hay xịt thuốc. Có thể điều trị tại chỗ bằng thuốc chống nấm song song với beclomethason. Khi khản tiếng hoặc bị kích ứng ở họng cũng súc miệng bằng nước.
 
-Điều trị các phản ứng quá mẫn hoặc dị ứng bằng thuốc kháng
+Điều trị các phản ứng quá mẫn hoặc dị ứng bằng thuốc kháng histamin hoặc bằng các thuốc tác dụng tại chỗ, kể cả thuốc steroid hoặc phối hợp cả hai loại thuốc.
 
-
-> histamin hoặc bằng các thuốc tác dụng tại chỗ, kể cả thuốc steroid hoặc phối hợp cả hai loại thuốc.
-
-> Khi chuyển dùng corticoid đường uống sang dùng corticoid đường hít, cần chú ý: Sau một tuần lễ thì bắt đầu giảm liều uống. Mức giảm và tần suất giảm liều tương ứng với liều duy trì của thuốc uống đang dùng. Người bệnh đang dùng liều duy trì một ngày prednisolon (hoặc lượng tác dụng tương đương của chất tương tự) là 10 mg, thì cứ mỗi tuần giảm liều uống 1 mg. Nếu liều duy trì hàng ngày lớn hơn 10 mg, thì hàng tuần giảm liều hơn 1 mg. Người đã thôi dùng steroid đường uống mà chức năng thượng thận của họ đã từng bị suy giảm, thì phải có một phiếu nêu rõ họ có thể cần dùng steroid bổ sung trong các thời kỳ bệnh (như hen tiên lượng xấu, nhiễm khuẩn hô hấp, chấn thương...). Đã có trường hợp người hen tử vong do suy thượng thận trong và sau khi chuyển dùng steroid đường uống sang dùng beclometason đường hít.
+Khi chuyển dùng corticoid đường uống sang dùng corticoid đường hít, cần chú ý: Sau một tuần lễ thì bắt đầu giảm liều uống. Mức giảm và tần suất giảm liều tương ứng với liều duy trì của thuốc uống đang dùng. Người bệnh đang dùng liều duy trì một ngày prednisolon (hoặc lượng tác dụng tương đương của chất tương tự) là 10 mg, thì cứ mỗi tuần giảm liều uống 1 mg. Nếu liều duy trì hàng ngày lớn hơn 10 mg, thì hàng tuần giảm liều hơn 1 mg. Người đã thôi dùng steroid đường uống mà chức năng thượng thận của họ đã từng bị suy giảm, thì phải có một phiếu nêu rõ họ có thể cần dùng steroid bổ sung trong các thời kỳ bệnh (như hen tiên lượng xấu, nhiễm khuẩn hô hấp, chấn thương...). Đã có trường hợp người hen tử vong do suy thượng thận trong và sau khi chuyển dùng steroid đường uống sang dùng beclometason đường hít.
 
 ## **Liều lượng và cách dùng**
 
@@ -11721,17 +11535,15 @@ Các hỗn dịch nước phun mũi: Giữ ở 2 - 30 o C, không để đông l
 
 *Cấp tính*: Hít thuốc với liều vượt quá liều qui định có thể làm suy giảm nhất thời chức năng tuyến thượng thận. Tuy nhiên, không cần thiết phải sử dụng các biện pháp cấp cứu. Ở những người bệnh này, dùng beclometason hít vẫn phải tiếp tục với liều đủ để kiểm soát được hen. Chức năng thượng thận sẽ hồi phục trong vài ngày và có thể kiểm tra bằng cách đo cortisol huyết tương.
 
-
-dùng liều duy trì thích hợp bằng một steroid dùng đường toàn thân, thí dụ prednisolon. Sau khi thể trạng người bệnh đã ổn định, có thể chuyển lại dùng beclometason hít.
+Mạn tính: Ở người bệnh dùng gấp đôi liều tối đa qui định beclometason hít, có sự giảm hàm lượng cortisol huyết tương. Khi dùng beclometason với liều rất cao hàng tuần hoặc hàng tháng, tuyến thượng thận có thể bị teo ở một mức độ nào đó, kèm theo suy giảm chức năng dưới đồi - tuyến yên - thượng thận. Người bệnh phải được điều trị coi như bị phụ thuộc steroid và chuyển sang dùng liều duy trì thích hợp bằng một steroid dùng đường toàn thân, thí dụ prednisolon. Sau khi thể trạng người bệnh đã ổn định, có thể chuyển lại dùng beclometason hít.
 
 ## **Thông tin quy chế**
 
 Beclomethason dipropionat có trong Danh mục thuốc thiết yếu tân dược ban hành lần thứ VI, năm 2013 và Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **BENAZEPRIL**
 
-**Tên chung quốc tế:** Benazepril.
+**Tên chung quốc tế:** Benazepril
 
 **Mã ATC:** C09AA07.
 
@@ -11787,8 +11599,7 @@ Mẫn cảm với benazepril hoặc với bất cứ thành phần nào của th
 
 ## **Thận trọng**
 
-
-huyết áp có thể rõ trên những bệnh nhân suy tim sung huyết có thiểu niệu và/hoặc urê huyết cao, đôi khi dẫn đến suy thận cấp và tử vong. Do đó khi dùng benazepril cho bệnh nhân suy tim, cần theo dõi chặt chẽ trong vòng ít nhất 2 tuần đầu điều trị hoặc khi phối hợp với thuốc lợi niệu hoặc khi thay đổi liều của một trong 2 thuốc này. Khi giảm huyết áp xuất hiện, cần đặt bệnh nhân ở tư thế nằm ngửa và truyền tĩnh mạch dung dịch natri clorid 0,9%. Vẫn tiếp tục dùng được benazepril khi thể tích máu và tuần hoàn được hồi phục. Trong phẫu thuật lớn, hoặc khi gây mê với thuốc gây mê hạ huyết áp, thuốc ức chế men chuyển angiotensin ngăn cản tạo angiotensin II sau giải phóng renin. Điều này gây hạ huyết áp mạnh, có thể hiệu chỉnh dễ dàng bằng tăng thể tích huyết tương.
+Cũng giống các thuốc ức chế men chuyển angiotensin khác, benazepril có thể gây giảm huyết áp, đặc biệt trên những bệnh nhân giảm thể tích tuần hoàn hoặc mất Na+ do dùng thuốc lợi tiểu lâu dài, chế độ ăn giảm muối, thẩm tách máu, tiêu chảy hoặc nôn. Giảm huyết áp có thể rõ trên những bệnh nhân suy tim sung huyết có thiểu niệu và/hoặc urê huyết cao, đôi khi dẫn đến suy thận cấp và tử vong. Do đó khi dùng benazepril cho bệnh nhân suy tim, cần theo dõi chặt chẽ trong vòng ít nhất 2 tuần đầu điều trị hoặc khi phối hợp với thuốc lợi niệu hoặc khi thay đổi liều của một trong 2 thuốc này. Khi giảm huyết áp xuất hiện, cần đặt bệnh nhân ở tư thế nằm ngửa và truyền tĩnh mạch dung dịch natri clorid 0,9%. Vẫn tiếp tục dùng được benazepril khi thể tích máu và tuần hoàn được hồi phục. Trong phẫu thuật lớn, hoặc khi gây mê với thuốc gây mê hạ huyết áp, thuốc ức chế men chuyển angiotensin ngăn cản tạo angiotensin II sau giải phóng renin. Điều này gây hạ huyết áp mạnh, có thể hiệu chỉnh dễ dàng bằng tăng thể tích huyết tương.
 
 Benazepril có thể gây vàng da và làm tăng rõ men gan, dẫn đến hoại tử gan cấp và tử vong. Do đó, cần dùng thận trọng trên những bệnh nhân có bệnh lý về gan.
 
@@ -11844,7 +11655,7 @@ Khi có phù mạch kèm theo sưng ở mặt, niêm mạc miệng, môi và cá
 
 ## **Liều lượng và cách dùng**
 
-## *Tăng huyết áp*
+### *Tăng huyết áp*
 
 *Người lớn:*
 
@@ -11856,7 +11667,7 @@ Chưa có đủ bằng chứng về tính an toàn và liều khuyến cáo cho 
 
 *Ghi chú*: Dùng liều khởi đầu 5 mg cho người suy thận (độ thanh thải creatinin dưới 30 ml/phút/1,73m<sup>2</sup> ) hoặc người đang sử dụng thuốc lợi tiểu. Tốt nhất là nên ngừng thuốc lợi tiểu 2 - 3 ngày trước khi bắt đầu dùng benazepril và sau đó cho dùng lại nếu thấy cần thiết để đề phòng hạ huyết áp quá mức. Liều duy trì không quá 40 mg/ngày cho người suy thận.
 
-## *Suy tim sung huyết:*
+### *Suy tim sung huyết:*
 
 Dùng liều khởi đầu 2,5 mg, ngày một lần, sau đó điều chỉnh liều tùy theo đáp ứng của bệnh nhân tới tối đa 20 mg một ngày.
 
@@ -11870,8 +11681,7 @@ Dùng liều khởi đầu 2,5 mg, ngày một lần, sau đó điều chỉnh l
 
 *Thuốc chống viêm không steroid:* Các thuốc chống viêm không steroid (như naproxen, phenylbutazon, mefenamic acid, indomethacin, diclofenac, ibuprofen…) có thể làm giảm tác dụng hạ áp của thuốc ức chế men chuyển angiotensin do ức chế tổng hợp prostaglandin ở thận và/hoặc gây giữ natri và dịch.
 
-
-thuốc bổ sung kali hoặc các thuốc làm tăng nồng độ kali huyết khác khi dùng cùng với benazepril có thể tăng nguy cơ tăng kali huyết. *Lithium*: Thuốc ức chế men chuyển có thể làm tăng nồng độ lithi trong máu và gây ngộ độc lithi khi dùng kèm.
+*Thuốc đồng (chủ) vận giao cảm:* Dùng đồng thời, gây giảm tác dụng chống tăng huyết áp của thuốc ức chế men chuyển angiotensin. *Thuốc làm tăng nồng độ kali huyết:* Thuốc lợi tiểu giữ kali, các thuốc bổ sung kali hoặc các thuốc làm tăng nồng độ kali huyết khác khi dùng cùng với benazepril có thể tăng nguy cơ tăng kali huyết. *Lithium*: Thuốc ức chế men chuyển có thể làm tăng nồng độ lithi trong máu và gây ngộ độc lithi khi dùng kèm.
 
 ## **Độ ổn định và bảo quản**
 
@@ -11891,12 +11701,11 @@ Benazepril hydroclorid có trong Danh mục thuốc tân dược thuộc phạm 
 
 *Hyperzeprin.*
 
-
 # **BENZATHIN PENICILIN G**
 
 **Tên chung quốc tế:** Benzathine benzylpenicillin.
 
-**Mã ATC:** J01CE08.
+**Mã ATC**: J01CE08.
 
 **Loại thuốc:** Kháng sinh nhóm beta-lactam.
 
@@ -11955,7 +11764,6 @@ Chưa thiết lập độ an toàn của thuốc ở phụ nữ mang thai. Do ch
 ## **Thời kỳ cho con bú**
 
 Do penicilin G được phân bố vào sữa, cần thận trọng khi sử dụng thuốc cho phụ nữ đang cho con bú.
-
 
 ## **Tác dụng không mong muốn (ADR)**
 
@@ -12051,13 +11859,11 @@ Benzathin penicilin G có trong Danh mục thuốc thiết yếu tân dược ba
 
 Hanbecil.
 
-
-
 # **BENZOYL PEROXID**
 
 **Tên chung quốc tế:** Benzoyl peroxide.
 
-**Mã ATC:** D10AE01.
+**Mã ATC:** D10AE01
 
 **Loại thuốc:** Thuốc kháng khuẩn và bong lớp sừng.
 
@@ -12165,14 +11971,13 @@ Benzoyl peroxyd có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 *Eclaran 5; Newgi 5; Oxy 5; Oxy cover; PanOxyl.*
 
+# **BENZYL BENZOAT**
 
-#### BENZYL BENZOAT
+Tên chung quốc tế: Benzyl benzoate.
 
-**Tên chung quốc tế:** Benzyl benzoate.
+Mã ATC: P03AX01.
 
-**Mã ATC:** P03AX01.
-
-**Loại thuốc:** Thuốc trị ghẻ và chấy, rận.
+Loại thuốc: Thuốc trị ghẻ và chấy, rận.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -12252,13 +12057,13 @@ Xử trí: Rửa dạ dày, điều trị triệu chứng.
 
 Benzyl benzoat có trong Danh mục thuốc thiết yếu tân được ban hành lần thứ VI, năm 2013.
 
-#### BENZYLPENICILIN
+# **BENZYLPENICILIN**
 
-**Tên chung quốc tế:** Benzylpenicillin.
+Tên chung quốc tế: Benzylpenicillin.
 
 **Mã ATC:** J01CE01, S01AA14.
 
-**Loại thuốc:** Kháng sinh nhóm beta-lactam.
+Loại thuốc: Kháng sinh nhóm beta-lactam.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -12270,10 +12075,7 @@ Dạng thuốc bột tan trong nước để tiêm: 500 000 đơn vị (IU), 1 t
 
 Benzylpenicilin hay penicilin G là kháng sinh nhóm beta - lactam. Là một trong những penicilin được dùng đầu tiên trong điều trị. Penicilin G diệt khuẩn bằng cách ức chế sự tổng hợp thành tế bào vi khuẩn. Tuy nhiên, tác dụng này bị giảm bởi penicilinase và các beta-lactamase khác. Penicilin G không bền trong môi trường acid, do đó không được hấp thu qua đường uống. Khả dụng sinh học theo đường uống chỉ đạt khoảng 15 - 30%. Do vậy, penicilin G chủ yếu được dùng đường tiêm và tốt nhất nên tiêm tĩnh mạch.
 
-Để kháng sinh có tác dụng điều trị, vấn đề quan trọng là phải duy trì được nồng độ thuốc trong huyết tương cao hơn nồng độ tối thiểu ức chế (MIC) các vi khuẩn. Penicilin G có tác dụng tốt với cầu khuẩn Gram dương, bao gồm cả *Streptococcus* nhóm B. Giá trị MIC thường rất khác nhau, từ dưới 0,002 microgam/ml đến
-
-
-0,1 microgam/ml, tùy thuộc vào loài vi khuẩn và mức độ nhạy cảm. Nói chung, các cầu khuẩn *Enterococcus* kém nhạy cảm và đôi khi kháng hoàn toàn. Các *Pneumococcus* cũng kháng penicilin G và các kháng sinh beta-lactam khác. Trước đây, penicilin G được cho rằng có tác dụng ức chế cả các cầu khuẩn Gram âm, như *Meningococcus* và *Gonococcus* với MIC thấp khoảng 0,03 microgam/ml. Nhưng tình trạng kháng thuốc lan tràn ở Việt Nam hiện nay làm cho penicilin G bị mất tác dụng trong một số trường hợp. Cho đến nay, *Gonococcus* gần như kháng penicilin G hoàn toàn do tạo beta-lactamase. Hiện tượng này là phổ biến ở cả khu vực Đông Nam Á.
+Để kháng sinh có tác dụng điều trị, vấn đề quan trọng là phải duy trì được nồng độ thuốc trong huyết tương cao hơn nồng độ tối thiểu ức chế (MIC) các vi khuẩn. Penicilin G có tác dụng tốt với cầu khuẩn Gram dương, bao gồm cả *Streptococcus* nhóm B. Giá trị MIC thường rất khác nhau, từ dưới 0,002 microgam/ml đến 0,1 microgam/ml, tùy thuộc vào loài vi khuẩn và mức độ nhạy cảm. Nói chung, các cầu khuẩn *Enterococcus* kém nhạy cảm và đôi khi kháng hoàn toàn. Các *Pneumococcus* cũng kháng penicilin G và các kháng sinh beta-lactam khác. Trước đây, penicilin G được cho rằng có tác dụng ức chế cả các cầu khuẩn Gram âm, như *Meningococcus* và *Gonococcus* với MIC thấp khoảng 0,03 microgam/ml. Nhưng tình trạng kháng thuốc lan tràn ở Việt Nam hiện nay làm cho penicilin G bị mất tác dụng trong một số trường hợp. Cho đến nay, *Gonococcus* gần như kháng penicilin G hoàn toàn do tạo beta-lactamase. Hiện tượng này là phổ biến ở cả khu vực Đông Nam Á.
 
 Nói chung, penicilin G có hiệu quả với *Haemophilus influenzae* tốt hơn penicilin V và ampicilin. Nhưng hiện tượng kháng thuốc phổ biến đối với *H. influenzae* do tạo ra beta-lactamase đã làm giảm hiệu quả của penicilin G đối với vi khuẩn này.
 
@@ -12305,8 +12107,7 @@ Khi dùng đường uống, benzylpenicilin bị mất hoạt tính nhanh ở đ
 
 Benzylpenicilin phân bố rộng với nồng độ khác nhau trong các mô và dịch cơ thể. Benzylpenicilin phân tán qua nhau thai vào tuần hoàn thai và một lượng nhỏ xuất hiện trong sữa. Thuốc thấm tốt hơn qua các mô bị viêm, tỷ lệ thuốc trong dịch não tủy ở người màng não bình thường < 1% và ở màng não viêm là 2 - 6%.
 
-
-đến 20 - 30 giờ. Do vậy, liều cho người bệnh trên 60 tuổi nên giảm khoảng 50% so với liều người lớn vì chức năng thận bị giảm. Khoảng 60% thuốc gắn với protein huyết tương. Thuốc chuyển hóa ở gan (khoảng 30%) thành acid peniciloic. Benzylpenicilin được chuyển hóa rồi bài tiết nhanh ở ống thận vào nước tiểu, khoảng 20% liều uống xuất hiện ở dạng không biến đổi trong nước tiểu và 60 - 90% liều tiêm bắp benzylpenicilin xuất hiện trong nước tiểu trong giờ đầu. Benzylpenicilin có thể loại được bằng thẩm tách máu. Penicilin G, khi tiêm tĩnh mạch với liều 150 000 - 250 000 đơn vị/kg/ngày, cho nồng độ huyết tương cao hơn MIC vài lần, thậm chí cả khi *S. pneumoniae* kháng penicilin. Do đó, tiêm penicilin G tĩnh mạch liều cao có thể vẫn còn là một cách điều trị có giá trị và hiệu quả trong một số trường hợp, nếu penicilin G được dùng đủ liều và tại những khoảng cách thời gian đúng. Một số nhà nghiên cứu lâm sàng đã chỉ ra rằng liều cao penicilin G 150 000 - 200 000 đơn vị/ kg/ngày vẫn có tác dụng trên các *Pneumococcus* kháng penicilin.
+Nửa đời trong huyết tương khoảng 30 - 50 phút ở người bình thường và kéo dài hơn ở trẻ sơ sinh và người cao tuổi vì chức năng thận giảm, khoảng 7 - 10 giờ ở người bệnh suy thận và trong trường hợp suy cả gan và thận, nửa đời trong huyết tương có thể kéo dài đến 20 - 30 giờ. Do vậy, liều cho người bệnh trên 60 tuổi nên giảm khoảng 50% so với liều người lớn vì chức năng thận bị giảm. Khoảng 60% thuốc gắn với protein huyết tương. Thuốc chuyển hóa ở gan (khoảng 30%) thành acid peniciloic. Benzylpenicilin được chuyển hóa rồi bài tiết nhanh ở ống thận vào nước tiểu, khoảng 20% liều uống xuất hiện ở dạng không biến đổi trong nước tiểu và 60 - 90% liều tiêm bắp benzylpenicilin xuất hiện trong nước tiểu trong giờ đầu. Benzylpenicilin có thể loại được bằng thẩm tách máu. Penicilin G, khi tiêm tĩnh mạch với liều 150 000 - 250 000 đơn vị/kg/ngày, cho nồng độ huyết tương cao hơn MIC vài lần, thậm chí cả khi *S. pneumoniae* kháng penicilin. Do đó, tiêm penicilin G tĩnh mạch liều cao có thể vẫn còn là một cách điều trị có giá trị và hiệu quả trong một số trường hợp, nếu penicilin G được dùng đủ liều và tại những khoảng cách thời gian đúng. Một số nhà nghiên cứu lâm sàng đã chỉ ra rằng liều cao penicilin G 150 000 - 200 000 đơn vị/ kg/ngày vẫn có tác dụng trên các *Pneumococcus* kháng penicilin.
 
 ## **Chỉ định**
 
@@ -12376,8 +12177,7 @@ Phải ngừng liệu pháp penicilin khi thấy phát ban, mẩn ngứa, bệnh
 
 *Test da dùng để phát hiện mẫn cảm:*
 
-
-hỗn hợp yếu tố quyết định phụ gồm có benzylpenicilin và các dẫn chất, bao gồm acid penicilloic và benzylpenicilloylamin cũng có thể được dùng. Nếu không có sẵn có thể thay thế bằng dung dịch benzylpenicilin. Phải có sẵn achenalin để đề phòng trường hợp phản ứng phản vệ. Kết quả test da không đáng tin cậy nếu làm một thời gian lâu trước khi bắt đầu liệu pháp. Cũng đã có 1 số test được triển khai *in vitro* như test dùng chất hấp phụ dị nguyên phóng xạ. *Giải mẫn cảm cho người mẫn cảm với penicilin nhưng nhất thiết phải dùng penicilin:* Phương pháp này có thể nguy hiểm, phải giám sát liên tục và phải luôn sẵn sàng cấp cứu hồi sức và adrenalin. Giải mẫn cảm phải coi là tạm thời, phản ứng dị ứng có thể xảy ra trong thời gian tiếp xúc lần sau với penicilin.
+Test da được dùng để đánh giá nguy cơ hiện tại của phản ứng tức thì qua trung gian IgE, phản ứng nghiêm trọng nhất là phản ứng phản vệ. Có thể dùng cả hai yếu tố quyết định chính và phụ của mẫn cảm penicilin; yếu tố quyết định chính hiện có dưới dạng penicilloylpolylysin có thể dùng để phát hiện mẫn cảm với penicilin, chỉ được dùng cho người lớn có tiền sử mẫn cảm với penicilin. Một hỗn hợp yếu tố quyết định phụ gồm có benzylpenicilin và các dẫn chất, bao gồm acid penicilloic và benzylpenicilloylamin cũng có thể được dùng. Nếu không có sẵn có thể thay thế bằng dung dịch benzylpenicilin. Phải có sẵn achenalin để đề phòng trường hợp phản ứng phản vệ. Kết quả test da không đáng tin cậy nếu làm một thời gian lâu trước khi bắt đầu liệu pháp. Cũng đã có 1 số test được triển khai *in vitro* như test dùng chất hấp phụ dị nguyên phóng xạ. *Giải mẫn cảm cho người mẫn cảm với penicilin nhưng nhất thiết phải dùng penicilin:* Phương pháp này có thể nguy hiểm, phải giám sát liên tục và phải luôn sẵn sàng cấp cứu hồi sức và adrenalin. Giải mẫn cảm phải coi là tạm thời, phản ứng dị ứng có thể xảy ra trong thời gian tiếp xúc lần sau với penicilin.
 
 Phải theo dõi số lượng bạch cầu khi điều trị penicilin kéo dài (≥ 10 ngày) vì 5 đến trên 15 % người bệnh điều trị lâu có giảm bạch cầu đa nhân trung tính. Các dấu hiệu gồm có sốt, phát ban và tăng bạch cầu ưa eosin.
 
@@ -12463,7 +12263,6 @@ Không được trộn lẫn penicilin với gentamicin (nhóm aminoglycosid).
 
 Nồng độ thuốc trong máu quá thừa có thể gây phản ứng có hại tới thần kinh như co giật, liệt và có thể tử vong. Khi dùng quá liều, phải ngừng dùng thuốc và điều trị triệu chứng và hỗ trợ theo yêu cầu.
 
-
 ## **Thông tin quy chế**
 
 Benzylpenicilin có trong Danh mục thuốc thiết yếu tân dược ban hành lần thứ VI, năm 2013 và Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
@@ -12471,7 +12270,6 @@ Benzylpenicilin có trong Danh mục thuốc thiết yếu tân dược ban hàn
 ## **Tên thương mại**
 
 *Penimid; Zentopeni CPC1.*
-
 
 # **BENZYLTHIOURACIL**
 
@@ -12481,7 +12279,7 @@ Benzylpenicilin có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 **Loại thuốc:** Thuốc kháng giáp, dẫn chất thiouracil.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 25 mg.
 
@@ -12569,7 +12367,6 @@ Ban da, mày đay, dị ứng, ngứa, rụng tóc, thường tự khỏi và kh
 
 Khi trạng thái tuyến giáp đã trở về bình thường, đặc biệt là khi thấy tăng thể tích bướu giáp, giảm năng giáp hoặc tăng TSH, phải giảm liều benzylthiouracil và dùng thêm levothyroxin.
 
-
 ## **Liều lượng và cách dùng**
 
 Khởi đầu cho người lớn, dùng liều tấn công, 150 - 200 mg mỗi ngày. Sau 2 - 4 tuần, khi có cải thiện về lâm sàng và xét nghiệm chức năng tuyến giáp trở về bình thường, phải điều chỉnh liều giảm dần trong thời gian 3 - 4 tháng, đến liều duy trì, thường là 100 mg mỗi ngày. Chia liều mỗi ngày ra làm 3 lần, uống vào các bữa ăn.Thời gian dùng thuốc trong vòng 12 - 18 tháng, tối đa là 24 tháng. Việc điều chỉnh để được liều duy trì rất quan trọng. Nếu dùng liều duy trì thấp quá, cường giáp sẽ xuất hiện trở lại hoặc nặng lên; nếu dùng liều duy trì cao quá dễ dẫn đến giảm năng giáp, mà biểu hiện là tăng thể tích bướu giáp, tăng TSH.
@@ -12597,7 +12394,6 @@ Viên nén benzylthiouracil được để trong bao bì kín, bảo quản ở 
 Dùng quá liều benzylthiouracil sẽ gây ra các tai biến như phần tác dụng không mong muốn đã nêu, nhưng mức độ nặng hơn. Nghiêm trọng nhất là suy tủy, mất bạch cầu hạt.
 
 Nếu mới xảy ra dùng thuốc quá liều, phải gây nôn hoặc rửa dạ dày. Nếu người bệnh hôn mê, lên cơn co giật hoặc không có phản xạ nôn, chỉ rửa dạ dày sau khi đã đặt nội khí quản có bóng chèn để tránh hít phải các chất chứa trong dạ dày. Cần chăm sóc, điều trị triệu chứng, như dùng thuốc giảm đau, an thần. Nếu cần, có thể phải dùng kháng sinh hoặc corticoid, truyền máu nếu suy tủy và giảm bạch cầu nặng.
-
 
 # **BETAMETHASON**
 
@@ -12643,10 +12439,7 @@ Dùng trong nhiều bệnh như thấp khớp, bệnh hệ thống tạo keo, d�
 
 *Các bệnh máu:* Giảm tiểu cầu tự phát hoặc thứ phát ở người lớn, thiếu máu tan máu mắc phải (tự miễn), phản ứng truyền máu. *Các bệnh tiêu hóa:* Các bệnh viêm gan mạn tính tự miễn và các bệnh
 
-đại tràng, đợt tiến triển của bệnh Crohn và viêm loét đại trực tràng
-
-chảy máu.
-
+đại tràng, đợt tiến triển của bệnh Crohn và viêm loét đại trực tràng chảy máu.
 
 *Các bệnh ung thư:* Điều trị tạm thời bệnh bạch cầu và u lympho ở người lớn và bệnh bạch cầu cấp ở trẻ em.
 
@@ -12714,8 +12507,7 @@ Khác: Các phản ứng dạng phản vệ hoặc quá mẫn và giảm huyết
 
 ## **Hướng dẫn cách xử trí ADR**
 
-
-chế bơm proton). Người bệnh đang dùng corticoid mà bị thiếu máu thì cần nghĩ đến nguyên nhân có thể do chảy máu dạ dày.
+Đa số các tác dụng không mong muốn thường có thể phục hồi hoặc giảm thiểu bằng cách giảm liều; cách này thường ưa dùng hơn là ngừng thuốc. Dùng corticosteroid dạng uống kèm với thức ăn hạn chế được chứng khó tiêu hoặc kích ứng đường tiêu hóa có thể xảy ra. Người bệnh điều trị kéo dài với corticosteroid ở liều điều trị có thể phải hạn chế dùng natri và bổ sung kali trong quá trình điều trị. Vì corticosteroid làm tăng dị hóa protein, nên cần thiết phải tăng khẩu phần protein trong quá trình điều trị kéo dài. Dùng calci và vitamin D có thể giảm nguy cơ loãng xương do corticosteroid gây nên trong quá trình điều trị kéo dài. Những người có tiền sử hoặc có yếu tố nguy cơ loét dạ dày phải được điều trịdự phòng bằng thuốc chống loét (thuốc kháng acid, hoặc đối kháng thụ thể H<sup>2</sup> hoặc ức chế bơm proton). Người bệnh đang dùng corticoid mà bị thiếu máu thì cần nghĩ đến nguyên nhân có thể do chảy máu dạ dày.
 
 ## **Liều lượng và cách dùng**
 
@@ -12773,10 +12565,9 @@ Betamethason valerat có trong Danh mục thuốc thiết yếu tân dược ban
 
 *Agi-Beta; Antoxcin; Benthasone; Beprogel; Besion; Betametlife; Betene; Celestone; Cetasone; Dexlaxyl; Emtaxol; HoeBeprosone; Mekocetin; Metacort; Metasin; Metasone; NIC-Dextalcin; Pajion; Sinil Betamethasone Tab; Tembevat; Valizyg Eczema; VTSones; Wimaty.*
 
-
 # **BETAXOLOL**
 
-**Tên chung quốc tế:** Betaxolol.
+**Tên chung quốc tế**: Betaxolol.
 
 **Mã ATC:** C07AB05, S01ED02.
 
@@ -12790,8 +12581,7 @@ Dạng nhỏ mắt: Dung dịch 0,5% betaxolol hydroclorid (5 ml, 10 ml, 15 ml),
 
 ## **Dược lý và cơ chế tác dụng**
 
-
-không có tác dụng ổn định màng (gây tê). Với liều thấp, betaxolol ức chế cạnh tranh trên các thụ thể beta<sup>1</sup> -adrenergic ở tim, ít tác dụng trên thụ thể beta<sup>2</sup> -adrenergic ở cơ trơn mạch máu và phế quản. Khi dùng ở liều cao, tính chọn lọc của betaxolol giảm, thuốc ức chế cạnh tranh cả thụ thể beta<sup>1</sup> và beta<sup>2</sup> adrenergic. Betaxolol có tác dụng trong điều trị đau thắt ngực vì thuốc làm giảm tần số tim, huyết áp, lực co bóp cơ tim và làm giảm công của tim nên làm giãn cơ tim tiêu thụ oxy, làm tăng lưu lượng máu động mạch vành và cải thiện tưới máu cơ tim. Cơ chế chống tăng huyết áp của betaxolol là do hiệu suất tim giảm (tác dụng co sợi cơ tim và điều nhịp giảm), hoạt tính adrenergic giảm và ức chế giải phóng renin.
+Betaxolol là một thuốc chẹn beta<sup>1</sup> -adrenergic chọn lọc mạnh nhất hiện có. Trên cơ sở 1 phân tử, betaxolol có hoạt tính tương đương với propranolol, mạnh hơn metoprolol 2 - 8 lần và hơn atenolol 9 lần. Thuốc không có hoạt tính thực chất giống thần kinh giao cảm, không có tác dụng ổn định màng (gây tê). Với liều thấp, betaxolol ức chế cạnh tranh trên các thụ thể beta<sup>1</sup> -adrenergic ở tim, ít tác dụng trên thụ thể beta<sup>2</sup> -adrenergic ở cơ trơn mạch máu và phế quản. Khi dùng ở liều cao, tính chọn lọc của betaxolol giảm, thuốc ức chế cạnh tranh cả thụ thể beta<sup>1</sup> và beta<sup>2</sup> adrenergic. Betaxolol có tác dụng trong điều trị đau thắt ngực vì thuốc làm giảm tần số tim, huyết áp, lực co bóp cơ tim và làm giảm công của tim nên làm giãn cơ tim tiêu thụ oxy, làm tăng lưu lượng máu động mạch vành và cải thiện tưới máu cơ tim. Cơ chế chống tăng huyết áp của betaxolol là do hiệu suất tim giảm (tác dụng co sợi cơ tim và điều nhịp giảm), hoạt tính adrenergic giảm và ức chế giải phóng renin.
 
 Betaxolol không ảnh hưởng tới chuyển hóa glucose hoặc tốc độ phục hồi nồng độ glucose máu sau khi hạ glucose máu. Nồng độ cholesterol toàn phần và triglycerid trong huyết thanh của một số người bệnh có thể tăng nhẹ sau khi uống betaxolol, thuốc không làm giảm nồng độ lipoprotein tỷ trọng cao (HDL) trong huyết thanh.
 
@@ -12885,7 +12675,6 @@ Da: Các phản ứng dị ứng da và quá mẫn với thuốc.
 
 Khác: Chảy mồ hôi, tiểu tiện khó, sốt, chuột rút, ảo giác.
 
-
 *Tác dụng không mong muốn khi dùng nhỏ mắt:*
 
 Các dạng thuốc nhỏ mắt của betaxolol có thể gây ra một số tác dụng không mong muốn tại chỗ, hay gặp là khó chịu và đau ở vùng mắt, ngứa, chảy nước mắt. Các ADR hiếm gặp là: Nhìn mờ, khô mắt, viêm giác mạc dạng chấm, sợ ánh sáng, cứng mi, giảm thị lực. Thuốc cũng có thể gây phản ứng dị ứng và phù nề.
@@ -12946,7 +12735,6 @@ Betaxolol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 *Betoptic S; Iobet.*
 
-
 # **BEXAROTEN**
 
 **Tên chung quốc tế:** Bexarotene.
@@ -12984,7 +12772,6 @@ Phụ nữ có hoặc nghi ngờ có thai, do nguy cơ gây quái thai.
 Phụ nữ cho con bú.
 
 Bệnh nhân có tiền sử viêm tụy cấp.
-
 
 ## **Thận trọng**
 
@@ -13024,7 +12811,7 @@ Không rõ thuốc có bài tiết qua sữa mẹ hay không. Do nguy cơ xảy 
 
 ## **Tác dụng không mong muốn (ADR)**
 
-## *Dùng đường uống:*
+### *Dùng đường uống:*
 
 *Rất thường gặp, ADR > 1/10* Tim mạch: Phù ngoại vi.
 
@@ -13066,7 +12853,7 @@ Hô hấp: Viêm họng, viêm mũi, khó thở, tràn dịch màng phổi, viê
 
 Khác: Hội chứng giống cúm, nhiễm khuẩn.
 
-#### *Dùng bôi ngoài da:*
+### *Dùng bôi ngoài da:*
 
 *Rất thường gặp, ADR > 1/10*
 
@@ -13098,10 +12885,9 @@ Trường hợp kết quả xét nghiệm cho thấy bệnh nhân có biểu hi�
 
 ## **Liều lượng và cách dùng**
 
-#### *Đường uống:*
+### *Đường uống:*
 
-
-một lần, vào bữa ăn.
+Liều khởi đầu là 300 mg/m<sup>2</sup> diện tích bề mặt cơ thể mỗi ngày, uống 258 Bexaroten một lần, vào bữa ăn.
 
 Trong trường hợp xảy ra độc tính, có thể giảm liều xuống 200 mg/m² rồi 100 mg/m² mỗi ngày hoặc tạm ngừng thuốc. Sau khi đã kiểm soát được độc tính, có thể thận trọng tăng liều dần dần.
 
@@ -13160,16 +12946,15 @@ Xử trí: Nếu xảy ra quá liều, sử dụng than hoạt cho người bệ
 
 Do thuốc hấp thu rất ít khi bôi ngoài da, khả năng quá liều xảy ra khi dùng thuốc theo đường này hầu như không có.
 
-
 # **BEZAFIBRAT**
 
-**Tên chung quốc tế:** Bezafibrate.
+Tên chung quốc tế: Bezafibrate.
 
-**Mã ATC:** C10AB02.
+Mã ATC: C10AB02.
 
 **Loại thuốc:** Thuốc chống rối loạn lipid huyết (nhóm fibrat).
 
-## **Dạng thuốc và hàm lượng**
+Dạng thuốc và hàm lượng
 
 Viên nén hoặc viên bao đường: 200 mg, 400 mg.
 
@@ -13196,7 +12981,6 @@ Nửa đời thải trừ: 2,1 giờ.
 Thuốc được phân bố rộng và tập trung ở gan, thận và ruột.
 
 60% đến 90% liều uống thải trừ vào nước tiểu, 50% thải trừ nguyên dạng, 20% liên hợp với acid glucuronic, phần còn lại là dưới dạng các chất chuyển hóa khác. Khoảng 3% thải trừ qua phân. Thuốc không bị tăng thải trừ khi dùng thuốc lợi niệu và không bị loại ra khi thẩm phân máu.
-
 
 ## **Chỉ định**
 
@@ -13301,14 +13085,13 @@ Bezafibrat có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 Lapoce; Regadrin B; Zafular.
 
-
 # **BIOTIN**
 
-**Tên chung quốc tế:** Biotin.
+Tên chung quốc tế: Biotin.
 
-**Mã ATC:** A11HA05.
+Mã ATC: A11HA05.
 
-**Loại thuốc:** Vitamin nhóm B.
+Loại thuốc: Vitamin nhóm B.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -13318,10 +13101,7 @@ Viên nén: 30 microgam (0,03 mg); 250 microgam (0,25 mg); 300 microgam (0,3 mg)
 
 ## **Dược lý và cơ chế tác dụng**
 
-Biotin là một vitamin hoà tan trong nước thuộc nhóm vitamin B. Biotin cần thiết cho sự hoạt động của các enzym chuyển vận các đơn vị carboxyl và gắn carbon dioxyd và cần cho nhiều chức năng chuyển hóa, bao gồm tân tạo glucose, tạo lipid, sinh tổng hợp acid béo, chuyển hóa propionat và dị hóa acid amin có mạch nhánh. Cho đến nay đã biết có 9 enzym phụ thuộc biotin. Enzym biotinidase tạo ra biotin trong cơ thể và cần thiết cho sự giải phóng biotin ra khỏi sự kết hợp với protein thức ăn. Sự thiếu hụt biotinidase là một rối loạn chuyển hoá di truyền lặn thể thường nhiễm sắc được
-
-
-đánh giá bằng hoạt lực biotinidase huyết thanh. Rối loạn đó ở trẻ em thường biểu hiện bởi các triệu chứng: Động kinh, giảm trương lực cơ, mất điều hoà, phát ban, rụng tóc, nhiễm toan chuyển hoá và acid hữu cơ niệu.
+Biotin là một vitamin hoà tan trong nước thuộc nhóm vitamin B. Biotin cần thiết cho sự hoạt động của các enzym chuyển vận các đơn vị carboxyl và gắn carbon dioxyd và cần cho nhiều chức năng chuyển hóa, bao gồm tân tạo glucose, tạo lipid, sinh tổng hợp acid béo, chuyển hóa propionat và dị hóa acid amin có mạch nhánh. Cho đến nay đã biết có 9 enzym phụ thuộc biotin. Enzym biotinidase tạo ra biotin trong cơ thể và cần thiết cho sự giải phóng biotin ra khỏi sự kết hợp với protein thức ăn. Sự thiếu hụt biotinidase là một rối loạn chuyển hoá di truyền lặn thể thường nhiễm sắc được đánh giá bằng hoạt lực biotinidase huyết thanh. Rối loạn đó ở trẻ em thường biểu hiện bởi các triệu chứng: Động kinh, giảm trương lực cơ, mất điều hoà, phát ban, rụng tóc, nhiễm toan chuyển hoá và acid hữu cơ niệu.
 
 Chế độ ăn uống cung cấp mỗi ngày 150 - 300 microgam biotin được coi là đủ. Một phần biotin do vi khuẩn chí ở ruột tổng hợp cũng được hấp thu.
 
@@ -13391,7 +13171,6 @@ Chưa có thông báo về độc tính của biotin trên người mặc dù đ
 
 *Biotin Stada; Trabiotin; Vincotine; Winbostin 5.*
 
-
 # **BIPERIDEN**
 
 **Tên chung quốc tế:** Biperiden.
@@ -13415,7 +13194,6 @@ Biperiden dạng tiêm là thuốc có hiệu quả và đáng tin cậy để �
 *Dược động học*
 
 Biperiden được hấp thu tốt qua đường tiêu hóa nhưng sinh khả dụng chỉ đạt khoảng 30% do lượng lớn bị chuyển hóa qua gan lần đầu. Thuốc được phân bố nhiều tại các mô với thể tích phân bố là 24 lít/kg. Thuốc đạt nồng độ tối đa trong huyết thanh sau khi uống 1 - 1,5 giờ. Nửa đời thải trừ là 18,4 - 24,3 giờ. Sau khi tiêm bắp, bắt đầu tác dụng sau 10 - 30 phút. Sau khi tiêm tĩnh mạch, bắt đầu tác dụng sau vài phút; thời gian tác dụng từ 1 - 8 giờ. Biperiden chuyển hóa thông qua phản ứng hydroxyl hóa. Không có tư liệu về độ thanh thải và bài tiết qua thận của biperiden.
-
 
 ## **Chỉ định**
 
@@ -13517,7 +13295,6 @@ Bảo quản ở nhiệt độ 15 - 30°C. Đựng trong bao bì kín, tránh á
 
 Hỗn hợp biperiden với haloperidol theo tỷ lệ 1:1 sau 4 giờ ở nhiệt độ phòng không quan sát thấy tương kỵ và sự giảm hàm lượng haloperidol.
 
-
 ## **Quá liều và xử trí**
 
 *Triệu chứng*: Quá liều biperiden gây những triệu chứng trung ương điển hình của ngộ độc atropin (hội chứng kháng acetylcholin trung ương). Việc chẩn đoán đúng phụ thuộc vào sự nhận biết những dấu hiệu ngoại vi của sự phong bế thần kinh phó giao cảm gồm đồng tử giãn và lờ đờ; da khô, ấm; đỏ bừng mặt; giảm tiết dịch ở miệng, họng, mũi và phế quản; hơi thở có mùi hôi; sốt; nhịp tim nhanh, loạn nhịp tim và bí tiểu tiện. Có thể có những dấu hiệu thần kinh tâm thần như hoang tưởng, mất định hướng, lo lắng, ảo giác, ảo tưởng, lú lẫn, tư duy không logic, kích động, tăng hoạt động, mất điều phối, mất trí nhớ, hoang tưởng hệ thống (paranoia), hung bạo và động kinh. Ngộ độc có thể tiến triển tới trạng thái tê mê, sững sờ, liệt, ngừng tim, ngừng thở, và tử vong.
@@ -13530,14 +13307,13 @@ Có thể tiêm bắp hoặc truyền chậm tĩnh mạch physostigmin 1 mg (dù
 
 Biperiden có trong Danh mục thuốc thiết yếu tân dược ban hành lần thứ VI, năm 2013 và Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **BISACODYL**
 
-**Tên chung quốc tế:** Bisacodyl.
+**Tên chung quốc tế**: Bisacodyl.
 
 **Mã ATC:** A06AB02, A06AG02.
 
-**Loại thuốc:** Thuốc nhuận tràng kích thích.
+**Loại thuốc**: Thuốc nhuận tràng kích thích.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -13595,7 +13371,6 @@ Dùng dài ngày làm đại tràng mất trương lực và giảm kali huyết
 
 Các ADR thường nhẹ nếu dùng ngắn ngày và thường tự hết. Tránh dùng thuốc đạn hoặc hỗn dịch để thụt ở người hay bị đau quặn ruột, nứt hậu môn hoặc trĩ bị loét. Viên bao phải nuốt. Nếu ỉa chảy, cần giảm liều.
 
-
 ## **Liều lượng và cách dùng**
 
 Bisacodyl dùng đường uống hoặc đường trực tràng dưới dạng viên đạn hay thụt rửa. Để giảm kích ứng ở dạ dày và buồn nôn, dùng dạng viên bao bisacodyl tan trong ruột, do đó không được nhai thuốc trước khi uống; các thuốc kháng acid và sữa cũng phải uống cách xa 1 giờ.
@@ -13636,7 +13411,6 @@ Bisacodyl có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Bilaxatif; Bisalaxyl; Bisarolax; Danalax; Dulcolax; Medobisa; Ovalax; Solril.*
 
-
 # **BISMUTH SUBCITRAT**
 
 **(Bismuth subcitrat keo)**
@@ -13647,7 +13421,7 @@ Bisacodyl có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 **Loại thuốc:** Tác nhân bảo vệ tế bào niêm mạc đường tiêu hóa.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 120 mg.
 
@@ -13680,7 +13454,6 @@ Viên 3 thành phần kết hợp được chống chỉ định với phụ n�
 Các hợp chất bismuth trước đây được thông báo có thể gây bệnh não. Liều khuyến cáo (480 mg/ngày) dùng trong 8 tuần để điều trị nhiễm *Helicobacter pylori* cho thấy không có biến đổi về thần kinh so với nhóm chứng. Tuy nhiên, nguy cơ nhiễm độc bismuth có thể tăng nếu vượt quá mức liều khuyến cáo như trong trường hợp quá liều, ngộ độc, uống thuốc trong thời gian dài hoặc uống cùng với những thuốc khác chứa bismuth.
 
 Phải thận trọng khi dùng bismuth subcitrat cho người bệnh có tiền sử chảy máu đường tiêu hóa trên (vì bismuth gây phân màu đen có thể nhầm lẫn với đại tiện máu đen).
-
 
 Phải xác định chắc chắn bị nhiễm *Helicobacter pylori* mới dùng phác đồ 3 thuốc phối hợp để tránh kháng thuốc.
 
@@ -13748,7 +13521,6 @@ Bismuth có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán 
 
 *Amebismo; Trymo; Ulcersep.*
 
-
 # **BISOPROLOL**
 
 **Tên chung quốc tế:** Bisoprolol.
@@ -13765,8 +13537,7 @@ Viên nén bao phim chứa bisoprolol fumarat: 1,25 mg; 2,5 mg; 3,75 mg; 5 mg; 7
 
 Bisoprolol là một thuốc chẹn chọn lọc beta<sup>1</sup> nhưng không có tính chất ổn định màng và không có tác dụng giống thần kinh giao cảm nội tại khi dùng trong phạm vi liều điều trị. Với liều thấp, bisoprolol ức chế chọn lọc đáp ứng với kích thích adrenalin bằng cách cạnh tranh chẹn thụ thể beta<sup>1</sup> -adrenergic của tim, nhưng ít tác dụng trên thụ thể beta<sup>2</sup> adrenergic của cơ trơn phế quản và thành mạch. Với liều cao (thí dụ 20 mg hoặc hơn), tính chất chọn lọc của bisoprolol trên thụ thể beta<sup>1</sup> thường giảm xuống và thuốc sẽ cạnh tranh ức chế cả hai thụ thể beta<sup>1</sup> và beta<sup>2</sup> .
 
-
-thể làm giảm các triệu chứng suy tim và cải thiện tình trạng lâm sàng của người bị suy tim mạn. Các tác dụng có lợi này đã được chứng minh ở người đang dùng một thuốc ức chế enzym chuyển, cho thấy sự phối hợp tác dụng ức chế hệ thống renin - angiotensin và ức chế hệ thần kinh giao cảm là các tác dụng hiệp đồng trong điều trị suy tim mạn tính.
+Bisoprolol được dùng để điều trị tăng huyết áp. Hiệu quả của bisoprolol tương đương với các thuốc chẹn beta khác. Cơ chế tác dụng hạ huyết áp của bisoprolol có thể gồm những yếu tố sau: Giảm lưu lượng tim, ức chế thận giải phóng renin và giảm tác động của thần kinh giao cảm đi từ các trung tâm vận mạch ở não. Nhưng tác dụng nổi bật nhất của bisoprolol là làm giảm tần số tim, cả lúc nghỉ lẫn lúc gắng sức. Bisoprolol làm giảm lưu lượng của tim lúc nghỉ và khi gắng sức, kèm theo ít thay đổi về thể tích máu tống ra trong mỗi lần tim bóp và chỉ làm tăng ít áp lực nhĩ phải hoặc áp lực mao mạch phổi bịt lúc nghỉ và lúc gắng sức. Trừ khi có chống chỉ định hoặc người bệnh không dung nạp được, thuốc chẹn beta được dùng phối hợp với các thuốc ức chế enzym chuyển, lợi tiểu và glycosid trợ tim để điều trị suy tim do loạn chức năng thất trái, để làm giảm suy tim tiến triển. Tác dụng tốt của các thuốc chẹn beta trong điều trị suy tim mạn sung huyết được cho chủ yếu là do ức chế các tác động của hệ thần kinh giao cảm. Dùng thuốc chẹn beta lâu dài, cũng như các thuốc ức chế enzym chuyển angiotensin, có thể làm giảm các triệu chứng suy tim và cải thiện tình trạng lâm sàng của người bị suy tim mạn. Các tác dụng có lợi này đã được chứng minh ở người đang dùng một thuốc ức chế enzym chuyển, cho thấy sự phối hợp tác dụng ức chế hệ thống renin - angiotensin và ức chế hệ thần kinh giao cảm là các tác dụng hiệp đồng trong điều trị suy tim mạn tính.
 
 *Dược động học*
 
@@ -13840,7 +13611,6 @@ Hệ TKTW: Giảm cảm giác, khó ngủ.
 
 Tim mạch: Nhịp tim chậm.
 
-
 Tiêu hoá: Buồn nôn. Hô hấp: Khó thở.
 
 Chung: Đau ngực, phù ngoại biên.
@@ -13857,7 +13627,7 @@ Khi xảy ra ADR với các biểu hiện trên, có thể xử trí như các t
 
 Để điều trị tăng huyết áp và đau thắt ngực ở người lớn, liều đầu tiên thường dùng là 2,5 - 5 mg, một lần mỗi ngày. Vì tính chọn lọc chẹn beta1adrenergic của bisoprolol fumarat không tuyệt đối (tính chọn lọc giảm xuống khi tăng liều), phải dùng thuốc thận trọng cho người bệnh có bệnh co thắt phế quản và bắt đầu điều trị với liều 2,5 mg, một lần mỗi ngày. Liều bắt đầu giảm bớt như vậy cũng có thể thích hợp với các người bệnh khác. Nếu liều 5 mg không có hiệu quả điều trị đầy đủ, có thể tăng liều lên 10 mg, và sau đó, nếu cần trong một số trường hợp rất nặng có thể tăng dần liều được dung nạp tới mức tối đa 20 mg, một lần mỗi ngày. Tuy nhiên, một số tác giả khuyên liều thường dùng trong điều trị tăng huyết áp từ 2,5 - 10 mg/ngày. Trường hợp bệnh nhân tăng huyết áp không có đáp ứng đầy đủ với bisoprolol 2,5 - 20 mg/ ngày hoặc bị giảm kali máu nặng sau khi dùng hydroclorothiazid 50 mg/ngày thì nên chuyển sang dùng kết hợp hai thuốc. Liều khởi đầu hàng ngày dạng kết hợp bisoprolol 2,5 mg và hydroclorothiazid tỷ lệ 6,25 mg. Khi cần có thể tăng liều thuốc kết hợp nhưng không vượt quá 20 mg bisoprolol và 12,5 mg hydroclorothiazid/ngày.
 
-#### *Điều trị suy tim mạn ổn định*
+### *Điều trị suy tim mạn ổn định*
 
 Trước khi cho điều trị bisoprolol, người bệnh bị suy tim mạn không có đợt cấp tính trong vòng 6 tuần và phải được điều trị ổn định, bằng phác đồ chuẩn (thuốc ức chế enzym chuyển, lợi tiểu, và/hoặc digitalis), đạt tới tình trạng suy tim "khô" (hết phù, không còn dịch màng phổi/màng tim, không còn ứ đọng phổi, gan thu nhỏ), sau đó bắt đầu dùng thêm bisoprolol vào phác đồ điều trị với nguyên tắc khởi đầu dùng liều thấp và tăng dần chậm. Việc điều trị phải do một thầy thuốc chuyên khoa tim mạch theo dõi. Điều trị suy tim mạn ổn định bằng bisoprolol phải bắt đầu bằng một thời gian điều chỉnh liều, liều được tăng dần theo các bước như sau:
 
@@ -13911,9 +13681,7 @@ Các dấu hiệu quá liều do thuốc chẹn beta gồm có nhịp tim chậm
 
 Nếu xảy ra quá liều, phải ngừng bisoprolol và điều trị hỗ trợ và triệu chứng. Có một số ít dữ liệu gợi ý bisoprolol fumarat không thể bị thẩm tách.
 
-*Nhịp tim chậm*: Tiêm tĩnh mạch atropin. Nếu đáp ứng không đầy đủ, có thể dùng thận trọng isoproterenol hoặc một thuốc khác có tác dụng làm tăng nhịp tim. Trong một số trường hợp, đặt máy tạo DTQGVN 2 Bleomycin 267
-
-nhịp tim tạm thời để kích thích tăng nhịp.
+*Nhịp tim chậm*: Tiêm tĩnh mạch atropin. Nếu đáp ứng không đầy đủ, có thể dùng thận trọng isoproterenol hoặc một thuốc khác có tác dụng làm tăng nhịp tim. Trong một số trường hợp, đặt máy tạo nhịp tim tạm thời để kích thích tăng nhịp.
 
 *Hạ huyết áp:* Truyền dịch tĩnh mạch và dùng các thuốc tăng huyết áp (isoproterenol hoặc một thuốc chủ vận alpha-adenergic). Có thể dùng glucagon tiêm tĩnh mạch.
 
@@ -13929,14 +13697,13 @@ Bisoprolol có trong Danh mục thuốc tân được thuộc phạm vi thanh to
 
 Agicardi; Bihasal; Bio-Biso; Bipro; Biprolol; Bisaten; Biscapro; Biselect 10; Bisocar-5; Bisohexal; Bisolcor 5; Bisoloc; Bisolota F.C.; Bisomark; Bisopro 5; Bisotab; Bonatil-5; CardicorMekophar; Concor; Concor cor; Corbis Tablet; Corbloc; Corneil; Domecor; Efrobis; Glocor; Haiblok; Melotil; Opesopril; Prolol SaVi; Romaprolol; Savi Prolol; Tevaprolol; Zabesta.
 
-
 # **BLEOMYCIN**
 
-**Tên chung quốc tế:** Bleomycin.
+Tên chung quốc tế: Bleomycin.
 
-**Mã ATC:** L01DC01.
+Mã ATC: L01DC01.
 
-**Loại thuốc:** Thuốc chống ung thư.
+Loại thuốc: Thuốc chống ung thư.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -13984,10 +13751,7 @@ Thận trọng khi dùng cho người đã được xạ trị, nhất là ở v
 
 ## **Thời kỳ mang thai**
 
-Thuốc qua nhau thai. Bleomycin cũng như hầu hết các thuốc độc với tế bào có thể gây quái thai và gây ung thư. Không dùng thuốc
-
-
-này cho người mang thai. Phụ nữ trong lứa tuổi sinh đẻ phải tránh mang thai trong quá trình được điều trị bằng bleomycin. Nếu bệnh nhân đang mang thai thì phải thông báo nguy cơ đối với thai.
+Thuốc qua nhau thai. Bleomycin cũng như hầu hết các thuốc độc với tế bào có thể gây quái thai và gây ung thư. Không dùng thuốc này cho người mang thai. Phụ nữ trong lứa tuổi sinh đẻ phải tránh mang thai trong quá trình được điều trị bằng bleomycin. Nếu bệnh nhân đang mang thai thì phải thông báo nguy cơ đối với thai.
 
 ## **Thời kỳ cho con bú**
 
@@ -14110,7 +13874,6 @@ Bleomycin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Blenamax; Bleocip.*
 
-
 # **BROMHEXIN HYDROCLORID**
 
 **Tên chung quốc tế:** Bromhexine hydrochloride.
@@ -14173,7 +13936,6 @@ Cần thận trọng khi dùng bromhexin cho người cao tuổi hoặc suy như
 
 Chưa nghiên cứu tác dụng sinh quái thai của bromhexin ở động vật thí nghiệm. Chưa có nghiên cứu đầy đủ và có kiểm soát về dùng bromhexin cho người mang thai, vì vậy, không khuyến cáo dùng bromhexin cho người mang thai.
 
-
 ## **Thời kỳ cho con bú**
 
 Còn chưa biết bromhexin có bài tiết vào sữa mẹ không. Vì vậy, không khuyến cáo dùng bromhexin cho phụ nữ nuôi con bú. Nếu cần dùng thì tốt nhất là không cho con bú.
@@ -14202,13 +13964,13 @@ Các ADR thường nhẹ và qua khỏi trong quá trình điều trị (trừ c
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Uống viên nén với 1 cốc nước. Dung dịch uống không được dùng để phun sương.
 
 Dung dịch tiêm: Có thể tiêm bắp, tĩnh mạch chậm trong 2 - 3 phút. Dung dịch tiêm cũng có thể truyền tĩnh mạch cùng với dung dịch glucose 5% (pha tới 20 mg/500 ml), hoặc dung dịch tiêm natri clorid 0,9% (pha tới 40 mg/500 ml). Không được trộn với dung dịch kiềm vì thuốc sẽ bị kết tủa.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 *Viên nén, uống:*
 
@@ -14266,7 +14028,6 @@ Bromhexin hydroclorid có trong Danh mục thuốc thiết yếu tân dược ba
 
 *Agi-Bromhexine; Biovon; Bisinthvon; Bisolvon; Bixovom 4; Disolvan; Dosulvon; Duo Hexin; Ekxine; Expecto; Flamolyte; Meyerhexin; Newbivo; NIC Besolvin; Paxirasol*.
 
-
 # **BROMOCRIPTIN**
 
 **Tên chung quốc tế:** Bromocriptine.
@@ -14285,8 +14046,7 @@ Viên nang bromocriptin mesilat: chứa 5 mg hoặc 10 mg bromocriptin.
 
 Bromocriptin, một dẫn chất từ nấm cựa gà, là thuốc chủ vận của thụ thể dopamin, gây hoạt hóa thụ thể sau synap của dopamin. Bromocriptin là thuốc chủ vận mạnh nhóm thụ thể D<sup>2</sup> của dopamin và là thuốc đối kháng một phần của nhóm thụ thể D<sup>1</sup> .
 
-
-này cũng tăng theo độ dài thời gian người bệnh bị vô kinh hoặc tăng tiết sữa trước khi điều trị; nhưng không có liên quan đến nồng độ prolactin trước khi điều trị cũng như mức độ làm giảm prolactin của bromocriptin. Kinh nguyệt rụng trứng thường trở lại trước khi hết hoàn toàn chứng tiết nhiều sữa. Thời gian có kinh nguyệt trở lại trung bình là 6 - 8 tuần; tuy nhiên, một số người bệnh có hiệu quả trong vòng vài ngày, một số người khác phải tới 24 tuần.
+Bromocriptin là thuốc không có tác dụng hormon, không có tác dụng oestrogen, làm giảm nồng độ prolactin huyết thanh bằng cách ức chế tiết prolactin từ thùy trước tuyến yên theo cơ chế tác dụng trực tiếp lên tuyến yên và/hoặc bằng cách kích thích các thụ thể dopamin sau sinap ở vùng dưới đồi để giải phóng yếu tố ức chế prolactin qua một con đường catecholamin phức tạp. Bromocriptin làm giảm đáng kể nồng độ prolactin huyết thanh; từ đó làm hồi phục quá trình rụng trứng và chức năng của buồng trứng ở người bệnh vô kinh và làm ức chế tiết sữa sinh lý và bệnh lý ở phụ nữ có nồng độ gonadotropin và chức năng buồng trứng đầy đủ. Ở một số người bệnh, kinh nguyệt có thể có trở lại khi dùng bromocriptin mặc dù chứng tăng prolactin huyết vẫn còn tiếp tục. Điều này cho thấy bromocriptin có thể kích thích giải phóng ra yếu tố gây tiết hormon tạo hoàng thể dưới đồi. Bromocriptin cũng có thể tác dụng trực tiếp lên các thụ thể dopamin ở buồng trứng từ đó làm phục hồi quá trình rụng trứng. Mặc dù cơ chế chưa rõ ràng nhưng bromocriptin cũng làm ức chế tiết sữa và làm cho chu kỳ kinh nguyệt trở lại ở những phụ nữ vô kinh có nồng độ prolactin huyết bình thường. Bromocriptin làm giảm nồng độ prolactin huyết ở nam giới có nồng độ prolactin cao hoặc bình thường. Thời gian cần để phục hồi lại chu kỳ kinh nguyệt hoặc quá trình rụng trứng và ức chế tiết sữa tăng lên ở những bệnh nhân bị giảm đáp ứng gonadotropin với yếu tố gây tiết hormon tạo hoàng thể và thời gian này cũng tăng theo độ dài thời gian người bệnh bị vô kinh hoặc tăng tiết sữa trước khi điều trị; nhưng không có liên quan đến nồng độ prolactin trước khi điều trị cũng như mức độ làm giảm prolactin của bromocriptin. Kinh nguyệt rụng trứng thường trở lại trước khi hết hoàn toàn chứng tiết nhiều sữa. Thời gian có kinh nguyệt trở lại trung bình là 6 - 8 tuần; tuy nhiên, một số người bệnh có hiệu quả trong vòng vài ngày, một số người khác phải tới 24 tuần.
 
 Phải mất nhiều thời gian hơn để kiểm soát chứng tiết nhiều sữa. Mức độ ức chế tiết sữa tùy theo mức độ kích thích mô vú trước khi điều trị. Thường giảm tiết ít nhất 75% sau 7 - 12 tuần. Một số ít người không có đáp ứng sau 24 tuần điều trị.
 
@@ -14333,7 +14093,6 @@ Bromocriptin được dùng để điều trị những dấu hiệu và triệu
 Liệu pháp bromocriptin có thể cho phép giảm liều duy trì của levodopa và như vậy có thể làm giảm tỷ lệ và mức độ nghiêm trọng của những tác dụng không mong muốn khi dùng levodopa dài ngày, như những vận động không tự chủ bất thường (ví dụ loạn động) và những rối loạn chức năng vận động khác.
 
 Hiện không có đầy đủ tư liệu để đánh giá hiệu quả điều trị bệnh Parkinson mới được chẩn đoán bằng bromocriptin. Tuy nhiên, nghiên cứu đã cho thấy ở người bệnh điều trị bằng bromocriptin, tác dụng không mong muốn nhiều hơn đáng kể (đặc biệt buồn nôn, ảo giác, lú lẫn, và hạ huyết áp) so với ở người bệnh điều trị bằng levodopa/carbidopa. Người không đáp ứng với levodopa cũng đáp ứng kém với bromocriptin.
-
 
 *Các chỉ định khác:*
 
@@ -14411,8 +14170,7 @@ Tuy hiếm, nhưng đã có gặp hạ huyết áp nhiều sau liều bromocript
 
 Để làm giảm tỷ lệ tác dụng không mong muốn, nên điều chỉnh liều lượng ở những khoảng cách từ 3 đến 7 ngày, nên uống thuốc cùng với thức ăn và nên uống một phần hoặc toàn bộ liều thuốc vào lúc đi ngủ, đặc biệt là liều đầu tiên.
 
-
-máu đường tiêu hóa trong khi điều trị với bromocriptin.
+Có thể làm giảm co thắt mạch ngón tay nhạy cảm với lạnh xảy ra ở một số người có bệnh to đầu chi được điều trị bằng bromocriptin, bằng cách giảm liều và có thể dự phòng bằng cách giữ ấm ngón tay. Phải theo dõi cẩn thận người bệnh có tiền sử loét dạ dày hoặc chảy máu đường tiêu hóa trong khi điều trị với bromocriptin.
 
 Ảo giác thường giảm khi giảm liều; đôi khi phải ngừng bromocriptin.
 
@@ -14485,8 +14243,6 @@ Bảo quản ở nhiệt độ dưới 25 °C; đựng trong bao bì kín, trán
 ## **Quá liều và xử trí**
 
 Quá liều bromocriptin có thể gây buồn nôn, nôn, hạ huyết áp thế đứng, vã mồ hôi và ảo giác. Xử trí quá liều bromocriptin bằng cách hút rửa dạ dày và truyền dịch tĩnh mạch để điều trị hạ huyết áp. Trường hợp có nôn và ảo giác, có thể chỉ định metoclopramid.
-
-
 
 # **BUDESONID**
 
@@ -14574,7 +14330,6 @@ Sử dụng kéo dài: Tác dụng budesonid toàn thân và tại chỗ dùng l
 
 Bệnh nhân bị bệnh Crohn và tổn thương gan vừa hoặc nặng phải được giám sát chặt vì có thể tăng các triệu chứng và dấu hiệu của tăng năng tuyến thượng thận. Liều uống budesonid phải giảm ở các bệnh nhân đó.
 
-
 ## **Thời kỳ mang thai**
 
 Nguyên tắc chung là nên tránh dùng thuốc trong thời kỳ mang thai, trừ khi lợi ích vượt trội so với nguy hại. Nếu việc điều trị bằng corticosteroid trong thai kỳ là không thể tránh được, thì nên dùng corticosteroid hít vì ảnh hưởng toàn thân thấp. Trẻ sơ sinh có mẹ đã dùng những liều corticosteroid đáng kể trong thai kỳ, phải được theo dõi về thiểu năng thượng thận và cân nặng.
@@ -14657,14 +14412,13 @@ Người lớn: 9 mg, uống ngày 1 lần vào buổi sáng trong khoảng từ
 
 Điều trị duy trì khi bệnh thuyên giảm: 6 mg/ngày uống 1 lần, cho tới 3 tháng; nếu triệu chứng vẫn kiểm soát được lúc 3 tháng, giảm dần liều để ngừng hoàn toàn; tiếp tục điều trị liều duy trì khi bệnh thuyên giảm trên 3 tháng không thấy có lợi hơn.
 
-## *Hen:*
+### *Hen:*
 
 Liều budesonid ban đầu và tối đa khuyến cáo hít qua miệng dựa vào liệu pháp điều trị hen trước. Nhà sản xuất gợi ý nếu người bệnh đang dùng liệu pháp corticosteroid uống từ trước phải bắt đầu giảm liều hàng ngày hoặc cách 1 ngày khoảng 1 tuần sau khi bắt đầu cho budesonid hít qua miệng, sau đó giảm thêm 1 hoặc 2 tuần nữa; thường mỗi lần giảm không quá 2,5 mg hoặc 25% prednison (hoặc thuốc tương đương) ở người bệnh dùng budesonid hít bột hoặc dịch treo qua miệng. Khi ngừng uống corticosteroid và các triệu chứng hen đã được kiểm soát, dùng liều budesonid thấp nhất có hiệu quả.
 
 Hít qua miệng dùng qua Turbuhaler: Liều ban đầu budesonid ở người lớn trước đó chỉ dùng các thuốc giãn phế quản: 160 - 320 microgam (chỉ dẫn trên nhãn 200 - 400 microgam) ngày 2 lần; liều tối đa khuyến cáo 320 microgam (nhãn ghi 400 microgam) ngày 2 lần; ở người lớn trước đó đang dùng corticosteroid hít qua miệng, liều ban đầu budesonid bột hít (qua Turbuhaler) khuyến cáo là 160 - 320 microgam (chỉ dẫn trên nhãn 200 - 400 microgam) ngày 2 lần; liều tối đa khuyến cáo 640 microgam (nhãn ghi 800 microgam) ngày 2 lần. Người lớn trước đây đang uống corticosteroid, liều khởi đầu budesonid bột hít khuyến cáo (qua Turbuhaler) là 320 - 640 microgam (nhãn ghi 400 - 800 microgam) ngày 2 lần; liều tối đa khuyến cáo là 640 microgam (nhãn ghi 800 microgam) ngày 2 lần. Trẻ em ≥ 6 tuổi (bột hít qua Turbuhaler): Nếu trước đó chỉ dùng các thuốc giãn phế quản duy nhất hoặc corticosteroid hít, liều budesonid khởi đầu khuyến cáo: 160 microgam (nhãn ghi 200 microgam) ngày 2 lần; liều tối đa khuyến cáo 320 microgam (nhãn ghi 400 microgam) ngày 2 lần. Nhà sản xuất cho rằng trẻ em ≥ 6 tuổi trước đó đang dùng corticosteroid uống, liều khuyến cáo cao nhất là 320 microgam (nhãn ghi 400 microgam) ngày 2 lần.
 
-
-hoặc 320 microgam (nhãn ghi 200 hoặc 400 microgam) ngày 1 lần. Budesonid có thể cho vào buổi sáng hoặc buổi chiều. Tuy nhiên, nếu liều dùng 1 lần không đỡ, tổng liều hàng ngày phải tăng lên và/ hoặc chia làm nhiều liều.
+Ở người hen nhẹ đến vừa có hen đã được kiểm soát tốt bằng corticosteroid hít, có thể dùng bột hít budesonid liều 160 microgam hoặc 320 microgam (nhãn ghi 200 hoặc 400 microgam) ngày 1 lần. Budesonid có thể cho vào buổi sáng hoặc buổi chiều. Tuy nhiên, nếu liều dùng 1 lần không đỡ, tổng liều hàng ngày phải tăng lên và/ hoặc chia làm nhiều liều.
 
 Hít qua miệng qua phun sương ở trẻ em (1 - 8 tuổi):
 
@@ -14706,7 +14460,6 @@ Budesonid có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Budecassa; Budecassa HFA; Budecort; Budenase AQ; Budiair; Buprine 200 Hfa; Cycortide; Derinide 100 Inhaler; Hanlimdesona Nasal; Narita; Pulmicort; Rhinocort Aqua; Ridecor.*
 
-
 # **BUPIVACAIN HYDROCLORID**
 
 **Tên chung quốc tế:** Bupivacaine hydrochloride.
@@ -14733,8 +14486,7 @@ Sau khi tiêm bupivacain gây tê xương cùng, ngoài màng cứng hoặc dây
 
 ## **Chỉ định**
 
-
-cách tiêm thuốc tê cách quãng hay nhỏ giọt liên tục qua catheter đặt vào khoang ngoài màng cứng.
+Gây tê từng lớp để mổ, và cả làm giảm đau sau mổ. Phong bế thân thần kinh và đám rối thần kinh để mổ. Gây tê ngoài màng cứng để mổ, hoặc kéo dài giảm đau sau mổ bằng cách tiêm thuốc tê cách quãng hay nhỏ giọt liên tục qua catheter đặt vào khoang ngoài màng cứng.
 
 Gây tê ngoài màng cứng để mổ đẻ hoặc giảm đau trong khi chuyển dạ. Gây tê tủy sống để mổ tiết niệu bụng dưới, chi dưới và mổ lấy thai.
 
@@ -14882,7 +14634,6 @@ Bupivacain hydroclorid có trong Danh mục thuốc thiết yếu tân dược b
 
 *Heavy; Tykacin Inj.*
 
-
 # **BUPRENORPHIN**
 
 **Tên chung quốc tế:** Buprenorphine.
@@ -14909,8 +14660,7 @@ Hoạt tính chủ vận và đối kháng trên receptor opioid của buprenorp
 
 Các opioid tác dụng ngắn khi dùng lặp lại sẽ dẫn đến những thay đổi về sinh lý thần kinh ở cấp độ tế bào và phân tử, bao gồm động học receptor, tín hiệu qua màng, dẫn truyền sau synap và các chất truyền tin nội bào dẫn đến sự phụ thuộc về thể chất và nghiện thuốc. Các opioid tác dụng dài như methadon, buprenorphin gây dung nạp chéo trên receptor opioid, vì thế ngăn ngừa được triệu chứng cai thuốc và cạnh tranh vị trí gắn trên receptor nên ức chế được tác dụng của các opioid khác. Hiện nay ở nhiều nước buprenorphin được dùng để điều trị phụ thuộc opioid, dùng buprenorphin và buprenorphin kết hợp với naloxon đặt dưới lưỡi với liều buprenorphin hằng ngày 12 - 16 mg.
 
-
-morphin, buprenorphin có thể an toàn hơn morphin khi dùng làm thuốc giảm đau cho người suy giảm chức năng tim được phẫu thuật tim mạch.
+Có thể dự phòng ức chế hô hấp và những tác dụng khác của buprenorphin bằng cách cho dùng trước naloxon, nhưng dù với liều cao, naloxon không đảo ngược được tác dụng ức chế hô hấp và các tác dụng khác nói trên khi chúng đã xảy ra, có thể do buprenorphin tách rất chậm khỏi các thụ thể opioid. Vì có ít tác dụng với tim mạch và không gây phản ứng kiểu phản vệ như morphin, buprenorphin có thể an toàn hơn morphin khi dùng làm thuốc giảm đau cho người suy giảm chức năng tim được phẫu thuật tim mạch.
 
 *Dược động học*
 
@@ -14976,7 +14726,6 @@ Tim mạch: Tăng huyết áp, nhịp tim nhanh hoặc chậm, những khác th�
 
 Hô hấp: Ức chế hô hấp, khó thở, chứng xanh tím, ngừng thở.
 
-
 Sinh dục - niệu: Bí tiểu tiện. Thần kinh - cơ và xương: Dị cảm. Mắt: Nhìn mờ, khác thường về thị giác. *Hiếm gặp ADR < 1/1 000* Hệ thần kinh trung ương: Trầm cảm, ảo giác.
 
 ## **Hướng dẫn cách xử trí ADR**
@@ -15033,7 +14782,6 @@ Thuốc tiêm buprenorphin hydroclorid tương kỵ với thuốc tiêm diazepam
 
 Thuốc hướng tâm thần.
 
-
 # **BUSULFAN**
 
 **Tên chung quốc tế:** Busulfan.
@@ -15045,7 +14793,6 @@ Thuốc hướng tâm thần.
 ## **Dạng thuốc và hàm lượng**
 
 Viên nén hoặc viên bao 2 mg.
-
 
 Lọ hoặc ống 10 ml (60 mg): Dung dịch 6 mg/ml trong dung môi gồm có 33% dimethylacetamid và 67% polyethylen glycol (tt/tt).
 
@@ -15063,7 +14810,7 @@ Busulfan là thuốc cần thiết và được lựa chọn đầu tiên, dùng
 
 Gần đây, các thuốc ức chế tyrosin kinase như imatinib điều trị CML có hiệu quả cao với độc tính thấp nên các thuốc hóa chất như busulfan trở thành lựa chọn thứ yếu.
 
-# *Dược động học*
+### *Dược động học*
 
 Hiện vẫn chưa có phương pháp phân tích định lượng nồng độ busulfan và các chất chuyển hóa trong mô hoặc huyết tương. Các nghiên cứu dược động học của busulfan phải dùng busulfan đánh dấu phóng xạ (35S, 14C, tritium). Dược động học của busulfan tiêm và busulfan uống tương tự nhau.
 
@@ -15108,7 +14855,6 @@ Dùng busulfan, phải thật thận trọng với người bệnh có tủy xư
 Ngoài độc tính cao với máu và phổi, cần hướng dẫn người bệnh biết các tai biến khác, để nếu xảy ra, phải báo ngay cho thầy thuốc biết như yếu đột ngột, mệt mỏi bất thường, chán ăn, giảm cân, buồn nôn và nôn, xạm da kèm hội chứng suy mòn, hoặc hội chứng kiểu Addison.
 
 Người bị bệnh bạch cầu mạn dòng tủy thường có tăng acid uric huyết, cần phải điều trị trước khi dùng busulfan (bù đủ nước và dùng alopurinol).
-
 
 Khi dùng busulfan liều cao, cần đề phòng cơn co giật, nhất là ở người có tiền sử động kinh, chấn thương sọ não, bằng cách cho dùng các thuốc nhóm benzodiazepin.
 
@@ -15188,7 +14934,6 @@ Pha chế dung dịch busulfan tiêm truyền và cách sử dụng:
 
 Không được tiêm tĩnh mạch trực tiếp busulfan trong ống tiêm hoặc lọ, mà phải pha loãng để truyền tĩnh mạch. Dùng dung dịch tiêm natri clorid 0,9% hoặc glucose 5% để pha loãng busulfan đến nồng độ khoảng 0,5 mg/ml. Mỗi ống tiêm busulfan đều được cung cấp một cái lọc nylon có lỗ lọc 5 micromét.
 
-
 Trước khi pha, phải tính thể tích dung dịch busulfan cần dùng. Phải hút dung dịch busulfan qua bộ phận lọc đã được cung cấp, lấy đúng bằng thể tích dung dịch busulfan đã tính. Dùng một kim tiêm mới, bơm dung dịch thuốc vào một túi truyền hoặc một bơm truyền tĩnh mạch đã có sẵn thể tích dịch pha loãng cũng đã được tính toán. Phải bơm dung dịch thuốc vào dịch pha loãng, không được bơm dịch pha loãng vào dung dịch thuốc. Dịch truyền busulfan đã pha loãng phải lắc trộn kỹ để đảm bảo thuốc trộn đều.
 
 Người pha thuốc, truyền thuốc và thao tác với thuốc phải được huấn luyện, phải đi găng bảo vệ, mặc quần áo bảo hộ, đeo kính, đeo khẩu trang trong khi sử dụng thuốc. Phải có tủ hốt (hood) an toàn để pha thuốc.
@@ -15251,7 +14996,6 @@ Itraconazol làm giảm độ thanh thải của busulfan khoảng 25%. Vì vậ
 
 Phenytoin làm tăng độ thanh thải của busulfan khoảng 15% hoặc hơn, do gây cảm ứng enzym glutathion-S-transaminase (GST). Vì busulfan có thể gây co giật, nên thường dùng phối hợp busulfan với phenytoin. Nếu không dùng phenytoin hoặc thay phenytoin bằng thuốc chống co giật khác không gây cảm ứng GST, sẽ làm giảm độ thanh thải của busulfan. Vì vậy, nếu dùng loại thuốc chống co giật không phải phenytoin cần theo dõi nồng độ busulfan trong huyết tương của người bệnh khi tiêm busulfan.
 
-
 Dùng acetaminophen phối hợp với busulfan hoặc dùng trong vòng 72 giờ trước busulfan sẽ làm giảm độ thanh thải của busulfan.
 
 Nồng độ cyclophosphamid huyết thanh có thể tăng nếu được dùng sớm (< 24 giờ) sau khi dùng busulfan. Cần chú ý đến điều này khi lập kế hoạch điều trị. Dùng busulfan và cyclophosphamid trước khi ghép tủy xương có thể là nguyên nhân gây những cơn co giật ở bệnh nhân được ghép tủy.
@@ -15277,7 +15021,6 @@ Có thể thẩm tách máu khi dùng quá liều busulfan. Ngoài ra, có thể
 ## **Thông tin quy chế**
 
 Busulfan có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
-
 
 # **BUTYLSCOPOLAMIN**
 
@@ -15399,9 +15142,9 @@ Butylscopolamin bromid (hyoscin butylbromid) có trong Danh mục thuốc thiế
 
 # **CÁC CHẤT ỨC CHẾ HMG-CoA REDUCTASE (Các statin)**
 
-**Tên chung quốc tế:** HMG-CoA reductase inhibitors.
+**Tên chung quốc tế**: HMG-CoA reductase inhibitors.
 
-**Mã ATC:** C10A A01: Simvastatin.
+**Mã ATC**: C10A A01: Simvastatin
 
 C10A A02: Lovastatin C10A A03: Pravastatin C10A A04: Fluvastatin C10A A05: Atorvastatin C10A A07: Rosuvastatin
 
@@ -15618,7 +15361,7 @@ Atorvastatin, fluvastatin, simvastatin, pravastatin và rosuvastatin Danh mục 
 
 #### Tóm tắt những khác biệt của các Statin
 
-#### SIMVASTATIN
+# **SIMVASTATIN**
 
 #### Dược lý/Dược động học
 
@@ -15637,7 +15380,6 @@ Liều duy trì: 5 đến 40 mg, một lần mỗi ngày, vào buổi tối. Li�
 ## **Tên thương mại**
 
 Agisimva 10; Amfastat 20; Athenil; Cadisimvas; Colivas 10; Deltasim 10; Dopaso Tab; Dosimvas; Eurosim; Fouratin 20; Geofsimva; Huotasim; Ifistatin 10; Intas Simtas- 10; Jinvasta; Kardak 10; Kimstatin; Lipcor 10; Lipisim 20; Liponil; Lipotab-20; Medovastatin 20; Medovastin 10; Medsim; Meyervastin 10; Mimvas-10; Neovastin; Opesimeta 10; Renapime; Simavas 10; Simbidan; Simcor; Simdo; Simgozen-20; SimHasan 10; Simlo-20; Simorchid-20; Simtanin; Simterol; Simtive 10; Simtor VPC 20; Simvacor; Simva-Denk 40; Simvafar; Simvaget; SimvaHexal; Simvasel; Simvaseo; Simvasnic; Simvastar; Simvatin 20; Simvazz 10; SimvEP; Simvin 10; Sinvaz; Sivanstant; Statinol; Sunvachi; Supevastin; Vastinxepa; Vida up; Zintatine 20; Zithin 20; Zocor; Zodalan 10; Zosim-20
-
 
 # **LOVASTATIN**
 
@@ -15661,7 +15403,6 @@ Giới hạn kê đơn cho người lớn: Cao nhất là 80 mg mỗi ngày.
 
 Basaterol; Cholstatin; Dolopina; Dolotin; Ildonglostatin; Lochol; Lovacol; Lovasatil; Lowsta; Vasitin 20; Vastanic 10; YSPLovastin
 
-
 # **PRAVASTATIN**
 
 #### Dược lý/Dược động học
@@ -15680,7 +15421,7 @@ Liều thông thường của người lớn: Khởi đầu 10 đến 20 mg, m�
 
 Pravacor 10.
 
-#### FLUVASTATIN
+# **FLUVASTATIN**
 
 #### Dược lý/Dược động học
 
@@ -15698,7 +15439,6 @@ Liều thông thường người lớn: Khởi đầu 20 mg, một lần mỗi n
 
 Lescol XL; SaVi Fluvastatin 80.
 
-
 # **ATORVASTATIN**
 
 ## Dược lý/Dược động học
@@ -15715,19 +15455,15 @@ Có thể uống liều duy nhất vào bất cứ lúc nào trong ngày, vào b
 
 ## **Tên thương mại**
 
-Acinet; Adortine; Afocical; Aforsatin; Alipid; Alvasta 10; Amsitor; Amtopid; Apamtor; Aroth; Aszolzoly 10; Aticlear; Atobaxl; Atocare-10; Atocor 20; Atodet; Atop; Ator VPC 10; Ator VPC 20; Atorchem; Atorec-20; Atorhasan 20; Atorin; Atoris; Atorlip; Atorlog 20; Atormarksans; Atormed 20; Atormin; Atoronobi; Atorota 10; Atorvis; Atostine; Atotas 20; Atotim-20; Atovast; Atrin; Atroact; Auliplus; Avas; Avastor; Axore; Aztor; Becolitor; Cheklip; Cholter; Citivas; Colestor 20; Conchol-10; Doetori; Dorotor; Ecosam; Eurostat-A; Ezvasten; Flypit; Forvastin 20; Gatfatit; Gentorvas; Glovitor; Higas; Hypolip; Leninarto; Levochem; Liapom; Libestor 10;
-
-
-Likiep 10; Lipibest 10; Lipiget; Lipirus; Lipi-safe; Lipistad; Lipitaksin; Lipitin A; Lipitor; Lipitra 40; Lipivastin; Lipofix 10; Lipotatin; Lipotrim; Lipovas; Lipstins 20; Liptin; Lipvar; Liritoss; Lisazin; Listate; Livastan; Lizidor; Locol 10; Lopirator; Medotor-10; Meyerator; Meyervastin 20; Modlip; Nolipit-10; Normelip 10; Normostat; Oftofacin 20; Optilip-20; Pelearto; Pilstat-10; Plearvaz; Pro-Statin; Rebure; Rolip; Rotacor; Rubina; Sanlitor; Satrov; Savitor 20; Shintovas; Statinagi; Storvas; Synator-20; Tab. Citemlo 20; Tafovas; Tarden; TCL-R 10; Tevatova; Tonact 20; Toritab 20; Torvalipin; Trova 20; Trovem; Troytor; TVS 10; Vasitor 20; Vaslor 10; Vastalax-10; Vastyrin 10; Zoamco; Zyatin; Zydusatorva
-
+Acinet; Adortine; Afocical; Aforsatin; Alipid; Alvasta 10; Amsitor; Amtopid; Apamtor; Aroth; Aszolzoly 10; Aticlear; Atobaxl; Atocare-10; Atocor 20; Atodet; Atop; Ator VPC 10; Ator VPC 20; Atorchem; Atorec-20; Atorhasan 20; Atorin; Atoris; Atorlip; Atorlog 20; Atormarksans; Atormed 20; Atormin; Atoronobi; Atorota 10; Atorvis; Atostine; Atotas 20; Atotim-20; Atovast; Atrin; Atroact; Auliplus; Avas; Avastor; Axore; Aztor; Becolitor; Cheklip; Cholter; Citivas; Colestor 20; Conchol-10; Doetori; Dorotor; Ecosam; Eurostat-A; Ezvasten; Flypit; Forvastin 20; Gatfatit; Gentorvas; Glovitor; Higas; Hypolip; Leninarto; Levochem; Liapom; Libestor 10;Likiep 10; Lipibest 10; Lipiget; Lipirus; Lipi-safe; Lipistad; Lipitaksin; Lipitin A; Lipitor; Lipitra 40; Lipivastin; Lipofix 10; Lipotatin; Lipotrim; Lipovas; Lipstins 20; Liptin; Lipvar; Liritoss; Lisazin; Listate; Livastan; Lizidor; Locol 10; Lopirator; Medotor-10; Meyerator; Meyervastin 20; Modlip; Nolipit-10; Normelip 10; Normostat; Oftofacin 20; Optilip-20; Pelearto; Pilstat-10; Plearvaz; Pro-Statin; Rebure; Rolip; Rotacor; Rubina; Sanlitor; Satrov; Savitor 20; Shintovas; Statinagi; Storvas; Synator-20; Tab. Citemlo 20; Tafovas; Tarden; TCL-R 10; Tevatova; Tonact 20; Toritab 20; Torvalipin; Trova 20; Trovem; Troytor; TVS 10; Vasitor 20; Vaslor 10; Vastalax-10; Vastyrin 10; Zoamco; Zyatin; Zydusatorva
 
 # **CALCI CLORID**
 
-**Tên chung quốc tế:** Calcium chloride.
+Tên chung quốc tế: Calcium chloride.
 
-**Mã ATC:** A12AA07, B05XA07, G04BA03.
+Mã ATC: A12AA07, B05XA07, G04BA03.
 
-**Loại thuốc:** Muối calci; bổ sung chất điện giải.
+Loại thuốc: Muối calci; bổ sung chất điện giải.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -15761,10 +15497,7 @@ Calci clorid dùng bằng đường tiêm tĩnh mạch ở nồng độ 100 mg/m
 
 Muối calci tiêm tĩnh mạch hấp thu trực tiếp vào tuần hoàn. Sau khi tiêm tĩnh mạch, nồng độ calci trong máu tăng lên ngay sau khi tiêm và có thể trở về giá trị trước đó trong vòng 30 phút đến 2 giờ. Sau khi hấp thu, calci đi vào dịch ngoại bào và sau đó nhanh chóng đi vào mô bộ xương. Tuy nhiên việc dùng calci không kích thích tạo mô xương.
 
-Nồng độ calci toàn phần trong máu bình thường có từ 9 - 10,4 mg/
-
-
-decilit, nhưng chỉ có ion calci mới có tác động sinh lý.
+Nồng độ calci toàn phần trong máu bình thường có từ 9 - 10,4 mg/decilit, nhưng chỉ có ion calci mới có tác động sinh lý.
 
 Sau khi dùng, ion calci thải trừ ra nước tiểu, được lọc tại cầu thận và có một lượng nhất định được tái hấp thu. Sự tái hấp thu ở ống thận là rất lớn vì có 98% lượng ion calci đã tái hấp thu trở lại tuần hoàn. Sự tái hấp thu này được điều chính mạnh bởi hormon cận giáp (parathyroid) ( PTH) và cũng bị ảnh hưởng bởi sự lọc Na<sup>+</sup>, sự có mặt của các anion không tái hấp thu, các chất lợi niệu. Các chất lợi niệu có hoạt tính trên nhánh lên của quai Henle làm tăng calci niệu. Trái lại, chỉ có các thuốc lợi niệu thiazid là không có sự gắn kết giữa thải trừ Na<sup>+</sup> và Ca<sup>++</sup> nên làm giảm calci niệu. Hormon cận giáp thường xuyên điều chính nồng độ calci trong máu bằng tác động lên ống thận. Calci niệu chỉ bị ảnh hưởng rất nhỏ bởi chế độ ăn ít calci ở người bình thường.
 
@@ -15854,10 +15587,7 @@ Người lớn: 500 mg tới 1 g (136 - 272 mg calci)/liều, cách 6 giờ. Ti�
 
 Điều trị tăng kali huyết có độc tính tim thứ phát:
 
-2,25 - 14 mEq calci (165,4 - 1029,4 mg calci clorid)/liều. Tiêm tĩnh mạch, đồng thời theo dõi điện tâm đồ. Có thể nhắc lại liều sau 1 - 2 phút nếu cần. Hoặc điều trị tăng kali huyết kèm theo nồng độ kali tăng lên nghiêm trọng (> 7 mEq/lít), có những thay đổi độc tính
-
-
-trên điện tâm đồ) ở người lớn: Tiêm tĩnh mạch 6,8 - 13,6 mEq calci (500 - 1 000 mg calci clorid), dùng dung dịch tiêm calci clorid 10% (5 - 10 ml) trong 2 - 5 phút để làm gỉảm tác dụng của kali tại màng tế bào cơ tim (ví dụ giảm nguy cơ rung tâm thất).
+2,25 - 14 mEq calci (165,4 - 1029,4 mg calci clorid)/liều. Tiêm tĩnh mạch, đồng thời theo dõi điện tâm đồ. Có thể nhắc lại liều sau 1 - 2 phút nếu cần. Hoặc điều trị tăng kali huyết kèm theo nồng độ kali tăng lên nghiêm trọng (> 7 mEq/lít), có những thay đổi độc tính trên điện tâm đồ) ở người lớn: Tiêm tĩnh mạch 6,8 - 13,6 mEq calci (500 - 1 000 mg calci clorid), dùng dung dịch tiêm calci clorid 10% (5 - 10 ml) trong 2 - 5 phút để làm gỉảm tác dụng của kali tại màng tế bào cơ tim (ví dụ giảm nguy cơ rung tâm thất).
 
 *Điều trị ngộ độc magnesi ở người lớn:* 
 
@@ -15925,7 +15655,6 @@ Có thể thẩm tách máu, dùng calcitonin và adrenocorticoid trong điều 
 
 Calci clorid có trong Danh mục thuốc thiết yếu tân dược ban hành lần thứ VI, năm 2013 và Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **CALCI GLUCONAT**
 
 **Tên chung quốc tế:** Calcium gluconate.
@@ -15938,8 +15667,7 @@ Calci clorid có trong Danh mục thuốc thiết yếu tân dược ban hành l
 
 Ống/lọ tiêm: 500 mg/5 ml, 1 g/10 ml, 5 g/50 ml, 10 g/100 ml, 20 g/200 ml. Mỗi mililit chứa 100 mg calci gluconat hoặc 9 mg (0,46 mEq) ion Ca++.
 
-
-ion Ca++; 1 000 mg calci gluconat hoặc 90 mg ion Ca++.
+Viên nén: 0,5 g; 0,65 g; 1 g. Mỗi viên lần lượt chứa 500 mg calci gluconat hoặc 45 mg ion Ca++; 650 mg calci gluconat hoặc 58,5 mg ion Ca++; 1 000 mg calci gluconat hoặc 90 mg ion Ca++.
 
 Viên nang: 515 mg; 700 mg. Mỗi viên lần lượt chứa 515 mg calci gluconat hoặc 50 mg ion Ca++; 700 mg calci gluconat hoặc 65 mg ion Ca++.
 
@@ -15976,7 +15704,6 @@ Sau khi dùng, lượng ion calci thải qua nước tiểu là hiệu số lư�
 Sau khi hấp thu, đầu tiên calci đi vào dịch ngoại bào, sau đó nhanh chóng đưa vào các mô bộ xương. Tuy nhiên, dùng calci không kích thích tạo xương. Xương chứa 99% calci của cơ thể, 1% còn lại phân bố đều giữa các dịch nội bào và ngoại bào.
 
 Nồng độ calci toàn phần trong huyết thanh bình thường là 9 - 10,4 mg/decilít, nhưng chỉ ion calci là có hoạt tính sinh lý. Calci dưới dạng ion chiếm 50% và calci dưới dạng phức hợp với phosphat, citrat và các anion khác chiếm 5% nồng độ calci toàn phần trong huyết thanh. Khoảng 45% calci trong huyết thanh liên kết với protein của huyết tương. Tăng protein huyết gắn liền với tăng nồng độ calci toàn phần trong huyết thanh; hạ protein huyết thì nồng độ calci toàn phần trong huyết thanh bị giảm. Chứng nhiễm acid làm cho nồng độ calci tăng lên, trong khi chứng nhiễm kiềm thúc đẩy nồng độ ion calci trong huyết thanh giảm xuống. Calci niệu chỉ bị ảnh hưởng ít bởi chế độ ăn calci ở người bình thường. Calci thừa dư thải trừ chủ yếu qua thận. Phần calci không hấp thu sẽ thải trừ chủ yếu ở phân, cũng thải trừ ở mật và dịch tụy; 20% calci thải trừ ở nước tiểu. Một số ít thải trừ qua mồ hôi, da, tóc, móng. Calci qua nhau thai và phân bố vào sữa mẹ.
-
 
 ## **Chỉ định**
 
@@ -16052,7 +15779,7 @@ Ngừng ngay tiêm tĩnh mạch. Tiêm truyền dung dịch natri clorid 0,9% v�
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Có thể dùng calci gluconat bằng đường tiêm, uống hoặc tại chỗ. Calci gluconat tiêm chỉ được tiêm tĩnh mạch, không được tiêm bắp thịt, tiêm vào cơ tim, tiêm dưới da (trừ trường hợp điều trị ngộ độc acid hydrofluoric) hoặc không được để thuốc thoát ra khỏi mạch vào các mô khi tiêm vì có thể gây hoại tử mô và/hoặc tróc vảy và áp xe.
 
@@ -16072,10 +15799,9 @@ Truyền tĩnh mạch: Pha loãng đến nồng độ 50 mg/ml và truyền vớ
 
 Không được tiêm bắp hoặc tiêm dưới da vì có thể gây bong vảy hoặc hoại tử nghiêm trọng; thoát mạch calci có thể dẫn tới tróc mô và hoại tử nghiêm trọng. Không dùng những tĩnh mạch da đầu hay tĩnh mạch nhỏ ở chân, tay để tiêm tĩnh mạch. Không dùng trong khí quản.
 
-
 Dùng tại chỗ: Xoa bóp gel calci gluconat vào vùng đau trong 15 phút.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 *Bổ sung dinh dưỡng,* liều uống hàng ngày (tính theo calci nguyên tố): Trẻ em: 0 - 6 tháng: 210 mg/ngày; 7 - 12 tháng: 270 mg/ngày; 1 - 3 tuổi: 500 mg/ngày; 4 - 8 tuổi: 800 mg/ngày; 9 - 18 tuổi: 1 300 mg/ngày. Người lớn: 19 - 50 tuổi: 1 000 mg/ngày; 51 tuổi: 1 200 mg/ngày. Phụ nữ trong thời kỳ mang thai/thời kỳ cho con bú: Liều giống như liều người lớn.
 
@@ -16165,7 +15891,6 @@ Nồng độ calci máu vượt quá 2,6 mmol/lít (10,5 mg/100 ml) được coi
 
 Khi nồng độ calci huyết vượt quá 2,9 mmol/lít (12 mg/100 ml) phải ngay lập tức dùng các biện pháp sau đây:
 
-
 Bù dịch bằng truyền tĩnh mạch dung dịch natri clorid 0,9%. Cho lợi tiểu cưỡng bức bằng furosemid hoặc acid ethacrynic để tăng thải trừ nhanh calci va natri khi đã dùng quá nhiều dung dịch natri clorid 0.9%.
 
 Theo dõi nồng độ kali và magnesi trong máu và thay thế máu sớm để đề phòng biến chứng trong điều trị. Theo dõi điện tâm đồ và có thể sử dụng các chất chẹn beta adrenecgic để phòng loạn nhịp tim nặng. Có thể thẩm phân máu, có thể dùng calcitonin và adrenocorticoid trong điều tri.
@@ -16180,15 +15905,15 @@ Calci gluconat có trong Danh mục thuốc thiết yếu tân dược ban hành
 
 Growpone.
 
-#### CALCI LACTAT
+# **CALCI LACTAT**
 
-**Tên chung quốc tế:** Calcium lactate.
+Tên chung quốc tế: Calcium lactate.
 
-**Mã ATC:** A12AA05.
+Mã ATC: A12AA05.
 
-**Loại thuốc:** Thuốc bổ sung calci.
+Loại thuốc: Thuốc bổ sung calci.
 
-## **Dạng thuốc và hàm lượng**
+Dạng thuốc và hàm lượng
 
 Viên nén: 325 mg (42,25 mg calci); 650 mg (84,5 mg calci).
 
@@ -16230,7 +15955,6 @@ Có nhiều tài liệu khác nhau về nhu cầu calci hàng ngày của cơ th
 (a) Cho trẻ nuôi bằng sữa mẹ.
 
 (b) Cho trẻ nuôi bộ.
-
 
 (c): Số liệu sử dụng để xây dựng  $RNI_s$  cho calci được lấy từ các nước phát triển. Do đó vẫn có sự tranh luận về sự phù hợp của nó khi áp dụng cho các nước đang phát triển. Lưu ý này cũng đúng cho hầu hết các chất dinh dưỡng nhưng căn cứ trên sự hiểu biết hiện nay, ảnh hưởng của calci có vẻ là rõ rệt nhất.
 
@@ -16280,10 +16004,7 @@ Tăng calci máu nhẹ thường dễ dàng kiểm soát được bằng cách g
 
 ### *Liều lượng:*
 
-Sử dụng dưới dạng chế phẩm bổ sung calci, liều lượng cần căn cứ theo nhu cầu hàng ngày (xem trong mục *Dược lý và cơ chế tác* 
-
-
-*dụng*) và tình trạng lâm sàng và/hoặc nồng độ calci trong máu. Điều trị calci dự phòng nhằm mục đích duy trì nồng độ calci máu trên 9 mg/dl. Liều lượng muối calci cần phải được quy đổi về calci nguyên tố: 1 g calci lactat (trihydrat) có chứa khoảng 3,7 mmol calci; 1 g calci lactat (pentahydrat) có chứa khoảng 3,2 mmol calci; 7,7 g calci lactat (pentahydrat) và 6,8 g calci lactat (trihydrat) tương đương với 1 g calci nguyên tố.
+Sử dụng dưới dạng chế phẩm bổ sung calci, liều lượng cần căn cứ theo nhu cầu hàng ngày (xem trong mục *Dược lý và cơ chế tác dụng*) và tình trạng lâm sàng và/hoặc nồng độ calci trong máu. Điều trị calci dự phòng nhằm mục đích duy trì nồng độ calci máu trên 9 mg/dl. Liều lượng muối calci cần phải được quy đổi về calci nguyên tố: 1 g calci lactat (trihydrat) có chứa khoảng 3,7 mmol calci; 1 g calci lactat (pentahydrat) có chứa khoảng 3,2 mmol calci; 7,7 g calci lactat (pentahydrat) và 6,8 g calci lactat (trihydrat) tương đương với 1 g calci nguyên tố.
 
 Liều trung bình cho người lớn để dự phòng hạ calci máu là khoảng 1 g calci nguyên tố/ngày; liều thường dùng trong điều trị thiếu calci là 1 - 2 g hoặc cao hơn calci nguyên tố/ngày.
 
@@ -16343,7 +16064,6 @@ Calci lactat có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 *Biocalcium.*
 
-
 # **CALCIFEDIOL**
 
 **Tên chung quốc tế:** Calcifediol.
@@ -16372,8 +16092,7 @@ Tuy calcifediol có hoạt tính gấp 2 - 5 lần so với cholecalciferol ho�
 
 *Dược động học*
 
-
-ngày đến 22 ngày). Sau khi dùng uống, khoảng thời gian tác dụng từ 15 đến 20 ngày (tăng lên 2 - 3 lần ở người suy thận). Thuốc phân bố trong sữa rất ít (trẻ nhỏ bú mẹ hoàn toàn và không ra nắng cần phải bổ sung vitamin D), đào thải qua mật và phân, chỉ có một phần nhỏ qua nước tiểu.
+Calcifediol dùng theo đường uống, được hấp thu nhanh từ đường tiêu hóa. Sự có mặt của mật là rất cần thiết cho việc hấp thu đầy đủ vitamin D trong ruột, sự hấp thu có thể giảm ở những người khả năng hấp thu chất béo kém. Nồng độ đỉnh trong huyết thanh đạt được sau khi uống, từ 4 - 8 giờ. Calcifediol vận chuyển gắn với một alpha-globulin đặc hiệu và có nửa đời khoảng 16 ngày (10 ngày đến 22 ngày). Sau khi dùng uống, khoảng thời gian tác dụng từ 15 đến 20 ngày (tăng lên 2 - 3 lần ở người suy thận). Thuốc phân bố trong sữa rất ít (trẻ nhỏ bú mẹ hoàn toàn và không ra nắng cần phải bổ sung vitamin D), đào thải qua mật và phân, chỉ có một phần nhỏ qua nước tiểu.
 
 ## **Chỉ định**
 
@@ -16473,10 +16192,9 @@ Liệu pháp có thể cho lại với liều thấp hơn khi nồng độ calci
 
 Dạng dung dịch uống: Pha giọt thuốc vào trong một ít nước, sữa hoặc nước ép quả.
 
-#### *Liều cho người lớn và thanh thiếu niên*
+### *Liều cho người lớn và thanh thiếu niên*
 
 Liều uống khởi đầu cho người lớn là 300 - 350 microgam mỗi tuần, uống một lần mỗi ngày hoặc uống cách ngày một lần, uống trong 4 tuần. Cứ sau 4 tuần, liều có thể tăng thêm nếu cần.
-
 
 Hầu hết người bệnh đáp ứng với liều 50 - 100 microgam mỗi ngày, hoặc 100 - 200 microgam, uống cách một ngày một lần. Ở người bệnh có nồng độ calci huyết bình thường có thể chỉ cần liều thấp 20 microgam, dùng cách ngày là đủ.
 
@@ -16536,7 +16254,6 @@ Nang calcifediol có hạn sử dụng 24 tháng nếu giữ ở nhiệt độ 1
 
 Xem phần hướng dẫn xử trí ADR.
 
-
 # **CALCIPOTRIOL**
 
 **Tên chung quốc tế:** Calcipotriol.
@@ -16585,8 +16302,7 @@ Dung dịch dễ cháy, cần để xa lửa.
 
 ## **Thời kỳ mang thai**
 
-
-động vật mang thai cho thấy thuốc có tác dụng bất lợi đối với sự phát triển của bào thai. Vì vậy, calcipotriol chỉ nên dùng cho phụ nữ mang thai khi lợi ích cho mẹ vượt trội nguy cơ đối với thai nhi.
+Calcipotriol qua được nhau thai, tuy nhiên chưa có những nghiên cứu có kiểm soát, đầy đủ ở phụ nữ mang thai. Nghiên cứu trên động vật mang thai cho thấy thuốc có tác dụng bất lợi đối với sự phát triển của bào thai. Vì vậy, calcipotriol chỉ nên dùng cho phụ nữ mang thai khi lợi ích cho mẹ vượt trội nguy cơ đối với thai nhi.
 
 ## **Thời kỳ cho con bú**
 
@@ -16660,14 +16376,13 @@ Calcipotriol có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 *Daivonex; Daivonex scalp; Trozimed; Psotriol.*
 
-
 # **CALCITONIN**
 
 *Cục Quản lý Dược đã có thông báo tạm ngừng cấp số đăng ký đối với thuốc chứa calcitonin dạng xịt mũi để điều trị loãng xương (xem Thông tin quy chế). Các thông tin về chế phẩm dạng xịt mũi chứa calcitonin dưới đây có tính chất tham khảo.*
 
 **Tên chung quốc tế:** Calcitonin.
 
-**Mã ATC:** H05BA01 (calcitonin cá hồi tổng hợp).
+**Mã ATC:** H05BA01 (calcitonin cá hồi tổng hợp)
 
 H05BA02 (calcitonin lợn)
 
@@ -16683,8 +16398,7 @@ H05BA03 (calcitonin người tổng hợp).
 
 ## **Dược lý và cơ chế tác dụng**
 
-
-polypeptid chứa 32 acid amin. Calcitonin có chức năng điều hòa đối với chuyển hóa chất khoáng, tích cực ngăn ngừa tiêu xương. Calcitonin làm giảm tiêu calci ở xương và làm giảm nồng độ calci huyết thanh, đối lập với tác dụng của hormon cận giáp.
+Calcitonin là hormon do tế bào cận nang của tuyến giáp bình thường ở các động vật và do tuyến cuối mang ở cá tiết ra và là polypeptid chứa 32 acid amin. Calcitonin có chức năng điều hòa đối với chuyển hóa chất khoáng, tích cực ngăn ngừa tiêu xương. Calcitonin làm giảm tiêu calci ở xương và làm giảm nồng độ calci huyết thanh, đối lập với tác dụng của hormon cận giáp.
 
 Calcitonin cùng với vitamin D và hormon cận giáp là ba chất chính điều hòa calci huyết và chuyển hóa xương. Calcitonin tương tác với hai chất nói trên và ức chế tiêu xương, như vậy làm hạ calci huyết. Calcitonin trực tiếp ức chế tiêu xương do tế bào hủy xương, có tác động phần lớn trên xương để hạ thấp nồng độ calci trong huyết thanh.
 
@@ -16740,10 +16454,7 @@ Thử test trên da: Tiêm trong da 0,1 ml dung dịch calcitonin tiêm chứa 1
 
 Tránh dùng calcitonin kéo dài vì có nguy cơ bị ung thư. Dùng liều thấp nhất có hiệu quả trong thời gian ngắn nhất.
 
-Năm 2012, dựa trên các số liệu hiện có về calcitonin, EMEA (Cơ
-
-
-quan quản lý dược phẩm châu Âu) cho thấy tăng nguy cơ ung thư các loại khi dùng calcitonin lâu dài từ 0,7% (trong nghiên cứu dùng thuốc uống chưa được cấp phép) tới 2,4% (trong nghiên cứu dùng thuốc xịt mũi). Nên đã khuyến cáo, tất cả các chế phẩm có calcitonin không được dùng để điều trị loãng xương sau mãn kinh và các chế phẩm dùng qua mũi rút khỏi thị trường châu Âu; đối với các bệnh khác, phải dùng liều nhỏ nhất có tác dụng và trong thời gian ngắn nhất.
+Năm 2012, dựa trên các số liệu hiện có về calcitonin, EMEA (Cơ quan quản lý dược phẩm châu Âu) cho thấy tăng nguy cơ ung thư các loại khi dùng calcitonin lâu dài từ 0,7% (trong nghiên cứu dùng thuốc uống chưa được cấp phép) tới 2,4% (trong nghiên cứu dùng thuốc xịt mũi). Nên đã khuyến cáo, tất cả các chế phẩm có calcitonin không được dùng để điều trị loãng xương sau mãn kinh và các chế phẩm dùng qua mũi rút khỏi thị trường châu Âu; đối với các bệnh khác, phải dùng liều nhỏ nhất có tác dụng và trong thời gian ngắn nhất.
 
 ## **Thời kỳ mang thai**
 
@@ -16829,8 +16540,7 @@ Calcitonin cá hồi: Tiêm bắp hoặc tiêm dưới da, liều ban đầu 4 �
 
 ## **Tương tác thuốc**
 
-
-trị những bệnh khác, phải dùng những chế phẩm có chứa calci và vitamin D sau calcitonin 4 giờ.
+Trong điều trị tăng calci huyết, dùng đồng thời calcitonin và những chế phẩm có chứa calci hoặc vitamin D, kể cả calcifediol và calcitriol có thể đối kháng với tác dụng của calcitonin. Trong điều trị những bệnh khác, phải dùng những chế phẩm có chứa calci và vitamin D sau calcitonin 4 giờ.
 
 Calcitonin làm tăng hệ số thanh thải lithi ở thận, do đó cần theo dõi nồng độ lithi huyết thanh ở người bệnh khi bắt đầu dùng calcitonin. Tránh dùng ethanol trong khi dùng calcitonin, vì có thể làm tăng nguy cơ loãng xương.
 
@@ -16855,7 +16565,6 @@ Cục Quản lý Dược đã có Công văn số 15226/QLD-ĐK ngày 5/10/2012 
 ## **Tên thương mại**
 
 *Bricocalcin; Calcitonin; Calco 50 I.U; Cal-wel; Canxi SBK; Essecalcin 50; Miacalcic; Naslim; Rocalcic; Salmocalcin; Skecalin; Volcalci.*
-
 
 # **CANDESARTAN CILEXETIL**
 
@@ -16887,8 +16596,7 @@ Suy tim: Điều trị bằng candesartan đã làm giảm tỷ lệ tử vong d
 
 *Thải trừ:* Candesartan được thải trừ chủ yếu dưới dạng không đổi qua thận và mật, chỉ một phần nhỏ qua gan tạo thành chất chuyển hóa bất hoạt. Nửa đời thải trừ pha cuối của candesartan khoảng 9 giờ.
 
-
-artan thải trừ qua thận theo cả hai cơ chế lọc ở cầu thận và bài tiết tích cực ở ống thận. Sau khi uống candesartan cilexetil ghi dấu 14C, khoảng 33% liều dùng được tìm thấy trong nước tiểu và 67% trong phân. Còn khi tiêm tĩnh mạch candesartan ghi dấu 14C, tỷ lệ trong nước tiểu và phân tương ứng khoảng 59% và 36%.
+Không có hiện tượng tích lũy sau khi dùng đa liều. Ðộ thanh thải toàn phần từ huyết tương của candesartan là khoảng 0,37 ml/phút/ kg, trong đó độ thanh thải thận khoảng 0,19 ml/phút/kg. Candesartan thải trừ qua thận theo cả hai cơ chế lọc ở cầu thận và bài tiết tích cực ở ống thận. Sau khi uống candesartan cilexetil ghi dấu 14C, khoảng 33% liều dùng được tìm thấy trong nước tiểu và 67% trong phân. Còn khi tiêm tĩnh mạch candesartan ghi dấu 14C, tỷ lệ trong nước tiểu và phân tương ứng khoảng 59% và 36%.
 
 Trẻ em dưới 18 tuổi: chưa được nghiên cứu. Người cao tuổi (trên 65 tuổi): Nồng độ candesartan trong huyết tương ở người cao tuổi cao hơn người trẻ tuổi khi dùng liều giống nhau (nồng độ đỉnh cao hơn khoảng 50% và AUC cao hơn khoảng 80% so với người trẻ tuổi). Dược động học của candesartan diễn biến tuyến tính ở người cao tuổi. Candesartan và chất chuyển hoá không hoạt tính không tích lũy trong huyết thanh khi dùng liều ngày uống 1 lần, lặp lại nhiều ngày. Không cần điều chỉnh liều đầu tiên.
 
@@ -16960,7 +16668,6 @@ Thần kinh: Nhức đầu. Tiêu hoá: Buồn nôn.
 
 Gan mật: Tăng enzym gan, viêm gan.
 
-
 Da: Phù mạch, phát ban, mẩn ngứa.
 
 Cơ xương: Đau cơ, khớp.
@@ -17017,23 +16724,23 @@ Candesartan có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 *Atasart; Atasart-H; Candelong; Cardedes; Hysart; Indsar 8; Queencap; Treatan; Weierya.*
 
-
 # **CAPECITABIN**
 
 **Tên chung quốc tế:** Capecitabine.
 
-**Mã ATC:** L01BC06.
+**Mã ATC**: L01BC06.
 
 **Loại thuốc:** Thuốc chống ung thư, tiền chất của fluorouracil.
 
-**Dạng thuốc và hàm lượng** Viên nén 150 mg; 500 mg. **Dược lý và cơ chế tác dụng**
+**Dạng thuốc và hàm lượng** Viên nén 150 mg; 500 mg. 
+
+## **Dược lý và cơ chế tác dụng**
 
 Capecitabin hầu như không có tác dụng dược lý cho đến khi được chuyển thành fluorouracil (một thuốc chống chuyển hóa) bởi các enzym có nồng độ trong mô ung thư cao hơn nồng độ trong các mô xung quanh hay trong huyết tương. Capecitabin bị thủy phân ở gan thành 5'-deoxy-5-fluorouridin rồi thành 5-fluorouracil ở các mô. Người ta cho rằng nồng độ cao của thuốc có hoạt tính ở khối u khiến cho độc tính lên toàn thân ít đi. Ở tế bào lành và tế bào ung thư, fluorouracil được chuyển hóa thành 5-fluoro-2'-deoxyuridin 5'-monophosphat (FdUMP) và 5-fluorouridin triphosphat (FUTP). Cơ chế tác dụng của fluorouracil còn chưa hoàn toàn rõ nhưng cơ chế chính có lẽ do FdUMP (deoxyribonucleotid của thuốc) và đồng yếu tố folat gắn vào thymidylat synthase (TS) để tạo ra phức hợp bậc ba có dây nối đồng hóa trị là chất ức chế sự tạo thành thymidylat từ 2'-deoxyuridylat, do đó cản trở sự tổng hợp ADN. Ngoài ra, FUTP có thể gắn vào ARN thay cho uridin triphosphat, tạo ra ARN sai lạc nên ảnh hưởng lên sự tổng hợp protein. Fluorouracil tác động lên pha G<sup>1</sup> và pha S của quá trình phân bào. Capecitabin có tác dụng lên các khối u ghép khác loài kháng fluorouracil; cho thấy có sự kháng chéo không hoàn toàn giữa hai thuốc này.
 
 *Dược động học*
 
 Ít nhất 70% liều capecitabin uống vào được hấp thu ở ống tiêu hóa. Nồng độ đỉnh huyết tương capecitabin đạt sau khoảng 1,5 giờ còn nồng độ đỉnh của fluorouracil đạt đến sau 2 giờ. Có sự khác nhau rất lớn giữa các cá thể về nồng độ huyết tương và AUC. Thức ăn làm giảm tốc độ và mức hấp thu do đó làm giảm nồng độ huyết tương và AUC của các chất chuyển hóa của thuốc. Capecitabin hoặc các chất chuyển hóa được phân bố ở khối u, ở niêm mạc ruột, huyết tương, gan và các mô khác. Thực nghiệm trên súc vật cho thấy thuốc và các chất chuyển hóa không qua hàng rào máu - não; không rõ thuốc hoặc các chất chuyển hóa có vào trong dịch não - tủy và mô não ở người hay không. Nồng độ fluorouracil ở khối u cao hơn nồng độ ở các mô lành xung quanh, ở huyết tương hoặc ở các cơ. Tỷ lệ gắn vào protein huyết tương (chủ yếu là albumin) là dưới 60% và không phụ thuộc liều. Nghiên cứu trên người Nhật bản thấy với cùng liều uống, nồng độ đỉnh huyết tương của thuốc thấp hơn ở người da trắng và điều này chưa giải thích được.
-
 
 Capecitabin được chuyển hóa mạnh ở gan và ở khối u. Nửa đời thải trừ của capecitabin và các chất chuyển hóa (cả fluorouracil) khoảng 45 - 60 phút, trừ α-fluoro-β-alanin (chất giáng hóa của fluorouracil) có nửa đời ban đầu là 3 giờ.
 
@@ -17129,8 +16836,7 @@ Khác: Nhiễm virus.
 
 *ADR < 5/100*
 
-
-xuất huyết do giảm tiểu cầu, giảm các tế bào máu, phản ứng với ánh sáng, viêm phổi, ngứa, tắc động mạch phổi, hội chứng phản ứng da sau chiếu xạ, suy thận, suy hô hấp, tăng tiết mồ hôi, nhiễm khuẩn huyết, loét da, nhịp tim nhanh, viêm tắc tĩnh mạch, giãn phì đại trực tràng, run đầu chi, ngoại tâm thu thất.
+Đau thắt ngực, cổ chướng, hen, rung nhĩ, nhịp tim chậm, viêm phế quản, viêm phổi - phế quản, co thắt phế quản, suy kiệt, ngừng tim, suy tim, bệnh cơ tim, tai biến mạch não, ứ mật, rối loạn đông máu, viêm đại tràng, tắc tĩnh mạch sâu, toát mồ hôi, viêm tá tràng, khó nuốt, loạn nhịp tim, thay đổi điện tâm đồ, bệnh về não, chảy máu cam, nhiễm nấm, loét dạ dày, viêm dạ dày - ruột, ỉa ra máu, ho ra máu, suy gan, xơ gan, viêm gan, hạ kali huyết, hạ magnesi huyết, tăng hoặc giảm huyết áp, quá mẫn, tăng triglycerid huyết, ban xuất huyết do hạ tiểu cầu, liệt ruột, nhiễm khuẩn, tắc ruột, viêm kết mạc - giác mạc, tắc hẹp ống lệ, giảm bạch cầu, mất ý thức, phù bạch huyết, viêm đa ổ chất trắng trong não, thiếu máu cơ tim, tắc ruột hoại tử, nhiễm candida ở miệng, tràn dịch màng ngoài tim, ban xuất huyết do giảm tiểu cầu, giảm các tế bào máu, phản ứng với ánh sáng, viêm phổi, ngứa, tắc động mạch phổi, hội chứng phản ứng da sau chiếu xạ, suy thận, suy hô hấp, tăng tiết mồ hôi, nhiễm khuẩn huyết, loét da, nhịp tim nhanh, viêm tắc tĩnh mạch, giãn phì đại trực tràng, run đầu chi, ngoại tâm thu thất.
 
 ## **Hướng dẫn cách xử trí ADR**
 
@@ -17194,7 +16900,6 @@ Không cần thiết phải điều chỉnh liều ở người bị suy gan nh�
 
 Người cao tuổi: Có thể phải giảm liều tới 20% - 25%.
 
-
 Bảng 2. Chỉ tiêu phân mức độ ngộ độc hay xảy ra với capecitabin (trừ hội chứng tay - chân) theo Viện ung thư quốc gia Canada (NCIC).
 
 | Biểu hiện                        | Mức độ           | Chỉ tiêu                                                                                                                                                                                                                                                                                            |
@@ -17231,7 +16936,7 @@ Echinacea làm giảm nồng độ hoặc tác dụng của capecitabin.
 
 Bảo quản viên nén capecitabin trong lọ kín ở nhiệt độ 15 - 30 °C. Nếu được để trong lọ kín ở nhiệt độ phòng thì thuốc ổn định trong ít nhất là 9 tháng.
 
-## **Quá liều và xử trí**
+#### Ouá liều và xử trí
 
 Các triệu chứng quá liều là buồn nôn, nôn, ia chảy, kích thích và chảy máu ống tiêu hóa, suy tủy. Bệnh nhân dùng 1 657 mg/m²/ngày (chia làm 2 lần) trong 6 tuần bị hội chứng bàn tay - bàn chân (lòng bàn tay, lòng bàn chân bị đỏ và giảm cảm giác), viêm niêm mạc và ia chảy.
 
@@ -17244,7 +16949,6 @@ Capecitabincó trong Danh mục thuốc thuốc tân dược thuộc phạm vi t
 ## **Tên thương mại**
 
 Capebina; Capemax; Relotabin; Xeloda.
-
 
 *Bảng 3. Điều chỉnh liều do độc tính trong trị liệu với capecitabin và docetaxel.*
 
@@ -17267,8 +16971,6 @@ Capebina; Capemax; Relotabin; Xeloda.
 | Mức 4      | Lần 1                            | Ngừng hẳn dùng thuốc hoặc nếu bắt buộc phải tiếp tục trị liệu vì lợi ích<br>cho người bệnh thì đợi cho đến khi về mức 0 - 1                      | 50%                                          |
 
 <sup>\*</sup>*Chú ý:* Mọi thay đổi về liều lượng phải căn cứ vào mức bị độc nặng nhất đã bị trước đấy.
-
-
 
 # **CAPREOMYCIN**
 
@@ -17329,7 +17031,6 @@ Không biết rõ capreomycin có phân bố trong sữa người hay không. Nh
 Tác dụng độc hại với thận và với tai là những ADR nghiêm trọng nhất của capreomycin. Những tác dụng này có khả năng xảy ra nhiều nhất ở người suy thận, người cao tuổi, và người đang dùng những thuốc khác độc hại với thận hoặc độc hại với tai.
 
 Thận: Độc hại với thận (tăng urê huyết) chiếm khoảng 10 - 36% số bệnh nhân điều trị bằng capreomycin. Độc tính với thận thường hồi phục sau khi ngừng thuốc, hiếm khi xảy ra tử vong. Những bệnh nhân cao tuổi, bệnh nhân rối loạn chức năng thận, hoặc mất nước, hoặc dùng đồng thời với thuốc khác độc với thận sẽ tăng nguy cơ hoại tử ống thận cấp khi điều trị bằng capreomycin.
-
 
 Tai: Độc hại với tai (11% mất thính giác hạ lâm sàng, 3% điếc, ù tai), có thể hồi phục hoặc không hồi phục sau khi ngừng thuốc. Khi ngừng thuốc có thể cải thiện sức nghe, nhưng có một số trường hợp điếc vĩnh viễn không hồi phục.Có thể ù tai, chóng mặt.
 
@@ -17419,18 +17120,15 @@ Capreomycin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *Eprixime; Lycocin.*
 
-
-
 # **CAPSAICIN**
 
-**Tên chung quốc tế:** Capsaicin.
+**Tên chung quốc tế:** Capsaicin. 
 
 **Mã ATC:** N01BX04, M02AB01.
 
-
 **Loại thuốc:** Thuốc giảm đau, dùng ngoài.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Kem capsaicin: 0,025% (45 g, 60 g); 0,075% (45 g, 60 g).
 
@@ -17512,17 +17210,15 @@ Capsaicin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 *Gel Capsaic.*
 
-
-
 # **CAPTOPRIL**
 
-**Tên chung quốc tế:** Captopril.
+**Tên chung quốc tế**: Captopril.
 
 **Mã ATC:** C09AA01.
 
 **Loại thuốc:** Thuốc ức chế men chuyển.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng** 
 
 Viên nén: 12,5 mg, 25 mg, 50 mg, 100 mg.
 
@@ -17591,7 +17287,6 @@ Hẹp động mạch thận 2 bên hoặc hẹp động mạch thận ở thận
 Hẹp động mạch chủ hoặc hẹp van 2 lá.
 
 Bệnh cơ tim tắc nghẽn nặng.
-
 
 ## **Thận trọng**
 
@@ -17690,8 +17385,7 @@ Khoảng cách chia liều cho người bệnh có hệ số thanh thải creati
 
 *Suy tim:* 
 
-
-thể giảm trong vòng 48 giờ, nhưng sự cải thiện này có thể không rõ trong vài tuần hoặc tháng sau khi điều trị captopril, nhưng điều trị như vậy có thể làm giảm nguy cơ bệnh tiến triển. Do đó, liều thường được điều chỉnh tới liều đích đã được xác định trước (ít nhất 150 mg/ngày) hoặc liều cao hơn có thể dung nạp được, hơn là điều chỉnh theo đáp ứng và liều thường có thể duy trì lâu dài ở mức đó. Có thể tăng liều lên 50 mg/lần, 3 lần/ngày. Người bệnh giảm thể tích tuần hoàn hoặc nồng độ natri máu dưới 130 mmol/lít, người có huyết áp bình thường hoặc thấp cần dùng liều ban đầu thấp hơn: 6,25 - 12,5 mg/lần, 3 lần/ngày.
+Captopril nên dùng phối hợp với thuốc lợi tiểu. Liều thường dùng là 6,25 - 25 mg/lần, 3 lần/ngày. Tuy các triệu chứng suy tim có thể giảm trong vòng 48 giờ, nhưng sự cải thiện này có thể không rõ trong vài tuần hoặc tháng sau khi điều trị captopril, nhưng điều trị như vậy có thể làm giảm nguy cơ bệnh tiến triển. Do đó, liều thường được điều chỉnh tới liều đích đã được xác định trước (ít nhất 150 mg/ngày) hoặc liều cao hơn có thể dung nạp được, hơn là điều chỉnh theo đáp ứng và liều thường có thể duy trì lâu dài ở mức đó. Có thể tăng liều lên 50 mg/lần, 3 lần/ngày. Người bệnh giảm thể tích tuần hoàn hoặc nồng độ natri máu dưới 130 mmol/lít, người có huyết áp bình thường hoặc thấp cần dùng liều ban đầu thấp hơn: 6,25 - 12,5 mg/lần, 3 lần/ngày.
 
 *Người cao tuổi*: Liều ban đầu là 6,25 mg/lần, 2 lần/ngày; nếu cần thiết có thể tăng lên đến 25 mg/lần, 2 lần/ngày sau 2 tuần điều trị. *Rối loạn chức năng thất trái sau nhồi máu cơ tim:*
 
@@ -17743,14 +17437,15 @@ Captopril có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Bidipril; Calatec; Caporil; Captagim; Captarsan 25; Captogen Tab.; Captohexal 25; Captolin "Kojar"; Captoril; C-Pril; DH-Captohasan 25; Dongsung Tab; Dotorin; Epotril; Gpril; Hearef tab; Hurmat; Hypotex Tab.; Imecapto; Korus Captopril; Mildocap; Novapril 25; Orprole Tab.; Pycaptin; Seotina Tab; Sinnifi; Siocap; SP Captopril; Suyea Y.Y; Taguar; Tensiomin; Young Il Captopril; Yspapuzin.*
 
-
 # **CARBAMAZEPIN**
 
 **Ten chung quốc tế:** Carbamazepine.
 
 **Mã ATC:** N03AF01.
 
-**Loại thuốc:** Chống co giật. **Dạng thuốc và hàm lượng.
+**Loại thuốc**: Chống co giật. 
+
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 100 mg, 200 mg, 400 mg.
 
@@ -17767,7 +17462,6 @@ Tác dụng dược lý của carbamazepin tương tự như tác dụng của c
 *Dược động học*
 
 Trong các nghiên cứu lâm sàng, dạng hỗn dịch, viên nén và viên nén giải phóng kéo dài hấp thu với lượng tương đương vào hệ tuần hoàn. Tuy nhiên, dạng hỗn dịch hấp thu nhanh hơn và dạng viên nén giải phóng kéo dài hấp thu chậm hơn chút ít so với dạng viên nén thông thường. Sinh khả dụng của dạng viên nén giải phóng kéo dài đạt khoảng 89% so với dạng hỗn dịch. Sau khi uống một thời gian dài dạng hỗn dịch, nồng độ đỉnh đạt được sau khoảng 1,5 giờ, so với 4 - 5 giờ sau khi dùng dạng viên nén thông thường và 3 - 12 giờ sau khi dùng dạng viên giải phóng kéo dài. Khi dùng chế độ liều một hoặc hai lần/ngày, dạng hỗn dịch cho nồng độ đỉnh cao hơn và nồng độ đáy thấp hơn so với dạng viên nén, nhưng các nồng độ này ở trạng thái ổn định là tương đương khi hỗn dịch được uống 3 lần/ngày và dạng viên nén được dùng 2 lần/ ngày với cùng tổng liều dùng trong ngày. Sau khi uống dạng viên nén hoặc viên nang giải phóng kéo dài với chế độ liều 2 lần/ngày, nồng độ carbamazepin ở trạng thái ổn định là tương tự như khi dùng dạng viên nén thông thường (giải phóng nhanh) dùng 4 lần/ ngày với tổng liều một ngày tương đương. Sinh khả dụng của các chế phẩm dùng đường uống carbamazepin thường trong khoảng từ 85 - 100%. Sinh khả dụng đường trực tràng của carbamazepin thấp hơn so với các dạng bào chế dùng đường uống khoảng 25%. Với liều lên đến 300 mg, khoảng 75% thuốc vào được tuần hoàn chung trong vòng 6 giờ. Do vậy, liều tối đa khuyến cáo cho đường trực tràng là 250 mg/lần, 4 lần/ngày, tương đương với 800 mg/ngày khi dùng theo đường uống.
-
 
 Thức ăn không ảnh hưởng đáng kể đến tốc độ và mức độ hấp thu, bất kể dạng bào chế nào. Các dạng bào chế khác nhau của carbamazepin có thể có sinh khả dụng thay đổi; để tránh giảm hiệu quả hoặc nguy cơ tái xuất hiện cơn co giật hoặc có tác dụng phụ quá mức, cần thận trọng tránh thay đổi dạng bào chế. Nồng độ carbamazepin thay đổi nhiều và có thể nằm trong khoảng từ 0,5 - 25 microgam/ml và không có mối tương quan rõ ràng với liều dùng. Nồng độ điều trị thông thường ở người lớn nằm trong khoảng từ 4 đến 12 microgam/ml. Khi điều trị đồng thời với nhiều thuốc, nồng độ của carbamazepin và của các thuốc khác có thể tăng hoặc giảm trong quá trình điều trị và tác dụng của thuốc có thể thay đổi. Khoảng 70 - 80% carbamazepin trong máu gắn với protein huyết thanh. Nồng độ ở trong dịch não - tủy và trong nước bọt vào khoảng 20 - 30% trong khi nồng độ thuốc trong sữa vào khoảng 25 - 60% nồng độ thuốc trong huyết tương. Carbamazepin vượt qua hàng rào nhau thai. Giả thiết là hấp thu hoàn toàn carbamazepin, thể tích phân bố của thuốc nằm trong khoảng 0,8 đến 1,9 lít/kg. Do carbamazepin tự cảm ứng enzym chuyển hóa chính nó nên thời gian bán thải thay đổi rất lớn. Hiện tượng tự cảm ứng enzym thường hoàn thành sau khoảng 3 - 5 tuần với chế độ liều không đổi. Thời gian bán thải ban đầu từ 25 - 65 giờ, giảm xuống còn 12 - 17 giờ với chế độ liều nhắc lại. Carbamazepin được chuyển hóa tại gan. Cytochrom P450 3A4 là phân typ enzym chính chịu trách nhiệm chuyển hóa carbamazepin để tạo thành carbamazepin-10,11-epoxid, một chất chuyển hóa có hoạt tính chống co giật trên động vật và hoạt tính giảm đau mạnh trên bệnh nhân bị đau dây thần kinh tam thoa, đồng thời cũng có liên quan đến tác dụng không mong muốn trên thần kinh của thuốc. Epoxid chuyển hóa thành hợp chất bất hoạt và đào thải vào nước tiểu. Sau khi uống 14C-carbamazepin, 72% hoạt tính phóng xạ được tìm thấy trong nước tiểu và 28% được tìm thấy trong phân. Trong nước tiểu, chỉ có 3% hoạt tính phóng xạ là của dạng không đổi, còn lại chủ yếu là của chất chuyển hóa liên hợp và chất chyển hóa dạng hydroxyl hóa. Các thông số dược động học của carbamazpin tương tự nhau ở người lớn và trẻ em, tuy nhiên trên đối tượng trẻ em, có mối liên quan kém giữa nồng độ trong huyết tương và liều dùng. Carbamazepin được chuyển hóa thành carbamazepin-10,11-epoxid trên trẻ nhỏ nhanh hơn so với người lớn. Ở trẻ dưới 15 tuổi, có mối liên quan nghịch giữa tỷ lệ CBZ-E/CBZ và tuổi (0,44 ở trẻ dưới 1 tuổi và 0,18 ở trẻ từ 10 - 15 tuổi).
 
@@ -17813,8 +17507,7 @@ Người bệnh cần được kiểm tra kỹ càng trước khi dùng thuốc 
 
 Phản ứng trên da mức độ nặng và đôi khi gây tử vong, bao gồm cả hoại tử biểu bì nhiễm độc (TEN) và hội chứng Stevens-Johnson (SJS) đã được báo cáo với tần suất khoảng 1 - 6 trường hợp/10 000 người bệnh mới sử dụng mà chủ yếu là người da trắng. Tuy nhiên, nguy cơ ở một số nước châu Á được ước đoán cao hơn 10 lần. Cần ngừng thuốc nếu có các dấu hiệu đầu tiên của ban đỏ. Đã có nghiên cứu cho thấy có mối liên quan chặt chẽ giữa nguy cơ tăng SJS/TEN và sự hiện diện của kháng nguyên bạch cầu người (HLA)-B\*1502. Do vậy, Cơ quan quản lý Dược và Thực phẩm Hoa kỳ khuyến cáo các người bệnh có nguồn gốc châu Á cần được xét nghiệm allel HLA-B\*1502 trước khi sử dụng carbamazepin. Nếu xét nghiệm dương tính, không nên sử dụng carbamazepin trừ phi lợi ích rõ ràng vượt trội nguy cơ.
 
-
-được báo cáo. Cần thận trọng ở các người bệnh có tiền sử quá mẫn do phản ứng quá mẫn với carbamazepin cũng được báo cáo ở các người bệnh quá mẫn với các thuốc chống co giật khác.
+Phản ứng quá mẫn ở nhiều cơ quan xảy ra trong khoảng vài ngày đến vài tuần hoặc vài tháng kể từ khi dùng thuốc cũng hiếm khi được báo cáo. Cần thận trọng ở các người bệnh có tiền sử quá mẫn do phản ứng quá mẫn với carbamazepin cũng được báo cáo ở các người bệnh quá mẫn với các thuốc chống co giật khác.
 
 Các người bệnh đã có phản ứng trên huyết học có nguy cơ của ức chế tủy xương, bao gồm cả thiếu máu bất sản và mất bạch cầu hạt. Các thuốc chống động kinh, bao gồm cả carbamazepin làm tăng nguy cơ có các ý tưởng và hành vi tự sát ở các người bệnh sử dụng thuốc này với bất kỳ chỉ định nào. Cần giám sát người bệnh về những thay đổi bất thường trong khí sắc và hành vi, về triệu chứng trầm cảm, về ý tưởng và hành vi tự sát.
 
@@ -17888,10 +17581,7 @@ Hô hấp: Các phản ứng quá mẫn ở phổi, như sốt, khó thở, viê
 
 Chuyển hóa - nội tiết: Rối loạn chuyển hóa xương (giảm nồng độ calci và 25-hydroxy-cholecalciferol trong máu), dẫn đến chứng nhuyễn xương, loãng xương, tăng cholesterol, bao gồm cả cholesterol HDLvà triglycerid trong máu.
 
-Tâm thần: Lú lẫn hoặc kích hoạt các bệnh tâm thần khác, kích
-
-
-động, bồn chồn, hung hăng hoặc trầm cảm, ảo giác (ảo thị và ảo thanh), chứng chán ăn.
+Tâm thần: Lú lẫn hoặc kích hoạt các bệnh tâm thần khác, kích động, bồn chồn, hung hăng hoặc trầm cảm, ảo giác (ảo thị và ảo thanh), chứng chán ăn.
 
 Cơ - xương: Đau cơ, đau khớp, tăng cơn co giật.
 
@@ -17959,7 +17649,6 @@ Tương tác thuốc với carbamazepin hầu như hoàn toàn liên quan đến
 
 Nồng độ carbamazepin có thể giảm khi dùng cùng các chế phẩm có chứa dược liệu Ban Âu (*Hypericum perforatum*).
 
-
 *Tác dụng của carbamazepin trên nồng độ của các thuốc khác dùng kèm:* Carbamazepin có thể làm giảm nồng độ và do vậy giảm hiệu quả điều trị của một số thuốc: levothyroxin, clobazam, clonazepam, ethosuximid, primidon, acid valproic, alprazolam, corticosteroid, (ví dụ prednisolon, dexamethason); ciclosporin, digoxin, doxycyclin; dẫn chất dihydropyridin như felodipin và isradipin; indinavir, saquinavir, ritonavir, haloperidol, imipramin, buprenorphin, methadon, paracetamol, tramadol, các chế phẩm có chứa oestrogen và/hoặc progestogen (cần cân nhắc biện pháp tránh thai khác), gestrinon, tibolon, toremifen, theophyllin, thuốc chống đông đường uống (warfarin và acenocoumarol), lamotrigin, tiagabin, topiramat, bupropion, citalopram, mianserin, sertralin, trazodon, các thuốc chống trầm cảm ba vòng (như imipramin, amitriptylin, nortriptylin, clomipramin), clozapin, oxcarbazapin, olanzapin, quetiapin, itraconazol, imatinib và risperidon.
 
 *Một số phối hợp cần lưu ý đặc biệt:*
@@ -18010,7 +17699,6 @@ Carbamazepin có trong Danh mục thuốc thiết yếu tân dược ban hành l
 
 *Calzepin; Carbadac 200; Carbatol-200; Cazerol; Taver; Tegretol 200; Tegretol CR 200; Umitol-200.*
 
-
 # **CARBIDOPA - LEVODOPA**
 
 **Tên chung quốc tế:** Carbidopa-levodopa.
@@ -18033,8 +17721,7 @@ Carbidopa-levodopa là thuốc được dùng để điều trị bệnh Parkins
 
 Levodopa là tiền chất trực tiếp của dopamin, có tác dụng giống như dopamin. Khi được đưa vào cơ thể, levodopa qua được hàng rào máu - não và được chuyển hóa thành dopamin tại các hạch đáy não nên bù lấp được sự thiếu hụt dopamin ở các nhân đáy não có vai trò trong điều hòa trương lực cơ. Khi uống levodopa, thuốc chuyển nhanh thành dopamin cả ở các mô khác ngoài não, chỉ còn một phần nhỏ liều dùng được vận chuyển dưới dạng không đổi tới hệ thần kinh trung ương; do đó phải dùng levodopa liều cao mới có hiệu quả điều trị bệnh Parkinson. Tuy nhiên, các tác dụng phụ của levodopa có nhiều và phụ thuộc vào liều dùng, nhất là ở người cao tuổi và khi phải dùng thuốc dài ngày.
 
-
-levodopa. Điều này có thể do tác dụng của carbidopa làm giảm sự khử carboxyl ngoại vi của levodopa hơn là do tác dụng tiên phát của carbidopa trên hệ thần kinh. Chế phẩm kết hợp này ít gây buồn nôn và nôn hơn so với levodopa. Tuy nhiên, người bệnh đáp ứng không đều với levodopa cũng đáp ứng không tốt với trị liệu kết hợp carbidopa-levodopa.
+Carbidopa là chất ức chế enzym decarboxylase (enzym khử carboxyl) ngăn cản khử carboxyl của levodopa ở ngoại vi, làm tăng lượng levodopa trong máu nên làm tăng lượng levodopa vào não. Carbidopa không ảnh hưởng tới chuyển hóa của levodopa trong não vì không qua được hàng rào máu - não. Carbidopa dùng một mình với liều thông thường có rất ít hoặc không có hoạt tính dược lý. Dùng carbidopa kết hợp với levodopa sẽ không phải dùng liều levodopa quá cao nên phòng ngừa và giảm thiểu được những tác dụng phụ của levodopa và do đó củng cố vai trò của levodopa. Do đó, trong thực hành hiện nay, bao giờ cũng kết hợp levodopa với carbidopa. Một số người bệnh đáp ứng kém với levodopa đã được cải thiện hơn khi thay thế bằng carbidopa - levodopa. Điều này có thể do tác dụng của carbidopa làm giảm sự khử carboxyl ngoại vi của levodopa hơn là do tác dụng tiên phát của carbidopa trên hệ thần kinh. Chế phẩm kết hợp này ít gây buồn nôn và nôn hơn so với levodopa. Tuy nhiên, người bệnh đáp ứng không đều với levodopa cũng đáp ứng không tốt với trị liệu kết hợp carbidopa-levodopa.
 
 Carbidopa không làm giảm những tác dụng không mong muốn do tác dụng trung ương của levodopa. Dạng viên nén carbidopalevodopa giải phóng chậm có tác dụng làm nồng độ levodopa ổn định hơn so với nồng độ đạt được khi uống dạng bào chế thông thường. Dạng viên nén giải phóng chậm có ích trong một số trường hợp, nhưng không dự đoán được hấp thu của thuốc.
 
@@ -18116,7 +17803,6 @@ Tiết niệu: Bí tiểu tiện, đái rắt, nước tiểu đục.
 
 Mắt: Nhìn mở, nhìn một thành hai, giãn hoặc co đồng tử.
 
-
 Máu: Giảm bạch cầu, thiếu máu tan huyết hoặc không tan huyết Thần kinh - cơ: Nhức đầu, chuột rút, yếu cơ, nhiều mồ hôi, da và răng đen, tăng hoặc giảm cân, phù, rụng tóc, cương cứng dương vật, chảy máu sau mãn kinh.
 
 ## **Hướng dẫn cách xử trí ADR**
@@ -18125,7 +17811,9 @@ Khi xảy ra loạn động, cần giảm liều.
 
 Ở những người có tiền sử nhồi máu cơ tim, có di chứng loạn nhịp nhĩ, nút hoặc thất, phải theo dõi đặc biệt cẩn thận chức năng tim trong thời gian điều chỉnh liều lượng ban đầu, cần có phương tiện dự phòng và điều trị tăng cường về tim.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Dùng chế phẩm kết hợp cho phép uống liều levodopa thấp hơn.
 
@@ -18196,7 +17884,6 @@ Có thể dùng những biện pháp hỗ trợ chung, cùng với rửa dạ d�
 
 Phải xem xét khả năng người bệnh có thể đã dùng những thuốc khác cùng với viên nén carbidopa - levodopa. Không biết rõ giá trị của thẩm tách khi quá liều carbidopa - levodopa.
 
-
 ## **Thông tin bổ sung**
 
 Về những nguyên tắc hướng dẫn trong điều trị bệnh Parkinson, xem thêm:
@@ -18214,7 +17901,6 @@ Carbidopa-levodopa có trong Danh mục thuốc thiết yếu tân dược ban h
 ## **Tên thương mại**
 
 *Cloteks; Stalevo; Syndopa 275; Tidomet forte; Vedilma; Wendica.*
-
 
 # **CARBIMAZOL**
 
@@ -18288,8 +17974,7 @@ Có khả năng xảy ra mẫn cảm chéo giữa các thuốc kháng giáp (kho
 
 Dạng chuyển hóa còn hoạt tính của carbimazol là thiamazol qua được nhau thai, nên có thể gây hại cho thai nhi (bướu cổ, giảm năng giáp, một số dị tật bẩm sinh), nhưng nguy cơ thực sự thường thấp, đặc biệt khi dùng liều thấp.
 
-
-vì thuốc qua nhau thai ít hơn thiamazol. Khi dùng carbimazol, phải dùng liều thấp nhất có hiệu lực để duy trì chức năng giáp của người mẹ ở mức cao trong giới hạn bình thường của người mang thai bình thường, đặc biệt trong 3 tháng cuối thai kỳ.
+Cần cân nhắc lợi/hại giữa điều trị và không điều trị. Trong trường hợp phải điều trị, propylthiouracil thường được chọn dùng hơn, vì thuốc qua nhau thai ít hơn thiamazol. Khi dùng carbimazol, phải dùng liều thấp nhất có hiệu lực để duy trì chức năng giáp của người mẹ ở mức cao trong giới hạn bình thường của người mang thai bình thường, đặc biệt trong 3 tháng cuối thai kỳ.
 
 Giảm năng giáp và bướu cổ ở thai nhi thường xảy ra khi dùng thuốc kháng giáp tới gần ngày sinh, vì tuyến giáp thai nhi chưa sản xuất hormon giáp cho tới tuần thứ 11 hoặc 12 của thai kỳ. Tăng năng giáp có thể giảm ở người mẹ khi thai phát triển nên ở một số người có thể giảm liều carbimazol, có khi ngừng điều trị trong 2 - 3 tháng trước khi đẻ.
 
@@ -18379,8 +18064,7 @@ Viên carbimazol được để trong bao bì kín, bảo quản ở nhiệt đ�
 
 ## **Quá liều và xử trí**
 
-
-nặng hơn. Nghiêm trọng nhất là suy tủy, mất bạch cầu hạt; đặc biệt là có thể dẫn đến tăng TSH, giảm năng tuyến giáp, tăng thể tích bướu giáp.
+Dùng liều cao và kéo dài carbimazol sẽ gây ra rất nhiều tai biến như đã nêu ở phần tác dụng không mong muốn, nhưng mức độ nặng hơn. Nghiêm trọng nhất là suy tủy, mất bạch cầu hạt; đặc biệt là có thể dẫn đến tăng TSH, giảm năng tuyến giáp, tăng thể tích bướu giáp.
 
 Cần chăm sóc bằng các biện pháp y tế, điều trị triệu chứng, có thể phải dùng kháng sinh hoặc corticoid, truyền máu nếu suy tủy và giảm bạch cầu nặng.
 
@@ -18391,7 +18075,6 @@ Carbimazol có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 ## **Tên thương mại**
 
 *Bimaz; Carberoid; Carbinom; Gomatop; Navacarzol; Thycar.*
-
 
 # **CARBOPLATIN**
 
@@ -18569,10 +18252,7 @@ AUC đích điển hình từ 5 - 7 mg/ml/phút tùy thuộc vào điều trị 
 
  $Chú \ \dot{y}$ : Liều tính theo công thức trên được tính bằng mg chứ không phải mg/m². Không áp dụng công thức này để tính liều cho trẻ em hoặc người được lọc máu.
 
-Tổng liều cao có thể dùng tới 1 600 mg/m² chia liều trong vài ngày,
-
-
-được sử dụng trong hóa trị liệu liều cao kết hợp với truyền tế bào gốc. Dùng liều lặp lại phải sau ít nhất 4 tuần trở lên. Chỉ dùng khi các thông số huyết học đã phục hồi ở mức chấp nhận được. Phải chuẩn bị sẵn sàng các phương tiện để xử lý các tai biến có thể xảy ra.
+Tổng liều cao có thể dùng tới 1 600 mg/m² chia liều trong vài ngày, được sử dụng trong hóa trị liệu liều cao kết hợp với truyền tế bào gốc. Dùng liều lặp lại phải sau ít nhất 4 tuần trở lên. Chỉ dùng khi các thông số huyết học đã phục hồi ở mức chấp nhận được. Phải chuẩn bị sẵn sàng các phương tiện để xử lý các tai biến có thể xảy ra.
 
 Khi kết hợp với thuốc khác, phải có phác đồ cụ thể liều lượng của mỗi thuốc và trình tự dùng các thuốc.
 
@@ -18654,14 +18334,13 @@ Carboplatin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 Carbosin; Carboxtie; DBL Carboplatin; Kemocarb; Megaflazin; Placarbo.
 
-#### CARVEDILOL
+# **CARVEDILOL**
 
 **Tên chung quốc tế:** Carvedilol.
 
-**Mã ATC:** C07AG02.
+Mã ATC: C07AG02.
 
 **Loại thuốc:** Thuốc ức chế không chọn lọc thụ thể beta-adrenergic, chống tăng huyết áp, chống đau thắt ngực và suy tim sung huyết.
-
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -18769,7 +18448,6 @@ Cần giảm liều nếu tần số mạch giảm xuống dưới 55 chu kỳ m
 
 Người bệnh phải tránh đứng lên đột ngột hoặc đứng yên trong thời gian dài; cần nằm nghỉ nếu thấy chóng mặt hoặc lả đi và hỏi ý kiến thầy thuốc về giảm liều.
 
-
 ## **Liều lượng và cách dùng**
 
 ### *Cách dùng:*
@@ -18836,7 +18514,6 @@ Carvediol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 *Cadalol; Carca; Carloten; Carsantin; Carvas; Carvedol; Carvestad; Carvesyl; Carvialob; Carvil 12.5; Cavedil; Cavelol; Conpres; Coryol; Dilatrend; Hytenol; Peruzi; Scodilol; Suncardivas; Syntrend; Talliton; Tecarved; V-Bloc; Vecalol; Vedicard; Vycadil 3.125; Wirobar Tab.*
 
-
 # **CEFACLOR**
 
 **Tên chung quốc tế:** Cefaclor.
@@ -18859,8 +18536,7 @@ Viên nén giải phóng kéo dài: 375 mg, 500 mg.
 
 Cefaclor là một kháng sinh cephalosporin uống, bán tổng hợp, thế hệ 2, có tác dụng diệt vi khuẩn đang trong giai đoạn phát triển và phân chia bằng cách ức chế tổng hợp thành tế bào vi khuẩn. Thuốc gắn vào các protein gắn với penicilin (Penicilin binding protein, PBP), là các protein tham gia vào thành phần cấu tạo màng tế bào vi khuẩn, đóng vai trò là enzym xúc tác cho giai đoạn cuối cùng của quá trình tổng hợp thành tế bào. Kết quả là thành tế bào được tổng hợp sẽ bị yếu đi và không bền dưới tác động của áp lực thẩm thấu. Ái lực gắn của cefaclor với PBP của các loại khác nhau sẽ quyết định phổ tác dụng của thuốc.
 
-
-ức chế tối thiểu của kháng sinh với vi khuẩn phân lập (T > MIC) là thông số dược động học/dược lực học có liên quan chặt chẽ đến hiệu quả điều trị của cefaclor. T > MIC cần đạt ít nhất 40 - 50% khoảng cách giữa hai lần đưa thuốc.
+Cũng như các kháng sinh beta-lactam khác, tác dụng diệt khuẩn của cefaclor phụ thuộc vào thời gian. Do vậy, mục tiêu cần đạt của chế độ liều là tối ưu hóa khoảng thời gian phơi nhiễm của vi khuẩn với thuốc. Thời gian nồng độ thuốc trong máu lớn hơn nồng độ ức chế tối thiểu của kháng sinh với vi khuẩn phân lập (T > MIC) là thông số dược động học/dược lực học có liên quan chặt chẽ đến hiệu quả điều trị của cefaclor. T > MIC cần đạt ít nhất 40 - 50% khoảng cách giữa hai lần đưa thuốc.
 
 Cefaclor có tác dụng *in vitro* đối với cầu khuẩn Gram dương tương tự cefalexin nhưng có tác dụng mạnh hơn đối với các vi khuẩn Gram âm, đặc biệt với *Haemophilus influenzae* và *Moraxella catarrhalis,*  ngay cả với *H. influenzae* và *M. catarrhalis* sinh ra beta lactamase. Tuy nhiên, tác dụng trên tụ cầu sinh beta-lactamase và penicilinase thì yếu hơn cefalexin.
 
@@ -18912,8 +18588,7 @@ Tìm glucose niệu bằng các chất khử có thể dương tính giả. Ph�
 
 ## **Thời kỳ mang thai**
 
-
-mang thai nên cefaclor chỉ được chỉ định dùng ở người mang thai khi thật cần thiết.
+Các nghiên cứu trên động vật với liều gấp từ 3 - 5 lần liều tối đa dùng cho người (1 500 mg/ngày) không cho thấy bằng chứng gây ảnh hưởng đến bào thai của thuốc. Kháng sinh cephalosporin thường được coi là an toàn khi sử dụng cho phụ nữ có thai. Tuy nhiên, do chưa có công trình nào được nghiên cứu đầy đủ ở người mang thai nên cefaclor chỉ được chỉ định dùng ở người mang thai khi thật cần thiết.
 
 ## **Thời kỳ cho con bú**
 
@@ -18997,8 +18672,7 @@ Bảo quản ở nhiệt độ 15 - 30 °C. Trong bao bì kín, tránh ánh sán
 
 ## **Quá liều và xử trí**
 
-
-liên quan đến liều dùng. Nếu có các triệu chứng khác, có thể do dị ứng, hoặc tác động của một nhiễm độc khác hoặc của bệnh hiện mắc của người bệnh.
+*Triệu chứng:* Các triệu chứng quá liều có thể là buồn nôn, nôn, đau thượng vị và ỉa chảy. Mức độ nặng của đau thượng vị và ỉa chảy liên quan đến liều dùng. Nếu có các triệu chứng khác, có thể do dị ứng, hoặc tác động của một nhiễm độc khác hoặc của bệnh hiện mắc của người bệnh.
 
 *Xử trí:* Xử trí quá liều cần xem xét đến khả năng quá liều của nhiều loại thuốc, tương tác thuốc và dược động học bất thường ở người bệnh.
 
@@ -19017,7 +18691,6 @@ Cefaclor có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 ## **Tên thương mại**
 
 *Aegenklorcef 125; Amiclor; Anticlor; Bearclor; Beecamile Dry Sry; Bestcelor; Bicelor; Bidiclor; Cadicefaclor; Ceclor; Cefacle; Cefaclorvid; Cefact 125; Cefar; Cefcare; Ceflodin; Cekids Plus; CelorDHG; Celorstad; Cemiolor; Cemustine; Ceplorvpc; Cidilor; Cidilor Distab; Clacelor; Cleancef; Clofocef; Clorbiotic 250; Clorfast; Cophacef; Cophalen; Dahaclor SR; Davixon; Dentafar; Dentarfar; Dipclo; Doroclor; Dorocor; Eteclor; Ethiomagic; Euceclor 250; Euviclor; Faclor ACS; Facros; Folacef Cap.; Franfaclor; Fuacep; Fudamor; Fudsera; Geof-Cefaclor suspension; Goldclor 250; Haefaclor; Hwaclor Cap.; Ilclor; Ilhiclor; Kbclor; Kefcin; Keflor; Koruclor cap.; Kukjekemocin; Kupuniclor; Kyongbo Cefaclor Cap.; Mecefti; Medoclor; Mekocefaclor; Midaclo; MPClor; Newclor cap; Opeclor; Oratid; Orcefta; Orfalore; Orfalore-S; Pentaclor; Philkedox; pms-Imeclor; Pyfaclor; Ranclor; Sarocef; SCD Cefaclor; Storclor; Taericon; Tamifacxim; Tanpum; Tazocla Cap.; Tenaclor 250; Tono Cefal-250; Traclor; Ufal-Clor; Usccefaclor 125; Vercef; Vitraclor; Wooridul Cefaclor; Young-Poong Cefaclor cap.; YY Cefaclor Cap; Zerclor.*
-
 
 # **CEFADROXIL**
 
@@ -19072,7 +18745,6 @@ Thuốc không bị chuyển hóa. Hơn 90% liều sử dụng thải trừ vào
 ## **Chỉ định**
 
 Cefadroxil được chỉ định để điều trị các nhiễm khuẩn nhẹ và trung bình do các vi khuẩn nhạy cảm:
-
 
 Nhiễm khuẩn đường tiết niệu: Không biến chứng viêm thận - bể thận cấp và mạn tính, viêm bàng quang, viêm niệu đạo.
 
@@ -19176,8 +18848,9 @@ Dự phòng viêm nội tâm mạc nhiễm khuẩn: Để thay thế amoxicilin 
 
 *Trẻ em:*
 
+Liều chung (ngoài thời kỳ sơ sinh): 30 mg/kg/ngày chia làm 2 liều đều nhau. Liều này không thích hợp đối với nhiễm khuẩn nặng. 
 
-30 mg/kg/ngày uống 1 lần hay chia làm 2 lần đều nhau. Uống ít nhất trong 10 ngày.
+Viêm họng, viêm amidan do liên cầu khuẩn nhóm A, beta-tan máu: 30 mg/kg/ngày uống 1 lần hay chia làm 2 lần đều nhau. Uống ít nhất trong 10 ngày.
 
 Viêm da và cấu trúc da (chốc lở): 30 mg/kg/ngày uống 1 lần hoặc chia làm 2 lần đều nhau.
 
@@ -19229,7 +18902,6 @@ Cefadroxil có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 *Acefdrox-250; Amcef-plus; Aticef; Ausdroxil; Axodrox; B.B.Cin; Bearoxyl; Beejedroxil; Bicefdox 500; Bicefdroxil 500; Binancef; Biodroxil; Biphacef; Brifecy 500; Brudoxil; Bushicle; Cadidroxyl; Caputox 500; CedroDHG; Cefadoril 500; Cefadromark-500;*  *Cefadur 125 rediuse; Cefalvidi 250; Cefaplus-C; Cefdolin; Cefucefal; Cein; Ceoparole Capsule; Cepemid; CFD-500; Chiacef; CKD Ca-mex cap; Cladace 500; Coduroxyl 500; Cophadroxil 500; Dadroxil; Dafxime cap; Dalmal; Dobixil; Dongsung Cefadroxil; Drafez; DrocefVPC; Drofaxin; Dropancyl; Droxicef; Droxikid; Droxilic 500; Droxindus 250; Droxistad; Droxule; Eporocine; Esxilrup; Etexaroxi cap.; Euroxil; Euzidroxin; Evacef; Fabadroxil; Femicap; Fimadro-500; Fonroxil; Franmoxil 250; Franroxil 500; Fudaste; Fudnodyn; Fynkdavox; Giadrox 500; Hanfadro; Hexicof; Holdacef; Hwaxil; Ikodrax; Inbionetceroxil; Jayson -Cefadroxil; Kefloxin; Kodocxe; Kojarcefxil; Kopridoxil; Kordroxil caps.; Lifedroxin; Medamben; Medicefa; Megadrox; Mekocefal; Mekocefal; Melyroxil; Merixil; Meroxil; Newcamex; Neworadox caps; Nisxil-500; Novadril; Ocefacef; Opicef 125; Oraldroxine; Orprax; Pentadrox; Pharmaniaga Cefadroxil; pms-Cefadroxil; pms-Imedroxil; Pydrocef 500; Pyfadrox 500; Pyroxil; Rumocef; Sandroxil; Sungwon Adcock Uricef Cap; Supraflam; Tamicedroxil 500; Tarvidro-500; Tenadroxil 500; Texroxil; Torodroxyl; TV- Droxil; Tytdroxil 250; Uferoxil-500; Unicefaxin; Uscadidroxyl 250; Wincocef-500; VTCefal; Wincocef; Xamdemil 500; Xitoran; Xivedox; Xoniox; Young Poong Cefadroxil cap; Zencocif; Zicoraxil; Zinextra.*
 
-
 # **CEFALEXIN**
 
 **Tên chung quốc tế:** Cefalexin.
@@ -19261,7 +18933,6 @@ Gram âm ưa khí: *Branhamella catarrhalis, Citrobacter koseri, Escherichia col
 Các chủng nhạy cảm vừa (trên kháng sinh đồ là nhạy cảm trung gian): Gram âm ưa khí: *Proteus mirabilis*, *Haemophilus influenzae.*
 
 Vi khuẩn kỵ khí: *Clostridium perfringens, Peptostreptococcus*.
-
 
 *Kháng thuốc*
 
@@ -19348,7 +19019,6 @@ Hệ thần kinh trung ương: Lo âu, lú lẫn, chóng mặt, mệt mỏi, ả
 *Hiếm gặp, ADR <1/1 000*
 
 Toàn thân: Đau đầu, chóng mặt, phản ứng phản vệ, mệt mỏi.
-
 
 Máu: Giảm bạch cầu trung tính, giảm tiểu cầu.
 
@@ -19460,8 +19130,6 @@ Cefalexin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Baclev 500; Biceflexin; Bidilexin; Brown & Burk Cefalexin; Cefaheal; Cefamini Cefalexin; Celomox; Coducefa 500; Curelexi 500; Dosen; Glexil; Gloxin; Intasexim; Leximarksans; Lexin; Lexinmingo; Meceta; Medofalexin; Mibelexin; Oriphex; Primocef 250; TV. Cefalexin; Umecefa-500; Upha-Lexin; Vialexin 250.*
 
-
-
 # **CEFALOTIN**
 
 **Tên chung quốc tế:** Cefalotin.
@@ -19520,8 +19188,7 @@ Thận trọng khi dùng cefalotin cho người suy thận: Có thể phải gi�
 
 Dùng cefalotin dài ngày có thể làm phát triển quá mức các chủng không nhạy cảm. Cần theo dõi người bệnh cẩn thận. Nếu bị bội nhiễm, phải ngừng thuốc.
 
-
-điều trị bằng metronidazol cho người bị ỉa chảy nặng liên quan tới sử dụng kháng sinh.
+Đã có thông báo viêm đại tràng màng giả khi sử dụng các kháng sinh phổ rộng, vì vậy cần phải quan tâm chẩn đoán bệnh này và điều trị bằng metronidazol cho người bị ỉa chảy nặng liên quan tới sử dụng kháng sinh.
 
 Những bệnh nhân điều trị đường niệu với cefolotin có thể cho phản ứng dương tính giả đối với phản ứng khử đồng của glucosa.
 
@@ -19629,7 +19296,6 @@ Trẻ em: 20 - 30 mg/kg cùng khoảng thời gian như ở người lớn. Dự
 
 Liều duy trì được khuyến cáo đối với người bệnh sau thẩm tách máu, nhưng không thêm liều cho người bệnh thẩm tách màng bụng.
 
-
 ## **Tương tác thuốc**
 
 Cefalotin có thể gây trở ngại cho việc đo nồng độ creatinin theo phương pháp Jaffé và có thể cho giá trị cao giả tạo; nên nhớ điều này khi kiểm tra chức năng thận.
@@ -19666,7 +19332,6 @@ Nếu có co giật, ngừng ngay thuốc và có thể dùng liệu pháp chố
 
 Cefalotin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **CEFAMANDOL**
 
 **Tên chung quốc tế:** Cefamandole.
@@ -19702,7 +19367,6 @@ Nồng độ ức chế tối thiểu của cefamandol đối với các vi khu�
 Cefamandol nafat (muối natri của ester formyl cefamandol) được hấp thu không đáng kể trong đường tiêu hóa, do đó phải được sử dụng dưới dạng tiêm. Cefamandol nafat thủy phân nhanh trong huyết tương để giải phóng cefamandol có hoạt lực cao hơn. Khoảng 85 - 89% hoạt lực diệt khuẩn trong huyết tương là do cefamandol. Sau khi tiêm bắp cefamandol cho người lớn có chức năng thận bình thường liều 500 mg và 1 g, nồng độ đỉnh trong huyết thanh của cefamandol tương ứng đạt được khoảng 13 và 25 microgam/ml trong vòng 30 - 120 phút . Nồng độ còn rất thấp sau 6 giờ. Khi tiêm tĩnh mạch chậm (trong 10 phút) các liều 1 g, 2 g, 3 g cefamandol cho người lớn có chức năng thận bình thường, nồng độ trung bình cefamandol trong huyết thanh tương ứng là 139 microgam/ml, 214 microgam/ml, 534 microgam/ml trong vòng 10 phút. Sau khi tiêm 4 giờ, các nồng độ trên còn lại 0,8 microgam/ml, 2,2 microgam/ml và 2,9 microgam/ml.
 
 Khoảng 70% cefamandol gắn với protein huyết tương. Nửa đời trong huyết tương của cefamandol thay đổi từ 0,5 - 1,2 giờ phụ thuộc vào đường tiêm và kéo dài ở người suy thận. Nửa đời huyết tương là 12,3 - 18 giờ ở người lớn có nồng độ creatinin trong huyết thanh là 5 - 9 mg/100 ml.
-
 
 Cefamandol phân bố rộng rãi trong các mô và dịch cơ thể, kể cả trong xương, dịch khớp, dịch màng phổi. Thuốc khuếch tán vào dịch não tủy khi màng não bị viêm nhưng không tiên đoán được nồng độ. Cefamandol vào được trong sữa mẹ. Thuốc bài xuất nhanh dưới dạng không đổi, qua lọc cầu thận và bài tiết ở ống thận. Khoảng 80% liều được bài xuất trong vòng 6 giờ ở người lớn có chức năng thận bình thường và đạt nồng độ cao trong nước tiểu. Cefamandol có trong mật và đạt được nồng độ đủ để điều trị.
 
@@ -19762,11 +19426,11 @@ Ngừng điều trị bằng cefamandol khi người bệnh bị dị ứng.
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Thuốc được dùng dưới dạng cefamandol nafat, liều tiêm bắp hoặc tiêm tĩnh mạch giống nhau. Thuốc được tiêm bắp sâu hoặc tiêm tĩnh mạch chậm 3 - 5 phút hoặc tiêm truyền liên tục hay tiêm truyền không liên tục.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 Người lớn: Tiêm bắp sâu, hoặc tiêm tĩnh mạch chậm (từ 3 - 5 phút) hoặc truyền ngắt quãng hay liên tục với liều 0,5 đến 2 g, 4 - 8 giờ/ lần, tùy theo bệnh nặng hoặc nhẹ.
 
@@ -19787,7 +19451,6 @@ Trẻ em trên một tháng tuổi: 50 - 100 mg/kg/ngày chia ra nhiều lần �
 ## **Tương tác thuốc**
 
 Rượu: Không nên uống rượu hoặc các chế phẩm có rượu, đồng thời với tiêm cefamandol và sau đó một số ngày vì cephalosporin này có mạch nhánh N-methylthiotetrazol, có thể ức chế enzym acetaldehyd dehydrogenase, dẫn đến tích tụ acetaldehyd trong máu. Các tác dụng giống disulfiram như co cứng bụng hoặc dạ dày, buồn nôn, nôn, đau đầu, hạ huyết áp, đánh trống ngực, thở nông, tim đập nhanh, vã mồ hôi, hoặc đỏ bừng mặt có thể xảy ra sau khi uống rượu hoặc tiêm tĩnh mạch các dung dịch chứa alcol; những tác dụng này thường xảy ra trong vòng từ 15 đến 30 phút sau khi uống rượu và thường dịu đi một cách tự phát trong vài giờ. Cần khuyên người bệnh không uống rượu, không dùng thuốc có chứa rượu hoặc tiêm tĩnh mạch các dung dịch có rượu trong khi đang dùng cefamandol và trong nhiều ngày sau khi dừng thuốc.
-
 
 Probenecid làm giảm bài tiết cefamandol ở ống thận, do đó làm tăng và kéo dài nồng độ cefamandol trong huyết thanh, kéo dài nửa đời thải trừ và tăng nguy cơ độc tính.
 
@@ -19820,7 +19483,6 @@ Cefamandol có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 ## **Tên thương mại**
 
 *Amcefal; Cedolcef; Cefalemid; Cefam; Faldobiz; Farmiz; Imedoman; Recognile Injection; Shindocef; Tarcefandol; Vicimadol.*
-
 
 # **CEFAPIRIN NATRI**
 
@@ -19857,7 +19519,6 @@ Nhiễm khuẩn huyết.
 Viêm nội tâm mạc.
 
 Nhiễm khuẩn đường tiết niệu sinh dục.
-
 
 Nhiễm khuẩn ở da, thanh mạc, xương (viêm cốt tủy xương), khớp. Nhiễm khuẩn đường tiêu hóa do *E. coli, Salmonella, Klebsiella.* Dự phòng trong ngoại khoa.
 
@@ -19970,7 +19631,6 @@ Viêm màng ngoài tim do *S. aureus, H. influenzae, Streptococcus pneumoniae, S
 
 Nhiễm khuẩn huyết do *Staphylococcus aureus* nhạy cảm methicilin: Cefapirin 3 - 6 g/ngày kết hợp với rifampicin 20 mg/kg/ngày; do *Streptococcus* nhómA: cefapirin 6 g/ngày; do *Streptococcus* nhóm B: 2 - 6 g/ngày; do *Streptococcus pneumoniae*: 2 - 4 g/ngày.
 
-
 ## **Tương tác thuốc**
 
 Dùng phối hợp kháng sinh nhóm cephalosporin với colistin (kháng sinh nhóm polymyxin) làm tăng nguy cơ tổn thương thận.
@@ -20004,7 +19664,6 @@ Không được pha thêm thuốc khác vào chế phẩm cefapirin.
 Phải xử trí cấp cứu các trường hợp ngộ độc thuốc và quá liều cefapirin, đặc biệt là sốc phản vệ. Phải ngừng ngay tiêm truyền cefapirin và tăng đào thải bằng truyền dung dịch natri clorid 0,9%. Phải đảm bảo thông khí và theo dõi chặt chẽ các dấu hiệu sống, nhất là nhịp tim. Có thể dùng epinephrin, truyền dịch, cung cấp oxy, thuốc co mạch, thuốc kháng histamin, corticosteroid tùy theo tình trạng.
 
 Thẩm phân máu có thể lấy đi từ 20 đến 50% lượng cefapirin trong cơ thể.
-
 
 # **CEFAZOLIN**
 
@@ -20052,8 +19711,7 @@ Cefazolin hấp thu kém từ đường tiêu hóa, nên phải sử dụng qua 
 
 Cefazolin khuếch tán vào xương, vào các dịch cổ trướng, màng phổi và hoạt dịch, nhưng khuếch tán kém vào dịch não tủy. Cefazolin đi qua nhau thai vào tuần hoàn thai nhi; vào sữa mẹ với nồng độ rất thấp.
 
-
-một mức độ nào đó qua thẩm tách máu.
+Cefazolin được đào thải qua nước tiểu ở dạng không đổi, phần lớn qua lọc cầu thận và một phần nhỏ qua bài tiết ở ống thận; ít nhất 80% liều tiêm bắp được đào thải ở dạng không đổi qua nước tiểu trong 24 giờ. Với liều tiêm bắp 500 mg và 1 g, cefazolin đạt nồng độ đỉnh trong nước tiểu tương ứng khoảng 2 mg/ml và 4 mg/ml. Probenecid làm chậm đào thải cefazolin. Cefazolin được loại bỏ ở một mức độ nào đó qua thẩm tách máu.
 
 Cefazolin có nồng độ cao trong mật mặc dù lượng bài tiết qua mật ít.
 
@@ -20139,14 +19797,15 @@ Khác: Phản vệ.
 
 Tác dụng không mong muốn nói chung cho các cephalosporin: Hoại tử thượng bì nhiễm độc, đau bụng, ứ mật, bội nhiễm, bệnh thận nhiễm độc, thiếu máu không tái tạo, thiếu máu tan huyết. Xuất huyết, thời gian prothrombin kéo dài, giảm toàn thể huyết cầu.
 
-
 ## **Hướng dẫn cách xử trí ADR**
 
 Người bệnh bị suy thận: Cần giảm liều. Phải theo dõi chức năng thận và công thức máu, nhất là khi điều trị liều cao và dài ngày. Nếu người bệnh bị phản ứng dị ứng hoặc quá mẫn nghiêm trọng, phải ngừng sử dụng cefazolin và tiến hành các biện pháp hỗ trợ (duy trì thông khí và sử dụng epinephrin, oxy, tiêm tĩnh mạch corticosteroid).
 
 Các trường hợp bị viêm đại tràng màng giả thể nhẹ thường chỉ cần ngừng thuốc. Các trường hợp thể vừa và nặng, cần lưu ý cho dùng các dịch hoặc chất điện giải, bổ sung protein và điều trị bằng một kháng sinh có tác dụng lâm sàng điều trị viêm đại tràng do *Clostridium difficile*.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Dùng cefazolin natri theo đường tiêm bắp hoặc tĩnh mạch, liều dùng được tính theo cefazolin khan. Cefazolin được tiêm bắp sâu vào các cơ lớn, tiêm chậm vào tĩnh mạch trong 5 phút hoặc tiêm truyền tĩnh mạch không liên tục 30 - 60 phút. Trước khi tiêm, phải kiểm tra dung dịch cefazolin, không được dùng nếu nhìn thấy có tiểu phân đặc biệt.
 
@@ -20216,8 +19875,7 @@ Dự phòng trước, trong và sau phẫu thuật: 1 g tiêm bắp hay tĩnh m�
 
 Trẻ em:
 
-
-thay van tim, do tụ cầu: 100 mg/kg/ngày (tối đa 6 g/ngày) chia làm 3 - 4 liều đều nhau, cho trong 6 tuần hoặc lâu hơn, phối hợp cùng với gentamicin tiêm bắp hoặc tĩnh mạch (3 mg/kg/ngày chia làm 2 hoặc 3 liều đều nhau trong 2 tuần đầu điều trị và tiêm tĩnh mạch hoặc uống rifampin (20 mg/kg/ngày chia làm 3 liều đều nhau, cho trong 6 tuần hoặc lâu hơn).
+Điều trị viêm nội tâm mạc: chưa thay van tim: 100 mg/kg/ngày (tối đa 6g/ngày) chia làm 3 - 4 liều đều nhau, cho trong 6 tuần và có thể cho cùng hoặc không với gentamicin (3 mg/kg/ngày chia làm 3 liều đều nhau, cho trong 3 - 5 ngày đầu điều trị). Nếu đã thay van tim, do tụ cầu: 100 mg/kg/ngày (tối đa 6 g/ngày) chia làm 3 - 4 liều đều nhau, cho trong 6 tuần hoặc lâu hơn, phối hợp cùng với gentamicin tiêm bắp hoặc tĩnh mạch (3 mg/kg/ngày chia làm 2 hoặc 3 liều đều nhau trong 2 tuần đầu điều trị và tiêm tĩnh mạch hoặc uống rifampin (20 mg/kg/ngày chia làm 3 liều đều nhau, cho trong 6 tuần hoặc lâu hơn).
 
 Nếu viêm nội tâm mạc do *S. pyogenes* hoặc *S. pneumoniae*: thời gian điều trị: 4 tuần.
 
@@ -20263,14 +19921,13 @@ Cefazolin natri có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 *Ajuzolin Inj; Alfazole Inj.; Alpazolin; Axuka; Baczoline-1000; Beecezon; Bicilin; Bifazo; Biofazolin; Cbipromizen inj.; Cefdivale; Cephazomid; Curazole; Denkaxym; Devicine Inj.; Elmaz; Erabru; Gastufa; Greenzolin; Harzong; Imezin; Intrazoline; Kazolin; Lefzomed; Medfurin; Midafaclo; Nefizoline; Niozacef; Novazef; Philfazolin; Schtazol; Shinzolin; SP. Cefazolin; Sprealin; Tafozin; Vicizolin; Wonzolin Inj; Yuhan Cefazolin; Zepilen; Zoliicef; Zolinbac; Zolinicef; Zolival; Zovincef.*
 
-
 # **CEFDITOREN PIVOXIL**
 
-**Tên chung quốc tế:** Cefditoren pivoxil.
+**Tên chung quốc tế**: Cefditoren pivoxil
 
-**Mã ATC:** J01DD16.
+**Mã ATC**: J01DD16
 
-**Loại thuốc:** Kháng sinh nhóm cephalosporin thế hệ 3.
+**Loại thuốc**: Kháng sinh nhóm cephalosporin thế hệ 3.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -20291,7 +19948,6 @@ Cơ chế tác dụng của cefditoren pivoxil tương tự như các kháng sin
 Cefditoren pivoxil được hấp thu theo đường tiêu hóa và bị thủy phân bởi các esterase thành cefditoren có hoạt tính và pivalat vào trong máu. Khi uống lúc đói liều 200 mg cefditoren, nồng độ cao nhất đạt được trong huyết tương khoảng 1,8 microgram/ml sau khi uống 1,5 đến 3 giờ. Sinh khả dụng khi uống lúc đói đạt được khoảng 14% và tăng lên nếu uống cùng bữa ăn có nhiều mỡ.
 
 Tỷ lệ gắn với protein huyết tương của cefditoren là 88%. Thể tích phân bố 9,3 ± 1,6 lít.
-
 
 Cefditoren không bị chuyển hóa nhiều và bài tiết chính qua nước tiểu dưới dạng không đổi bằng lọc ở cầu thận và bài tiết ở ống thận. Thuốc có thể được thải trừ bằng lọc máu ngoài thận. Nửa đời thải trừ của thuốc khoảng 1,6 giờ và kéo dài hơn ở những bệnh nhân suy chức năng thận.
 
@@ -20375,18 +20031,17 @@ Giảm tác dụng của prothrombin có thể xảy ra với những đối tư
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Uống thuốc cùng với bữa ăn nhằm làm tăng hấp thu thuốc vào máu. Cefditoren uống dưới dạng cefditoren pivoxil nhưng liều tính theo cefditoren, 245 mg cefditoren pivoxil tương đương 200 mg cefditoren.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 Liều dùng ở trẻ em trên 12 tuổi và người lớn: 200 - 400 mg/lần, 2 lần/ngày.
 
 *Điều trị viêm họng và amidan*: 200 mg/lần, 2 lần/ ngày, trong 10 ngày.
 
 *Điều trị nhiễm khuẩn đường hô hấp*: Đợt cấp của viêm phế quản mạn tính: 400 mg/lần, 2 lần/ngày, trong 10 ngày; viêm phổi mắc phải tại cộng đồng: 400 mg/lần, 2 lần/ ngày trong 14 ngày.
-
 
 Điều trị nhiễm khuẩn da và tổ chức dưới da: 200 mg/lần, 2 lần/ ngày, trong 10 ngày.
 
@@ -20410,12 +20065,11 @@ Thuốc được bảo quản ở nhiệt độ 15 - 30 o C. Tránh ánh sáng v
 
 *Meiact; Zinecox 200; Zinecox RTC 400.*
 
-
 # **CEFEPIM**
 
 **Tên chung quốc tế:** Cefepime.
 
-**Mã ATC:** J01DE01.
+**Mã ATC:** J01DE01
 
 **Loại thuốc:** Kháng sinh nhóm cephalosporin thế hệ 4.
 
@@ -20451,8 +20105,7 @@ Hiện nay, cefepim là thuốc kháng sinh ít bị *P. aeruginosa* kháng nh�
 
 Dược động học của cefepim là tuyến tính trong khoảng liều từ 250 mg đến 2 g tiêm tĩnh mạch hoặc từ 500 mg đến 2 g tiêm bắp và không thay đổi trong quá trình điều trị. Cefepim được hấp thu nhanh và hoàn toàn khi tiêm bắp. Nồng độ đỉnh trong huyết thanh tùy thuộc vào liều. Sau khi tiêm bắp 1,5 giờ, liều 500 mg và 1g, nồng độ đỉnh trong huyết thanh vào khoảng 14 và 30 microgam/ml (lần lượt). Sau khi tiêm tĩnh mạch 30 phút với liều tượng tự như trên, nồng độ đỉnh trong huyết thanh lần lượt vào khoảng 40 và 80 microgam/ml. Khoảng 16 - 19% liều được gắn vào protein huyết tương, không phụ thuộc vào nồng độ thuốc trong huyết tương.
 
-
-bình khoảng 1,2 microgam/ml. Trong khoảng liều từ 250 mg đến 2 g, sự phân bố ở mô không thay đổi. Cefepim qua được hàng rào máu não và phân bố vào dịch não tủy. Ở người bệnh cứ 8 giờ lại tiêm một liều 50 mg/kg, thì nồng độ trong dịch não tủy là 3,3 đến 6,7 mg/lít. Thể tích phân bố đo ở giai đoạn ổn định khoảng 14 - 20 lít. Trong cơ thể, cefepim rất ít bị chuyển hóa (chỉ khoảng 7% liều), khoảng 85% liều tiêm đào thải dưới dạng không bị thay đổi, theo nước tiểu qua lọc cầu thận. Độ thanh thải cefepim của thận là khoảng 130 ml/phút. Đặc điểm dược động học của cefepim không bị thay đổi ở người cao tuổi có chức năng thận bình thường và ở người bị rối loạn chức năng gan, nên không cần thiết phải giảm liều ở những người bệnh này.
+Cefepim phân bố rộng khắp vào các mô và dịch cơ thể kể cả nước tiểu, mật, túi mật, dịch màng bụng, dịch phế quản, đờm, ruột thừa, tuyến tiền liệt và đạt được nồng độ cao trong mật. Cefepim phân bố vào sữa người với nồng độ thấp, sau khi tiêm truyền tĩnh mạch trên 1 giờ với một liều 1 g, nồng độ đỉnh của thuốc trong sữa trung bình khoảng 1,2 microgam/ml. Trong khoảng liều từ 250 mg đến 2 g, sự phân bố ở mô không thay đổi. Cefepim qua được hàng rào máu não và phân bố vào dịch não tủy. Ở người bệnh cứ 8 giờ lại tiêm một liều 50 mg/kg, thì nồng độ trong dịch não tủy là 3,3 đến 6,7 mg/lít. Thể tích phân bố đo ở giai đoạn ổn định khoảng 14 - 20 lít. Trong cơ thể, cefepim rất ít bị chuyển hóa (chỉ khoảng 7% liều), khoảng 85% liều tiêm đào thải dưới dạng không bị thay đổi, theo nước tiểu qua lọc cầu thận. Độ thanh thải cefepim của thận là khoảng 130 ml/phút. Đặc điểm dược động học của cefepim không bị thay đổi ở người cao tuổi có chức năng thận bình thường và ở người bị rối loạn chức năng gan, nên không cần thiết phải giảm liều ở những người bệnh này.
 
 Nửa đời trong huyết tương của cefepim khoảng 2 giờ và kéo dài ở người suy thận, bởi vậy với những người bệnh này cần giảm liều theo mức lọc cầu thận. Nửa đời trong huyết tương của cefepim ở người lớn chức năng thận bình thường là 2 giờ - 2,3 giờ. Ở trẻ em 2 tháng tuổi - 6 tháng tuổi là 1,9 giờ, trẻ trên 6 tháng tuổi đến 16 tuổi là 1,5 - 1,7 giờ. Nửa đời trong huyết tương ở người suy thận có độ thanh thải 31 - 60 ml/phút là 4,9 giờ, độ thanh thải creatinin 10 - 30 ml/phút có nửa đời là 10,5 giờ và độ thanh thải creatinin dưới 10 ml/phút , nủa đời là 13,5 giờ. Không có hiện tượng tích lũy thuốc ở người tiêm tĩnh mạch 2 g cách 8 giờ/lần trong 9 ngày.
 
@@ -20554,7 +20207,6 @@ Ngừng dùng thuốc.
 
 Trường hợp bị viêm đại tràng giả mạc: Ngừng dùng cefepim và thay bằng thuốc kháng sinh thích hợp khác (vancomycin); tránh dùng các thuốc chống ỉa chảy.
 
-
 ## **Liều lượng và cách dùng**
 
 ### *Cách dùng:*
@@ -20636,7 +20288,6 @@ Người lớn đang thẩm tách máu dùng liều đầu tiên 1 g cefepim m�
 
 Vì 68% lượng cefepim trong cơ thể mất đi sau 3 giờ lọc máu, nên đối với người bệnh đang lọc máu thì sau mỗi lần lọc cần bù đắp lại bằng một liều tương đương với liều ban đầu.
 
-
 Người bệnh đang thẩm tách màng bụng ngoại trú thì nên cho liều thường dùng cách 48 giờ một lần hơn là cách 12 giờ một lần. Liều 2 g cách 48 giờ dùng cho người bệnh giảm bạch cầu trung tính có sốt.
 
 ## **Tương tác thuốc**
@@ -20669,12 +20320,11 @@ Cefepim có trong Danh mục thuốc tân được thuộc phạm vi thanh toán
 
 Alpime; Amfapime; Bapexim; Capime; Cebapan; Cebopim-BCPP; Cefepibiotic; Cefepima Libra; Cefepimark; Ceficad 1000; Cefimen K; Cefistar 1000; Cefpin; Cefpitum; Cemoxi Inj; Cepimstad; Cledwyn 1000; Cledwyn 2000; Dalipim; Dicifepim; Dixapim; Donzime; Ecepim; Emetrime; Emipexim; Empixil Inj; Epepim; Fipam; Flamipime; Forpar; Fujiject; Harcepime; Hwadox Inj; Imepime; Kfepime; Konpim inj.; Kpim; K-Pime; Lypime; Maxapin; Maxapin; Maxipime; Micropime; Midoxime; Mirapime; Monalis; Nalocif; Necpime; Newcepim; Novapime; Osiafra; Penfepim 1000; Pozineg; Rivepime; Ropiro; Rotapime; Safepim; Sancinor; Shinfemax; Shinfepim; Spectrax; Spokit; Spreapim; Supercef; Suprapime; Teravu inj.; Triptocef; Ulticef; Uniceme; Unopime; Verapime; Vifepime; Vipimax.
 
-
 # **CEFIXIM**
 
-**Tên chung quốc tế:** Cefixime.
+Tên chung quốc tế: Cefixime.
 
-**Mã ATC:** J01DD08.
+Mã ATC: J01DD08.
 
 **Loại thuốc:** Kháng sinh cephalosporin thế hệ 3.
 
@@ -20718,10 +20368,7 @@ Xoắn khuẩn (*Spirochetes*): Cefixim có một vài tác dụng đối với 
 
 Kháng thuốc
 
-Cefixim bền vững cao, không bị thủy phân do nhiều beta-lactamase qua trung gian plasmid và nhiễm sắc thể, nhưng thuốc bị thủy phân
-
-
-do một số beta-lactamase của *Enterobacter, Klebsiella oxytoca, Proteus vulgaris* và *Pseudomonas cepacia, Citrobacter freundii, Enterobacter cloacae, Flavobacterium* và *Bacteroides fragilis.* 
+Cefixim bền vững cao, không bị thủy phân do nhiều beta-lactamase qua trung gian plasmid và nhiễm sắc thể, nhưng thuốc bị thủy phân do một số beta-lactamase của *Enterobacter, Klebsiella oxytoca, Proteus vulgaris* và *Pseudomonas cepacia, Citrobacter freundii, Enterobacter cloacae, Flavobacterium* và *Bacteroides fragilis.* 
 
 Tụ cầu kháng cefixim là do thuốc có ái lực yếu đối với PBP2của vi khuẩn. *Enterococcus* và *Listeria monocytogenes* kháng thuốc là do thuốc có ái lực kém đối với các PBP của vi khuẩn. *Citrobacter freundii* và *Enterobacter* kháng cefixim là do các yếu tố ngăn cản thuốc thấm vào vi khuẩn và do tiết ra các beta-lactamase. *Pseudomonas* và *Acinetobacter* kháng thuốc là do các yếu tố thấm qua màng tế bào vi khuẩn.
 
@@ -20733,7 +20380,7 @@ Các vi khuẩn ưa khí Gram - âm như *Achromobacter xylosoxidans* và *Flavo
 
 Với *Chlamydia* và *Mycoplasma*: Cefixim không có hoạt tính với *Chlamydia trachomatis* và *Ureaplasma urealyticum.*
 
-#### *Dược động học*
+### *Dược động học*
 
 Sau khi uống một liều đơn cefixim, chỉ có 30 - 50% liều được hấp thu qua đường tiêu hoá, bất kể uống trước hoặc sau bữa ăn, tuy tốc độ hấp thu có thể giảm khi uống cùng bữa ăn. Thuốc ở dạng hỗn dịch uống được hấp thu tốt hơn dạng viên. Sự hấp thu thuốc tương đối chậm. Khi uống liều đơn cefixim, nồng độ đỉnh trong huyết tương đạt khoảng 2 - 3 microgam/ml (đối với liều 200 mg), 3,7 - 4,6 microgam/ml (đối với liều 400 mg) và đạt sau khi uống 2 - 6 giờ. Ở người khỏe mạnh dùng liều 100 mg - 2 g dưới dạng nang, dung dịch uống hoặc hỗn dịch, nồng độ đỉnh huyết thanh và AUC tăng khi liều tăng nhưng không tỷ lệ thuận với liều; hấp thu qua đường tiêu hóa giảm khi tăng liều. Ở trẻ em dùng liều 4 - 8 mg/kg cũng cho thấy nồng độ cefixim huyết thanh không tỷ lệ thuận với liều. Cefixim không tích lũy trong huyết thanh hoặc nước tiểu ở người có chức năng thận bình thường sau khi uống nhiều liều, ngày uống 1 - 2 lần/ngày. Ở người cao tuổi, dùng liều 400 mg ngày uống 1 lần trong 5 ngày, cho thấy nồng độ cefixim đỉnh trong huyết thanh cao hơn 20 - 26% và AUC cao hơn 40 - 42% so với người 18 - 35 tuổi, tuy vậy không có ý nghĩa lâm sàng. Nửa đời trong huyết tương thường khoảng 3 đến 4 giờ và có thể kéo dài khi bị suy thận. Khoảng 65% cefixim trong máu gắn với protein huyết tương. Nửa đời huyết thanh của cefixim không phụ thuộc vào dạng thuốc và không phụ thuộc vào liều.
 
@@ -20770,7 +20417,6 @@ Giống như các kháng sinh khác, dùng cefixim dài ngày có thể khiến 
 Liều và/hoặc số lần dùng thuốc cần phải giảm ở những người bệnh suy thận, bao gồm cả những người bệnh đang lọc máu do nồng độ cefixim trong huyết tương ở người suy thận cao hơn và kéo dài hơn so với những người bệnh có chức năng thận bình thường.
 
 Đối với trẻ dưới 6 tháng tuổi, cho đến nay chưa có dữ liệu về độ an toàn và hiệu lực của cefixim.
-
 
 Dạng hỗn dịch có chứa natri benzoat, phải dùng rất thận trọng đối với trẻ sơ sinh, do acid benzoic (của benzoat) là một chất chuyển hóa của benzyl alcohol và một lượng lớn benzyl alcohol (≥ 99 mg/ kg/ngày) đã liên quan đến ngộ độc gây tử vong [Hội chứng thở ngáp cá (Gasping syndrome)] ở trẻ sơ sinh. Nghiên cứu trên động vật và *in vitro* đã cho thấy benzoat đã giải phóng bilirubin từ vị trí gắn kết protein.
 
@@ -20824,7 +20470,9 @@ Nếu có co giật, ngừng cefixim và dùng thuốc chống co giật.
 
 Khi bị ỉa chảy do *C. difficile* và viêm đại tràng màng giả, nếu nhẹ chỉ cần ngừng thuốc. Với các trường hợp vừa và nặng cần truyền dịch, điện giải, bổ sung protein và điều trị bằng metronidazol.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Trong trường hợp viêm tai giữa cấp tính, chỉ nên dùng cefixim dạng hỗn dịch, không nên dùng cefixim dạng viên nén.
 
@@ -20858,7 +20506,6 @@ Probenecid làm tăng nồng độ đỉnh và AUC của cefixim, giảm độ t
 
 Các thuốc chống đông như warfarin khi dùng cùng cefixim làm tăng thời gian prothrombin và có thể kèm theo chảy máu.
 
-
 Carbamazepin uống cùng cefixim làm tăng nồng độ carbamazepin trong huyết tương.
 
 Nifedipin khi uống cùng cefixim làm tăng sinh khả dụng của cefixim, biểu hiện bằng tăng nồng độ đỉnh và AUC.
@@ -20882,7 +20529,6 @@ Cefixim có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 ## **Tên thương mại**
 
 *Acicef; Akincef; Amyxim; Ankifox; Antifix; Antima; Armefixime; Augoken; Azecifex; Bactirid; Benifime; Bicebid; Cadifixim; Cefco; Cefebure; Cefibiotic; Cefichem; CefiDHG; Cefiget; Cefiget DS; Cefihommax; Cefilife; Cefimark; Cefimbrand 100; Cefimed; Cefimvid; Cefipron sachet; Cefitab; Cefix Vpc 100; Cefixure; Cefixure; Cefixure; CefixVPC; Ceflim; Cefmac; Cefmycin; Cefrin; Ceftacef 50; Ceftrimini; Cehan Cap.; Cemax; Cenfy; Ceracyxime cap.; Cerat; Cerloby 200; Cerlocil; Cifataze DT; C-Mark 100; C-Marksans 100 DT; C-Marksans 200; Cophavixim; Crocin; Curecefix 100; Dahaxim Cap.; Damoce; Daxame; Docifix; Dorixina-100; Duoxime; Effixent; Efime; Efixime 100DT; Efticef; Emcefox-O; Essenxim 200; Eucifex; Euphoric; Eurfix; Euscefi; Euvixim; Evofix; Fabafixim; Fecimfort; Fimabute; Fiosaxim; Fisec 100; Fithixime; Fixcap; Fixim-200; Fiximstad; Fixiwin; Fixkem-200; Fixkids; Fixma; Fixtin; Fixx; Fizanate; Fizixide DT; Flowmet; Fudcime; Fudphar; Fudreti; Futipus; Fymezim 400; Ganexime-100 DT; Gelxim Tablets; Geof-Cefixime 100; Gramocef-O 200DT; Greenfixime; Habucefix Cap; Hafixim; Hancefix; Heterocef; Holdafix; Hwafix; Ifex; Ikocef-100 DT; Imexime; Inbionetinfixim; Incef-200; Incexif; Interfixim; Ixifast -200; Jekukfixim; Kangfixim; Kidfix; Kivacef 200; Kivacef sachet; Kwangmyungcefix; Lecefti; Lifecef 100 DT; Lufixime; Macrebid; Macrocef; Mactaxim; Max-Fexim; Maxpan; Mebixim; Mecefix-B.E; Mecifexime; Metiny; Midefix; Midoxime; Minicef; Mitafix 100; Morecef; M-Xime; Neprox; Newcefix; Newtop; Nimemax; Odazipin; Odazipin-DT; Ofbexim; Okcixime; Orafect; Orafixim 100; Orenko; Orifixim; Orirocin; Ormet; Orpase; Pedcefix; Pencid; Pentafex; Philbactam; Phudcexim; Prioxime-100 Cap; Puraxim; Q-Tax P; Q-Tax-T; Refixime; Rialcef; Rite-O-Cef; Robfixim; Safix 100; Sagafixim; Santifex; Secef; Seoka Cap.; Seozym Cap.; Suncexim-200; Sungwon Adcock Cefixime Cap.; Sunxime-100; Superfix; Sydexim-100 DT; T-Fexim; Tamifixim; Tenficef; Tifaxcin; Topcef; Torafix-100; Torfexim-200; Tricef; Trifix; Tytxym; Ukfix; Umexim-200; Unifix; Uphaxime; Usacefix;*  *Viababyfixime; Vimecime; Vinfixxim; Vudu-Cefixim; Vuri; Wonfixime; Xival; Zefdure; Zentocefix; Zifex; Zimexef dry syrup; Zinrofort; Zotinat.*
-
 
 # **CEFOPERAZON NATRI**
 
@@ -20916,8 +20562,7 @@ Cefoperazon cũng có tác dụng *in vitro* đối với nhiều loại vi khu�
 
 Cefoperazon không hấp thu qua đường tiêu hóa nên phải dùng đường tiêm.
 
-
-huyết tương khoảng 2 giờ, thời gian này kéo dài hơn ở trẻ sơ sinh và ở người bị bệnh gan hoặc đường mật. Cefoperazon gắn kết với protein huyết tương từ 82 đến 93%, tùy theo nồng độ.
+Thuốc tiêm cefoperazon là dạng muối natri cefoperazon. Tiêm bắp các liều 1 g hoặc 2 g cefoperazon, nồng độ đỉnh huyết tương tương ứng là 65 và 97 microgam/ml sau 1 đến 2 giờ. Tiêm tĩnh mạch, 15 đến 20 phút sau, nồng độ đỉnh huyết tương gấp 2 - 3 lần nồng độ đỉnh huyết tương của tiêm bắp. Nửa đời của cefoperazon trong huyết tương khoảng 2 giờ, thời gian này kéo dài hơn ở trẻ sơ sinh và ở người bị bệnh gan hoặc đường mật. Cefoperazon gắn kết với protein huyết tương từ 82 đến 93%, tùy theo nồng độ.
 
 Cefoperazon phân bố rộng khắp trong các mô và dịch của cơ thể. Thể tích phân bố biểu kiến của cefoperazon ở người lớn khoảng 10 - 13 lít/kg và ở trẻ sơ sinh khoảng 0,5 lít/kg. Cefoperazon thường kém thâm nhập vào dịch não tủy. Cefoperazon qua nhau thai và bài tiết vào sữa mẹ ở nồng độ thấp.
 
@@ -21003,7 +20648,6 @@ Thần kinh cơ và xương: Đau khớp.
 
 Khác: Bệnh huyết thanh, bệnh nấm Candida.
 
-
 ## **Hướng dẫn cách xử trí ADR**
 
 Ngừng sử dụng cefoperazon. Trong trường hợp dị ứng hoặc phản ứng quá mẫn nghiêm trọng cần tiến hành điều trị hỗ trợ (duy trì thông khí và sử dụng epinephrin, oxygen, tiêm tĩnh mạch corticosteroid).
@@ -21081,7 +20725,6 @@ Các triệu chứng quá liều bao gồm tăng kích thích thần kinh cơ, c
 
 Xử trí quá liều cần cân nhắc đến khả năng quá liều của nhiều loại thuốc, sự tương tác thuốc và dược động học bất thường của người bệnh.
 
-
 Bảo vệ đường hô hấp của người bệnh, hỗ trợ thông khí và truyền dịch. Nếu người bệnh phát triển các cơn co giật, ngừng ngay sử dụng thuốc; có thể sử dụng liệu pháp chống co giật nếu có chỉ định về lâm sàng. Thẩm tách máu có thể có tác dụng giúp thải loại thuốc khỏi máu, ngoài ra phần lớn các biện pháp là điều trị hỗ trợ hoặc chữa triệu chứng.
 
 ## **Thông tin quy chế**
@@ -21091,7 +20734,6 @@ Cefoperazon có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 ## **Tên thương mại**
 
 *Amerizol; Azocef; Bifolyo; Bifopezon; Buticef 1 000; Cefapezone; Cefapor; Cefatal; Cefinroxe; Cefobamid; Cefobid; Cefoject; Cefozile; Cefozyo; Celfuzine; Ceraapix; Dardum; Defocef; Denkazon; Essezon; Etexforazone Inj.; Fapozone; Farzone; Fordamet; Genperazone; Glorimed; Goodfera; Hanacefezon; Hanpezon Inj.; Huforatame; Huforazone; Hwazon Inj.; Imefocef; Kbtafuzone; Kephazon; Kocepo Inj.; Medocef; Neoforazone; Newfobizon Inj; Nopera; Opsame; Perabact-1000; Perazlife; Philcazone Inj; Philpezon; Photeda; Rocacef; SP. Cefoperazone; Tapezone; Trikapezon; TV-Perazol; Viciperazol; Yucezone; Zeefora Inj; Zontrape.*
-
 
 # **CEFOTAXIM**
 
@@ -21132,7 +20774,6 @@ Thuốc được hấp thu rất nhanh sau khi tiêm bắp. Sau khi tiêm bắp 
 Cefotaxim và desacetylcefotaxim phân bố rộng khắp ở các mô và dịch. Nồng độ thuốc trong dịch não tủy đạt mức có tác dụng điều trị, nhất là khi viêm màng não. Cefotaxim đi qua nhau thai và có nồng độ thấp trong sữa mẹ.
 
 Ở gan, cefotaxim chuyển hóa một phần thành desacetylcefotaxim và các chất chuyển hóa không hoạt tính khác. Thuốc đào thải chủ yếu qua thận (trong vòng 24 giờ, khoảng 40 - 60% dạng không biến đổi được thấy trong nước tiểu), khoảng 20% đào thải ở dạng chất chuyển hóa desacetyl. Cefotaxim và desacetylcefotaxim cũng có nồng độ cao ở mật và khoảng 20% liều tìm thấy ở phân. Probenecid làm chậm quá trình đào thải nên nồng độ của cefotaxim và desacetylcefotaxim trong máu cao hơn và kéo dài hơn. Có thể làm giảm nồng độ thuốc bằng lọc máu.
-
 
 ## **Chỉ định**
 
@@ -21202,7 +20843,7 @@ Phải ngừng ngay cefotaxim khi có biểu hiện nặng các tác dụng khô
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Dùng cefotaxim theo đường tiêm bắp sâu hay tiêm hoặc truyền tĩnh mạch chậm (tiêm tĩnh mạch chậm từ 3 đến 5 phút; tiêm nhanh dưới 3 phút có thể gây nguy hiểm đến tính mạng do liên quan đến chứng loạn nhịp tim; truyền tĩnh mạch trong vòng từ 20 đến 60 phút). Do liều lớn tiêm bắp có thể gây đau nên các thầy thuốc khuyên nên dùng đường tĩnh mạch đối với các liều lớn.
 
@@ -21212,14 +20853,13 @@ Tiêm truyền tĩnh mạch liên tục và không liên tục: Thêm 50 hoặc 
 
 Tiêm bắp: Thêm 2, 3 hoặc 5 ml nước vô khuẩn để tiêm vào lọ chứa 500 mg, 1 g hoặc 2 g thuốc để đạt được dung dịch có chứa cefotaxim khoảng 230, 300 hoặc 330 mg/ml. Nên tiêm bắp sâu vào những cơ bắp to. Nhà sản xuất khuyến cáo nếu tiêm liều 2 g nên tiêm vào 2 vị trí khác nhau.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 Người lớn: Liều thường dùng để điều trị những nhiễm khuẩn không biến chứng là 1 g cách 12 giờ một lần, tiêm tĩnh mạch hoặc tiêm bắp. Nhiễm khuẩn từ vừa đến nặng, tiêm tĩnh mạch hoặc tiêm bắp 1 - 2 g cách 8 giờ một lần.Trường hợp nhiễm khuẩn nặng đe doạ tính mạng có thể dùng 2 g tiêm tĩnh mạch cách nhau 4 giờ một lần. Liều tối đa được khuyến cáo là 12 g/ngày.
 
 Viêm màng não và nhiễm khuẩn hệ thần kinh trung ương: Liều thường dùng: 2 g tiêm tĩnh mạch cách 6 giờ một lần, dùng từ 7 - 21 ngày. Liệu pháp dùng cefotaxim 7 ngày để điều trị viêm màng não không có biến chứng gây bởi các chủng *Haemophilus influenzae* hoặc *Neisseria meningitidis*. Dùng tối thiểu 10 - 14 ngày đối với trường hợp viêm màng não có biến chứng hoặc viêm màng não gây nên bởi *Streptococcuspneumoniae* và dùng tối thiểu 21 ngày đối với viêm màng não do *Enterobacteriaceae* nhạy cảm như *Escherichia coli, Klebsiella.*
 
 Điều trị bệnh lậu: Dùng liều duy nhất 1 g, tiêm bắp. Đối với bệnh lậu lan tỏa: Tiêm tĩnh mạch 1 g cách 8 giờ một lần; tiếp tục dùng cefotaxim trong 24 - 48 giờ sau khi bệnh đã được cải thiện; sau đó có thể chuyển sang uống cefixim hoặc cefpodoxim ít nhất một tuần để bệnh khỏi hoàn toàn.
-
 
 Nhiễm khuẩn đường hô hấp: Điều trị viêm phổi mắc phải tại cộng đồng: Dùng liều 1 g, cách 6 - 8 giờ một lần.
 
@@ -21289,8 +20929,7 @@ Cefotaxim có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 ## **Tên thương mại**
 
-
-*Rocexim; Romefok; Rotafaz; Saffecine; Samtoxim; Sansforan; Santax; Saxtel; Seonelxime Inj; Shinpoong Shintaxime; Shunopan inj; Siaxim (1.0); Sivoxim; Sotaxin Inj; Tafotaxim; Tag-1g; Tarcefoksym; Tasimtec Inj.; Taxefon; Taximcef; Taximmed; Taxirid; Tigercef; Tirotax; Torlaxime; Traforan; Tsar Cefotaxim; Twicecef injection; Ucetaxime 1000; Unioncerox Inj.; Unitaxime Inj.; Vitafxim; Wontaxime; Wonxime; Ximfix; Yufotax Inj.; Zefpocin; Zentotacxim CPC1; Zentro; Zetaxim; Zycefim 1000; Zydantax.* 
+*Abl-Cefotaxime; Acitaxime; Afefixim; Ahngook Cefotaxim; Antifoxim; Aquicef; Arshavin; Artaxim; Aurocefa; Bacforxime-1000; Bearnir; Becraz; Beecetam Inj.; Betaksim; Bigunat; Bio-Taksym; Carexime; Cbinesfol; Cefabact; Cefacyxim; Cefanew; Cefantral; Cefocent; Cefofast; Cefofoss Inj.; Cefoject Inj.; Cefokem; Cefolife; Cefomaxe; Cefomic; Cefoporin; Ceforan; Cefosafe; Cefosin; Cefotalis; Cefotamid; Cefotaximark; Cefovidi; Ceftax; Cefxamox Inj.; Cenkizac; Clacef; Claject Inj.; Clefiren; Codaxime; Coftaxim Inj.; Crfara Inj.; Devicef; Diantha; Domfox; Dongcetap; Donitine; Dotaxim; Duphataxime; Dypacil; Emotaxin; Etexcerox Inj.; Evantax; Fiafenax; Ficaoxime; Fonxadin; Fortaacef; Fortin Inj; Fotalcix; Fotax; Genotaxime; Gold-max; Gompini; Gramotax; Hacefo; Hadirtaxim; Haloxim; Harbitaxime; Hartame; Hufotaxime; Huonsnovax; Hupiem Inj.; Imetoxim; Inno-Tax; Jekuktaxim Inj.; Kaccefo; Kafotax-1000; Kbtaxime; Kefotax; Kenec Inj; Koceam Inj.; Kontaxim Inj.; Leadercef; Lerivu; Medotaxime; Meritaxi; Metacxim Inj; Mezicef; Midataxim; Nawotax; Neofoxime; Newcetoxime Inj; Newfuxin Inj.; Pasoxime; Pedfotaz; Philcebi Inj.; Philceofin; Philoxim; P-Myclox; Presotax 1000; Quixime; Raroxime; Raspam; Rigotax;  Rocexim; Romefok; Rotafaz; Saffecine; Samtoxim; Sansforan; Santax; Saxtel; Seonelxime Inj; Shinpoong Shintaxime; Shunopan inj; Siaxim (1.0); Sivoxim; Sotaxin Inj; Tafotaxim; Tag-1g; Tarcefoksym; Tasimtec Inj.; Taxefon; Taximcef; Taximmed; Taxirid; Tigercef; Tirotax; Torlaxime; Traforan; Tsar Cefotaxim; Twicecef injection; Ucetaxime 1000; Unioncerox Inj.; Unitaxime Inj.; Vitafxim; Wontaxime; Wonxime; Ximfix; Yufotax Inj.; Zefpocin; Zentotacxim CPC1; Zentro; Zetaxim; Zycefim 1000; Zydantax.* 
 
 # **CEFOTIAM HYDROCLORID (Cefotiam hexetil hydroclorid)**
 
@@ -21352,8 +20991,7 @@ Suy gan.
 
 Phải ngừng điều trị khi thấy có dấu hiệu dị ứng. Phải hỏi kỹ tiền sử dị ứng khi kê đơn cephalosporin, vì 5 - 10% trường hợp có dị ứng chéo với penicilin.
 
-
-Coombs hoặc khi tìm glucose trong nước tiểu bằng phương pháp dùng chất khử.
+Rất hiếm xảy ra viêm đại tràng giả mạc. Nếu xảy ra, phải ngừng ngay và cho điều trị thích hợp. Thuốc có thể làm dương tính giả test Coombs hoặc khi tìm glucose trong nước tiểu bằng phương pháp dùng chất khử.
 
 Phải thận trọng đối với người bệnh bị suy thận nặng.
 
@@ -21419,7 +21057,6 @@ Cefotiam có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 *Bamandol; Beetiam Inj; Bifotirin; Cefoam; Cefoniz Injection; Cefopess; Cefzitam Inj; Cepbacter; Cetiam Inj.; Fiorela; Fixime Inj; Foceam; Gilidam; Gomtiam; Hutiam; Imetiam; Kbcetiam injection; Kontiam Inj.; Neriman; Newtiam; Penfocin Inj; Philcefobacter; Philsetam; Philsodam Inj; Pmtiam; Tiafo; Tiamcefo; Tibucef; Tratim Inj; Vifortiam; Wonfotiam Injection.*
 
-
 # **CEFPIROM**
 
 **Tên chung quốc tế:** Cefpirome.
@@ -21450,8 +21087,7 @@ Với các vi khuẩn kỵ khí, tác dụng *in vitro* của cefpirom kém hơn
 
 Tác dụng *in vitro* đã được chứng minh đối với nhiễm *Enterococcus*  (ở chuột).
 
-
-*epidermidis, Staphylococcus saprophyticus* và *Streptococci* nhóm A, B, C.
+Cefpirom có tác dụng đối với vi khuẩn gây bệnh Gram dương như *Staphylococcus aureus* nhạy cảm với *methicilin, Staphylococcus epidermidis, Staphylococcus saprophyticus* và *Streptococci* nhóm A, B, C.
 
 Những vi khuẩn Gram âm nhạy cảm với cefpirom gồm có *Haemophilus influenzae, Escherichia coli, Proteus, Klebsiella* và *Enterobacter*. *Pseudomonas aeruginosa* có độ nhạy cảm trung gian và *Enterococcus faecalis* có độ nhạy cảm thấp.
 
@@ -21551,7 +21187,6 @@ Chuyển hóa: Giảm kali huyết.
 
 Tiết niệu, sinh dục: Viêm âm đạo/cổ tử cung do nấm *Candida*. *Chú ý*: Có thể có nguy cơ nhẹ bội nhiễm các vi khuẩn không nhạy cảm với cefpirom.
 
-
 ## **Hướng dẫn cách xử trí ADR**
 
 Ngừng thuốc.
@@ -21560,7 +21195,7 @@ Dùng kháng sinh thích hợp (vancomycin hoặc metronidazol).
 
 ## **Liều lượng và cách dùng**
 
-### *Cách dùng:*
+### *Cách dùng*
 
 Dùng cefpirom bằng tiêm tĩnh mạch chậm trong 3 - 5 phút và tiêm truyền tĩnh mạch trong 20 - 30 phút.
 
@@ -21568,7 +21203,7 @@ Pha dung dịch tiêm tĩnh mạch: Lọ 1 g pha trong 10 ml hoặc 2 g trong 20
 
 Pha dung dịch truyền tĩnh mạch: Lọ 1 g hoặc 2 g pha trong 100 ml nước vô khuẩn để tiêm, dung dịch natri clorid 0,9%, dung dịch glucose 5% hoặc dung dịch Ringer lactat.
 
-### *Liều lượng:*
+### *Liều lượng*
 
 *Người lớn:* Liều dùng và thời gian điều trị phụ thuộc vào loại, mức độ nhiễm khuẩn và chức năng thận của người bệnh.
 
@@ -21622,7 +21257,6 @@ Cefpirom có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 *Afedox; Cefire; Cefitop 1 000; Cefpotriv; Clesspirom; Ferripirom; Focimic; Medtol; Parpirom; Pentirom 1 000; Unipiren.*
 
-
 # **CEFPODOXIM PROXETIL**
 
 **Tên chung quốc tế:** Cefpodoxime proxetil.
@@ -21651,8 +21285,7 @@ Về nguyên tắc, cefpodoxim có hoạt lực đối với cầu khuẩn Gram 
 
 Tuy nhiên ở Việt Nam, các vi khuẩn này cũng kháng cả cephalosporin thế hệ 3. Vấn đề này cần lưu ý vì đó là một nguy cơ thất bại trong điều trị.
 
-
-được theo dõi có hệ thống ở Việt Nam và hoạt lực của cefpodoxim cao hơn đến mức độ nào so với hoạt lực của các cephalosporin uống khác cũng chưa rõ.
+Ngược với các cephalosporin loại uống khác, cefpodoxim bền vững đối với beta-lactamase do *Haemophilus influenzae, Moraxella catarrhalis* và *Neisseria* sinh ra. Tuy vậy nhận xét này cũng chưa được theo dõi có hệ thống ở Việt Nam và hoạt lực của cefpodoxim cao hơn đến mức độ nào so với hoạt lực của các cephalosporin uống khác cũng chưa rõ.
 
 *Kháng thuốc*
 
@@ -21704,8 +21337,7 @@ Hỗn dịch có chứa natri benzoat phải dùng rất thận trọng đối v
 
 ## **Thời kỳ mang thai**
 
-
-trọng khi dùng thuốc cho người mang thai, chỉ dùng cefpodoxim trong thời kỳ mang thai khi thực sự cần thiết.
+Không có các bằng chứng về ngộ độc thai và quái thai trong các nghiên cứu trên động vật cho uống cefpodoxim. Tuy nhiên chưa có các nghiên cứu thỏa đáng và được kiểm soát chặt chẽ về việc dùng cefpodoxim cho người mang thai hoặc khi sinh đẻ, vì vậy cần thận trọng khi dùng thuốc cho người mang thai, chỉ dùng cefpodoxim trong thời kỳ mang thai khi thực sự cần thiết.
 
 ## **Thời kỳ cho con bú**
 
@@ -21811,19 +21443,17 @@ Cefpodoxim có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 ## **Tên thương mại**
 
-
-*Macoxy; Mactadom; Manpos; Markime; Martin dow Cefpodoxime; Medex Cefpodoxime; Medixam; Medixam DT; Medxil; Megatif; Meghapod 200; Mepodex; Miracef; Miracef 50 OS; Monocef - O; Nccep; Nepotel; New Oral; Newxalotil Tab.; Niftclar DT-100; Noblud; Ofiss; Opox; Orelox; Orgynax; Orientfe; Osarox Dry; Osarox-100; Oxifide 200; Pandatox; Penfixil; Philpodox; Pocos; Podocef; Podomit; Podoprox; Podoxi; Podoxime; Praycide 200; Promla-100DT; Promla-200DT; Propido; Proxed-100; Raul; Redcef-DT-100; Reldicef; Rhinxl 200; Rolxexim; Rovanten; Roximreta; Sacboudii; Safrox 100; Sanfetil; Sapdox; Selbako; Sepdom; Septomux; Sepy-O; Spetcefy-200; Staraxim; Strabas; Tam Bac; Taxetil; Telmox; Tencefin; Tendipoxim; Tizoxim; Triafax; Tupod Dry; Vatirino Paediatric; Vidlezine-B; Vinrocef; Xelsepsin; Ximeprox; XLCefuz; Xpoxime-200; Zalilova 200; Zenodem; Zexif; Zifxime-100DT; Zizu.*
-
+*Aegencefpo; Alpodox; Amocef-200; Ampodox; Anphucpo 100; Anphuvag 100; Apoin-100; Apoin-200; Auropodox; Avimci; Avixime 200; Axtoxem; Azstar; Azucefox; Bactol; Benzina 100; Cacef-200; Cadicefpo; Cebarc; Cedodime; Cefago; Cefdolexe; Cefdoxone; Cefedim; Cefetil; Cefodomid; Cefoflam; Cefonova; Cefpobiotic; Cefpoluck; Cefpomed; Cefpoquick; Cefpova; Ceftobac-200; Ceftopix; Ceftresana; Cefuzix; Cefxl; Cendromid; Cepodox; Cepotab 200; Cepox; Cepoxitil; Ceratax; Cexod Tab.; Cexodo; Chempod; Cinemax; Citocap 200; CP; Cymodo; Daedox; Daezim; Dasrocef; Dimpotab-100 DT; Dinpocef; Dobixime; Dofixim; Doxef; Doxferxime; Doxicef; Dutixim 100; Edocom B 100; Efindom; Egopoxime; Epodox; Ercefpo; Eskacefpomax; Euroseafox; Eurostamp-200; Evodoxim; Exormin Tab; Fabapoxim; Flogenxin; Flotaxime Tab.; Focimic; Foncipro; Fulhad; Gamincef sachet; Gefdur; Genpoxim; Hancepo tab; Hepotil 100; Hexidoxime; Ifixime; Ikocif-200; Ilanelo; Imedoxim; Jadox; Kaztexim; Kcepim; Kefodoc; Keftizox; Kevomed; Lexicure; Loriquick; Lucass; Ludox; Macoxy; Mactadom; Manpos; Markime; Martin dow Cefpodoxime; Medex Cefpodoxime; Medixam; Medixam DT; Medxil; Megatif; Meghapod 200; Mepodex; Miracef; Miracef 50 OS; Monocef - O; Nccep; Nepotel; New Oral; Newxalotil Tab.; Niftclar DT-100; Noblud; Ofiss; Opox; Orelox; Orgynax; Orientfe; Osarox Dry; Osarox-100; Oxifide 200; Pandatox; Penfixil; Philpodox; Pocos; Podocef; Podomit; Podoprox; Podoxi; Podoxime; Praycide 200; Promla-100DT; Promla-200DT; Propido; Proxed-100; Raul; Redcef-DT-100; Reldicef; Rhinxl 200; Rolxexim; Rovanten; Roximreta; Sacboudii; Safrox 100; Sanfetil; Sapdox; Selbako; Sepdom; Septomux; Sepy-O; Spetcefy-200; Staraxim; Strabas; Tam Bac; Taxetil; Telmox; Tencefin; Tendipoxim; Tizoxim; Triafax; Tupod Dry; Vatirino Paediatric; Vidlezine-B; Vinrocef; Xelsepsin; Ximeprox; XLCefuz; Xpoxime-200; Zalilova 200; Zenodem; Zexif; Zifxime-100DT; Zizu.*
 
 # **CEFRADIN**
 
-**Tên chung quốc tế:** Cefradine.
+**Tên chung quốc tế**: Cefradine.
 
 **Mã ATC:** J01DB09.
 
 **Loại thuốc:** Kháng sinh nhóm cephalosporin thế hệ 1.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nang hoặc viên nén: 250 mg, 500 mg.
 
@@ -21870,7 +21500,6 @@ Trước khi bắt đầu điều trị bằng cefradin, phải điều tra kỹ
 Khoảng 10% người bệnh mẫn cảm với penicilin cũng có thể dị ứng với các cephalosporin khác, vì vậy phải rất thận trọng khi dùng cefradin cho những người bệnh này. Cũng phải thận trọng khi sử dụng cefradin cho người bệnh có cơ địa dị ứng.
 
 Chú ý chỉ định cefradin cho người bệnh suy thận và có thể cần giảm liều. Phải theo dõi chức năng thận và máu trong khi điều trị, nhất là khi dùng thuốc thời gian dài và với liều cao.
-
 
 ## **Thời kỳ mang thai**
 
@@ -21986,7 +21615,6 @@ Sau khi pha, dịch treo để uống bền vững trong 7 ngày ở nhiệt đ�
 
 Các dịch truyền cefradin còn giữ hiệu lực trong 10 giờ ở nhiệt độ phòng và 48 giờ ở nhiệt độ lạnh 5 o C. Dung dịch cefradin pha với nước vô khuẩn để tiêm và để đông lạnh sẽ ổn định trong 6 tuần (-20 o C).
 
-
 Sau khi hòa tan dung dịch thuốc có thể thay đổi màu từ vàng rơm nhạt đến vàng nhưng sự thay đổi màu này không ảnh hưởng đến hiệu lưc của thuốc.
 
 ## **Tương kỵ**
@@ -22005,16 +21633,15 @@ Như đối với các penicilin và cephalosporin khác.
 
 Cefradin có trong Danh mục thuốc tân được thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-#### Tên thương mai
+## **Tên thương mại**
 
 Begacef; Besladin; Bestacefdine; Bifradin; Cadifradin; Cedine 500; Cefdan Inj.; Cefdifort cap; Cefvalis; Cefwin; Cetxetil; Cevinale; Dicophaxin 500; Eurosefro-500; Fudfradin; Fudpluria; Greencefdin; Huonsfradin; Imefradin; Inbionetincef; Kinpodin; Kukjetrilcef; Midafra; Newlotin; Ophrazol Cap; Oradef; Orialis; Radin Cap.; Radincef; SCD Cefradine; Schucasid; Shinpoong Cefadin; SP. Cefradine; Tarvicendin; TV-Cefradin; Union Cefradine; Vaciradin; Yutidcef; Zinpadine.
 
-
 # **CEFTAZIDIM**
 
-**Tên chung quốc tế:** Ceftazidime.
+Tên chung quốc tế: Ceftazidime.
 
-**Mã ATC:** J01DD02.
+Mã ATC: J01DD02.
 
 **Loại thuốc:** Kháng sinh nhóm cephalosporin thế hệ 3.
 
@@ -22063,7 +21690,6 @@ Bảng 1. Nồng độ đỉnh trung bình của thuốc trong huyết thanh ở
 Nửa đời của ceftazidim trong huyết tương ở người bệnh có chức năng thận bình thường là khoảng 2 giờ nhưng kéo dài hơn ở người bệnh suy thận hoặc trẻ sơ sinh. Độ thanh thải có thể tăng lên ở người bệnh xơ nang. Thuốc gắn với protein huyết tương từ 5 - 24%, không phụ thuộc vào nồng độ thuốc.
 
 Ceftazidim phân bố rộng khắp vào các mô sâu và dịch cơ thể, kể cả dịch màng bụng; thuốc đạt nồng độ điều trị trong dịch não tủy khi màng não bị viêm. Ceftazidim đi qua nhau thai và được phân bố vào sữa me.
-
 
 Ceftazidim không bị chuyển hóa. Bài tiết chính qua lọc cầu thận. Khoảng 80 - 90% liều dùng bài tiết không biến đổi qua nước tiểu trong vòng 24 giờ. Sau khi tiêm tĩnh mạch 1 liều duy nhất 500 mg hoặc 1 g, khoảng 50% liều xuất hiện trong nước tiểu sau 2 giờ đầu, 2 - 4 giờ sau khi tiêm bài tiết thêm 20% liều và 4 - 8 giờ sau lại thêm 12% liều bài tiết vào nước tiểu. Hệ số thanh thải ceftazidim trung bình của thận là 100 ml/phút. Bài tiết qua mật dưới 1%.
 
@@ -22167,10 +21793,7 @@ Pha dung dịch tiêm và tiêm truyền:
 
 Dung dịch tiêm tĩnh mạch: Pha thuốc trong nước cất tiêm, dung dịch natri clorid 0,9%, hoặc dextrose 5%, có nồng độ khoảng 100 mg/ml.
 
-Dung dịch tiêm truyền: Pha thuốc trong các dung dịch như trong
-
-
-tiêm tĩnh mạch nhưng nồng độ khoảng 10 - 20 mg/ml (1 - 2 g thuốc trong 100 ml dung dịch).
+Dung dịch tiêm truyền: Pha thuốc trong các dung dịch như trong tiêm tĩnh mạch nhưng nồng độ khoảng 10 - 20 mg/ml (1 - 2 g thuốc trong 100 ml dung dịch).
 
 ### *Liều lượng:*
 
@@ -22261,7 +21884,6 @@ Với dung dịch natri bicarbonat: Làm giảm tác dụng thuốc. Không pha 
 
 Phối hợp với vancomycin phải tiêm riêng vì gây kết tủa.
 
-
 Không pha lẫn ceftazidim với các aminoglycosid (gentamicin, streptomycin) hoặc metronidazol. Phải tráng rửa cẩn thận các ống thông và bơm tiêm bằng nước muối (dung dịch natri clorid 0,9%) giữa các lần dùng hai loại thuốc này để tránh gây kết tủa.
 
 ## **Quá liều và xử trí**
@@ -22276,10 +21898,9 @@ Ceftazidim có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 *Akedim; Alfacef; Alfacef-Ar; Alpataxime; Amzedil-1000; Antizidin; Azidime; Beejetazim; Besitabine; Betazidim; Bicefzidim; Bidilocef; Bioszime Inj; Bitazid; Brzidime Inj; Cadraten Inj; Camtax; Cefatasun; Cefaziporin; Cefdim; Cefodimex; Ceftaject; Ceftamedil inj; Ceftazimark; Ceftazisam; Ceftazivit; Ceftidin; Ceftram; Ceftum; Cefzid; Cefziota Inj.; Cefzis-Max; Cejoho Inj.; Cekadym; Ceotizime; Ceplo; Cezimeinj; Clestazim; Codzidime; Cyladim; Dalitazi; Deltazime; Dimacefa; Ditazidim; Encetam-1000; Erovan; Etexcfz; Eurig; Eurozidim Injection Combipack; Evozid; Fazitef; Flawject Inj.; Fonzidime; Fortam Inj; Fortum; Geosefta; Gomtazime; Goodzadim; Harzime; Hudizim Inj.; Huonstide; Hwazim Inj; Imezidim; Inbionetcefozim; Indcefta; Inno-Zidime; Interzincie; Kbdime; Keftazim; Kidofadine; Klocedim; Koceim Inj.; Koftazide; Korudim Inj.; K-Zidime; Lefidim; Libradim; Lydozim; Medozidim; Nefitaz; Neounixan Inj.; Newfazidim Inj.; Newzim; Niceftam; Novicefta 1000; Padiozin; Panzecep; Parzidim; Pentazidin 1000; Perikacin; Pheridin; Philzidim; Prascal; Prizidime; Ravelo; Rigozidim; Samzin; Santazid; Sefonramid; Seozital; Seracop; Seuraf; Siamazid; Sitacef; Supercap; Tadime; Tafodim; Tarvicide; Tatumcef Powder for Injection "CCPC"; Taviha; Tazicef; Tazimin; Tofdim Inj.; Tottizim; Trikazim; Trizidim; TV-Zidim; Ucphin; Ultazidim; Uniceffa; Unitidime Inj; Vasfar; Vasox; Vaxcel Ceftazidime; Virtum; Vitazidim; Wontazidim Inj; Wontazime; Yutazim Inj; Yuzidim Inj.; Zefeta Inj; Zentozidime CPC1; Zidimcef; Zytaz-1000.*
 
-
 # **CEFTRIAXON**
 
-**Tên chung quốc tế:** Ceftriaxone.
+**Tên chung quốc tế**: Ceftriaxone.
 
 **Mã ATC:** J01DD04.
 
@@ -22326,7 +21947,6 @@ Vi khuẩn kỵ khí: Ceftriaxon có tác dụng *in vitro* đối với một s
 *Actinomyces, Fusobacterium, Lactobacillus, Peptococcus, Peptostreptococcus, Propionibacterium* và *Veillonella,* một số chủng *Clostridium* bao gồm *C. perfringens;* nhưng *C. difficile* thường kháng ceftriaxon.
 
 Xoắn khuẩn: Ceftriaxon ức chế *in vitro Borrelia burgdorferi,*  nguyên nhân gây bệnh Lyme, *Leptospira* và một vài tác dụng đối với *Treponema pallidum.*
-
 
 *Chlamydia:* Ceftriaxon thường được coi là không tác dụng đối với *C. trachomatis.*
 
@@ -22395,7 +22015,6 @@ Kinh nghiệm lâm sàng trong điều trị cho người mang thai còn hạn c
 ## **Thời kỳ cho con bú**
 
 Thuốc bài tiết qua sữa ở nồng độ thấp, cần thận trọng khi dùng thuốc cho người đang cho con bú.
-
 
 ## **Tác dụng không mong muốn (ADR)**
 
@@ -22485,7 +22104,6 @@ Nhiễm *N. meningitidis* (người lành mang vi khuẩn): Người lớn: 1 li
 
 Đối với nhiễm khuẩn do *Streptococcus pyogenes*, phải điều trị ít nhất 10 ngày.
 
-
 Để phòng ngừa những trường hợp viêm màng não do não mô cầu, dùng liều 250 mg tiêm bắp cho người lớn và 125 mg cho trẻ em. *Viêm đường hô hấp*:
 
 Viêm tai giữa cấp: Trẻ em: Tiêm bắp 50 mg/kg 1 liều duy nhất (tối đa 1 g). Nếu kéo dài, tái phát: 50 mg/kg tiêm bắp hoặc tĩnh mạch, ngày 1 lần, trong 3 ngày.
@@ -22558,16 +22176,11 @@ Ceftriaxon có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 ## **Tên thương mại**
 
-
-*Huonsmiracxon; Hutaxon; Ificef-1000; Imetriazon; Imtinix; Infizone; Jekuktrax Inj.; Kaccetri; Kbtriaxone; Klotacef; Korixone Inj.; Kupcefin For Inj; Lafoncef; Lykalyfaxone; Marksanscef; Medaxone; Medazolin; Medocephine; Megion; Mekozincef; Mepecef; Merausin; Merixone; MGP Axinex-1000; Milcerof Inj.; Nectram; Nefiaso; Neocexone; Nevakson; Newcerixone Inj.; Novitraxon; Oframax; Opsama; Paroladin; Penceftin 1000; Philcefin; Philexon; Philpacef-In Inj.; Pletrox; Pokencef; Porison inj.; Powercef; Priazone; Rigofin; Rocefxon inj; Rocephin; Rofine; Ronlla; Rovajec; Rowject Inj.; Ryxon-Brookes; Samaxon; Samjin Trizon; Santoxon-1000; Sanxif; Seofen Inj; Setrionac Inj.; Shinpoong Cefaxone; Siaxon; Sodicef; Swizone; Tafoxone; Tartriakson; Tevaxone; Toptrixone Inj; Torocef-1; Travilan DR. PD. Inj; Trexofin; Trexon; Triaxo-B; Triaxs Inj; Tricefin; Trikaxon; Trixone; Trixonex; Trizox; Trotaxone; Tuffcef; TV- Ceftri; Ukcef; Ukxone; Unicefphaloz; Unocef; Utrixone-1000; Valemy; Vaxcel Ceftriaxone; Viadacef; Viciaxon; Vidtria; Vietcef; Vustin; Widecef; Wontiaxone Inj; Wooridul Ceftriaxone Sodium; Xefatrex; Yuxon Inj.; Zefone-1000; Zyfitax.* 
-
+*02-Cef; Askyxon; Aumtax; Aximaron; Axobat; Beecef Inj; Beecerazon; BeeCetrax; Binexcefxone; Biosdomin inj.; Bromfex; Cabemus; Cefcin; Cefin for I.V injection "Panbiotic"; Cefitop-1000; Ceflarial; Cefnew; Cefokop-1000; Cefonen; Cefort; Cefpixone Inj.; Cefpozole; Ceftioloxe; Ceftriaci; Ceftriale; Ceftrialife; Ceftriamid; Ceftriject inj; Ceftrione 1G; Ceftrisu; Ceftritina; Ceftrividi; Ceftrizic; Cefxon Inj; Celeroxone; Celltriaxone; Celxobest; Cenitipin Inj; Cephran; Cephxone; Cerixon; Cetisod; Cetrazone; Cetrimaz; Cetrison; Clemanz 1000; Clemanz 500; Cordicef; Crapio; Cromezin; Dafcef; Daytrix; Dexanecef Inj; Dongceftri; Dotrixon; Etextroxen Inj.; Faldixon; Feomin; Firstcef; Fonexti; Forpin; Frazine Inj.; Hacefxone; Hanbeeceftron; Hantaxim; Hatrizol; Hawontriaxone; Hiloxin; Huonsmiracxon; Hutaxon; Ificef-1000; Imetriazon; Imtinix; Infizone; Jekuktrax Inj.; Kaccetri; Kbtriaxone; Klotacef; Korixone Inj.; Kupcefin For Inj; Lafoncef; Lykalyfaxone; Marksanscef; Medaxone; Medazolin; Medocephine; Megion; Mekozincef; Mepecef; Merausin; Merixone; MGP Axinex-1000; Milcerof Inj.; Nectram; Nefiaso; Neocexone; Nevakson; Newcerixone Inj.; Novitraxon; Oframax; Opsama; Paroladin; Penceftin 1000; Philcefin; Philexon; Philpacef-In Inj.; Pletrox; Pokencef; Porison inj.; Powercef; Priazone; Rigofin; Rocefxon inj; Rocephin; Rofine; Ronlla; Rovajec; Rowject Inj.; Ryxon-Brookes; Samaxon; Samjin Trizon; Santoxon-1000; Sanxif; Seofen Inj; Setrionac Inj.; Shinpoong Cefaxone; Siaxon; Sodicef; Swizone; Tafoxone; Tartriakson; Tevaxone; Toptrixone Inj; Torocef-1; Travilan DR. PD. Inj; Trexofin; Trexon; Triaxo-B; Triaxs Inj; Tricefin; Trikaxon; Trixone; Trixonex; Trizox; Trotaxone; Tuffcef; TV- Ceftri; Ukcef; Ukxone; Unicefphaloz; Unocef; Utrixone-1000; Valemy; Vaxcel Ceftriaxone; Viadacef; Viciaxon; Vidtria; Vietcef; Vustin; Widecef; Wontiaxone Inj; Wooridul Ceftriaxone Sodium; Xefatrex; Yuxon Inj.; Zefone-1000; Zyfitax.* 
 
 # **CEFUROXIM**
 
-**Tên chung quốc tế:** Cefuroxime.
-
-**Mã ATC:** J01DC02, S01AA27.
-
+**Tên chung quốc tế:** Cefuroxime. **Mã ATC:** J01DC02, S01AA27.
 
 **Loại thuốc:** Kháng sinh nhóm cephalosporin thế hệ 2.
 
@@ -22613,8 +22226,7 @@ Vi khuẩn kháng lại cefuroxim chủ yếu theo cơ chế biến đổi PBP �
 
 Sau khi uống, cefuroxim axetil được hấp thu qua đường tiêu hóa và nhanh chóng bị thủy phân ở niêm mạc ruột và trong máu để tạo thành cefuroxim vào hệ tuần hoàn. Sinh khả dụng đường uống của cefuroxim axetil thay đổi, phụ thuộc vào dạng bào chế và sự có mặt của thức ăn trong ống tiêu hóa. Thuốc được hấp thu tốt nhất khi uống trong bữa ăn. Sinh khả dụng sau khi uống viên nén cefuroxim axetil lúc đói vào khoảng 37% và đạt 52% nếu uống ngay trong bữa ăn hoặc ngay sau khi ăn. Nồng độ đỉnh của cefuroxim trong huyết tương thay đổi tùy theo dạng viên hay hỗn dịch.
 
-
-dịch uống cefuroxim axetil không thể thay thế nhau theo tương quan mg/mg. Muối natri được dùng theo đường tiêm bắp hoặc tĩnh mạch. Nồng độ đỉnh trong huyết tương khoảng 27 microgam/ml đạt được vào khoảng 45 phút sau khi tiêm bắp 750 mg và nồng độ đỉnh trong huyết tương khoảng 50 microgam/ml đạt được vào khoảng 15 phút sau khi tiêm tĩnh mạch 750 mg. Sau liều tiêm khoảng 8 giờ, vẫn đo được nồng độ điều trị trong huyết thanh.
+Thuốc đạt nồng độ tối đa 4 - 6 microgam/ml vào khoảng 3 giờ sau khi uống hỗn dịch có chứa 250 mg cefuroxim axetil. Nồng độ đỉnh trong huyết tương của hỗn dịch uống đạt trung bình 71% nồng độ đỉnh trong huyết tương của thuốc viên. Do đó, thuốc viên và hỗn dịch uống cefuroxim axetil không thể thay thế nhau theo tương quan mg/mg. Muối natri được dùng theo đường tiêm bắp hoặc tĩnh mạch. Nồng độ đỉnh trong huyết tương khoảng 27 microgam/ml đạt được vào khoảng 45 phút sau khi tiêm bắp 750 mg và nồng độ đỉnh trong huyết tương khoảng 50 microgam/ml đạt được vào khoảng 15 phút sau khi tiêm tĩnh mạch 750 mg. Sau liều tiêm khoảng 8 giờ, vẫn đo được nồng độ điều trị trong huyết thanh.
 
 Khoảng 33% đến 50% lượng cefuroxim trong máu liên kết với protein huyết tương. Cefuroxim phân bố rộng rãi đến các tổ chức và dịch trong cơ thể, xâm nhập vào cả tổ chức tuyến tiền liệt, vào được dịch màng phổi, đờm, dịch tiết phế quản, xương, mật, dịch rỉ viêm, dịch màng bụng, hoạt dịch và thủy dịch. Thể tích phân bố biểu kiến ở người lớn khỏe mạnh nằm trong khoảng từ 9,3 - 15,8 lít/1,73 m<sup>2</sup> . Một lượng nhỏ cefuroxim có thể đi qua hàng rào máu não trong trường hợp màng não không bị viêm. Tuy nhiên, cefuroxim chỉ đạt được nồng độ điều trị trong dịch não tủy khi tiêm tĩnh mạch trong trường hợp có viêm màng não. Thuốc qua nhau thai và có bài tiết qua sữa mẹ.
 
@@ -22653,7 +22265,6 @@ Một số kháng sinh cephalosporin (trong đó có cefuroxim) có khả năng 
 Các nghiên cứu trên chuột nhắt và thỏ không thấy có dấu hiệu tổn thương khả năng sinh sản hoặc có hại cho bào thai do thuốc cefuroxim.
 
 Sử dụng kháng sinh này để điều trị viêm thận - bể thận ở người mang thai không thấy xuất hiện các tác dụng không mong muốn ở trẻ sơ sinh sau khi tiếp xúc với thuốc tại tử cung người mẹ. Cephalosporin thường được xem là an toàn sử dụng trong khi có thai. Tuy nhiên, chưa có nghiên cứu có kiểm soát nào đánh giá đầy đủ độ an toàn của thuốc trên phụ nữ có thai và do các nghiên cứu trên súc vật không phải luôn luôn tiên đoán được đáp ứng của người, nên chỉ dùng thuốc này cho phụ nữ có thai khi thật cần thiết.
-
 
 ## **Thời kỳ cho con bú**
 
@@ -22703,7 +22314,9 @@ Ngừng sử dụng cefuroxim; trường hợp dị ứng hoặc phản ứng qu
 
 Khi bị viêm đại tràng màng giả thể nhẹ, thường chỉ cần ngừng thuốc. Với các trường hợp vừa và nặng, cần phải truyền dịch và điện giải, bổ sung protein và điều trị bằng kháng sinh có tác dụng kháng *Clostridium difficile* (metronidazol hoặc vancomycin dùng đường uống). Cần thận trọng kiểm tra tiền sử sử dụng thuốc trong trường hợp nghi viêm đại tràng màng giả do bệnh có thể xuất hiện muộn sau 2 tháng, thậm chí muộn hơn sau khi đã ngừng phác đồ điều trị kháng sinh.
 
-# **Liều lượng và cách dùng** *Cách dùng:*
+## **Liều lượng và cách dùng**
+
+*Cách dùng:*
 
 Cefuroxim axetil dùng theo đường uống có thể ở dạng thuốc viên hay hỗn dịch. Lưu ý: không có tương đương sinh khả dụng giữa dạng viên nén và dạng hỗn dịch uống nên không thể thay thế hai dạng này cho nhau dựa trên qui đổi mg/mg. Thuốc nên được dùng trong bữa ăn để tăng sinh khả dụng. Đối với trẻ em từ 3 tháng đến 12 tuổi không có khả năng nuốt được viên nén, nên dùng dạng bột pha hỗn dịch thay vì nghiền viên nén và trộn lẫn với thức ăn, hoa quả. Bột pha hỗn dịch nên được pha ngay trước khi sử dụng bằng cách thêm nước vừa đủ (theo hướng dẫn của nhà sản xuất) vào chai để được hỗn dịch có chứa 125 mg hoặc 250 mg cefuroxim trong 5 ml. Hỗn dịch cần được lắc đều trước mỗi lần sử dụng và lọ đựng cần được đậy kín lại sau mỗi lần lấy thuốc.
 
@@ -22719,8 +22332,7 @@ Nhiễm khuẩn tai mũi họng (viêm họng, viêm tai giữa, viêm xoang): U
 
 Nhiễm khuẩn hô hấp dưới: Đợt bùng phát của viêm phế quản mạn tính, viêm phế quản cấp tính có kèm bội nhiễm: Uống 250 mg hoặc 500 mg, 12 giờ một lần. Thời gian điều trị 10 ngày với đợt bùng phát của viêm phế quản mạn tính và từ 5 - 10 ngày với viêm phế quản cấp tính có kèm bội nhiễm. Viêm phổi mắc phải tại cộng đồng cho bệnh nhân ngoại trú: uống 500 mg, 12 giờ một lần. Thời gian điều trị 10 - 14 ngày. Khi điều trị viêm phổi mắc phải tại cộng đồng theo kinh nghiệm chưa có kết quả của kháng sinh đồ, cefuroxim phải được dùng phối hợp với các kháng sinh khác. Bệnh lậu cổ tử cung hoặc niệu đạo không có biến chứng hoặc bệnh lậu trực tràng không có biến chứng: Tiêm 1 liều duy nhất 1 g cefuroxim natri. Bệnh Lyme mới mắc: Uống 500 mg, 12 giờ một lần, trong 20 ngày.
 
-
-bắp và tiêm tĩnh mạch cefuroxim natri chỉ nên được sử dụng trong các trường hợp nhiễm khuẩn nặng. Thời gian điều trị trung bình thường kéo dài 10 ngày. Liều dùng cho trẻ em như sau:
+Kháng sinh dự phòng trong phẫu thuật: Liều duy nhất 1,5 g tiêm tĩnh mạch trong vòng 1 giờ trước phẫu thuật cho những phẫu thuật thông thường. Nếu thời gian phẫu thuật lớn hơn 4 giờ hoặc bệnh nhân có mất máu nhiều, trong suốt thời gian phẫu thuật, cứ 3 - 4 giờ một lần có thể lặp lại liều trên. Sử dụng kháng sinh sau phẫu thuật là không cần thiết và có nguy cơ gia tăng kháng thuốc. Với phẫu thuật mổ tim hở, dùng liều 1,5 g tiêm tĩnh mạch lúc khởi mê, sau đó cứ 12 giờ lặp lại 1 lần cho đến khi đạt tổng liều 6 g. Trong các phẫu thuật sạch - nhiễm và phẫu thuật nhiễm (như cắt tử cung qua ngả âm đạo), dùng liều 1,5 g tiêm tĩnh mạch ngay trước phẫu thuật (trong vòng 30 - 60 phút trước khi rạch da) và nếu phẫu thuật kéo dài thì sau mỗi 8 giờ thêm 750 mg cefuroxim natri tiêm tĩnh mạch hoặc tiêm bắp. Sử dụng kháng sinh sau phẫu thuật là không cần thiết và có nguy cơ gia tăng kháng thuốc trong trường hợp này. *Liều dùng cho trẻ em:* Cefuroxim axetil dùng đường uống được sử dụng trong các trường hợp nhiễm khuẩn nhẹ và vừa. Dạng tiêm bắp và tiêm tĩnh mạch cefuroxim natri chỉ nên được sử dụng trong các trường hợp nhiễm khuẩn nặng. Thời gian điều trị trung bình thường kéo dài 10 ngày. Liều dùng cho trẻ em như sau:
 
 Đường uống (cefuroxim axetil):
 
@@ -22794,11 +22406,7 @@ Cefuroxim có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 ## **Tên thương mại**
 
-*Actixim; Aegenroxim 1500; Alaxime; Alfonia Tab.; Alkoxime;* 
-
-
-*Amphacef; Anikef Sterile; Antinat; Aumax; Auroxetil; Ausecox 500; Axacef; Axef; Axren; Azufox; Bearcef; Bestnats; Bifumax; Biloxim; Bio-dacef; Biofumoksym; Brelmocef; Cadiroxim; Cavumox; Cecopha 500; Cefamet-250; Cefaxil; Ceferaxim 125; Cefirota 500; Cefitoxim; Cefjiro-500; Cefogen 750; Cefoprim; Cefritil 250; Ceftume; Cefucap; Cefudex; CefuDHG; Cefuind; Cefuject; Cefules; Cefulife; Cefurich 500; Cefuro-B; Cefurobiotic; Cefurofast; Cefuromid; Cefurosu; Cefurovid; Cefurox; Cefuroxxime 500; Cefurxime Inj; Cefusan; Cefustad; Cefxinstandard; Cerorain; Ceuromed; Cevucef 750; Cexifu-500; Cezirnate; Choongwae Cefuroxime; Cizorite; CKD Cefuroxime; Codzurox; Cofucef; Conxime; Curxim; Danaroxime; Dectixal; Denkacef; Derlaxim; Doroxim; Dutifuxim; Efodyl; Emixorat; Enfexia; Etexfraxime; Euzimnat; Evacef; Farinceft; Farixime; Fiox 500; Firesin; Fosty; Fudcefu; Fudtidas; Fulatus; Fumaxsec 125; Furacin; Furocap; Furomarksans; Furonat; Furoxim 750; Fuxemuny; Fuximreta; Fuxito-250; Glanax; Gucabo Inj.; G-Xtil; Haginat; Hazin; Henseki; Honfur; Huonsfuroxime Injection; Huoxime; Hvcefu; Hwaxim Inj.; I.P. Zinab; Ilaming; Iljincefuroxime; Inbionetceftil; Incenat; Izirnate; Jefrexomin Tab.; Joeton; Kaderox-250; Kbfroxime; Kdxene; Kefstar; Kefurox; Kefuroxil 250; Kfur; Klocefu; Kozoxime Inj.; Kyongbo Cefuroxime Inj.; Kyseroxin; Lexibcure; Lydoxim; Mafuxacin; Maxcefu; Maxetil-250; Maxinate 250; Medaxetine; Medicef; Mefucef; Mextil; Micrex; Midancef; Multisef; Negacef; Nelabocin; Neoroxime; Newfozexim Inj.; Newtiroxim Inj; Nilibac 250; Ninzats; Noruxime; Novilix 1500; Optiroxim; Oralfuxim; Orifix 250; Orifuro; Otamid; Peletinat; Penturox 250; Phazinat; Philfuroxim; pms-Zanimex; Pulracef -500; Pulracef-CV 500; Quincef; Rapcizen; Reetac Combipack; Ribotacin; Ridonate; Rifurox 250; Rigocef; Robcenat; Rofucef-500; Rofuoxime; Rogam Inj; Roxincef; Rucefdol 250; Samchundangroxime ; Sancefur; Sanfocef; Sanoxetil; Saviroxim; Scocef; Scoroxim; Sencef; Serofur Inj.; Shincef; Shutifen; Simrok inj.; Snelzol Inj.; SP Cefuroxime; Spizef; Sulperole; Sunrox 750; Taforoxim; Tafurex inj.; Tamecef; Tamifuxim; Tarsime; Tekeden; Tinadro; Topoxime; Tozep; Trafuxim; Travinat; Trexatil; Unexon; Unisofuxime Inj.; Uroxime-750; Vaironat; Vanmenol; Via-Roxime; Viciroxim; VIDFU; Vinaflam; Vinecef-500; Vitaroxima; Vuducefuroxim; Vupu; Vynat; Widxim; Wonfuroxime; Ximloma; Xorim; Xorimax; Yuyuxim; Zalrinat; Zamotix; Zaniat; Zanimex; Zanimex-Dobfar; Zanmite; Zasinat; Zenatop; Zencef; Zentonacef; Zibut; Zidocat; Zidunat; Zil mate; Zinacef; Zincap; Zinceftil; Zinextra; Zinfast; Zinmax-Domesco; Zinnat; Zisnaxime; Zosu; Zoxtil; Zyroxime 750.*
-
+*Actixim; Aegenroxim 1500; Alaxime; Alfonia Tab.; Alkoxime; Amphacef; Anikef Sterile; Antinat; Aumax; Auroxetil; Ausecox 500; Axacef; Axef; Axren; Azufox; Bearcef; Bestnats; Bifumax; Biloxim; Bio-dacef; Biofumoksym; Brelmocef; Cadiroxim; Cavumox; Cecopha 500; Cefamet-250; Cefaxil; Ceferaxim 125; Cefirota 500; Cefitoxim; Cefjiro-500; Cefogen 750; Cefoprim; Cefritil 250; Ceftume; Cefucap; Cefudex; CefuDHG; Cefuind; Cefuject; Cefules; Cefulife; Cefurich 500; Cefuro-B; Cefurobiotic; Cefurofast; Cefuromid; Cefurosu; Cefurovid; Cefurox; Cefuroxxime 500; Cefurxime Inj; Cefusan; Cefustad; Cefxinstandard; Cerorain; Ceuromed; Cevucef 750; Cexifu-500; Cezirnate; Choongwae Cefuroxime; Cizorite; CKD Cefuroxime; Codzurox; Cofucef; Conxime; Curxim; Danaroxime; Dectixal; Denkacef; Derlaxim; Doroxim; Dutifuxim; Efodyl; Emixorat; Enfexia; Etexfraxime; Euzimnat; Evacef; Farinceft; Farixime; Fiox 500; Firesin; Fosty; Fudcefu; Fudtidas; Fulatus; Fumaxsec 125; Furacin; Furocap; Furomarksans; Furonat; Furoxim 750; Fuxemuny; Fuximreta; Fuxito-250; Glanax; Gucabo Inj.; G-Xtil; Haginat; Hazin; Henseki; Honfur; Huonsfuroxime Injection; Huoxime; Hvcefu; Hwaxim Inj.; I.P. Zinab; Ilaming; Iljincefuroxime; Inbionetceftil; Incenat; Izirnate; Jefrexomin Tab.; Joeton; Kaderox-250; Kbfroxime; Kdxene; Kefstar; Kefurox; Kefuroxil 250; Kfur; Klocefu; Kozoxime Inj.; Kyongbo Cefuroxime Inj.; Kyseroxin; Lexibcure; Lydoxim; Mafuxacin; Maxcefu; Maxetil-250; Maxinate 250; Medaxetine; Medicef; Mefucef; Mextil; Micrex; Midancef; Multisef; Negacef; Nelabocin; Neoroxime; Newfozexim Inj.; Newtiroxim Inj; Nilibac 250; Ninzats; Noruxime; Novilix 1500; Optiroxim; Oralfuxim; Orifix 250; Orifuro; Otamid; Peletinat; Penturox 250; Phazinat; Philfuroxim; pms-Zanimex; Pulracef -500; Pulracef-CV 500; Quincef; Rapcizen; Reetac Combipack; Ribotacin; Ridonate; Rifurox 250; Rigocef; Robcenat; Rofucef-500; Rofuoxime; Rogam Inj; Roxincef; Rucefdol 250; Samchundangroxime ; Sancefur; Sanfocef; Sanoxetil; Saviroxim; Scocef; Scoroxim; Sencef; Serofur Inj.; Shincef; Shutifen; Simrok inj.; Snelzol Inj.; SP Cefuroxime; Spizef; Sulperole; Sunrox 750; Taforoxim; Tafurex inj.; Tamecef; Tamifuxim; Tarsime; Tekeden; Tinadro; Topoxime; Tozep; Trafuxim; Travinat; Trexatil; Unexon; Unisofuxime Inj.; Uroxime-750; Vaironat; Vanmenol; Via-Roxime; Viciroxim; VIDFU; Vinaflam; Vinecef-500; Vitaroxima; Vuducefuroxim; Vupu; Vynat; Widxim; Wonfuroxime; Ximloma; Xorim; Xorimax; Yuyuxim; Zalrinat; Zamotix; Zaniat; Zanimex; Zanimex-Dobfar; Zanmite; Zasinat; Zenatop; Zencef; Zentonacef; Zibut; Zidocat; Zidunat; Zil mate; Zinacef; Zincap; Zinceftil; Zinextra; Zinfast; Zinmax-Domesco; Zinnat; Zisnaxime; Zosu; Zoxtil; Zyroxime 750.*
 
 # **CELECOXIB**
 
@@ -22806,7 +22414,7 @@ Cefuroxim có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Mã ATC:** M01AH01, L01XX33.
 
-**Loại thuốc:** Thuốc chống viêm không steroid ức chế chọn lọc COX-2.
+**Loại thuốc:**Thuốc chống viêm không steroid ức chế chọn lọc COX-2.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -22853,7 +22461,6 @@ Suy tim sung huyết độ II - IV theo phân loại NYHA.
 Suy thận nặng (Clcr < 30 ml/phút).
 
 Suy gan nặng (albumin huyết tương dưới 25 g/l hoặc điểm Child-Pugh ≥ 10).
-
 
 Bệnh viêm ruột (bệnh Crohn, viêm loét đại tràng).
 
@@ -22943,8 +22550,7 @@ Nuốt cả nang thuốc với nước. Nếu không được, có thể hòa v�
 
 *Người cao tuổi*: Trên 65 tuổi, không cần điều chỉnh liều, mặc dù nồng độ thuốc tăng trong huyết tương. Tuy nhiên, đối với người cao tuổi có trọng lượng cơ thể dưới 50 kg, phải dùng liều khuyến cáo thấp nhất khi bắt đầu điều trị.
 
-
-thận nặng, phải giám sát cẩn thận chức năng thận. Nhà sản xuất không có khuyến cáo đặc biệt nào về điều chỉnh liều cho người suy thận mạn.
+*Suy thận*: Chưa được nghiên cứu và không khuyến cáo dùng cho người suy thận. Nếu cần thiết phải dùng celecoxib cho người suy thận nặng, phải giám sát cẩn thận chức năng thận. Nhà sản xuất không có khuyến cáo đặc biệt nào về điều chỉnh liều cho người suy thận mạn.
 
 *Suy gan*: Chưa được nghiên cứu. Theo nhà sản xuất, không được dùng cho người bệnh suy gan nặng. Đối với suy gan vừa, nhà sản xuất khuyến cáo giảm liều khoảng 50%.
 
@@ -22988,14 +22594,13 @@ Celecoxib có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 *Agcel; Agilecox; Aldoric; Aldoric fort; Armecocib; Artose; Asectores; Axocexib; Beroxib; Bicele; Bivicox; B-Nagen; Cadicelox; Cecovic; Cecoxibe; Cefalox; Celcoxx; Celebid; Celebrex; Celedol; Celenova; Celesta; Celetop; Celicox 100; Celix; Celosti; Cenicorex; Cenmopen; Cenoxib; Cepofort; Cilavef; Cilexid; Cobxid -NIC; Cofidec; Conoges; Coxib; Coxirich 200; Coxlec; Coxnis; Coxwin; Deconex; Devitoc; Dolcel 200; Dolcelox; Dolumixib ; Doparexib ; Doresyl; Dorsiflex; Drofime; Dymazol; Efticele; Ezelex; Flacoxto; Fuxicure; Geofleco 200; Gracox; Hacip; Ikocox; Incerex; Juvecox 200; Locobile; Lowxib-200; Markoxib; Mibecerex; Micro Celecoxib; Neordac; Ostecox; Panalcox; Pentoxib; Rawximcin; Recosan; Revibra; Rheumac; Sagacoxib; Sarinex; Savi Celecoxib; Secnipro; Secnipro 200; Selecap 200; Tocetam; Uznar; Vicoxib; Vpcoxcef; Zycel.*
 
-
 # **CETIRIZIN HYDROCLORID**
 
-**Tên chung quốc tế:** Cetirizine hydrochloride.
+**Tên chung quốc tế**: Cetirizine hydrochloride.
 
-**Mã ATC:** R06AE07.
+**Mã ATC**: R06AE07.
 
-**Loại thuốc:** Kháng histamin; đối kháng thụ thể H<sup>1</sup> .
+**Loại thuốc**: Kháng histamin; đối kháng thụ thể H<sup>1</sup> .
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -23015,10 +22620,7 @@ Dạng kết hợp của cetirizin và pseudoephedrin hydroclorid được dùng
 
 *Dược động học*
 
-Thuốc hấp thu nhanh sau khi uống. Nồng độ đỉnh đo ở trạng thái
-
-
-cân bằng ở mức 0,3 microgam/ml, đạt được sau (1,0 ± 0,5) giờ. Sinh khả dụng đường uống không thay đổi khi dùng thuốc cùng với thức ăn. Thể tích phân bố biểu kiến là 0,50 lít/kg. Tỷ lệ liên kết với protein huyết tương là 90 - 96 %.
+Thuốc hấp thu nhanh sau khi uống. Nồng độ đỉnh đo ở trạng thái cân bằng ở mức 0,3 microgam/ml, đạt được sau (1,0 ± 0,5) giờ. Sinh khả dụng đường uống không thay đổi khi dùng thuốc cùng với thức ăn. Thể tích phân bố biểu kiến là 0,50 lít/kg. Tỷ lệ liên kết với protein huyết tương là 90 - 96 %.
 
 Khoảng 2/3 liều dùng được bài xuất dưới dạng không đổi qua nước tiểu. Nửa đời thải trừ huyết tương khoảng 10 giờ. Cetirizin có động học tuyến tính ở khoảng liều 5 - 60 mg.
 
@@ -23126,7 +22728,6 @@ Bột chymotrypsin 5 000 đơn vị USP để pha tiêm.
 
 Viên nén 21 microkatal.
 
-
 ## **Dược lý và cơ chế tác dụng**
 
 Chymotrypsin là một enzym phân giải protein, được điều chế bằng cách hoạt hóa chymotrypsinogen chiết xuất từ tụy bò. Chymotrypsin đặc biệt cắt các liên kết chuỗi các acid amin thơm (phenylalamin, tyrosin, tryptophan, methionin, norleucin và norvalin), nên đã phân giải các sợi của dây chằng (Zin) treo thủy tinh thể, mà không gây tác hại nặng đến các cấu trúc khác của mắt. Chymotrypsin đã từng được dùng trong phẫu thuật lấy đục thủy tinh thể trong bao ở lứa tuổi từ 20 - 60 tuổi, nhưng hiện nay ít làm vì nhiều biến chứng và có kỹ thuật hiện đại và dụng cụ tinh xảo hơn (cách làm: Lấy đục thủy tinh thể ngoài bao, nhũ tương hóa thủy tinh thể bằng sóng siêu âm và hút. Dung dịch enzym 1 : 5 000 thường có tác dụng trong vòng 2 phút, dung dịch 1 : 10 000 khoảng 4 phút). Chymotrypsin cũng đã được sử dụng để điều trị phù nề do viêm, sau chấn thương, sau phẫu thuật. Thuốc ít có chứng cứ tác dụng chống viêm trong các viêm khác (viêm đường hô hấp, xoang…).
@@ -23181,7 +22782,6 @@ Bảo quản viên nén ở nhiệt độ dưới 25 <sup>o</sup> C, tránh ánh
 
 Alpha chymotrypsin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế, năm 2015.
 
-
 # **CICLOSPORIN**
 
 **(Cyclosporin; cyclosporin A )**
@@ -23220,8 +22820,7 @@ Liên kết protein huyết tương: 90 - 98%, phần lớn là lipoprotein. Chu
 
 ghép (10% ở người lớn ghép gan và 89% ở bệnh nhân ghép thận, trẻ em khoảng 28%). Ciclosporin qua được nhau thai và phân bố vào sữa mẹ.
 
-
-cùng đường uống là 5 - 20 giờ. Thuốc thanh thải ở trẻ em nhanh hơn người lớn.
+Thời gian đạt nồng độ đỉnh trong huyết thanh đường uống là 2 - 6 giờ. Thanh thải của thuốc từ máu qua 2 pha. Nửa đời thải trừ cuối cùng đường uống là 5 - 20 giờ. Thuốc thanh thải ở trẻ em nhanh hơn người lớn.
 
 Thải trừ chủ yếu qua phân, qua nước tiểu chỉ 6%.
 
@@ -23303,8 +22902,7 @@ Dịch thuốc có thể hoà với sữa hoặc dịch quả (không dùng nư�
 
 Ở người không dung nạp ciclosporin uống, có thể truyền tĩnh mạch liều bằng một phần ba (1/3) liều uống, truyền chậm trong 2 - 6 giờ hoặc lâu hơn; thuốc được pha loãng với dung dịch natri clorid 0,9% hoặc glucose 5%, từ 5% thành dung dịch từ 0,05 - 0,25%. Để phòng các phản ứng phản vệ, chuyển sang đường uống càng sớm càng tốt.
 
-
-uống, có thể dùng cho tới một năm sau khi ghép (Hoặc ngay từ đầu dùng đường uống thì liều 12,5 - 15 mg/kg/ngày).
+*Ghép tủy xương, dự phòng và điều trị bệnh vật ghép chống người nhận:* Liều khởi đầu đường truyền tĩnh mạch 3 - 5 mg/kg/ngày, trước khi ghép 1 ngày, rồi tiếp tục tới 2 tuần, rồi chuyển dần sang uống 12,5 mg/kg mỗi ngày trong 3 - 6 tháng, sau đó giảm dần liều uống, có thể dùng cho tới một năm sau khi ghép (Hoặc ngay từ đầu dùng đường uống thì liều 12,5 - 15 mg/kg/ngày).
 
 Ciclosporin cũng dùng đường hít khi ghép phổi.
 
@@ -23348,7 +22946,6 @@ Ciclosporin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 *Paolorin; Sandimmun; Sandimmun Neoral; Vilosporin.*
 
-
 # **CIDOFOVIR**
 
 **Tên chung quốc tế:** Cidofovir.
@@ -23373,8 +22970,7 @@ Cidofovir chủ yếu được lọc ở cầu thận và bài tiết qua ống 
 
 ## **Chỉ định**
 
-
-thận. Do còn thiếu kinh nghiệm sử dụng nên chỉ dùng khi không có phương pháp điều trị phù hợp khác. Độ an toàn và hiệu quả của cidofovir chưa được xác định đối với các nhiễm *Cytomegalovirus* khác (như viêm phổi, viêm đường tiêu hóa), bệnh *Cytomegalovirus* bẩm sinh hay sơ sinh hoặc bệnh ở người không mắc HIV.
+Điều trị viêm võng mạc do *Cytomegalovirus* ở người bệnh mắc hội chứng suy giảm miễn dịch mắc phải (AIDS) và không bị suy thận. Do còn thiếu kinh nghiệm sử dụng nên chỉ dùng khi không có phương pháp điều trị phù hợp khác. Độ an toàn và hiệu quả của cidofovir chưa được xác định đối với các nhiễm *Cytomegalovirus* khác (như viêm phổi, viêm đường tiêu hóa), bệnh *Cytomegalovirus* bẩm sinh hay sơ sinh hoặc bệnh ở người không mắc HIV.
 
 Cidofovir chỉ được chỉ định dùng khi các thuốc khác không thích hợp (có chống chỉ định). Các thuốc này chỉ có tác dụng làm giảm nhẹ triệu chứng và phòng ngừa mù lòa chứ không có tác dụng chữa khỏi bệnh. Hơn nữa, các thuốc lại rất độc, có tác dụng hạn chế và rất đắt tiền nên không được Tổ chức Y tế thế giới xếp vào loại thuốc thiết yếu.
 
@@ -23480,9 +23076,7 @@ Khác: Phản ứng dị ứng, nhiễm khuẩn huyết.
 
 Phòng ADR: Mỗi lọ thuốc chỉ dùng để pha và truyền một lần. Phải truyền vào tĩnh mạch lớn, lưu thông tốt để thuốc được pha loãng và phân bố nhanh trong máu. Trước khi truyền thuốc phải truyền dung dịch natri clorid 0,9%. Trị liệu cần kết hợp với probenecid dùng theo đường uống.
 
-Để giảm độc tính lên thận cần phải kết hợp với probenecid: Phải kiểm tra trước chức năng thận (xem phần Chống chỉ định). Mỗi lần truyền cidofovir cần phải truyền trước dung dịch natri clorid 0,9% và cho uống probenecid. Nếu người bệnh đang phải dùng một thuốc khác có tác dụng độc lên thận thì nên ngừng dùng thuốc DTQGVN 2 Cidofovir 387
-
-đó ít nhất là 7 ngày trước khi bắt đầu dùng cidofovir. Phải kiểm tra chức năng thận (creatinin huyết và protein niệu) 24 giờ trước mỗi lần truyền cidofovir. Nếu chức năng thận xấu đi (creatinin huyết tăng thêm trên 44 micromol/lít, protein niệu tồn tại trên 100 mg/100 ml) thì phải tạm ngừng hoặc ngừng hẳn cidofovir.
+Để giảm độc tính lên thận cần phải kết hợp với probenecid: Phải kiểm tra trước chức năng thận (xem phần Chống chỉ định). Mỗi lần truyền cidofovir cần phải truyền trước dung dịch natri clorid 0,9% và cho uống probenecid. Nếu người bệnh đang phải dùng một thuốc khác có tác dụng độc lên thận thì nên ngừng dùng thuốc đó ít nhất là 7 ngày trước khi bắt đầu dùng cidofovir. Phải kiểm tra chức năng thận (creatinin huyết và protein niệu) 24 giờ trước mỗi lần truyền cidofovir. Nếu chức năng thận xấu đi (creatinin huyết tăng thêm trên 44 micromol/lít, protein niệu tồn tại trên 100 mg/100 ml) thì phải tạm ngừng hoặc ngừng hẳn cidofovir.
 
 Giảm nguy cơ nôn và buồn nôn do dùng kết hợp probenecid: Cho người bệnh ăn trước khi uống probenecid. Có khi phải dùng thuốc chống nôn. Với người bệnh có triệu chứng dị ứng với probenecid (nỗi mẫn da, sốt, rét run, phản vệ) cần phòng hoặc điều trị bằng thuốc phù hợp. Với người bệnh do quá mẫn cảm với probenecid hoặc với các sulfamid khác và không thể dùng được probenecid thì cần phải cân nhắc kỹ lợi hại trước khi cho dùng cidofovir.
 
@@ -23550,15 +23144,13 @@ Chưa có thông tin về việc trộn thêm một thuốc khác vào thuốc �
 
 Ngừng ngay thuốc. Điều trị triệu chứng, đặc biệt là hồi sức cấp cứu trong trường hợp người bệnh bị suy thận. Chạy thận nhân tạo.
 
-
-
 # **CILOSTAZOL**
 
-**Tên chung quốc tế:** Cilostazol.
+**Tên chung quốc tế**: Cilostazol.
 
-**Mã ATC:** B01AC23; C04AX33.
+**Mã ATC**: B01AC23; C04AX33.
 
-**Loại thuốc:** Thuốc ức chế kết tập tiểu cầu và giãn mạch, thuốc ức chế chọn lọc phosphodiesterase tế bào.
+**Loại thuốc**: Thuốc ức chế kết tập tiểu cầu và giãn mạch, thuốc ức chế chọn lọc phosphodiesterase tế bào.
 
 ## **Dạng thuốc và hàm lượng**
 
@@ -23618,7 +23210,6 @@ Tiêu hóa: Phân lỏng (12 - 15%), ỉa chảy (12 - 19%), chán ăn (6%); bu�
 
 Hô hấp: Viêm mũi (7 - 12%), viêm họng (7 - 10%), ho (3 - 4%). Tim mạch: Phù ngoại biên (7 - 9%), nhịp tim nhanh (4%), hồi hộp, đánh trống ngực (5 - 10%).
 
-
 Thần kinh cơ - xương: Đau lưng (6 - 7%), đau cơ (2 - 3%).
 
 Khác: Nhiễm trùng (10 - 14%), khô da, mày đay, tăng creatinin, tăng lipid máu, tăng acid uric máu.
@@ -23671,7 +23262,6 @@ Cilostazol có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 *Cilost; Citakey; Dancitaz; Pletaal; Stiloz; Zilamac.*
 
-
 # **CIMETIDIN**
 
 **Tên chung quốc tế:** Cimetidine.
@@ -23698,8 +23288,7 @@ Cimetidin gián tiếp làm giảm bài tiết pepsin do làm giảm thể tích
 
 Cimetidin điều trị để làm liền loét tá tràng tiến triển và loét dạ dày lành tính tiến triển, nhưng không ngăn cản được loét tái phát. Điều trị duy trì sau khi ổ loét đã lành để giảm tái phát, nhưng hiện nay đã được thay thế bằng điều trị tiệt căn khi bị loét dạ dày - tá tràng dương tính với *H. pylori.* 
 
-
-có hiệu quả hơn.
+Điều trị viêm loét thực quản ở người bị bệnh trào ngược dạ dày thực quản, nhưng hiện nay các thuốc ức chế bơm proton thường có hiệu quả hơn.
 
 *Dược động học*
 
@@ -23801,7 +23390,6 @@ Phòng loét đường tiêu hóa trên do stress:
 
 Uống hoặc cho qua ống thông dạ dày 200 - 400 mg, hoặc tiêm tĩnh mạch trực tiếp 200 mg/lần, cách 4 đến 6 giờ một lần.
 
-
 Đề phòng nguy cơ hội chứng hít phải dịch vị acid: Sản khoa: uống 400 mg lúc bắt đầu đau đẻ, sau đó uống 400 mg cách 4 giờ một lần khi cần (tối đa 2,4 g/ngày).
 
 Phẫu thuật: Uống 400 mg lúc 90 - 120 phút trước khi tiền mê. Chứng khó tiêu không do loét: Mỗi lần 200 mg, ngày 1 - 2 lần. Phòng chứng ợ nóng ban đêm: 100 mg trước khi đi ngủ tối. Nếu tự điều trị, nhà sản xuất khuyến cáo không được vượt quá 400 mg trong 24 giờ và không được dùng liên tục quá 2 tuần, trừ khi có chỉ định của thầy thuốc.
@@ -23876,17 +23464,17 @@ Cimetidin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 *Acitidine; Agintidin; Axocidine; Brumetidina; Cemate; Famoflam; Folsadron Tab; Gastroprotect; Kukje-Cimetidine; Meyertidin; Nescine-400; Nurodif; Suwellin; Tagimex; Timetac 400.*
 
-
 # **CINARIZIN**
 
-**Tên chung quốc tế:** Cinnarizine.
+**Tên chung quốc tế**: Cinnarizine.
 
-**Mã ATC:** N07CA02.
+**Mã ATC**: N07CA02.
 
-**Loại thuốc:** Kháng histamin H<sup>1</sup> . **Dạng thuốc và hàm lượng.
+**Loại thuốc**: Kháng histamin H<sup>1</sup> . 
+
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 15 mg, 25 mg. Viên nang: 75 mg.
-
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -23978,7 +23566,6 @@ Cinarizin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 *Brawmicin; Cinaz; Devomir; Motidram; Stugeron; Stugonpharimex; Stumax; Trastu; Vertiflam; Vertizon.*
 
-
 # **CIPROFIBRAT**
 
 **Tên chung quốc tế:** Ciprofibrate.
@@ -23999,12 +23586,11 @@ $$\frac{\text{VLDL} + \text{LDL}}{\text{HDL}}$$
 
 là tỷ lệ thường tăng mạnh trong các chứng tăng lipid huyết gây vữa động mạch.
 
-
 Các u vàng ở gân cơ và dạng củ, các ngưng đọng cholesterol tỷ trọng thấp ở ngoài mạch huyết, khi điều trị kéo dài có thể thoái triển nhiều, thậm chí biến đi hoàn toàn nhờ hiệu quả của ciprofibrat làm giảm mạnh cholesterol huyết.
 
 Ciprofibrat còn có tác dụng chống tập kết tiểu cầu và tiêu fibrin. Mặc dù các fibrat có thể làm giảm nguy cơ sự cố mạch vành ở những người có HDL-cholesterol thấp, hoặc triglycerid cao, nhưng trước tiên nên dùng các statin (các chất ức chế HMG-CoA reductase). Các fibrat chỉ là thuốc điều trị hàng đầu đối với những người bệnh có nồng độ triglycerid huyết cao hơn 10 mmol/lít hoặc người không dung nạp được statin.
 
-# *Dược động học*
+### *Dược động học*
 
 Ciprofibrat dễ hấp thu qua đường tiêu hóa. Nồng độ tối đa trong huyết tương đạt trong vòng 2 giờ sau khi uống. Thuốc liên kết mạnh với protein huyết tương và có thể chiếm chỗ và đẩy một số thuốc khác ra khỏi vị trí gắn kết, vì vậy nên điều chỉnh liều lượng của những thuốc này, nhất là các kháng vitamin K (xem mục Tương tác thuốc).
 
@@ -24107,7 +23693,6 @@ Ciprofibrat có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 ## **Tên thương mại**
 
 *Modalim.*
-
 
 # **CIPROFLOXACIN**
 
@@ -24451,7 +24036,6 @@ Nhiễm *Vibrio cholerae*: Một liều 1 g.
 
 *Nhiễm khuẩn trong ổ bụng*: Uống 500 mg/lần, cách 12 giờ một lần, trong 7 - 14 ngày.
 
-
 Tiêm tĩnh mạch: 400 mg/lần, cách 12 giờ một lần, trong 7 - 14 ngày.
 
 Nhiễm khuẩn đường hô hấp dưới, cấu trúc da: Uống 500 - 750 mg/ lần, hai lần trong ngày, trong 7 - 14 ngày. Tiêm tĩnh mạch: Bệnh từ nhẹ đến vừa: 400 mg/lần, cách 12 giờ một lần, trong 7 - 14 ngày; bệnh nặng/biến chứng: 400 mg/lần, cách 8 giờ một lần, trong 7 - 14 ngày.
@@ -24526,7 +24110,6 @@ Bảo quản dung dịch tiêm ciprofloxacin lactat đậm đặc ở nhiệt đ
 
 Bảo quản thuốc tra mắt ciprofloxacin hydroclorid ở nhiệt độ 2 - 30 o C, trong lọ kín tránh ánh sáng.
 
-
 ## **Tương kỵ**
 
 Dung dịch tiêm truyền ciprofloxacin có pH từ 3,9 đến 4,5 và tương kỵ với các thuốc tiêm không ổn định về mặt lý hóa ở khoảng pH này. Đã thấy có tương kỵ giữa ciprofloxacin và heparin natri, giữa ciprofloxacin hoặc pefloxacin với penicilin, fluocloxacilin, amoxicilin, dạng kết hợp amoxicilin và kali clavulanat, aminophylin và clindamycin. Vì vậy, không được trộn thuốc tiêm ciprofloxacin với các thuốc tiêm khác có pH cao.
@@ -24542,7 +24125,6 @@ Ciprofloxacincó trong Danh mục thuốc thiết yếu tân dược ban hành l
 ## **Tên thương mại**
 
 *Agicipro; Amfacin; Aristin-C; Axoflox-500; Becacipro; Beekipocin; BinexRofcin Tab.; Biocip; Bloci; Brown & Burk Ciprofloxacin; Cadiciprolox; Ceflox-500; Cenpro; Centaurcip; Ceteco Ciprocent 500; Cifga; Cifin; Cifomed 500; Cifzy; Cilox RVN; Ciloxan; Cinarosip; Cinfax; Cipad 500; Cipamtec; Ciplife; Ciplox; Ciploxe; Cipmedic; Cipmyan 500; Cipolon; Ciprinol; Ciprobay; Ciprofot; Ciproglobe; Ciproheal; Ciprolet; Ciprolotil; Cipromarksans; Cipronex-500; Cipthasone; Citopcin; Citrio; Civox; Cixalof; Cixapro; Coducipro 500; Cophacip; C-Pac; CSTAT; Davylox; Decintear OPH; Demotini; Diflox; ÐlogeCipro; Dorociplo; Ecip; Ecoflox 500; Euprocin; Eurocapro; Eyecipro; Flokinox; Fudcipro; Furect I.V; Gepfprol Infusion; Getcipro; Getoxl; Glocip 500; Gom Gom; H2K Ciprofloxacin infusion; Hadipro; Hadolmax; Hasancip; Heacipro; Huceti; Ikoquin-500; Isotic quiflocin; Kacipro; Kaprocin; Kinolinon; Ladinin Sol. IV. INF.; Lufocin; Medicipro; Medxacin; Mekociprox; Meyercipro; Micipro; Nafacipro; NDC-Ciprofloxacin; Neuprolox; Opecipro 500; Oracipon; Pharmabay; Philproeye Eye Drops; Picaroxin; Picilox 200mg inj; pms-Ciprofloxacin; Prolaxi; Proxacin; Pycip; Quafacip; Quindrops; Quinobact; Quinrox; Qupron; Recipro; Rezocip; Robcipro; Samchundangcipmax eye drops; SaViCipro; Scanax 500; SCD Ciprofloxacin; Seozec; Sepratis; Serviflox 500; Silfo; Sungwon Adcock; Supolox 500; Sydracxin; Tarvicipro; Tiphacipro 500; Tocinpro; VacoCipdex; Viprolox 500; Young Il Ciprofloxacin; Zecipox; Zybid 500.*
-
 
 # **CISAPRID**
 
@@ -24599,7 +24181,6 @@ Rối loạn điện giải (hạ K+ hoặc Mg2+).
 Suy thận.
 
 Trẻ sơ sinh đẻ non trong 3 tháng đầu sau sinh.
-
 
 ## **Thận trọng**
 
@@ -24709,7 +24290,6 @@ Cisaprid có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 *Bansinica.*
 
-
 # **CISPLATIN**
 
 **Tên chung quốc tế:** Cisplatin.
@@ -24730,8 +24310,7 @@ Cisplatin là một thuốc ung thư chứa platin, có tác dụng độc với
 
 Ngoài ra, ở một mức độ thấp hơn, cisplatin ức chế tổng hợp protein và RNA. Thuốc không có tác dụng đặc hiệu trên một pha nào của chu kỳ tế bào. Cisplatin cũng có tác dụng ức chế miễn dịch gây mẫn cảm với quang tuyến và kháng vi khuẩn.
 
-
-hoặc metallothionein. Glutathion có một vai trò chủ yếu bảo vệ tế bào chống lại tác động của một số độc tố bao gồm cả một số thuốc chống ung thư.
+Cơ chế tế bào kháng thuốc chứa platin chưa được làm rõ, nhưng tế bào kháng thuốc có thể liên quan đến tế bào giảm hấp thu thuốc hoặc do tăng cường sửa chữa của DNA và có thể liên quan đến tăng trong tế bào nồng độ phức hợp sulfhydryl gồm có glutathion hoặc metallothionein. Glutathion có một vai trò chủ yếu bảo vệ tế bào chống lại tác động của một số độc tố bao gồm cả một số thuốc chống ung thư.
 
 *Dược động học*
 
@@ -24791,8 +24370,7 @@ Cisplatin vào sữa mẹ. Do thuốc có nguy cơ cao gây tác hại nặng ch
 
 #### **Tác dụng không mong muốn ADR**
 
-
-bao gồm các độc tính không do huyết học như độc tính đối với thận, thính lực, thần kinh, nôn, trong khi đó, liệu pháp carboplatin lại bị hạn chế bởi các độc tính về huyết học như giảm tiểu cầu và giảm bạch cầu. Sự khác biệt về độc tính và dược động học của các thuốc có thể là yếu tố quyết định quan trọng trong lựa chọn cisplatin hay carboplatin.
+Cisplatin có độc tính cao và thường ít được dung nạp hơn so với carboplatin. Các ADR chính làm hạn chế liều dùng do cisplatin bao gồm các độc tính không do huyết học như độc tính đối với thận, thính lực, thần kinh, nôn, trong khi đó, liệu pháp carboplatin lại bị hạn chế bởi các độc tính về huyết học như giảm tiểu cầu và giảm bạch cầu. Sự khác biệt về độc tính và dược động học của các thuốc có thể là yếu tố quyết định quan trọng trong lựa chọn cisplatin hay carboplatin.
 
 *Thường gặp, ADR > 1/100*
 
@@ -24848,8 +24426,7 @@ Truyền vào động mạch: Cisplatin thường được pha vào dung dịch 
 
 Truyền nhỏ giọt vào trong màng bụng: Qua ống thông Tenckhoff hoặc ống thông dùng trong thẩm phân màng bụng, sau khi đã dẫn lưu một phần hoặc toàn bộ khoang màng bụng. Liều cisplatin đã được pha vào 2 lít dung dịch natri clorid 0,9% ấm và cho chảy theo trọng lực trong 10 phút; Sau 4 giờ để lưu, khoang bụng được dẫn lưu càng nhiều càng tốt.
 
-
-cho thuốc chống nôn.
+*Liều lượng:* Liều cisplatin phải dựa vào đáp ứng lâm sàng thận, huyết học và thính lực và dung nạp thuốc của người bệnh để đạt được kết quả điều trị tối đa với tác dụng phụ tối thiểu. Thầy thuốc phải tham khảo kỹ các phác đồ đã công bố về liều lượng của cisplatin và các thuốc hóa trị liệu khác, phương pháp và trình tự cho thuốc. Với liều thường dùng, một liệu trình cisplatin không được dùng quá 1 lần cách nhau 3 - 4 tuần. Không được lặp lại liệu trình cisplatin nếu chức năng thận, huyết học và thính lực chưa trở về giới hạn có thể chấp nhận được và luôn luôn phải sẵn sàng đối phó phản ứng phản vệ. Cisplatin là một thuốc có nguy cơ gây nôn cao, nên phải cho thuốc chống nôn.
 
 *Ung thư tinh hoàn:* Liều thông thường trong phối hợp hóa trị liệu (thí dụ với bleomycin và etoposid): Cisplatin 20 mg/m<sup>2</sup> diện tích cơ thể, truyền tĩnh mạch hàng ngày trong 5 ngày liền, cách 3 tuần/1 liệu trình cho 3 hoặc 4 liệu trình. Thường chỉ cần 3 liệu trình.
 
@@ -24905,8 +24482,7 @@ Cisplatin tương tác với nhôm, tạo thành kết tủa đen, vì vậy, c�
 
 *Xử trí:* Tuy hiện nay chưa xác định được thuốc giải độc cho cisplatin dùng quá liều, một số hợp chất sulfhydryl (thiol) ái nhân (gây khử) (như glutathion, acetylcystein, mesna) có thể làm bất hoạt cisplatin và tác động như những chất bảo vệ hóa học (như bảo vệ chống lại độc tính với thận). Tuy nhiên, tiềm năng lợi ích của các thuốc này còn phải được xác định. Lợi ích của nhiều thuốc đó, nếu có, còn bị hạn chế nếu cho muộn vài giờ sau khi dùng cisplatin, vì đa số platin đã có thể gắn vào protein và không ở dạng phản ứng. Về lý thuyết, các thuốc dithiocarbamat (như dithiocarb DDTC, amifostin) có thể có tiềm năng lợi ích hơn, vì các thuốc này có thể phản ứng với platin ngay cả sau khi gắn vào protein và có thể kích thích đào thải một lượng lớn platin qua mật. Vai trò của các thuốc trên cần phải làm sáng tỏ thêm.
 
-Khi ngộ độc và dùng quá liều, thường điều trị theo triệu chứng. Thẩm phân máu ít loại bỏ được platin, ngay cả thực hiện trong vòng 4 giờ đầu. Thay rút huyết tương có thể loại bỏ được platin gắn vào protein, như vậy cải thiện được nhiễm độc. Nếu nôn liên tục, có thể dùng các thuốc chống nôn (thuốc đối kháng thụ thể serotonin typ 3, dexamethason và aprepitant). Các thuốc tạo máu (như sargramostim [GM-CSF] có thể giúp ích trong xử trí suy tủy và thẩm phân máu có thể cần để xử trí suy thận.
-
+Khi ngộ độc và dùng quá liều, thường điều trị theo triệu chứng. Thẩm phân máu ít loại bỏ được platin, ngay cả thực hiện trong vòng 4 giờ đầu. Thay rút huyết tương có thể loại bỏ được platin gắn vào protein, như vậy cải thiện được nhiễm độc. Nếu nôn liên tục, có thể dùng các thuốc chống nôn (thuốc đối kháng thụ thể serotonin typ 3, dexamethason và aprepitant). Các thuốc tạo máu như sargramostim [GM-CSF] có thể giúp ích trong xử trí suy tủy và thẩm phân máu có thể cần để xử trí suy thận.
 
 ## **Thông tin quy chế**
 
@@ -24915,7 +24491,6 @@ Cisplatin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 ## **Tên thương mại**
 
 *Cispa-50; Cisplaton; DBL Cisplatin; Kupunistin; Platosin.*
-
 
 # **CLARITHROMYCIN**
 
@@ -24977,8 +24552,7 @@ Dược động học của clarithromycin không tuyến tính và phụ thuộ
 
 Chất chuyển hóa chính là 14-hydroxy clarithromycin cũng có hoạt tính và có thể tăng cường hoạt tính của clarithromycin *in vitro.*
 
-
-một lần; khoảng 5 - 7 giờ và 7 - 9 giờ khi người bệnh uống liều 500 mg, cách 8 - 12 giờ một lần. Nửa đời thải trừ bị kéo dài ở người bệnh suy thận.
+Clarithromycin và chất chuyển hóa chính 14-hydroxy clarithromycin được phân bố rộng rãi và nồng độ trong mô vượt nồng độ trong huyết thanh do một phần thuốc được thu nạp vào trong tế bào. Khoảng 42 - 72% nồng độ thuốc gắn với protein huyết tương. Ở nồng độ điều trị thông thường, clarithromycin được phát hiện có trong sữa mẹ và trong dịch não tủy nhưng hiệu quả trong điều trị viêm màng não còn chưa rõ. Thuốc chuyển hóa nhiều ở gan và thải ra phân qua đường mật (5 - 10% thuốc mẹ). Một phần đáng kể được thải qua nước tiểu. Khoảng 20 và 30% theo thứ tự ứng với liều 250 mg và 500 mg dạng viên nén và khoảng 40% với liều 250 mg dạng hỗn dịch được thải qua nước tiểu dưới dạng không bị chuyển hóa. 14-hydroxy clarithromycin cũng như các chất chuyển hóa khác được thải qua nước tiểu 10 -15% liều. Nửa đời của clarithromycin và 14-hydroxy clarithromycin khoảng 3 - 4 giờ và 5 - 6 giờ theo thứ tự khi người bệnh uống 250 mg clarithromycin, cách 12 giờ một lần; khoảng 5 - 7 giờ và 7 - 9 giờ khi người bệnh uống liều 500 mg, cách 8 - 12 giờ một lần. Nửa đời thải trừ bị kéo dài ở người bệnh suy thận.
 
 Tình hình vi khuẩn kháng các kháng sinh nhóm macrolid ở Việt Nam có chiều hướng tăng nhanh. Các vi khuẩn kháng erythromycin thường cũng kháng với các macrolid khác bao gồm clarithromycin.
 
@@ -25061,7 +24635,6 @@ Dạng cốm clarithromycin để pha hỗn dịch uống: Pha bằng cách thê
 Thuốc tiêm truyền: Đối với tiêm truyền tĩnh mạch không liên tục, pha loãng dung dịch hoàn nguyên với dung dịch tiêm glucose 5% hoặc dung dịch tiêm natri clorid 0,9% để được dung dịch có chứa 2 mg/ml clarithromycin và tiêm vào tĩnh mạch lớn trong thời gian 60 phút.
 
 Thời gian điều trị clarithromycin còn tùy thuộc vào loại nhiễm khuẩn và mức độ nặng nhẹ của bệnh và thường kéo dài 7 - 14 ngày.
-
 
 ### *Liều lượng:*
 
