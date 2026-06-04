@@ -1,14 +1,14 @@
 import os
 from dotenv import load_dotenv
 
-# Tải biến môi trường từ file .env
-load_dotenv()
-
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
+
+# Tải biến môi trường từ file .env
+load_dotenv()
 
 # ──────────────────────────────────────────────
 # 1. Khởi tạo Embeddings & VectorStore
@@ -24,27 +24,30 @@ vectorstore = FAISS.load_local(
 )
 
 # ──────────────────────────────────────────────
-# 2. Prompt Template (có hỗ trợ lịch sử chat)
+# 2. Prompt Template chính (có summary + 3 lịch sử gần nhất)
 # ──────────────────────────────────────────────
 prompt_template = """
 Bạn là một dược sĩ lâm sàng giàu kinh nghiệm. Hãy sử dụng CÁC THÔNG TIN TRONG PHẦN NGỮ CẢNH dưới đây để trả lời câu hỏi của người dùng một cách chính xác và dễ hiểu.
 Nếu thông tin trong Ngữ cảnh không đủ để trả lời, hãy nói rõ là "Tài liệu hiện tại không chứa đủ thông tin để trả lời câu hỏi này", tuyệt đối không tự bịa ra kiến thức ngoài.
-
-Ngữ cảnh (Context):
+ 
+Ngữ cảnh tài liệu (Context):
 {context}
-
-Lịch sử hội thoại (Chat History - 5 lượt gần nhất):
-{chat_history}
-
+ 
+Tóm tắt các cuộc hội thoại cũ (Summary of older history):
+{summary}
+ 
+Lịch sử hội thoại gần nhất (3 lượt gần nhất):
+{recent_history}
+ 
 Câu hỏi của người dùng (Query):
 {query}
-
+ 
 Câu trả lời:
 """
 
 prompt = PromptTemplate(
     template=prompt_template,
-    input_variables=["context", "chat_history", "query"]
+    input_variables=["context", "summary", "recent_history", "query"]
 )
 
 # ──────────────────────────────────────────────
@@ -59,64 +62,123 @@ llm = ChatGroq(
 )
 
 # ──────────────────────────────────────────────
-# 4. Kết nối thành một Chain
+# 4. Prompt Template để summary lịch sử cũ
+# ──────────────────────────────────────────────
+summary_prompt_template = """
+Hãy tóm tắt ngắn gọn nội dung các cuộc hội thoại dưới đây giữa người dùng và trợ lý dược sĩ lâm sàng AI.
+Tóm tắt cần nắm bắt các chủ đề chính, câu hỏi quan trọng và thông tin y dược đã được đề cập.
+Viết bằng tiếng Việt, súc tích trong khoảng 4-5 câu.
+ 
+Lịch sử hội thoại cần tóm tắt:
+{old_history}
+ 
+Tóm tắt:
+"""
+ 
+summary_prompt = PromptTemplate(
+    template=summary_prompt_template,
+    input_variables=["old_history"]
+)
+ 
+summary_chain = summary_prompt | llm | StrOutputParser()
+
+# ──────────────────────────────────────────────
+# 5. Kết nối thành một Chain chính
 # ──────────────────────────────────────────────
 chain = prompt | llm | StrOutputParser()
 
-
-def format_chat_history(history: list[dict]) -> str:
+def summarize_old_history(old_messages: list[dict]) -> str:
     """
-    Chuyển danh sách lịch sử chat thành chuỗi văn bản.
-    Mỗi phần tử trong history là dict {"role": "user"/"assistant", "content": "..."}.
-    Chỉ lấy 5 lượt (10 message) gần nhất.
+    Gọi LLM để tóm tắt các lượt hội thoại cũ (trước 3 lượt gần nhất).
+ 
+    Args:
+        old_messages: Danh sách message cũ (mỗi phần tử là dict role/content).
+ 
+    Returns:
+        Chuỗi tóm tắt từ LLM.
     """
-    recent = history[-10:]  # mỗi lượt gồm 1 user + 1 assistant → 5 lượt = 10 message
-    if not recent:
-        return "Chưa có lịch sử hội thoại."
     lines = []
-    for msg in recent:
+    for msg in old_messages:
         role_label = "Người dùng" if msg["role"] == "user" else "Trợ lý"
         lines.append(f"{role_label}: {msg['content']}")
-    return "\n".join(lines)
+    old_history_text = "\n".join(lines)
+ 
+    return summary_chain.invoke({"old_history": old_history_text})
 
+
+def build_history_context(chat_history: list[dict]) -> tuple[str, str]:
+    """
+    Tách lịch sử thành:
+    - summary: tóm tắt các lượt cũ hơn 3 lượt (chỉ gọi LLM khi có > 3 lượt)
+    - recent_history: 3 lượt gần nhất dạng văn bản
+ 
+    Mỗi "lượt" = 1 cặp user + assistant = 2 message.
+ 
+    Returns:
+        (summary_text, recent_history_text)
+    """
+    RECENT_TURNS = 3
+    recent_messages = chat_history[-(RECENT_TURNS * 2):]  # 3 lượt × 2 message
+    old_messages = chat_history[:-(RECENT_TURNS * 2)]     # phần còn lại
+ 
+    # Format 3 lượt gần nhất
+    if recent_messages:
+        recent_lines = []
+        for msg in recent_messages:
+            role_label = "Người dùng" if msg["role"] == "user" else "Trợ lý"
+            recent_lines.append(f"{role_label}: {msg['content']}")
+        recent_history_text = "\n".join(recent_lines)
+    else:
+        recent_history_text = "Chưa có lịch sử hội thoại."
+ 
+    # Tóm tắt lịch sử cũ (chỉ khi có > 3 lượt)
+    total_turns = len(chat_history) // 2
+    if total_turns > RECENT_TURNS and old_messages:
+        print("[Đang tóm tắt lịch sử hội thoại cũ...]")
+        summary_text = summarize_old_history(old_messages)
+    else:
+        summary_text = "Không có."
+ 
+    return summary_text, recent_history_text
 
 def ask(query: str, chat_history: list[dict]) -> str:
     """
     Nhận câu hỏi và lịch sử chat, trả về câu trả lời từ LLM.
-
+ 
     Args:
         query: Câu hỏi hiện tại của người dùng.
         chat_history: Danh sách dict {"role": ..., "content": ...}.
-
+ 
     Returns:
         Chuỗi câu trả lời từ mô hình.
     """
-    # Retrieve Top 5 tài liệu liên quan
+    # Retrieve Top 5 tài liệu liên quan từ VectorStore
     docs = vectorstore.similarity_search(query, k=5)
     context = "\n\n".join(
         f"Metadata: {doc.page_content}"
         for doc in docs
     )
-
-    # Format lịch sử 5 lượt gần nhất
-    history_text = format_chat_history(chat_history)
-
-    # Gọi chain
+ 
+    # Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
+    summary, recent_history = build_history_context(chat_history)
+ 
+    # Gọi chain chính
     answer = chain.invoke({
         "context": context,
-        "chat_history": history_text,
+        "summary": summary,
+        "recent_history": recent_history,
         "query": query,
     })
     return answer
 
 
 # ──────────────────────────────────────────────
-# 5. Vòng lặp chat chính
+# 6. Vòng lặp chat chính
 # ──────────────────────────────────────────────
 def main():
     print("=== Dược sĩ lâm sàng AI (nhập 'exit' để thoát) ===\n")
     chat_history: list[dict] = []
-
+ 
     while True:
         query = input("Bạn: ").strip()
         if not query:
@@ -124,17 +186,17 @@ def main():
         if query.lower() in ("exit", "quit", "thoát"):
             print("Tạm biệt!")
             break
-
+ 
         answer = ask(query, chat_history)
-
+ 
         # Lưu vào lịch sử
         chat_history.append({"role": "user", "content": query})
         chat_history.append({"role": "assistant", "content": answer})
-
+ 
         print(f"\n=== CÂU TRẢ LỜI TỪ GROQ ===")
         print(answer)
         print()
-
-
+ 
+ 
 if __name__ == "__main__":
     main()
