@@ -1,0 +1,3792 @@
+# **HƯỚNG DẪN SỬ DỤNG DƯỢC THƯ QUỐC GIA VIỆT NAM**
+
+Nhiều nước trên thế giới xuất bản Dược thư quốc gia. Một số nước chỉ soạn thảo Dược thư quốc gia ngắn gọn loại bỏ túi để giúp thầy thuốc tra cứu khi làm việc. Dược thư quốc gia Việt Nam là sách hướng dẫn sử dụng thuốc an toàn, hợp lý và hiệu quả do Bộ Y tế ban hành. Dược thư quốc gia Việt Nam lần xuất bản thứ nhất được biên soạn trong khuôn khổ chương trình hợp tác y tế Việt Nam - Thụy Điển theo một quy trình chặt chẽ để cung cấp cho các bác sỹ, dược sỹ và cán bộ y tế các thông tin về thuốc, nhằm hướng tới sử dụng thuốc hợp lý, an toàn và hiệu quả.
+
+Từ năm 2011 - 2013, Bộ Y tế đã tổ chức biên soạn cuốn Dược thư quốc gia Việt Nam lần xuất bản thứ hai với khoảng 700 dược chất trong số hơn 1 000 dược chất có trong hơn 10 000 dược phẩm lưu hành trên thị trường Việt Nam, bao gồm các thuốc có trong Danh mục thuốc thiết yếu Việt Nam, Danh mục các thuốc tân dược thuộc phạm vi thanh toán của quỹ bảo hiểm y tế và một số thuốc chuyên khoa.
+
+Dược thư quốc gia Việt Nam 2 được chia thành ba phần:
+
+**Phần một** : Các chuyên luận chung trình bày về các vấn đề tổng quát liên quan đến sử dụng thuốc như: Sử dụng hợp lý thuốc kháng sinh, thuốc chống động kinh, nguyên tắc sử dụng thuốc ở trẻ em... 
+
+**Phần hai** : Các chuyên luận của 700 dược chất được trình bày theo thứ tự bảng chữ cái và theo tên gốc (tên chung quốc tế). Mỗi chuyên luận đều được trình bày theo bố cục thống nhất như sau:
+
+1. Tên chuyên luận thuốc: Là tên viết theo tên thuốc gốc đã được Việt hóa theo nguyên tắc của Bộ Y tế.
+
+2. Tên chung quốc tế: Viết theo quy định của danh pháp INN (International Nonproprietary Name).
+
+3. Mã ATC (The Anatomical Therapeutic Chemical Code).
+
+4. Loại thuốc: Phân loại theo nhóm tác dụng.
+
+5. Dạng thuốc và hàm lượng: Dạng bào chế thông dụng hiện có trên thị trường và hàm lượng.
+
+6. Dược lý và cơ chế tác dụng: Trình bày tác dụng dược học, dược động học và cơ chế tác dụng.
+
+7. Chỉ định: Cung cấp thông tin để lựa chọn đúng thuốc và đúng chỉ định.
+8. Chống chỉ định: Nêu các trường hợp cần tránh dùng thuốc.
+
+9. Thận trọng: Các trường hợp cần thận trọng khi dùng thuốc, ví dụ đối với người cao tuổi, người có bệnh về gan, thận v.v...
+
+10. Thời kỳ mang thai: Các thận trọng khi chỉ định thuốc cho người mang thai.
+
+11. Thời kỳ cho con bú: Các thận trọng khi chỉ định thuốc cho người cho con bú sữa mẹ.
+
+12. Tác dụng không mong muốn (Adverse drug reactions: ADR): Bao gồm những phản ứng phụ và các phản ứng đối nghịch có hại. Trong phần này các ADR được chia làm ba loại theo phân loại của Tổ chức y tế thế giới: Loại thường gặp là ADR xảy ra trên 1 phần trăm số người dùng thuốc, loại ít gặp là ADR xảy ra dưới 1 phần trăm và lớn hơn 1 phần nghìn số người dùng thuốc, loại hiếm gặp là ADR xảy ra dưới 1 phần nghìn số người dùng thuốc.
+
+13. Hướng dẫn cách xử trí ADR.
+
+14. Liều lượng và cách dùng:
+Liều lượng ghi trong Dược thư nhằm hướng dẫn chung về liều lượng thông thường, dùng cho người lớn và trẻ em theo đường uống, trừ trường hợp có ghi rõ đường dùng khác. Thầy thuốc có thể cân nhắc để cho liều cao hơn hoặc thấp hơn liều thông thường để đạt được tác dụng điều trị tối ưu ở từng người bệnh cụ thể. Ở một số chuyên luận thuốc có ghi cả liều giới hạn khi kê đơn (ở người lớn hoặc trẻ em) chủ yếu để hướng dẫn dược sỹ yêu cầu thầy thuốc xác nhận liều đã kê cao hơn liều bình thường.
+
+15. Tương tác thuốc: Khi sử dụng cùng một lúc hai hoặc nhiều thuốc thường dễ xảy ra tương tác thuốc dẫn đến hiện tượng đối kháng hoặc hiệp đồng. Tác dụng đối kháng là hiện tượng một thuốc có thể làm giảm (hoặc mất) tác dụng của thuốc khác khi dùng đồng thời; ngược lại là tác dụng hiệp đồng (có khi tác dụng tăng cường đến mức gây độc cho người bệnh). Vì vậy cần thận trọng và khi thật cần thiết mới dùng chung các thuốc đó với nhau.
+
+16. Độ ổn định và bảo quản.
+
+17. Tương kỵ: Thuốc không được trộn lẫn với thuốc khác vì xảy ra phản ứng ngoài cơ thể.
+
+18. Quá liều và xử trí.
+
+19. Thông tin quy chế.
+
+
+Trong một số chuyên luận thuốc, nếu một mục chưa có đầy đủ thông tin cần thiết thì sẽ được bỏ qua.
+
+**Phần ba**: Các phụ lục bao gồm: Bảng xác định diện tích bề mặt thân thể người từ chiều cao và cân nặng; Pha thêm thuốc vào dịch truyền tĩnh mạch; Phân loại thuốc trong Dược thư quốc gia theo mã giải phẫu - điều trị - hóa học (ATC).
+
+Các thông tin trong Dược thư quốc gia Việt Nam được tham khảo từ các sách giáo khoa về dược lý, các tài liệu hướng dẫn dùng thuốc và phác đồ điều trị chuẩn của Bộ Y tế và Tổ chức y tế thế giới, các sách hướng dẫn sử dụng và điều trị có uy tín trên thế giới như: Goodman & Gilman's The Pharmacological Basis of Therapeutics; Martindale, British National Formulary (BNF); Drug information - American Hospital Formulary Service (AHFS)... nhằm đảm bảo tính khoa học, chính xác, cập nhật và thực tiễn.
+
+Được sự quan tâm của Bộ Y tế, với sự tham gia tâm huyết của nhiều chuyên gia y - dược, Hội đồng Dược thư quốc gia Việt Nam II, trong suốt 3 năm đã hoàn thành công tác biên soạn cuốn Dược thư quốc gia Việt Nam 2. Mặc dù Ban biên soạn đã rất cố gắng, nhưng cuốn sách được biên soạn bởi nhiều tác giả và có nội dung lớn, vì vậy khó tránh khỏi thiếu sót. Hội đồng Dược thư quốc gia Việt Nam rất mong nhận được ý kiến đóng góp của các đồng nghiệp để các lần xuất bản tiếp theo, Dược thư quốc gia Việt Nam có chất lượng cao hơn.
+
+## **KÊ ĐƠN THUỐC**
+
+### **Những quy định chung về kê đơn thuốc**
+
+#### **Những quy định về trách nhiệm người được kê đơn thuốc**
+
+Đơn thuốc là căn cứ pháp lý để bán thuốc, cấp phát thuốc, pha chế thuốc theo đơn và sử dụng thuốc. Do vậy, chỉ những người đang hành nghề tại cơ sở khám, chữa bệnh hợp pháp có bằng tốt nghiệp bác sỹ hoặc y sỹ (vùng sâu, vùng xa) và được người đứng đầu cơ sở y tế phân công khám, chữa bệnh hoặc các bệnh trong phạm vi hành nghề ghi trong giấy chứng nhận đủ điều kiện hành nghề do cơ quan quản lý nhà nước có thẩm quyền cấp mới được phép kê đơn thuốc. Người kê đơn phải chịu trách nhiệm về đơn thuốc do mình kê cho người bệnh và chỉ được kê đơn thuốc sau khi trực tiếp khám bệnh. Không kê đơn thuốc với mục đích không phải để phòng bệnh, chữa bệnh, theo yêu cầu không hợp lý của người bệnh và cũng không được kê đơn các loại thực phẩm chức năng giống như thuốc.
+
+#### **Yêu cầu của một đơn thuốc tốt**
+
+Một đơn thuốc tốt phải thể hiện được các yêu cầu: Hiệu quả chữa bệnh cao, an toàn trong dùng thuốc, tiết kiệm và đầy đủ, chính xác các nội dung theo quy định. Muốn kê đơn thuốc tốt phải tuân theo quy trình sau đây:
+
+##### **Chẩn đoán, xác định đúng bệnh:**
+
+Thầy thuốc cần tìm hiểu hoàn cảnh của người bệnh, phát hiện các dấu hiệu lâm sàng và xét nghiệm cận lâm sàng để đưa ra chẩn đoán hợp lý. Khi đã có chẩn đoán bệnh chính xác, người kê đơn thuốc cần phải ghi đầy đủ nội dung về hành chính cũng như chuyên môn của một đơn thuốc đúng quy định, đảm bảo rõ ràng, chính xác không tẩy xóa (nếu có tẩy xóa, sửa chữa phải ký, ghi rõ họ tên, ngày, tháng chữa đơn ngay bên cạnh). Đơn thuốc phải viết bằng bút mực, không được viết bằng mực đỏ, bút chì tất cả các nội dung trong đơn.
+
+##### **Lựa chọn thuốc phù hợp với người bệnh:**
+
+Căn cứ chẩn đoán hợp lý để lựa chọn thuốc cần dùng nhằm thu được hiệu quả cao nhất nhưng ít tác dụng không mong muốn và giá thành điều trị thấp nhất. Để lựa chọn thuốc có hiệu quả nhất, an toàn nhất, phù hợp với hoàn cảnh của người bệnh nhất, đầy đủ và chính xác các nội dung nhất, người thầy thuốc cần:
+
+Lựa chọn thuốc nào phù hợp nhất với bệnh sau khi đã được chẩn đoán xác định, tình trạng bệnh tật, chức năng các cơ quan (đặc biệt là gan - thận), cơ địa (mang thai, trẻ em, người cao tuổi), với dược động học, với đường dùng, thời gian dùng, với thuốc đang dùng và với điều kiện kinh tế hiện có của người bệnh, nhưng ít phản ứng có hại nhất.
+
+Thầy thuốc luôn luôn cân nhắc giữa yếu tố nguy cơ và hiệu quả. Trong những trường hợp bệnh nặng thì hiệu quả là lựa chọn ưu tiên. Khi trường hợp bệnh mạn tính và thể trạng người bệnh yếu thì tiêu chuẩn an toàn phải được đặt lên hàng đầu.
+
+Khi kê đơn, tên thuốc phải viết theo tên chung quốc tế (INN, generic name) hoặc nếu viết tên biệt dược phải ghi tên chung quốc tế trong ngoặc đơn (trừ trường hợp thuốc có nhiều hoạt chất). Không viết tắt tên thuốc vì dễ gây nhầm lẫn. Hết sức lưu ý những thuốc có tên gần giống nhau nhưng tác dụng, độc tính lại hoàn toàn khác nhau như acetazolamid và acetohexamid.
+
+Mỗi thuốc trong đơn thuốc phải ghi đầy đủ, rõ ràng hàm lượng, số lượng, liều dùng, cách dùng. Số lượng thuốc gây nghiện phải viết bằng chữ, chữ đầu viết hoa. Số lượng thuốc hướng tâm thần và tiền chất dùng làm thuốc phải viết thêm số 0 phía trước nếu số lượng chỉ có một chữ số.
+
+Hạn chế tối đa kê nhiều thuốc trong một đơn thuốc để tránh tương tác thuốc. Khi lựa chọn thuốc, cần ưu tiên những thuốc chứa một thành phần và hạn chế kê những thuốc phối hợp nhiều thành phần. Trường hợp phải kê nhiều loại thuốc trong một đơn thuốc thì cần phải ghi theo thứ tự: Thuốc điều trị chính, thuốc hỗ trợ, thuốc điều trị triệu chứng và cuối cùng là thuốc giúp nâng cao thể trạng (nếu thật sự cần thiết).
+
+Mỗi một thuốc cần được hướng dẫn chi tiết về liều dùng một lần, một ngày, đường dùng, thời điểm dùng (dùng vào buổi sáng hoặc tối, lúc no hay lúc đói…), cách pha thuốc, cách sử dụng các dụng cụ đo lường số lượng thuốc v.v... Ngoài ra thầy thuốc cũng phải hướng dẫn người bệnh được dùng thuốc với dung dịch gì, tránh dùng với thuốc gì hoặc thức ăn hoặc loại nước uống nào, đồng thời hướng dẫn người bệnh phát hiện, theo dõi, xử trí, báo cáo các tác dụng không mong muốn của thuốc.
+
+Đơn thuốc có giá trị mua thuốc trong thời hạn 05 ngày kể từ ngày kê đơn và được mua ở tất cả các cơ sở bán thuốc hợp pháp trong cả nước. Do vậy, thầy thuốc phải ghi đầy đủ ngày tháng, chữ ký, ghi rõ họ, tên và chức danh trong đơn thuốc.
+
+Sau khi kê đơn thuốc thầy thuốc cần phải tiếp tục theo dõi hiệu quả điều trị bằng cách hẹn người bệnh đến khám lại khi tình trạng bệnh không thuyên giảm hoặc nặng thêm hoặc phát hiện các dấu hiệu bất thường khi dùng thuốc. Trường hợp người bệnh đến khám lại do đơn thuốc đã kê không hiệu quả, thầy thuốc cần tìm hiểu cặn kẽ lý do tại sao để đưa ra quyết định lựa chọn thuốc phù hợp, hiệu quả hơn.
+
+### **Những quy định kê đơn thuốc cho một số thuốc và bệnh đặc biệt**
+
+Ngoài những quy định chung của một đơn thuốc, có một số quy định cụ thể cho một số thuốc và một số đối tương đặc biệt.
+
+#### **Đối với kháng sinh** 
+
+Cần chỉ định dùng thuốc trong thời gian 7 - 10 ngày hoặc sau khi hết các dấu hiệu nhiễm khuẩn 3 ngày, không kê đơn kháng sinh khi bị nhiễm virus.
+
+#### **Đối với thuốc hướng tâm thần và tiền chất dùng làm thuốc**
+
+Đối với bệnh cấp tính kê đơn với liều đủ dùng không vượt quá mười (10) ngày.
+
+Đối với người bệnh tâm thần phân liệt, động kinh, kê đơn thuốc vào sổ điều trị bệnh mạn tính, số ngày kê đơn theo hướng dẫn điều trị của chuyên ngành tâm thần.
+
+#### **Đối với thuốc gây nghiện** 
+
+Việc kê đơn thuốc được quy định hết sức chặt chẽ:
+
+Hàng năm, người được phép kê đơn thuốc gây nghiện bắt buộc phải đăng ký chữ ký với cơ sở bán thuốc gây nghiện.
+
+Kê đơn thuốc gây nghiện vào sổ điều trị bệnh mạn tính hoặc sổ khám bệnh để theo dõi điều trị và hướng dẫn người bệnh sử dụng thuốc như kê đơn thuốc khác, nhưng đồng thời kê vào mẫu đơn riêng có ký hiệu "N" để cơ sở cấp, bán thuốc lưu đơn.
+
+Thời gian kê đơn thuốc gây nghiện điều trị bệnh cấp tính với liều đủ dùng không vượt quá bảy (07) ngày. Đối với người bệnh bị ung thư và người bị bệnh AIDS, kê đơn thuốc giảm đau, gây nghiện giống như kê đơn thuốc gây nghiện nói chung, nhưng liều thuốc giảm đau nhóm opioid theo nhu cầu giảm đau của người bệnh. Thời gian mỗi lần chỉ định thuốc không vượt quá một (01) tháng, nhưng cùng lúc phải ghi 3 đơn cho 3 đợt điều trị, mỗi đợt điều trị kê đơn không vượt quá mười (10) ngày (ghi rõ ngày bắt đầu và kết thúc của đợt điều trị). Người kê đơn phải hướng dẫn cho người nhà người bệnh: Đơn thuốc điều trị cho người bệnh đợt 2, đợt 3 và chỉ được bán, cấp khi kèm theo giấy xác nhận người bệnh còn sống của trạm y tế xã, phường, thị trấn. Thời điểm mua, lĩnh thuốc trước 01 ngày của đợt điều trị đó (nếu vào ngày nghỉ thì mua vào trước ngày nghỉ).
+
+#### **Đối với bệnh mạn tính:** 
+
+Cần chỉ định dùng thuốc đặc trị dài ngày thì phải kê đơn vào sổ điều trị bệnh mạn tính, số lượng thuốc đủ dùng trong một (01) tháng hoặc theo hướng dẫn điều trị của mỗi bệnh. Trong điều trị lao, kê đơn thuốc điều trị lao vào sổ điều trị lao hoặc sổ khám bệnh, số ngày kê đơn theo hướng dẫn của Chương trình phòng chống lao quốc gia.
+
+### **Quy chế kê đơn thuốc**
+
+Để thống nhất trong toàn ngành Y tế, theo Quyết định số 04/2008/ QĐ-BYT ngày 01/02/2008 và Thông tư số 1517/BYT-KCB ngày 06/3/2008 của Bộ trưởng Bộ Y tế về việc Hướng dẫn thực hiện Quy chế kê đơn thuốc trong điều trị ngoại trú, Danh mục thuốc phải kê đơn và bán theo đơn quy định như sau:
+
+1. Thuốc gây nghiện;
+
+2. Thuốc hướng tâm thần và tiền chất dùng làm thuốc;
+
+3. Thuốc gây mê;
+
+4. Thuốc giảm đau, chống viêm không steroid trừ acid acetylsalicylic (aspirin) và paracetamol;
+
+5. Thuốc điều trị bệnh gút;
+
+6. Thuốc cấp cứu và chống độc;
+
+7. Thuốc điều trị giun chỉ, sán lá;
+
+8. Thuốc kháng sinh;
+
+9. Thuốc điều trị virus;
+
+10. Thuốc điều trị nấm;
+
+11. Thuốc điều trị lao;
+
+12. Thuốc điều trị sốt rét;
+
+13. Thuốc điều trị đau nửa đầu (Migraine);
+
+14. Thuốc điều trị ung thư và tác động vào hệ thống miễn dịch;
+
+15. Thuốc điều trị Parkinson;
+
+16. Thuốc tác động lên quá trình đông máu;
+
+17. Máu, chế phẩm máu, dung dịch cao phân tử;
+
+18. Nhóm thuốc tim mạch: Thuốc điều trị bệnh mạch vành, thuốc chống loạn nhịp, thuốc điều trị tăng huyết áp, thuốc điều trị hạ huyết áp, thuốc điều trị suy tim, thuốc chống huyết khối, thuốc hạ lipid máu;
+
+19. Thuốc dùng cho chẩn đoán;
+
+20. Thuốc lợi tiểu;
+
+21. Thuốc chống loét dạ dày: Thuốc kháng histamin H2 , thuốc ức chế bơm proton;
+
+22. Hormon (corticoid, insulin và nhóm hạ đường huyết,…) và nội tiết tố (trừ thuốc tránh thai);
+
+23. Huyết thanh và globulin miễn dịch;
+
+24. Thuốc giãn cơ và tăng trương lực cơ;
+
+25. Thuốc làm co, giãn đồng tử và giảm nhãn áp;
+
+26. Thuốc thúc đẻ, cầm máu sau đẻ và chống đẻ non;
+
+27. Thuốc điều trị hen;
+
+28. Sinh phẩm dùng chữa bệnh (trừ men tiêu hoá)
+
+29. Thuốc điều trị rối loạn cương;
+
+30. Dung dịch truyền tĩnh mạch.
+
+Để sử dụng thuốc an toàn, hiệu quả, giá thành điều trị phù hợp cần sử dụng các thông tin từ các tài liệu tham khảo chính thống như: Dược thư quốc gia Việt Nam, Dược thư Anh (British National Formulary), Martindale và các thuốc đã được Bộ Y tế cấp phép lưu hành để kê đơn thuốc. Hết sức tránh việc sử dụng các thông tin về thuốc từ những nguồn thông tin thương mại hoặc thông tin "mách bảo".
+
+## **SỬ DỤNG THUỐC Ở NGƯỜI CAO TUỔI**
+
+Theo Liên hợp quốc (United Nations - UN), người cao tuổi được tính từ 60 tuổi trở lên. Trong y học, người cao tuổi được phân thành các nhóm: Từ 60 đến 75 tuổi được gọi là bắt đầu già; trên 75 đến 90 tuổi là người già và trên 90 tuổi là người già sống lâu. Tuy nhiên thực sự rất khó xác định từ bao nhiêu tuổi thì cơ thể bắt đầu "lão hoá", gây ra những thay đổi lớn về sinh lý. Thực tế trong sử dụng thuốc, khi nghiên cứu về các đặc tính dược động học và dược lực học cho người cao tuổi, đối tượng được chọn chỉ là nhóm tuổi từ 60 đến 75 tuổi. Như vậy thực chất việc sử dụng thuốc cho các nhóm tuổi trên 75 là ngoại suy và do đó câu hỏi về tính chính xác vẫn được đặt ra.
+
+Lão hóa ở người cao tuổi liên quan chủ yếu đến giảm dòng máu tuần hoàn đến các cơ quan, dẫn đến giảm dần nuôi dưỡng các cơ quan trong cơ thể và đó chính là khởi nguồn của bệnh tật do tuổi tác. Sự thay đổi sinh lý theo tuổi tác bao gồm sự suy giảm hoạt động của nhiều tuyến nội tiết quan trọng như tuyến giáp, tuyến tuỵ, tuyến sinh dục... dẫn đến một số bệnh tuổi già như suy giáp, đái tháo đường, xốp xương… Chức năng của các cơ quan trọng yếu liên quan đến đời sống như não, tim, thận, phổi đều giảm hoạt động, gây giảm khả năng nhận thức, giảm trí nhớ, giảm khả năng bài xuất thuốc.
+
+### **Sự thay đổi về hấp thu, phân bố và bài xuất thuốc**
+
+Tuổi tác ảnh hưởng nhiều đến hoạt động sinh lý của cơ thể kéo theo sự thay đổi về hấp thu, phân bố và bài xuất thuốc.
+
+**Quá trình hấp thu** theo cơ chế khuếch tán thụ động qua niêm mạc ruột - cơ chế chính của hấp thu các thuốc - hầu như không thay đổi ở người cao tuổi. Như vậy, nồng độ thuốc với cùng một mức liều ở người trưởng thành thường cao hơn khi dùng điều trị cho người cao tuổi là do ảnh hưởng của giảm bài xuất qua gan và thận chứ không liên quan đến hấp thu.
+
+**Sự phân bố** thay đổi tùy bản chất của thuốc: Thể tích phân bố của các thuốc tan nhiều trong nước giảm, ngược lại: Thể tích phân bố của các thuốc tan nhiều trong lipid lại tăng do sự thay đổi tỷ lệ nước/lipid trong cơ thể người cao tuổi. Những thuốc liên kết mạnh với protein huyết tương tăng nồng độ ở dạng tự do liên quan đến sự giảm protein huyết thanh.
+
+**Quá trình bài xuất** thuốc qua gan và thận đều giảm:
+
+**Chức năng gan** suy giảm cũng là nguyên nhân làm giảm chuyển hóa thuốc qua gan ở người cao tuổi. Khối lượng gan và lưu lượng máu qua gan ở người cao tuổi giảm nên một số thuốc bị chuyển hóa qua gan sẽ chậm thải trừ, dẫn đến tích lũy và tăng nguy cơ quá liều. Sự giảm chuyển hóa ở gan còn do giảm hoạt tính của enzym phá hủy thuốc ở gan, chủ yếu là giảm quá trình phá hủy thuốc ở pha I. Do đó, những thuốc bị chuyển hóa chủ yếu theo con đường này như các thuốc chống động kinh, thuốc chống viêm không steroid, thuốc chống đông máu dạng uống, thuốc điều trị đái tháo đường dạng uống... kèm theo thời gian tồn tại trong cơ thể bị kéo dài với sự tăng nửa đời thải trừ của thuốc. Tuy nhiên quá trình liên hợp ở pha II lại không bị ảnh hưởng bởi tuổi già, do đó những thuốc bị chuyển hóa chủ yếu ở pha này như oxazepam, lorazepam (liên hợp glucuronic), paracetamol (liên hợp sulfuric)... không bị tích lũy. Các thuốc bị chuyển hóa mạnh ở vòng tuần hoàn đầu khi qua gan có thể tăng sinh khả dụng do giảm hoạt tính enzym gan, giảm kích thước gan, giảm lưu lượng máu qua gan ở người cao tuổi. Các thuốc đã được chứng minh có giảm chuyển hóa qua gan lần đầu là clormethiazol, labetalol, nifedipin, propranolol, verapamil... Tác dụng lâm sàng của một số thuốc trong số này, ví dụ như tác dụng hạ huyết áp của nifedipin tăng lên đáng kể ở người cao tuổi. Trong thực tế, thuốc chuyển hóa nhiều qua gan khi dùng cho người cao tuổi nên giảm 1/2 đến 1/3 liều và phải theo dõi chặt chẽ đáp ứng trong quá trình điều trị.
+
+**Chức năng thận** (lọc, tái hấp thu và thải trừ) suy giảm kết hợp với giảm sút khối lượng thận, giảm dòng máu qua thận ở người cao tuổi là nguyên nhân làm giảm độ thanh thải của nhiều thuốc. Mức độ lọc của cầu thận giảm trung bình khoảng 35% so với tuổi thanh niên (20 - 30 tuổi). Điều này đặc biệt quan trọng đối với những thuốc bài xuất trên 60% ở dạng nguyên vẹn qua thận và có độc tính cao như các kháng sinh nhóm aminoglycosid, các cephalosporin, digoxin, methotrexat... Sự giảm độ thanh thải của thận cũng là một nguyên nhân góp phần vào sự tích lũy của thuốc trong cơ thể. Vì vậy nhiều thuốc phải hiệu chỉnh lại liều dùng khi sử dụng ở người cao tuổi. Tuy nhiên nếu chức năng thận vẫn còn trên 50% thì hầu hết không cần hiệu chỉnh lại liều vì lúc này các thông số dược động học thay đổi không đáng kể. Ngược lại, nếu tổn thương chức năng thận ở mức độ nặng thì liều thuốc phải được hiệu chỉnh lại giống như trường hợp người bệnh suy thận.
+
+
+### **Những thay đổi về dược lực học ở người cao tuổi liên quan đến các yếu tố sau đây:**
+
+#### **Sự biến đổi đáp ứng của cơ quan đích**
+
+Sự thay đổi số lượng và khả năng gắn thuốc ở thụ thể (receptor) là những nguyên nhân quan trọng thường gặp ở tuổi già. Nguyên nhân có thể là do sự cạn kiệt chất trung gian hóa học ở các sinap thần kinh do bệnh tật hoặc tuổi tác. Một số nghiên cứu đã cho thấy đáp ứng với một số thuốc như benzodiazepin, warfarin, digoxin... tăng ở người cao tuổi.
+
+#### **Sự biến đổi cơ chế kiểm soát thể dịch**
+
+Đáp ứng thể dịch là một hợp phần rất quan trọng của toàn thể các đáp ứng của thuốc. Ở người cao tuổi, cơ chế điều hòa thể dịch bị suy thoái dần theo tuổi tác và những thay đổi này dẫn tới thay đổi về kiểu và cường độ đáp ứng của thuốc. Tuy nhiên, nhìn chung những thay đổi về dược lực học ở người cao tuổi không có quy luật rõ rệt với mọi thuốc: Có những trường hợp người cao tuổi rất nhạy cảm với thuốc nhưng cũng có trường hợp ngược lại, rất "trơ" hoặc thất thường (lúc tăng lúc giảm). Ví dụ: Người cao tuổi nhạy cảm hơn với tác dụng trên thần kinh trung ương của các benzodiazepin, ngược lại giảm đáp ứng với các chất đồng vận/đối kháng beta giao cảm. Phản xạ tăng nhịp tim hay gặp khi sử dụng các chất giãn mạch thường "trơ" ở người cao tuổi.
+
+#### **Tình trạng đa bệnh lý**
+
+Tình trạng đa bệnh lý ở người cao tuổi kéo theo hậu quả phải sử dụng đồng thời nhiều thuốc. Việc dùng đồng thời nhiều thuốc lại dẫn đến nguy cơ dễ gặp tương tác thuốc và tác dụng không mong muốn của thuốc (ADR): Tỷ lệ gặp ADR ở lứa tuổi 60 - 70 gấp đôi so với lứa tuổi 30 - 40. Các ADR gặp ở người cao tuổi nhiều khi mơ hồ, không đặc hiệu; ví dụ lú lẫn, trầm cảm, hạ huyết áp tư thế… có thể gặp với rất nhiều loại thuốc.
+
+### **Tác dụng không mong muốn (ADR) có thể gặp khi sử dụng thuốc ở người cao tuổi**
+
+#### **Dễ bị hạ huyết áp tư thế**
+
+Một số thuốc thuộc các nhóm thuốc chống tăng huyết áp, chẹn giao cảm, chống Parkinson, chống loạn thần... dễ gây hạ huyết áp tư thế ở người cao tuổi.
+
+#### **Dễ bị ngã do mất thăng bằng tư thế**
+
+Cơ thể có thể thăng bằng được là nhờ khả năng điều chỉnh thăng bằng. Cùng với tuổi tác, khả năng giữ thăng bằng của cơ thể bị giảm. Chính vì thế một số nhóm thuốc như thuốc ngủ, thuốc an thần (dẫn chất benzodiazepin)... làm tăng tỉ lệ ngã ở người cao tuổi.
+
+#### **Giảm điều hòa thân nhiệt**
+
+Khả năng điều hòa thân nhiệt của cơ thể bị giảm ở người cao tuổi. Hạ nhiệt bất thường có thể gặp khi dùng các thuốc an thần gây ngủ, các thuốc chống trầm cảm ba vòng, các chế phẩm thuốc phiện và rượu.
+
+#### **Giảm chức năng nhận thức**
+
+Hệ thống thần kinh trung ương có sự thay đổi lớn về cấu trúc và chất trung gian hóa học ở người cao tuổi. Sự suy giảm trí nhớ mà hậu quả cuối cùng là sự sa sút trí tuệ là bệnh lý thường gặp ở tuổi già. Bệnh lý này dễ trầm trọng thêm khi dùng một số nhóm thuốc như thuốc kháng cholin (atropin), thuốc ngủ, thuốc an thần (đặc biệt là dẫn chất benzodiazepin), thuốc chẹn thụ thể beta giao cảm.
+
+#### **Giảm chức năng các cơ quan nội tạng**
+
+Do sự giảm nhu động dạ dày - ruột, người cao tuổi dễ bị táo bón. Các thuốc kháng cholinergic, các opiat, thuốc chống trầm cảm ba vòng và kháng histamin dễ gây táo bón hoặc tắc ruột ở người cao tuổi. Thuốc kháng cholinergic có thể gây bí tiểu ở nam giới cao tuổi, đặc biệt là những người bị phì đại tuyến tiền liệt. Rối loạn chức năng đường niệu hay gặp ở nữ giới cao tuổi, còn thuốc lợi tiểu quai có thể gây ra tiểu tiện không kiểm soát ở những đối tượng này.
+
+### **Nguyên tắc kê đơn ở người cao tuổi**
+
+Vì những lý do trên, để bảo đảm an toàn cho sử dụng thuốc ở người cao tuổi, cần tuân thủ các nguyên tắc kê đơn sau đây:
+
+#### **Về lựa chọn thuốc**
+
+Nên chọn phác đồ đơn giản với những thuốc có chỉ định rõ ràng và chỉ cần sử dụng 1 - 2 lần mỗi ngày. Nên tránh các thuốc có nguy cơ gây tương tác thuốc cao (ví dụ cimetidin, erythromycin, các antacid...) khi phải sử dụng nhiều thuốc hoặc trên người bệnh có bệnh mạn tính (hen, tăng huyết áp, đái tháo đường...). Hạn chế số thuốc trong mỗi đợt điều trị.
+
+#### **Về dạng thuốc**
+
+Các dạng thuốc lỏng phù hợp vì dễ nuốt và tránh được hiện tượng đọng thuốc tại thực quản gây loét hoặc nghẹn.
+
+#### **Về liều lượng:**
+
+Nên khởi đầu bằng những liều thấp và tăng dần theo đáp ứng của cá thể. Liều khởi đầu thường bằng khoảng 50% liều người trưởng thành rồi tăng dần cho đến khi có đáp ứng mong muốn. Nói chung liều cho người cao tuổi thường thấp hơn liều thông thường. Một số thuốc phải hiệu chỉnh liều theo chức năng gan - thận của người bệnh.
+
+#### **Theo dõi điều trị**
+
+Phải có kế hoạch khám định kỳ để điều chỉnh lại thuốc và liều lượng. Phải lưu ý thời hạn một đợt điều trị để tránh kéo dài không cần thiết. Một số thuốc có thể ngừng nếu đã đáp ứng đủ, ví dụ thuốc chống loãng xương, thuốc chống viêm… Trái lại, cần phải nhắc nhở người cao tuổi không được ngừng thuốc đối với một số thuốc như thuốc chống tăng huyết áp, thuốc điều trị đái tháo đường… mặc dù đã có đáp ứng tốt.
+
+#### **Hướng dẫn sử dụng thuốc**
+
+Phải hướng dẫn để người bệnh hiểu rõ tác dụng của mỗi thuốc trong đơn để người bệnh tự giác tuân thủ điều trị. Đơn kê phải rõ ràng, dễ đọc*.* Cần viết đầy đủ các chỉ dẫn vào mỗi đơn thuốc (kể cả đơn khám lại). Luôn nhắc người bệnh uống nhiều nước khi dùng thuốc và không được uống nhiều viên đồng thời để tránh nghẹn. Cần dặn người bệnh cách xử trí khi hết thuốc, vứt bỏ các thuốc không được kê đơn tiếp nữa hoặc những thuốc đã hết hạn sử dụng.
+
+## **SỬ DỤNG THUỐC Ở NGƯỜI SUY GIẢM CHỨC NĂNG GAN, THẬN**
+
+Thuốc được bài xuất ra khỏi cơ thể bằng nhiều con đường khác nhau, trong đó gan và thận là hai cơ quan quan trọng nhất tham gia vào chức năng này. Sự suy giảm chức năng gan và thận sẽ gây nguy cơ quá liều và ngộ độc thuốc nếu không hiệu chỉnh lại liều.
+
+### **Suy giảm chức năng gan** 
+
+#### **Đặc điểm của suy gan**
+
+Suy gan, đặc biệt xơ gan, làm giảm chức năng tế bào gan dẫn tới giảm khả năng chuyển hóa thuốc, giảm sản xuất protein, giảm lưu lượng máu qua gan.
+
+Chức năng gan suy giảm ảnh hưởng chủ yếu đến khả năng chuyển hóa thuốc qua hệ enzym cytochrom P450 - hệ enzym chịu trách nhiệm bất hoạt thuốc (pha I), trong khi hoạt tính của các enzym liên hợp - hệ enzym chịu trách nhiệm chuyển thuốc và các chất đã chuyển hóa ở pha I thành các chất dễ tan trong nước để tiếp tục bài xuất qua mật hoặc thận (pha II) ít bị ảnh hưởng. Nguy cơ quá liều tăng thêm nếu gặp tương tác thuốc ở giai đoạn chuyển hóa khi phối hợp với một thuốc gây kìm hãm cytochrom P450.
+
+Sự giảm sút khả năng sản xuất protein của tế bào gan (albumin và globulin) cả về chất và về lượng, làm tăng tỷ lệ thuốc ở dạng tự do và giảm tính bền vững tại điểm liên kết. Hậu quả của giảm tính bền vững trong liên kết thuốc - protein còn dẫn đến khả năng gặp tương tác thuốc - thuốc ở giai đoạn phân bố và tương tác thuốc - bilirubin nội sinh (thường tăng khi suy gan). Đó chính là những yếu tố làm tăng độc tính của thuốc.
+
+Lưu lượng máu qua gan giảm ở người bệnh xơ gan làm giảm tốc độ chuyển hóa thuốc, đặc biệt với các thuốc bị chuyển hóa mạnh khi qua gan (> 70%).
+
+Những yếu tố trên dẫn đến sự tăng nồng độ thuốc ở dạng còn hoạt tính và kéo dài thời gian tồn tại của thuốc trong cơ thể. Ảnh hưởng của bệnh gan đối với bài xuất thuốc tùy thuộc loại bệnh gan. Trong viêm gan virus cấp, thay đổi chủ yếu là chức năng tế bào gan nhưng khả năng chuyển hóa thuốc của gan thường ít thay đổi, lưu lượng máu qua gan có thể còn tăng lên. Xơ gan nhẹ và vừa có khuynh hướng gây giảm dòng máu qua gan và có mạch tắt cửa - chủ, còn trong xơ gan nặng thì thường cả chức năng tế bào gan và dòng máu qua gan đều giảm. Hậu quả sẽ trầm trọng đối với những thuốc mà quá trình bất hoạt phần lớn do gan đảm nhận (> 50%).
+
+#### **Đánh giá mức độ suy giảm chức năng gan**
+
+Phân loại Child-Pugh là phân loại phổ biến nhất được sử dụng để thiết kế chế độ liều cho người bệnh suy giảm chức năng gan.
+
+**Bảng 1. Phân loại Child-Pugh**
+
+|                                         | Điểm  |           |          |
+|-----------------------------------------|-------|-----------|----------|
+| Chỉ tiêu đánh giá                       | 1     | 2         | 3        |
+| Mức độ bệnh não - gan*                  | Độ 0  | Độ 1 - 2  | Độ 3 - 4 |
+| Mức độ cổ trướng                        | Không | Nhẹ - Vừa | Nặng     |
+| Bilirubin (mg/dl)                       | 1 - 2 | 2 - 3     | > 3      |
+| Albumin (g/dl)                          | > 3,5 | 2,8 - 3,5 | < 2,8    |
+| Thời gian prothrombin<br>(giây > chứng) | 1 - 4 | 4 - 10    | > 10     |
+
+*(Nguồn: ACP PIER, Journal Club & AHFS DI® Essentials™)*
+
+*Ghi chú:* \* Phân độ bệnh não - gan thường căn cứ vào triệu chứng lâm sàng và đo điện não đồ (EEG).
+
+Theo phân loại Child-Pugh, điểm tổng được tính thấp nhất là 5, cao nhất là 15. Đánh giá lâm sàng mức độ nặng của bệnh gan theo Child-Pugh được chia làm 3 loại theo bảng 2.
+
+**Bảng 2. Đánh giá lâm sàng mức độ nặng của bệnh gan theo Child-Pugh**
+
+| Phân loại | Điểm    | Đánh giá<br>lâm sàng |
+|-----------|---------|----------------------|
+| A         | 5 - 6   | Nhẹ                  |
+| B         | 7 - 9   | Vừa                  |
+| C         | 10 - 15 | Nặng                 |
+
+Nên lưu ý rằng khi chức năng gan đã bị suy giảm trầm trọng, việc sử dụng thuốc để bảo đảm an toàn là rất khó thực hiện vì lúc này không chỉ dược động học mà cả đặc tính dược lý của thuốc cũng bị thay đổi.
+
+#### **Lựa chọn thuốc khi điều trị cho người bệnh suy gan**
+
+Có 3 nguyên tắc cơ bản khi sử dụng thuốc ở người bệnh suy gan:
+
+- Nên chọn những thuốc ít hoặc không bị chuyển hóa qua gan, đặc biệt là thuốc phải chuyển hóa ở gan qua pha I.
+- Thận trọng khi kê đơn những thuốc có tỷ lệ liên kết protein cao, đặc biệt là trong trường hợp có phối hợp thuốc vì nguy cơ gặp tương tác bất lợi tăng.
+- Nếu phải dùng những thuốc chuyển hóa nhiều khi qua gan thì phải hiệu chỉnh lại liều. Việc hiệu chỉnh liều khá phức tạp vì không có một thông số xét nghiệm nào phản ảnh đúng tỷ lệ suy giảm chức năng gan như thông số độ thanh thải creatinin trong suy thận. Các xét nghiệm chức năng gan thường quy không có giá trị cho việc hiệu chỉnh liều. Khuyến cáo về liều lượng thường được nhà sản xuất đưa ra theo phân loại Child-Pugh. Tuy nhiên, tương ứng với Child-Pugh A, B, C thì sẽ giảm liều theo tỷ lệ nào đều tuỳ thuộc vào các nghiên cứu lâm sàng của nhà sản xuất và tỷ lệ này không phải lúc nào cũng tương ứng với tỷ lệ suy giảm độ thanh thải của thuốc qua gan.
+
+Các tài liệu đề cập đến hiệu chỉnh liều cho người bệnh suy giảm chức năng gan không nhiều, vì vậy xu hướng tránh sử dụng các thuốc chuyển hóa nhiều qua gan vẫn được chú trọng, nếu không tránh được thì phải theo dõi sát lâm sàng và tốt nhất vẫn là đo nồng độ thuốc trong máu.
+
+### **Suy giảm chức năng thận** 
+
+#### **Đặc điểm của suy thận**
+
+Suy giảm chức năng thận làm giảm bài xuất thuốc và chất chuyển hóa còn hoạt tính, đó là nguyên nhân dẫn đến tăng kéo dài nồng độ thuốc trong máu và nguy cơ tăng độc tính.
+
+Suy thận gây ứ trệ tuần hoàn. Đây là nguyên nhân dẫn đến tăng thể tích phân bố của các thuốc tan nhiều trong nước, làm kéo dài thời gian bán thải, tăng nguy cơ tích lũy thuốc.
+
+Suy thận cũng gây giảm lượng protein huyết tương, dẫn đến tăng tỷ lệ thuốc ở dạng tự do, gây tăng độc tính. Nguyên nhân này ảnh hưởng đến các thuốc có tỷ lệ liên kết cao với protein huyết tương và đặc biệt nguy hiểm với các thuốc có phạm vi điều trị hẹp. Hậu quả sẽ nghiêm trọng hơn nếu gặp tương tác thuốc theo cơ chế phân bố. Suy thận còn ảnh hưởng đến đào thải thuốc qua gan: Sự ứ trệ thuốc ở dạng còn hoạt tính có thể kéo theo tình trạng suy gan do thuốc. Khả năng gây độc của thuốc ở người bệnh phụ thuộc tỷ lệ thuốc được bài xuất qua thận ở dạng còn hoạt tính và độc tính của thuốc đối với thận.
+
+Ngoài ảnh hưởng của sự giảm bài xuất dẫn đến tăng độc tính và tích lũy, những rối loạn do thận gây ra cũng ảnh hưởng đến tác dụng dược lý của một số thuốc. Ví dụ: Rối loạn bài xuất kali và calci làm tăng ADR khi sử dụng digoxin hoặc tăng tình trạng ứ trệ kali máu khi sử dụng các loại thuốc lợi tiểu giữ kali như spironolacton.
+
+#### **Đánh giá mức độ suy giảm chức năng thận**
+
+Có thể đánh giá mức độ suy thận bằng nhiều phương pháp như dựa vào hằng số thải trừ của thận, hệ số suy thận, mức độ giảm thải trừ thuốc khi suy thận, độ thanh thải creatinin của thận hoặc tốc độ lọc của cầu thận. Dưới đây là cách đánh giá mức độ suy thận dựa vào độ thanh thải creatinin của thận và tốc độ lọc của cầu thận.
+
+**Dựa vào độ thanh thải creatinin của thận**
+
+Độ thanh thải (Cl: clearance) creatinin của thận $(Cl_{cr})$ biểu thị khả năng thải trừ hoàn toàn creatinin ra khỏi huyết tương khi máu tuần hoàn qua thận.
+
+Độ thanh thải creatinin của thận được biểu thị bằng ml/phút, là số ml huyết tương được thải trừ creatinin hoàn toàn trong thời gian 1 phút khi qua thận hoặc có thể tính theo ml/phút/kg.
+
+Creatinin là thành phần trong máu ổn định nhất, không phụ thuộc vào chế độ ăn hoặc những thay đổi sinh lý khác mà chỉ phụ thuộc vào khả năng thải trừ của thận, nên được sử dụng để đánh giá chức năng thân.
+
+Độ thanh thải creatinin của thận  $(Cl_{cr})$  được tính theo phương trình của Cockcroft & Gault:
+
+$$Cl_{cr} (nam) = \frac{(140 - tuổi) \times thể_trọng}{C_{cr} \times 72}$$
+
+$$Cl_{cr} (nữ) = Cl_{cr} (nam) \times 0.85$$
+
+Trong đó:
+
+- Tuổi người bệnh được tính theo năm,
+
+- Thể trọng tính theo kg,
+
+- ${C}_{cr}$  là nồng độ creatinin trong huyết thanh tính theo mg/dl,
+
+- $Cl_{cr}$ có đơn vị là ml/phút.
+
+*Ghi chú:* Nếu nồng độ creatinin huyết thanh ( ${C}_{cr}$ ) tính theo đơn vị là  $\mu$ mol/lít thì công thức tính  $Cl_{cr}$  giống như trên nhưng thay 72 bằng 0,81.
+
+
+**Bảng 3. Phân loại mức độ suy thận theo creatinin huyết thanh và đô thanh thải creatinin**
+
+| Mức độ<br>suy thận | ${C}_{cr}$ (micromol/lít) | $Cl_{cr}$ (ml/phút) |
+|--------------------|-----------------------------------|-------------------------------|
+| Nhẹ                | 150 - 300                         | 20 - 50                       |
+| Vừa                | 300 - 700                         | 20 - 10                       |
+| Nặng               | > 700                             | < 10                          |
+
+Cần lưu ý rằng nếu đánh giá chức năng thận ở người bệnh suy thận nặng phải thẩm tách thì creatinin trong huyết thanh có thể thay đổi trong quá trình thẩm tách hoặc giữa khoảng thời gian 2 lần thẩm tách, trong khi nếu tính theo công thức trên thì nồng độ creatinin trong huyết thanh có được chỉ sau một lần lấy máu mà không phản ảnh được cả thời gian điều trị. Vì vậy với những đối tượng phải thẩm tách thì mức liều khuyến cáo căn cứ vào bảng hướng dẫn riêng. Ví dụ, hiệu chỉnh liều ofloxacin theo "Drug Prescribing in Renal Failure - Dosing Guilines for Adult and Children" (American College of Physicians, 2007): Mức liều cho người lớn là 200 - 400 mg cách 12 giờ/lần cho người bệnh có $Cl_{cr}$ > 50 ml/phút, 200 - 400 mg cách 24 giờ cho người bệnh có $Cl_{cr}$ từ 50 - 10 ml/phút, 200 mg cách 24 giờ cho người bệnh có $Cl_{cr}$ < 10 ml/phút. Với người bệnh phải thẩm tách thì mức liều khuyến cáo như sau:
+
+- IHD (Intermittent Hemodialysis): 100 200 mg sau thẩm tách.
+- CAPD (Continuous Ambulatory Peritoneal Dialysis): 200 mg cách 24 giờ.
+- CRRT (Continuous Renal Replacement Therapy): 300 mg cách 24 giờ.
+
+Tuy nhiên, mức liều hiệu chỉnh có thể sai khác chút ít tùy thuộc nguồn tài liêu.
+
+Ngoài ra phải chú ý là với một số đối tượng đặc biệt như người cao tuổi, người bị teo cơ... mức creatinin không luôn tương đồng với chức năng thận. Vì vậy liều dùng tính theo công thức hiệu chỉnh trên cơ sở  $Cl_{cr}$  chỉ có tác dụng thăm dò ban đầu, tiếp theo đó phải điều chỉnh lại liều căn cứ vào nồng độ thuốc trong máu.
+
+**Dựa vào tốc độ lọc của cầu thận**
+
+Tốc độ lọc của cầu thận, viết tắt là GFR (Glomerular Filter Rate) biểu thị khả năng thanh lọc creatinin ra khỏi huyết tương khi máu tuần hoàn qua thân.
+
+GFR được biểu thị bằng ml/phút ở người lớn (tính cho diện tích bề mặt cơ thể là 1,73 m²) là số ml huyết tương được thanh lọc creatinin hoàn toàn trong 1 phút khi đi qua thân.
+
+Những trường hợp người bệnh có mức cân nặng và chiều cao bình thường (BMI từ 18,5 - 24,9 theo tiêu chuẩn của WHO), có thể đánh giá chức nặng thận qua tốc độ lọc cầu thận (GFR) theo công thức của MDRD (Modification Diet of Renal Diseases):
+
+GFR ($\text(nam)$) = $186 \times (C_{cr})^{-1,154} \times (\text(tuổi))^{-0,203}$
+  
+GFR ($\text(nữ)$) = GFR ($\text(nam)$) $\times$ 0,742
+
+Trong đó:
+
+ $C_{_{cr}}$  là nồng độ creatinin trong huyết thanh, được tính theo mg/dl. Tuổi người bệnh được tính theo năm.
+
+GFR có đơn vị là ml/phút/1,73 m<sup>2</sup>
+
+*Ghi chú:* Nếu nồng độ creatinin huyết thanh  $(C_{cr})$  tính bằng  $\mu$ mol/lít thì: GFR(nam) =  $186 \times (C_{cr} / 88,4)^{-1,154} \times (tuổi)^{-0,203}$ 
+
+Việc phân loại mức độ suy thận theo GFR được trình bày trong bảng 4.
+
+**Bảng 4: Phân loại mức độ suy thận theo tốc độ lọc cầu thận (GFR)**
+
+|      | Mức độ suy thận                | GFR (ml/phút/1,73 m²) |
+|------|--------------------------------|-----------------------|
+| I    | Bình thường: giai đoạn 1       | > 90                  |
+| II   | Suy thận nhẹ: giai đoạn 2      | 60 - 89               |
+| IIIA | Suy thận vừa: giai đoạn 3A     | 45 - 59               |
+| IIIB | Suy thận vừa: giai đoạn 3B     | 30 - 44               |
+| IV   | Suy thận nặng: giai đoạn 4     | 15 - 29               |
+| V    | Suy thận rất nặng: giai đoạn 5 | < 15                  |
+
+Công thức đánh giá chức năng thận qua tốc độ lọc cầu thận (GFR) không chính xác bằng công thức của Cockcroft & Gault, vì vậy chỉ nên sử dụng khi không có cân nặng của người bệnh.
+
+#### **Sử dụng thuốc ở người bệnh suy thận**
+
+Với người bệnh suy thận nếu buộc phải sử dụng thuốc bài xuất qua thận chủ yếu ở dạng còn hoạt tính thì việc hiệu chỉnh liều là cần thiết. Việc theo dõi người bệnh trong trường hợp này phải chú trọng cả 2 khâu: chức năng thận còn lại (được đánh giá qua độ thanh thải creatinin) và nồng độ thuốc trong máu.
+
+Cách hiệu chỉnh lại liều có thể là: Giảm liều thuốc hoặc tăng khoảng cách giữa các lần dùng thuốc hoặc phối hợp cả 2 cách này. Giảm liều cho phép giảm được nồng độ thuốc trong máu nên tránh được nguy cơ tăng độc tính nhưng lại có nguy cơ không đạt nồng độ điều trị mong muốn. Vì vậy, với một số loại thuốc, trước khi giảm liều nếu xét thấy cần thiết có hiệu quả ngay thì phải đưa "liều tải" còn gọi là liều nạp (loading dose). "Liều tải" của thuốc thường bằng liều thường dùng cho người bệnh không suy thận.
+
+Giữ nguyên liều nhưng kéo dài khoảng cách đưa thuốc giúp bảo đảm được nồng độ điều trị cao như mong muốn nhưng lại có nguy cơ kéo dài khoảng thời gian nồng độ thuốc dưới mức điều trị trong khoảng thời gian chờ liều kế tiếp; điều này làm tăng khả năng kháng thuốc hoặc bùng phát cơn bệnh. Do đó nếu hệ số hiệu chỉnh quá lớn thì phương án phối hợp cả 2 cách làm trên là hợp lý.
+
+Trong các tài liệu hướng dẫn sử dụng thuốc, liều cho người bệnh suy thận được tính sẵn theo độ thanh thải creatinin  $(Cl_{cr})$  ở từng chuyên luận riêng biệt hoặc trong phụ lục.
+
+## **SỬ DỤNG THUỐC Ở TRỂ EM**
+
+Theo phân loại của Tổ chức y tế thế giới (WHO), trẻ em được tính từ lúc mới sinh (sơ sinh) đến 18 tuổi, trong đó có 3 nhóm tuổi có những khác biệt rõ rệt về dược động học là: Sơ sinh (0 - 28 ngày tuổi), nhũ nhi (1 - 12 tháng tuổi) và trẻ em (1 - 12 tuổi). Riêng với nhóm tuổi 1 - 12, nhiều tài liệu chia thành 2 nhóm: Nhóm trước tuổi đi học từ 1 - 5 tuổi và nhóm trẻ lớn từ 6 - 12 tuổi. Từ 12 tuổi trở lên, chỉ định và liều lượng thuốc được tính như với người lớn trưởng thành hoặc được chỉ dẫn trong từng trường hợp cụ thể. Cách phân loại này phản ánh sự thay đổi về mặt sinh học qua từng giai đoạn và liên quan nhiều đến việc lựa chọn và sử dụng thuốc trong nhi khoa.
+
+### **Các khác biệt cơ bản ở trẻ em ảnh hưởng đến sử dụng thuốc**
+
+#### **Về được động học**
+
+**Hấp thu thuốc:**
+
+Hấp thu thuốc theo đường uống ở trẻ em thất thường do tiến trình hoàn thiện của hệ tiêu hóa trong 3 năm đầu đời. Trong giai đoạn này, pH dạ dày ở trẻ em cao hơn người trưởng thành vì lượng acid hydrocloric chưa được tiết đầy đủ. Điều này một mặt giúp cho những thuốc kém bền trong môi trường acid như các penicilin được hấp thu nhiều hơn do ít bị phá hủy hơn, nhưng lại làm giảm hấp thu các thuốc có bản chất acid yếu như phenobarbital, phenytoin, rifampicin do các chất này bị ion hóa mạnh hơn. Hệ enzym thủy phân ở niêm mạc ruột ở trẻ dưới 6 tháng tuổi chưa hoàn chỉnh cũng là một nguyên nhân làm cản trở hấp thu một số thuốc ở dạng ester hóa do không tách được gốc ester để giải phóng thuốc ở dạng tự do. Nhu động ruột của trẻ em, đặc biệt là trẻ sơ sinh và trẻ dưới 1 năm tuổi manh hơn ở người lớn, điều này dẫn đến giảm thời gian lưu của thuốc tại ruột nên khả năng hấp thu triệt để các thuốc giải phóng kéo dài không bảo đảm, đó là lý do tại sao không sử dụng thuốc tác dụng kéo dài cho nhóm tuổi này.
+
+Đường trực tràng có lợi ở bệnh nhi khó nuốt, nôn nhiều nhưng không phải là đường ưu tiên vì khả năng hấp thu thuốc rất dao động. Điều này bất lợi với các thuốc có phạm vi điều trị hẹp vì có thể dẫn tới không đủ liều hoặc quá liều.
+
+Hấp thu thuốc qua da cũng cần đặc biệt được lưu ý vì da trẻ em mỏng nên khả năng thấm thuốc mạnh hơn so với người lớn. Các loại thuốc hấp thu nhiều qua da như corticosteroid phải thận trọng khi bôi vì tác dụng có thể tương đương như khi dùng qua đường toàn thân.
+
+Hệ cơ bắp trẻ em còn nhỏ, lại chưa được tưới máu đầy đủ, do đó nên hạn chế tiêm bắp vì khó biết được chính xác sinh khả dụng dẫn đến khó có được một liều thuốc chính xác. Vì vậy, nếu đưa thuốc theo đường tiêm thì đường đưa thuốc được khuyến khích cho lứa tuổi này là tiêm tĩnh mạch.
+
+**Phân bố thuốc:**
+
+Các yếu tố ảnh hưởng đến thể tích phân bố  $(V_d)$  ở trẻ em bao gồm: Tỷ lệ lipid/nước của cơ thể, tỷ lệ liên kết của thuốc với protein huyết tương và hàng rào máu - não.
+
+Tỷ lệ lipid/nước thay đổi rất nhiều từ lúc mới sinh đến trưởng thành. Tỷ lệ nước so với tổng trọng lượng cơ thể chiếm khoảng 80% lúc mới sinh, giảm xuống chỉ còn 65% khi trẻ được 12 tháng tuổi và 60% ở người lớn trưởng thành. Tỷ lệ chất béo chỉ 3% ở trẻ sơ sinh thiếu tháng, 12% ở trẻ sơ sinh đủ tháng, 30% ở trẻ 1 tuổi, trong khi đó tỷ lệ này ở tuổi trung niên là 18%. Do đó nếu tính liều lượng thuốc theo mg/kg cơ thể thì có sự khác biệt rõ rệt ở các lớp tuổi tùy theo bản chất của thuốc là thân lipid hay thân nước: với các thuốc tan nhiều trong nước, liều lượng cho trẻ sơ sinh và nhũ nhi cao hơn ở người trưởng thành nhằm đạt được cùng nồng độ thuốc trong huyết tương. Tuy nhiên một yếu tố khác cần phải tính đến là khả năng bài xuất thuốc của gan và thận ở trẻ em và vì vậy mức liều cuối cùng đưa ra phải dựa vào tổng thể của các quá trình dược động học ở trẻ em chứ không chỉ dựa vào một quá trình.
+
+Tỷ lệ liên kết của thuốc với protein huyết tương có sự khác biệt ở các lớp tuổi. Ở trẻ sơ sinh, lượng protein huyết tương, đặc biệt là albumin thấp hơn so với ở người lớn; hậu quả là nồng độ thuốc ở dạng tự do trong máu tăng lên dẫn đến tăng tác dụng dược lý và độc tính (ví dụ: Phenytoin có tỷ lệ liên kết protein là 95% ở người lớn trong khi ở trẻ sơ sinh chỉ là 70 - 85%). Mặt khác, albumin ở trẻ sơ sinh chưa đủ chất lượng, do đó liên kết giữa thuốc - protein kém bền vững. Điều này tạo nên khả năng cạnh tranh của các chất nội sinh như bilirubin với thuốc trong liên kết với albumin. Vì vậy cần lưu ý tương tác này khi sử dụng những thuốc có tỷ lệ liên kết cao với protein ở trẻ sơ sinh như phenytoin, các sulfonamid, salicylat, diazepam... đặc biệt ở các đối tượng có tăng bilirubin huyết. Ở trẻ trên 1 tuổi, một số trạng thái bệnh lý có thể ảnh hưởng đến tỷ lệ liên kết thuốc với protein huyết tương là suy gan, suy thận mạn, hội chứng thận hư, suy tim, suy dinh dưỡng...
+
+Tỷ lệ thuốc qua hàng rào máu - não phụ thuộc 2 yếu tố: Sự hoàn thiện của hàng rào máu - não và tính tan trong lipid của thuốc. Ở trẻ sơ sinh, chức năng của hàng rào máu - não chưa được hoàn thiện nên một số thuốc có thể đi qua dễ dàng hơn so với ở trẻ lớn và người lớn. Cần đặc biệt lưu ý với một số trạng thái bệnh lý như viêm màng não vì sự tổn thương hàng rào máu - não do viêm làm tăng khả năng thấm vào dịch não tủy với nhiều thuốc, trong đó có kháng sinh, mặc dù ở điều kiện bình thường các chất này rất ít thẩm; ví dụ như các penicilin, cephalosporin (ngoại trừ một số cephalosporin thế hệ 3 như cefotaxim có thể thấm tốt cả khi màng não không bị viêm). Riêng với các aminoglycosid, do kích thước phân tử lớn và tính tan trong lipid thấp nên nồng độ trong dịch não tuỷ vẫn không đủ đạt mức cần cho điều trị ngay cả khi màng não bị viêm. Liên quan đến tính tan trong lipid của thuốc: Các thuốc có khả năng tan trong lipid cao như các barbiturat, morphin... khả năng vượt qua hàng rào máu - não ở trẻ nhỏ dễ dàng hơn so với trẻ lớn và người lớn, do đó cần lưu ý khi chỉ định các nhóm thuốc này cho trẻ em.
+
+**Chuyển hóa thuốc:**
+
+Trong 15 ngày đầu sau khi sinh (cả trẻ sinh đủ tháng hoặc sinh non), các enzym làm chuyển hóa thuốc ở pha I chưa đầy đủ cả về chức năng và số lượng; tuy nhiên hệ enzym này sẽ được hoàn thiện dần khá nhanh và đến ngày thứ 5 sau khi sinh (với trẻ đủ tháng), đứa trẻ đã có một hệ enzym đầy đủ để chuyển hóa các chất nội sinh (ví dụ: Bilirubin). Đối với các chất lạ như thuốc, khả năng chuyển hóa ở những giai đoạn sơ sinh rất hạn chế; ví dụ: Ở trẻ nhỏ hoạt tính của enzym mono-oxygenase chỉ bằng 2% đến 40% so với của người lớn. Với các enzym làm chuyển hóa thuốc ở pha II, ví dụ enzym glucuronosyltransferase chiu trách nhiệm liên hợp với một số thuốc như morphin, cloramphenicol hoặc bilirubin..., sự hoàn thiện để đạt đến mức độ như ở người lớn chỉ đạt được khi trẻ từ 3 tuổi trở lên. Vì những lý do trên, tốc độ chuyển hóa thuốc ở trẻ dưới 1 năm, đặc biệt là trẻ sơ sinh yếu hơn hẳn so với trẻ lớn và người lớn, dẫn tới nửa đời thải trừ thuốc  $(t_{1/2})$  kéo dài hơn. Tuy nhiên, khi trẻ đạt từ 1 tháng tuổi trở lên, hệ enzym chuyển hóa thuốc ở pha I hoàn thiện khá nhanh và nhìn chung, tốc độ khử hoạt thuốc ở trẻ em từ 1 đến 8 tuổi mạnh hơn ở người lớn. Mặt khác tỷ lệ trọng lượng gan ở trẻ em so với thể trọng lại lớn hơn ở người lớn, do đó liều tính theo cân nặng (mg/kg) với nhiều thuốc ở lứa tuổi này cao hơn liều cho người lớn. Điều này lý giải vì sao trong các hướng dẫn sử dụng thuốc khi tính liều theo mg/kg cho trẻ em luôn có khuyến cáo về tổng liều giới hạn không được vượt quá cho 24 giờ; mức giới hạn bằng mức liều dành cho người lớn.
+
+**Thải trừ thuốc:**
+
+Chức năng thận ở trẻ sơ sinh (cả thiếu tháng và đủ tháng) yếu hơn so với trẻ em các lớp tuổi lớn hơn và người lớn. Tốc độ lọc của cầu thận (GFR) ở trẻ sơ sinh đủ tháng là 10 - 15 ml/phút/m2 trong khi ở trẻ sơ sinh thiếu tháng chỉ bằng khoảng một nửa (5 - 10 ml/phút/m2 ). Tốc độ lọc của cầu thận đạt đến bằng người lớn sau 3 đến 6 tháng tuổi nhưng chức năng của ống thận thì hoàn thiện muộn hơn. Chức năng thận liên quan đến khả năng thải trừ thuốc, đặc biệt với các thuốc tan nhiều trong nước, ví dụ với các kháng sinh nhóm betalactam, aminoglycosid, vancomycin. Chức năng thận kém đồng nghĩa với sự kéo dài nửa đời thải trừ và sự tích lũy thuốc. Tuy nhiên, cả 3 quá trình: Lọc qua cầu thận, tái hấp thu và bài xuất qua ống thận, được hoàn thiện khá nhanh ngay từ những tuần đầu sau sinh và đạt mức như ở người trưởng thành sau 1 năm tuổi.
+
+Nhìn chung, những khác biệt về dược động học gặp chủ yếu với trẻ sơ sinh và trẻ dưới 1 tuổi. Từ 1 tuổi trở lên, các khác biệt về dược động học so với người lớn không nhiều nên ảnh hưởng ít có ý nghĩa lâm sàng.
+
+#### **Về dược lực học**
+
+**Đáp ứng với thuốc:**
+
+Trẻ em, đặc biệt là trẻ sơ sinh và trẻ dưới 1 tuổi rất nhạy cảm đối với một số nhóm thuốc. Đặc điểm này liên quan đến sự phát triển chưa hoàn chỉnh một số cơ quan. Hệ thần kinh trung ương hoàn thiện chậm và phải đến 8 tuổi mới đạt mức bằng người lớn. Bên cạnh đó, tính thấm của hàng rào máu - não cũng cao hơn ở người lớn. Vì vậy trẻ em ở lứa tuổi này nhạy cảm đối với một số thuốc ức chế thần kinh trung ương như morphin, meprobamat, cloralhydrat, phenobarbital...
+
+Hệ tim mạch ở trẻ em hoàn thiện sớm hơn hệ thần kinh; chỉ một thời gian ngắn sau khi ra đời, hoạt động của tim đã ngang bằng người lớn. Tuy nhiên, hoạt động của hệ tim - mạch chỉ bảo đảm được nhu cầu bình thường, còn khi gặp stress hoặc khi bị ức chế bởi thuốc mê thì dễ gặp hiện tượng "quá tải" và dẫn đến trụy tim mạch. Hiện tượng hạ huyết áp quá mức dễ gặp khi dùng thuốc lợi tiểu và thuốc hạ huyết áp ngay ở liều điều trị.
+
+Khả năng điều hòa thân nhiệt chưa hoàn chỉnh cho đến 1 năm tuổi. Do đó nhiều thuốc hạ sốt có thể gây biến đổi thân nhiệt một cách đột ngột, gây tụt nhiệt độ quá mức hoặc ngược lại gây sốt.
+
+Da trẻ em có bề mặt rộng và tính thấm cao nên rất nhạy cảm với thuốc. Thuốc có thể gây dị ứng, gây độc khi bôi lên da. Các dạng dị ứng da rất khó phân biệt với các dạng dị ứng không phải do thuốc. Các thuốc thường gây dị ứng da là: Các sulfonamid, penicilin, cephalosporin, barbiturat, phenytoin, aspirin, indomethacin, iod, griseofulvin, phenothiazin, các kháng histamin bôi tại chỗ...
+
+#### **Tác dụng không mong muốn (ADR)**
+
+Do đặc điểm về sinh lý của trẻ em, ADR ở lớp tuổi này cũng có những khác biệt so với người lớn. Ví dụ, một số ADR chỉ gặp khi dùng cho trẻ em như: Chậm lớn khi dùng corticosteroid, tetracyclin; dậy thì sớm với androgen; vàng da với sulfonamid, vitamin K<sup>3</sup> .
+
+### **Những lưu ý về sử dụng thuốc cho trẻ em**
+
+#### **Lựa chọn thuốc**
+
+Khó khăn trong việc sử dụng thuốc để điều trị cho trẻ em là lớp tuổi này không được phép đem vào thử nghiệm lâm sàng trước khi cấp phép lưu hành với một thuốc mới. Do đó mọi thông tin về dược lý, hiệu quả và độ an toàn đều ngoại suy từ kết quả thử trên động vật non hoặc người trưởng thành. Các hướng dẫn sử dụng thuốc thường ghi *"Độ an toàn và hiệu quả trên trẻ em còn chưa được xác định".* Thông tin về sử dụng thuốc cho trẻ em thường thu thập từ các báo cáo về độ an toàn sau khi thuốc lưu hành và tính chính xác trong hướng dẫn sử dụng thuốc phụ thuộc vào quá trình thu thập dữ liệu để có được các thông tin hướng dẫn bổ sung so với thông tin ban đầu. Đó cũng là lý do vì sao nhiều thuốc mới có chống chỉ định cho trẻ em. Kê đơn cho trẻ em thường được khuyên lựa chọn các thuốc đã có thời gian lưu hành đủ dài vì đã có đủ thông tin thu thập từ đối tượng này. Có thể gặp trường hợp một số thuốc có chống chỉ định cho trẻ em nhưng sau một thời gian lưu hành lại cho phép dùng. Nguyên nhân là do thông tin hướng dẫn sử dụng thuốc ban đầu căn cứ vào số liệu nghiên cứu trên động vật non nhưng qua thực tế sử dụng, tỷ lệ gặp tác dụng không mong muốn của thuốc rất ít hoặc ảnh hưởng không trầm trọng trên lâm sàng. Ngược lại, một số thận trọng và chống chỉ định hoặc hạn chế sử dụng cho một số lớp tuổi lại được bổ sung sau một thời gian thuốc lưu hành. Do đó các thông tin về sử dụng thuốc cho trẻ em cần được cập nhật thường xuyên từ các hướng dẫn chính thức cho nhi khoa.
+
+#### **Liều lượng thuốc**
+
+Liều lượng thuốc ở trẻ em cần phải được điều chỉnh theo đặc điểm dược động học của riêng từng thuốc, theo tuổi (yếu tố quyết định chính), tình trạng bệnh, giới tính (đặc biệt thời kỳ dậy thì) và theo mức độ trầm trọng của bệnh.
+
+Cách thông thường nhất là sử dụng liều tính theo cân nặng cơ thể (mg/kg) hoặc theo lớp tuổi như phân loại đã nêu trên.
+
+Khi tính liều theo cân nặng cơ thể (mg/kg), có nhiều trường hợp liều cho trẻ em tính được cao hơn người lớn; điều này liên quan đến sự khác biệt về phân bố và tốc độ chuyển hóa thuốc ở trẻ em. Với trẻ em béo phì, không được sử dụng số cân thực có ở trẻ mà phải tính theo cân nặng lý tưởng liên quan đến chiều cao để tránh quá liều.
+
+Với các thuốc có phạm vi điều trị hẹp, đặc biệt là các thuốc chống ung thư, cách tốt nhất là sử dụng việc tính liều lượng thuốc ở trẻ em theo diện tích bề mặt cơ thể (BSA = Body Surface Area) vì giữa kích thước và trọng lượng của người bệnh có mối quan hệ phụ thuộc tốt hơn nếu chỉ tính theo cân nặng. Cần lưu ý sử dụng toán đồ để tính BSA: Có loại dành cho trẻ em và loại dành cho người lớn. Đơn vị của BSA là m2 và đơn vị liều là mg/m2
+
+Liều lượng thuốc ở trẻ em trong Dược thư quốc gia Việt Nam ở đa số trường hợp đã được ghi trong chuyên luận của riêng từng thuốc, trừ khi thuốc được khuyến cáo không dùng cho trẻ em.
+
+#### **Kê đơn thuốc và hướng dẫn sử dụng thuốc**
+
+Phải đặc biệt coi trọng việc ghi đơn thuốc: Các thông tin phải rõ ràng, đặc biệt cần lưu ý đến cân nặng và lứa tuổi để lựa chọn liều lượng phù hợp. Hàm lượng trong một đơn vị phân liều (viên, gói bột, hỗn dịch…), liều dùng và cách dùng phải được ghi đầy đủ.
+
+Khi phải đưa thuốc theo đường tiêm, tiêm tĩnh mạch được ưu tiên hơn tiêm bắp vì sinh khả dụng bảo đảm và ít gây đau. Nếu đưa thuốc theo đường uống, các dạng thuốc lỏng được khuyến khích vì dễ phân liều chính xác hơn và dễ uống hơn dạng viên.
+
+Khi sử dụng dạng viên (nén hoặc nang), phải lưu ý chọn hàm lượng viên phù hợp với việc chia liều cho từng lứa tuổi; cố gắng tránh việc phải chia nhỏ viên vì sẽ khó có được liều chính xác hoặc gặp dạng viên không được phép nghiền hoặc làm vỡ.
+
+Ðối với các thuốc uống có dạng lỏng (sirô, bột hoặc cốm pha dung dịch hoặc hỗn dịch uống), cần hướng dẫn sử dụng dụng cụ chia liều; khi lượng thuốc đưa nhỏ hơn 5 ml, nên hướng dẫn sử dụng bơm tiêm nhựa loại 5 ml để rút thuốc uống theo thể tích. Thuốc sau khi pha thành dạng lỏng cần chú ý hạn dùng (thường là trong ngày hoặc một vài ngày); phần không dùng hết phải bỏ đi cho dù hạn dùng ghi trên bao bì chưa hết. Cần lưu ý người nhà bệnh nhi không được tự ý thêm sữa, nước trái cây hoặc thuốc khác vào dạng thuốc lỏng đã pha để tránh tương tác bất lợi gây giảm liều dùng. Cũng cần nhắc nhở để không cho bất kỳ loại thuốc nào vào trong bình sữa hoặc thức ăn vì thuốc có thể tương tác với sữa và thức ăn; hơn nữa, làm như vậy có thể số lượng thuốc đưa vào cơ thể sẽ bị thiếu hụt nếu đứa trẻ không dùng hết sữa hoặc thức ăn chứa trong bình. Cần lưu ý khi chọn giờ cho trẻ uống thuốc: Nên tránh đánh thức trẻ về đêm để trẻ ngủ được đủ giấc; với những trường hợp trẻ mắc bệnh mạn tính, nên tránh giờ trẻ phải uống thuốc ở trường vì khả năng tuân thủ dùng thuốc khó bảo đảm do trẻ quên hoặc mặc cảm với bạn bè không dám uống.
+
+Trong bảo quản thuốc, cần lưu ý không để thuốc ở tầm với của trẻ em. Trước khi dùng thuốc, cần kiểm tra lại hạn sử dụng, đặc biệt với những thuốc dự trữ tại nhà.
+
+## **SỬ DỤNG THUỐC TRONG THỜI KỲ MANG THAI VÀ CHO CON BÚ**
+
+### **Thời kỳ mang thai**
+
+Tổ chức Y tế thế giới định nghĩa thời kỳ mang thai bình thường là thời gian trong khoảng 38 tới 42 tuần kể từ khi trứng được thụ tinh. Thai kỳ thường được chia làm ba giai đoạn theo mỗi 3 tháng và ảnh hưởng của thuốc đến thai nhi khác nhau ở mỗi giai đoạn.
+
+*Giai đoạn đầu (từ tháng thứ nhất đến tháng thứ 3):* Đây là giai đoạn cần lưu ý nhất khi sử dụng thuốc. Giai đoạn này bao gồm 2 thời kỳ là tiền phôi và phôi. *Thời kỳ tiền phôi* kéo dài 17 ngày sau khi trứng được thụ tinh. Ở giai đoạn này thai thường không nhạy cảm với các yếu tố có hại vì các tế bào chưa bắt đầu biệt hóa. Độc tính của thuốc đối với thai nhi tuân theo quy luật *"tất cả hoặc không có gì",* tức là hoặc phôi bào bị chết, hoặc tiếp tục phát triển hoàn toàn bình thường. Chính vì vậy, các bất thường về hình thái của thai hiếm khi xảy ra, trừ trường hợp thời gian bán thải của thuốc kéo dài và thuốc còn tiếp tục ảnh hưởng tới thời kỳ phôi. *Thời kỳ phôi* được tính từ ngày thứ 18 đến ngày thứ 56. Đây là giai đoạn tối quan trọng vì hầu hết các cơ quan của cơ thể thai nhi được hình thành và là giai đoạn độ nhạy cảm của thai nhi với độc tính của thuốc lớn nhất. Dùng thuốc trong giai đoạn này có thể gây ra những bất thường nặng nề về hình thái cho đứa trẻ.
+
+*Giai đoạn 2 (từ tháng thứ 4 đến tháng thứ 6)*: Thuốc có thể tác động đến phát triển tăng trưởng và chức năng của thai và gây độc cho mô thai.
+
+*Giai đoạn 3 (từ tháng thứ 7 đến tháng thứ 9)*: Là giai đoạn cuối thai kỳ. Ngoài tác động lên sự tăng trưởng và chức năng của thai như ở giai đoạn 2, thuốc dùng trong thời gian trước sinh hoặc trong lúc chuyển dạ đẻ có thể có tác dụng xấu đến chuyển dạ hoặc cho trẻ sau sinh. Do khả năng thải trừ thuốc của trẻ sơ sinh rất kém, một số thuốc có thể bị tích lũy đáng kể và gây độc cho trẻ. Vì vậy cần đặc biệt chú ý tới một số thuốc khi dùng cho phụ nữ có thai gần ngày sinh.
+
+Tác dụng có hại của thuốc đối với thai nhi khi dùng cho người mẹ phụ thuộc vào các yếu tố như: Bản chất và cơ chế gây tác dụng có hại của thuốc, liều lượng và thời gian dùng thuốc của người mẹ, khả năng vận chuyển thuốc từ mẹ vào thai nhi và giai đoạn phát triển của thai khi người mẹ dùng thuốc.
+
+Thực nghiệm trên động vật cung cấp rất nhiều thông tin liên quan đến tác dụng gây quái thai của thuốc nhưng các kết quả thực nghiệm từ động vật không thể suy sang người được. Mặt khác phụ nữ mang thai là đối tượng không được phép thử thuốc trên lâm sàng. Do đó kinh nghiệm dùng thuốc trong thời kỳ mang thai rất hạn chế.
+
+Để bảo đảm an toàn trong sử dụng thuốc cho phụ nữ có thai, hệ thống phân loại thuốc dùng ở thời kỳ mang thai đã được sử dụng ở nhiều nước như Mỹ, Đức, Pháp, Úc… Nguyên tắc chung của các hệ thống phân loại đều dựa trên nguy cơ của thuốc đối với thai nhi khi sử dụng cho người mẹ. Tuy nhiên, các hệ thống phân loại này chỉ đưa ra được những dự đoán chung về độ an toàn của thuốc khi dùng ở phụ nữ mang thai mà không đưa ra lời khuyên cụ thể "*Có hay không*" được sử dụng thuốc cho đối tượng này. Các khuyến cáo đều ghi *"Cân nhắc sử dụng dựa trên lợi ích/nguy cơ"* nghĩa là thuốc chỉ được kê đơn trong thời kỳ mang thai khi lợi ích đối với bà mẹ vượt trội nguy cơ đối với thai. Với ba tháng đầu thai kỳ, do nguy cơ gây dị dạng thai nhi cao, tránh dùng tất cả các thuốc nếu có thể được. Cần lưu ý cả việc sử dụng thuốc cho nam giới nếu có ý định có con liên quan đến ảnh hưởng của thuốc lên tinh trùng. Không có một thuốc nào được coi là an toàn 100% cho thai nhi. Khi kê đơn, nên chọn các thuốc đã được dùng rộng rãi cho phụ nữ mang thai; cố gắng hạn chế sử dụng các thuốc mới được đưa ra thị trường hoặc thuốc chưa được thử thách nhiều và đủ lâu vì còn thiếu bằng chứng về độ an toàn cho đối tượng này. Liều dùng nên chọn mức liều thấp nhất có hiệu quả. Người kê đơn nên tham khảo danh mục "*Các thuốc tránh dùng hoặc nên hạn chế dùng cho phụ nữ mang thai*" trong các tài liệu chuyên khảo về thuốc, hoặc mục *"Sử dụng thuốc cho phụ nữ mang thai"* trong các tờ hướng dẫn sử dụng thuốc và cân nhắc trên mỗi người bệnh cụ thể trước khi đưa ra quyết định.
+
+**Khi sử dụng thuốc ở phụ nữ mang thai, cần tuân thủ những nguyên tắc sau:**
+
+- *1. Hạn chế tối đa dùng thuốc, đặc biệt trong 3 tháng đầu thai kỳ.*
+- *2. Nếu phải dùng thì nên chọn thuốc theo phân loại độ an toàn của thuốc với thai nhi. Tránh dùng những thuốc chưa được sử dụng rộng rãi cho phụ nữ mang thai.*
+- *3. Dùng thuốc với liều thấp nhất có hiệu quả với thời gian ngắn nhất có thể.*
+
+
+### **Thời kỳ cho con bú**
+
+Nuôi con bằng sữa mẹ rất có lợi, không chỉ vì giá trị dinh dưỡng của sữa mẹ là phù hợp nhất cho đứa trẻ mà còn vì trẻ bú mẹ sẽ được hưởng các chất miễn dịch truyền từ mẹ sang con qua sữa. Vì vậy nếu người mẹ dùng thuốc trong thời kỳ cho con bú thì cần cân nhắc ảnh hưởng của thuốc đến cả mẹ và con bao gồm:
+
+*Gây suy giảm sự tiết sữa ở mẹ.*
+
+*Ảnh hưởng lên các cơ quan còn non nớt, chưa đủ chức năng khi mới sinh như hệ thần kinh trung ương, hệ tim mạch, gan, thận… của đứa trẻ.*
+
+Các thuốc làm giảm khả năng tiết sữa ở phụ nữ cho con bú thường là các chất có ảnh hưởng tới sự tiết prolactin như estrogen, bromocriptin*,* thuốc lợi tiểu… Việc kê đơn lúc này tùy thuộc vào việc cân nhắc lợi ích điều trị cho mẹ và nguy cơ thiếu sữa cho bé. Về ảnh hưởng của thuốc tới đứa trẻ: Tuy không có bằng chứng về tác hại của thuốc truyền từ mẹ sang con qua sữa nhưng có thể suy luận từ các thông tin sau:
+
+*Lượng thuốc hoặc chất chuyển hóa có hoạt tính được truyền qua sữa. Điều này phụ thuộc đặc tính dược động học ở người mẹ. Đặc tính dược động học ở đứa trẻ.*
+
+*Bản chất gây độc của thuốc hoặc chất chuyển hóa đã sử dụng.* Thường thì lượng thuốc truyền qua sữa ít khi đủ để gây tác dụng dược lý hoặc tác hại, đặc biệt là các thuốc hấp thu kém trừ phản ứng mẫn cảm với thuốc. Ảnh hưởng chỉ gặp khi lượng thuốc chuyển qua sữa khá lớn. Điều này thường xảy ra khi người mẹ dùng liều cao hoặc khi tỷ lệ thuốc ở sữa cao hơn ở huyết tương. Việc dùng thuốc ở phụ nữ cho con bú phải được cân nhắc sao cho có thể đạt được mục tiêu điều trị bệnh cho mẹ nhưng lại ít hoặc không gây tác hại cho con.
+
+Để sử dụng thuốc an toàn trong thời kỳ cho con bú, cần tham khảo thông tin từ các tài liệu chuyên khảo, trong đó có các "*Bảng chỉ dẫn về chỉ định, chống chỉ định, thận trọng"* của mỗi thuốc hoặc thông tin của nhà sản xuất ghi trong tờ hướng dẫn sử dụng thuốc, mục *"Sử dụng thuốc cho phụ nữ mang thai và cho con bú".* Tuy nhiên, phụ nữ cho con bú không phải là đối tượng được thử nghiệm lâm sàng, do đó thông tin có được đều là kết quả tổng kết sau khi thuốc đã lưu hành. Chính vì vậy cũng giống như đã nêu ở phần *"Sử dụng thuốc trong thời kỳ mang thai"*: Khi kê đơn cho người mẹ nên chọn các thuốc đã được dùng rộng rãi và cố gắng hạn chế sử dụng các thuốc mới được đưa ra thị trường hoặc thuốc chưa được thử thách nhiều vì còn thiếu bằng chứng về độ an toàn cho đối tượng này.
+
+**Khi sử dụng thuốc ở phụ nữ cho con bú, cần tuân thủ những nguyên tắc sau:**
+
+- *1. Hạn chế tối đa dùng thuốc cho người mẹ.*
+- *2. Nếu phải dùng thì nên chọn thuốc an toàn cho trẻ bú mẹ, thuốc có tỉ lệ nồng độ sữa/huyết tương thấp, thải trừ nhanh.*
+- *3. Tránh dùng thuốc liều cao, nên dùng trong thời gian ngắn nhất và ngừng ngay khi đạt hiệu quả.*
+- *4. Thời điểm dùng thuốc nên chọn ngay sau khi cho trẻ bú xong.*
+
+### **Kết luận**
+
+Sử dụng thuốc cho phụ nữ mang thai hoặc phụ nữ trong thời kỳ cho con bú đều phải rất thận trọng vì hậu quả để lại sẽ có thể ảnh hưởng trầm trọng đến cả cuộc đời của trẻ trong tương lai. Chính vì vậy, mỗi chuyên luận về thuốc đều có mục: *"Sử dụng thuốc* v*ới phụ nữ mang thai và đang cho con bú*". Tuy nhiên, thông tin thường không ghi rõ *"có được dùng hay không?"* mà chỉ là *"cân nhắc lợi ích/ nguy cơ";* do đó trách nhiệm của người thầy thuốc là rất lớn. Quyết định cuối cùng phải căn cứ trên tình trạng bệnh lý cụ thể ở người mẹ để tìm phương thức điều trị phù hợp nhất.
+
+## **SỬ DỤNG AN TOÀN THUỐC GIẢM ĐAU**
+
+### **Đại cương**
+
+Đau là cảm nhận của một cá thể khi bản thân cơ thể bị va chạm với một tác nhân gây đau; tác nhân đó có thể là một yếu tố kích thích gây tổn thương trực tiếp hoặc gián tiếp, từ bên ngoài hoặc bên trong cơ thể, trong thời gian ngắn hoặc dài.
+
+Ở con người, đau là triệu chứng sớm nhất báo hiệu bệnh tật nhưng cũng còn là triệu chứng tồn lưu trong và sau quá trình bệnh tật. Triệu chứng đau gồm hai yếu tố cấu thành chủ yếu là cơ thể (thần kinh) và tâm lý (cảm xúc).
+
+Hiệp hội quốc tế nghiên cứu đau (ISAP, 1979) đã định nghĩa: "đau là một trải nghiệm cảm giác và cảm xúc khó chịu kết hợp với một tổn thương của mô hiện tại hoặc sẽ xảy ra, hoặc được mô tả bằng các ngôn từ về tổn thương đó".
+
+Về mặt sinh lý thần kinh, sự dẫn truyền cảm giác ở cơ thể từ ngoại vi (da, cơ, nội tạng) về trung ương (tủy sống, não bộ) liên quan mật thiết đến vai trò của các sợi dẫn truyền thần kinh có hoặc không có myelin bao quanh. Tùy theo đường kính của sợi thần kinh với bao myelin nhỏ hoặc lớn, tốc độ dẫn truyền có thể từ mức chậm (0,5 - 2 m/giây) hoặc trung bình (5 - 30 m/giây) đến mức nhanh (35 - 75 m/giây).
+
+Theo sinh lý bệnh, có thể phân biệt ba hình thái lâm sàng:
+
+*Đau tiếp nhận kích thích nguy hại* (nociceptive pain): Đau xảy ra do chấn thương vào các mô ở cơ thể (da, cơ xương, nội tạng) ví dụ: Viêm, gẫy xương ở chi, viêm xương khớp, sau phẫu thuật nội tạng. *Đau xuất xứ thần kinh* (neuropathic pain): Đau khởi phát hoặc bị gây ra do tổn thương tiên phát hoặc do rối loạn chức năng hệ thần kinh ngoại vi hay trung ương. Ở ngoại vi, ví dụ đau sau nhiễm virus *Herpes,* đau dây thần kinh mặt, do đái tháo đường, sau chấn thương thần kinh, sau phẫu thuật thần kinh; ở trung ương, ví dụ đau sau tai biến mạch não.
+
+*Đau hỗn hợp* (mixed pain): Đau tập hợp các thành tố xuất xứ thần kinh và kích thích nguy hại, ví dụ: Đau rễ thần kinh thắt lưng, đau rễ thần kinh cổ, ung thư, hội chứng ống cổ tay.
+
+### **Thăm khám chẩn đoán đau**
+
+Khi tiếp cận người bệnh, người thầy thuốc cần hỏi về tiền sử bệnh tật, sự phơi nhiễm nếu có với độc tố, quá trình sử dụng các phương thức chống đau và cả những rối loạn tâm lý, khí sắc nếu có. Cần khai thác về vị trí, phân bố và loại hình của đau, thời gian xuất hiện và ảnh hưởng của đau tới sinh hoạt hàng ngày của người bệnh.
+
+Việc thăm khám lâm sàng bao gồm: Khám toàn thể, khám thần kinh, khám tâm trí, khám chuyên khoa liên quan, thăm dò chức năng và xét nghiệm cận lâm sàng.
+
+*Trên lâm sàng, có thể phân biệt hai hình thái diễn biến cấp tính và mạn tính:* 
+
+Đau cấp tính xảy ra từ vài giờ, vài ngày đến dưới một tháng, thường do có tổn thương ở mô và khi được điều trị khỏi người bệnh sẽ hết đau. Đây là loại "đau triệu chứng".
+
+Đau mạn tính có thể kéo dài từ ba đến sáu tháng hoặc lâu hơn nữa. Nói chung người bệnh thường cảm thấy đau lâu hơn thời gian dự kiến khỏi bệnh. Có thể coi đây là "bệnh đau".
+
+*Để phát hiện và xác định đau ở người bệnh, cần chú ý tới các biểu hiện sau:*
+
+Các dấu hiệu và triệu chứng âm tính: Người bệnh có thể thấy tê bì và giảm cảm giác; mất hoặc kém chất lượng cảm giác đối với các kích thích (như sờ, đau, nóng, lạnh, rung, ấn ép, kim châm).
+
+Các dấu hiệu và triệu chứng dương tính như:
+
+Loạn cảm (dysesthesia) là cảm giác bất thường khó chịu (như bị đâm, bị bắn, bỏng, rát...);
+
+Dị cảm (paresthesia) là cảm giác bất thường nhưng không gây khó chịu (như bị châm lăn tăn, như vướng màng nhện...);
+
+Đau tự phát (spontaneous pain) như bị điện giật cách kỳ, nhói buốt như bị đâm hay bị chọc mạnh vào người, hoặc bỏng rát kéo dài... Đau khi khêu gợi kích thích (stimulus-evoked pain) có ba dạng là: Nghịch cảm đau (allodynia): đau do kích thích không gây đau; Tăng cảm đau (hyperalgesia): Đau quá mức đối với kích thích gây đau; Cường cảm đau (hyperpathia): Đáp ứng đau bùng phát chậm nhưng cao độ với kích thích đau nhắc lại nhiều lần.
+
+Hiện nay để lượng giá đau, ngoài thăm khám lâm sàng còn có thể sử dụng một số công cụ giúp chẩn đoán như: Thang nhìn so mức đau tương ứng (Pain Visual Analog Scale/VAS), Phân tích ngôn từ mô tả đau của người bệnh, Bộ câu hỏi McGill (McGill Pain Questionnaire), Thang lượng giá dấu hiệu và triệu chứng đau của Leeds (LANNS scale) và Bộ 4 câu hỏi về đau xuất xứ thần kinh (DN 4 Pain Questionnaire).
+
+### **Điều trị bằng thuốc giảm đau**
+
+Làm cho người bệnh giảm bớt đau là một nguyên tắc rất quan trọng trong điều trị vì một mặt cảm giác đau ảnh hưởng lớn đến cơ thể, tâm lý và khí sắc của người bệnh; mặt khác nếu đau cấp tính không được xử trí đúng và kịp thời có thể dẫn tới đau mạn tính càng khó chữa trị.
+
+Theo sinh lý bệnh, đau và viêm có quan hệ mật thiết với nhau. Viêm là biểu hiện phản ứng của hệ thần kinh, là một quá trình sung huyết, giãn mạch, phù nề. Viêm là một hiện tượng khách quan sẽ gây đau là một hiện tượng chủ quan. Do đó điều trị viêm sẽ làm giảm đau và ngược lại, điều trị đau sẽ góp phần giải quyết viêm.
+
+Về mặt dược lý, tùy theo thành phần cấu tạo, các thuốc giảm đau ít nhiều có tính chất hạ nhiệt, giảm đau, chống viêm và an thần. Nói chung, các thuốc giảm đau và chống viêm là những thuốc giảm đau rất mạnh đồng thời có tác dụng gây tê, gây mê, gây ngủ. Tác dụng thứ phát là ức chế hoạt động thần kinh thực vật làm cho nhịp tim, nhịp thở, quá trình tiêu hóa bị trì trệ, hơn nữa nếu dùng lâu dễ sinh nghiện và có thể gây loạn thần.
+
+### **Thuốc giảm đau không thuộc dạng opi**
+
+Đây là những thuốc có tác dụng giảm đau đơn thuần hoặc kết hợp với tác dụng hạ nhiệt hay chống viêm, hoặc có khi kết hợp đồng thời cả ba tác dụng đó. Tuy những thuốc giảm đau - hạ nhiệt chống viêm là những thuốc thông thường nhưng đều có thể gây rối loạn về máu (ví dụ gây chảy máu dạ dày), rối loạn về thận, ức chế hệ thần kinh làm cho cơ thể mệt mỏi. Có một số họ khác nhau nhưng đáng chú ý nhất là acid salicylic và các dẫn xuất của paraaminophenol (ví dụ paracetamol).
+
+#### *Aspirin* (acid acetylsalicylic)
+
+Aspirin được chỉ định đối với nhức đầu, đau cơ xương nhất thời, đau khi hành kinh và sốt. Hiện nay còn được dùng để chống kết tập tiểu cầu (giảm đông máu, chống tắc mạch).
+
+Aspirin thường gây kích ứng dạ dày nên được khuyến cáo dùng thuốc sau khi ăn. Có những chế phẩm dạng bao tan trong ruột nhưng tác động thường chậm hơn.
+
+Cần chú ý là aspirin tương tác với nhiều loại thuốc khác, đặc biệt là warfarin.
+
+#### *Paracetamol*
+
+Paracetamol là dẫn xuất của para - aminophenol, có tác dụng tương tự như aspirin nhưng không có tác dụng chống viêm, mặt khác ít gây kích ứng dạ dày. Tuy nhiên dùng quá liều có thể gây tổn thương gan, đôi khi chỉ biểu hiện sau từ 4 đến 6 ngày.
+
+### **Thuốc giảm đau dạng opi**
+
+Đây là các dẫn xuất từ opi hoặc các chất bán tổng hợp loại opi. Phần lớn các chất này được sử dụng làm thuốc giảm đau và morphin được coi là chuẩn để so sánh đối chiếu với các thuốc giảm đau dạng opi khác.
+
+Các thuốc dạng opi thường được dùng điều trị các chứng đau từ mức vừa đến mức nặng, đặc biệt đau do nguồn gốc nội tạng hoặc do chấn thương.
+
+*Morphin* là thuốc giảm đau mạnh nhất có thể dùng trong đau cấp tính và đau mạn tính (kể cả đau do ung thư) cũng như hay được dùng tiền mê và trong chấn thương.
+
+*Fentanyl* và các chất đồng dạng chủ yếu được dùng gây tê, gây mê trong quá trình phẫu thuật.
+
+*Methadon* có tác dụng yếu hơn morphin nhưng có thể dùng từng đợt lâu dài; mặt khác có thể thay thế morphin ở người bệnh dễ bị kích thích đối với morphin.
+
+*Pentazocin* khi tiêm thường mạnh hơn dihydrocodein hoặc codein nhưng có thể gây ảo giác và rối loạn tư duy. Thuốc này không được khuyến cáo và đặc biệt cần tránh dùng cho người bệnh sau nhồi máu cơ tim.
+
+*Pethidin* có thể gây giảm đau thời gian ngắn và ít gây táo bón hơn morphin. Thuốc này thường được sử dụng để giảm đau khi chuyển dạ, tiền mê, chấn thương.
+
+*Tramadol* cũng có tác dụng giảm đau nhưng ít tác dụng thứ phát hơn các thuốc dạng opi khác nên hay được dùng trong đau do ung thư hoặc đau sau phẫu thuật.
+
+*Codein* thường được dùng điều trị khi đau không nặng lắm và hay được kết hợp với các thuốc giảm đau không thuộc dạng opi như aspirin, paracetamol hoặc các chất chống viêm không steroid khác.
+
+Một số dẫn xuất khác như dextromethorphan hoặc pholcodin được dùng làm thuốc ho; còn diphenoxylat và loperamid được dùng điều trị tiêu chảy.
+
+Điều đáng chú ý trước tiên là "cần cảnh giác đối với biến chứng suy hô hấp" rất hay xảy ra khi sử dụng morphin và nhóm thuốc dạng opi tiêm tĩnh mạch hoặc tiêm bắp, có thể gây tử vong. Do đó cần cân nhắc tiên lượng đối với thể trọng cũng như tình trạng bệnh tật của người bệnh. Mặt khác sử dụng nhiều lần hoặc dài ngày các thuốc giảm đau dạng opi có thể gây nghiện. Nói chung cần thận trọng đối với các trường hợp hen, suy chức năng hô hấp, choáng, hạ huyết áp, nhược cơ, phì đại tuyến tiền liệt, bệnh đường ruột và đường mật, động kinh. Cần giảm liều thuốc ở người bệnh cao tuổi, suy giáp và suy thượng thận.
+
+### **Thuốc chống viêm**
+
+Trong thực hành lâm sàng, các thuốc này gồm hai loại:
+
+#### *Thuốc chống viêm loại steroid*
+
+Đây là các corticoid với rất nhiều thuốc khác nhau như hydrocortison, hydrocortancyl, triamcinolon, betamethason, prednison, methylprednisolon, triamcinolon, depersolon, dexamethason.
+
+#### *Thuốc chống viêm không steroid (NSAID)*
+
+Đây là một nhóm các acid hữu cơ có tích chất giảm đau, chống viêm và hạ nhiệt. Các thuốc chống viêm không steroid là những chất ức chế enzym cyclo-oxygenase có khả năng ức chế trực tiếp quá trình sinh tổng hợp của các prostaglandin và thromboxan từ acid arachidonic. Enzym cyclo-oxygenase (COX) có hai dạng: COX-1 và COX-2. Nếu ức chế COX-2 có thể liên quan đến các đặc tính giảm đau, chống viêm và hạ nhiệt của các thuốc chống viêm không steroid; còn nếu ức chế COX-1 có thể gây độc, nhất là đối với ống tiêu hóa. Phần lớn các thuốc chống viêm không steroid dùng trong lâm sàng đều ức chế cả hai loại COX-1 và COX-2.
+
+Các thuốc chống viêm không steroid thường được dùng trong các bệnh có biểu hiện viêm, đặc biệt là các bệnh khớp. Cơ chế bệnh sinh của quá trình viêm trong các bệnh khớp rất phức tạp với sự tham gia của nhiều yếu tố như thể dịch, tế bào, các chất trung gian hóa học, v.v... nhưng có hai yếu tố quan trọng nhất là:
+
+Các enzym tiểu thể do các tiểu thể của thực bào giải phóng ra, là những yếu tố gây phản ứng viêm rất mạnh;
+
+Các prostaglandin được tạo nên do sự chuyển hóa của các phospholipid màng tế bào, là sản phẩm tổng hợp của các tế bào viêm. Các prostaglandin có khả năng gây viêm cấp tính và mạn tính. Do đó hầu hết các thuốc chống viêm đều có hai tác dụng:
+
+Làm bền vững màng tiểu thể không cho giải phóng ra các enzym tiểu thể;
+
+Ức chế quá trình tổng hợp prostaglandin từ các phospholipid màng. Ngoài ra một số thuốc còn có khả năng ức chế sự di chuyển của bạch cầu đa nhân, ngăn cản quá trình kết hợp kháng nguyên và kháng thể.
+
+Các thuốc chống viêm không steroid được dùng để làm giảm đau mức nhẹ và mức vừa, khi sốt nhẹ, trong các bệnh lý viêm cấp tính và mạn tính như viêm xương khớp, viêm khớp dạng thấp, viêm khớp thiếu niên tự phát, viêm cột sống dính khớp. Ngoài ra các trường hợp viêm gân, viêm bao hoạt dịch, viêm khớp do rối loạn chuyển hóa (bệnh gút), bệnh thấp ngoài khớp cũng được dùng có hiệu quả. Các thuốc này còn có thể điều trị viêm và đau sau chấn thương hoặc sau phẫu thuật, làm giảm đau bụng khi hành kinh, viêm phần phụ, hỗ trợ trong nhiễm khuẩn tai - mũi - họng và răng hàm - mặt cấp tính.
+
+Có thể xếp loại các thuốc chống viêm không steroid theo các gốc hóa học như:
+
+*Nhóm pyrazol:* Ví dụ Phenylbutazon, oxyphenyl butazon…
+
+Vì có thể gây ra nhiều tai biến nên hiện nay các thuốc này được chỉ định rất hạn chế.
+
+*Nhóm indol*: Ví dụ: indomethacin.
+
+Các thuốc này được dùng rộng rãi vì ít gây tác dụng không mong muốn nhưng có tác dụng chống viêm khá mạnh nên thường được chỉ định cho các bệnh khớp có viêm và đau.
+
+*Nhóm anthranilic*: Ví dụ: acid niflumic.
+
+*Nhóm phenylpropionic*: Ví dụ: ibuprofen, ketoprofen, acid tiaprofenic.
+
+*Các loại khác*: Ví dụ: Diclofenac, piroxicam, tenoxicam...
+
+Ở đây có thể xếp vào cả thuốc aspirin.
+
+Hiện nay celecoxib là một thuốc chống viêm không steroid được sử dụng khá rộng rãi tại nhiều nước trên thế giới vì ít gây tác dụng không mong muốn.
+
+##### *Nguyên tắc chung khi sử dụng thuốc chống viêm*
+
+Dùng thuốc chống viêm nên thận trọng khi người bệnh có tiền sử đau vùng thượng vị, dị ứng, viêm thận, suy gan ở người già yếu và phụ nữ mang thai.
+
+Khi dùng liều cao (liều tấn công) chỉ nên kéo dài từ 5 đến 7 ngày và nên dùng dạng thuốc tiêm. Ngoài đường tiêm và uống có thể dùng dạng thuốc đặt hậu môn hoặc thuốc bôi ngoài da ít gây các tai biến. *Những tác dụng không mong muốn hay gặp là:* 
+
+Dạ dày: Đầy bụng khó tiêu, cơn đau dạ dày, chảy máu tiêu hóa, thủng dạ dày.
+
+Thận: Viêm thận, phù, đái ra máu, suy thận.
+
+Phản ứng ngoài da và dị ứng: Mẩn ngứa, viêm da nhiễm độc, hen phế quản.
+
+Máu: Giảm bạch cầu, chảy máu, suy tủy.
+
+Gan: Một vài loại thuốc có thể gây viêm gan và suy gan.
+
+Nói chung không nên phối hợp nhiều loại thuốc chống viêm đồng thời vì có thể tăng thêm nguy cơ xảy ra tai biến.
+
+### **Thuốc giảm đau giúp dinh dưỡng**
+
+Người ta đã biết từ lâu tác dụng chống đau của các vitamin nhóm B đặc biệt là:
+
+*Vitamin B<sup>1</sup>* (thiamin).
+
+*Vitamin B<sup>6</sup>* (pyridoxin).
+
+*Vitamin B12* (cyanocobalamin, hydroxocobalamin) và coenzym của vitamin B12 là cobamamid, deoxyadenosincobalamin, methylcobalamin.
+
+Các vitamin nhóm B có thể dùng riêng hoặc phối hợp với nhau.
+
+### **Một số thuốc khác có tác dụng hỗ trợ giảm đau**
+
+Ngoài các thuốc nói trên, trong một số trường hợp đặc biệt một số thuốc khác cũng có khả năng giải quyết triệu chứng đau như: *Thuốc an thần kinh, thuốc chống trầm cảm:* Chống đau trong ung thư. *Thuốc chống co cứng cơ*: Chống đau do co thắt các cơ vân; *Thuốc động kinh*: Một số thuốc có thể dùng điều trị các chứng đau dây thần kinh (neuralgia).
+
+#### *Amitriptylin*
+
+Đây là một thuốc chống trầm cảm ba vòng. Ngoài tác dụng chủ yếu điều trị trầm cảm, thuốc còn có thể được sử dụng trong bệnh dây thần kinh do đái tháo đường, đau sau nhiễm virus Herpes, đau gáy, đau lưng, đau trong chi ma, đau xơ cơ, đau trong viêm khớp và dự phòng đau nửa đầu.
+
+Tác dụng thứ phát cần chú ý là hạ huyết áp tư thế, nhịp tim nhanh, tăng nhãn áp, liệt ruột và sốt cao.
+
+#### *Carbamazepin*
+
+Ngoài tác dụng kháng động kinh, thuốc còn có tác dụng trong điều trị đau dây tam thoa, đau dây thiệt - hầu, đau xuất xứ thần kinh. Các tác dụng thứ phát đáng chú ý là: Giảm bạch cầu, tăng men gan, hội chứng Stevens-Johnson, giảm chức năng giáp, hạ natri - huyết.
+
+#### *Oxcarbazepin*
+
+Thuốc được dùng chủ yếu điều trị động kinh nhưng có thể sử dụng làm giảm đau đối với đau dây tam thoa và đau xuất xứ thần kinh. Các tác dụng thứ phát cũng giống như đối với carbamazepin.
+
+#### *Phenytoin*
+
+Thuốc có thể được sử dụng điều trị đau dây thần kinh tam thoa, đau dây thần kinh thiệt - hầu, đau xuất xứ thần kinh và dự phòng đau nửa đầu.
+
+Cần cảnh giác đối với các tác dụng thứ phát như: Hạ huyết áp, rối loạn dẫn truyền tim, rối loạn máu, viêm gan nhiễm độc và dị ứng. Dùng thuốc lâu dài với liều cao có thể gây teo tiểu não.
+
+#### *Gabapentin*
+
+Thuốc được dùng điều trị đau thần kinh sau nhiễm virus *Herpes*, đau thần kinh mặt, đau xuất xứ thần kinh, đau xơ cơ và cả dự phòng đau nửa đầu.
+
+Các tác dụng thứ phát bao gồm: Buồn ngủ, chóng mặt, mệt nhọc, loạng choạng, lợm giọng, khô miệng, táo bón, nhìn mờ, phù ngoại vi.
+
+#### *Pregabalin*
+
+Thuốc được dùng trong đau xuất xứ thần kinh kết hợp với bệnh dây thần kinh do đái tháo đường hoặc sau nhiễm virut *Herpes*, đau xơ cơ, đau thần kinh mặt và dự phòng đau nửa đầu.
+
+Cần chú ý tới các tác dụng thứ phát như giảm tiểu cầu, tăng men gan, rối loạn tiêu hóa.
+
+#### *Baclofen*
+
+Thuốc có tác dụng chủ yếu làm giãn cơ xương nên thường được chỉ định trong các trường hợp co cứng cơ gây đau như trong bệnh lý tủy sống. Ngoài ra có thể dùng trong đau dây thần kinh tam thoa, đau xuất xứ thần kinh và cả dự phòng đau nửa đầu.
+
+*Dihydroergotamin, methysergid, sumatriptan, zolmitriptan* là những thuốc chủ yếu thường được dùng phòng và điều trị đau nửa đầu.
+
+### **Lựa chọn thuốc giảm đau ở người lớn**
+
+Paracetamol và các thuốc chống viêm không steroid là các thuốc thường được lựa chọn đầu tiên để điều trị các chứng đau từ mức nhẹ tới mức nặng nhằm tăng cường tác dụng của các chất dạng opi. Các thuốc này thích hợp cho người bệnh bị đau cấp tính hoặc mạn tính. Sử dụng các thuốc giảm đau không opi không đáng ngại về tình trạng bị lệ thuộc tâm lý hoặc nhờn thuốc, nhưng khi tăng liều, hiệu quả của thuốc cũng không tăng thêm.
+
+Aspirin và các thuốc chống viêm không steroid không chọn lọc thường ức chế chức năng tiểu cầu, ảnh hưởng tới đường tiêu hóa và có thể gây các phản ứng mẫn cảm kể cả hen. Các chất ức chế chọn lọc COX-2 tuy ít gây nguy cơ đối với đường tiêu hóa nhưng thường được dùng hạn chế vì e ngại các tác dụng phụ nặng về tim - mạch. Paracetamol không có tác dụng phụ về huyết học hoặc tiêu hóa nhưng liều cao có thể gây nhiễm độc gan nặng dẫn tới tử vong. Paracetamol kết hợp với một thuốc chống viêm không steroid làm tăng cường giảm đau.
+
+Codein thường được lựa chọn để điều trị các chứng đau từ mức vừa tới mức nặng; cũng có thể dùng dihydrocodein và tramadol. Trong đau cấp tính, phối hợp codein với paracetamol đủ liều có thể làm tăng giảm đau hơn so với dùng paracetamol đơn thuần; nhưng khi dùng nhắc lại sẽ gây tăng tỷ lệ tác dụng phụ. Nếu phối hợp dextropropoxyphen với paracetamol hoặc aspirin cũng không đạt hiệu quả hơn so với aspisin hoặc paracetamol đơn thuần.
+
+Morphin chủ yếu được dùng điều trị đau cấp tính không do bệnh ác tính và đau do ung thư. Sử dụng morphin trong các chứng đau mạn tính không do ung thư còn đang gây tranh luận vì sợ gây nghiện và suy hô hấp. Các thuốc dạng opi có tác dụng ở một số trường hợp đau xuất xứ thần kinh.
+
+Đôi khi có thể sử dụng các thuốc dạng opi khác như methadon hoặc oxycodon có tác dụng dài hơn morphin nhưng cần chú ý là không được cho dùng quá hai lần mỗi ngày khi điều trị dài ngày vì có nguy cơ ức chế dần hệ TKTW và quá liều. Alfentanyl và fentanyl có tác dụng nhanh nhưng pethidin không được khuyến cáo. Diamorphin hoặc hydromorphon có thể được ưa dùng hơn morphin vì thuốc hoà tan hơn và có thể cho với một lượng nhỏ hơn. Tramadol có thể gây ảnh hưởng ít hơn tới chức năng hô hấp và tiêu hóa so với cùng liều các thuốc dạng opi khác cũng có tác dụng đối với đau xuất xứ thần kinh.
+
+Các tác dụng không mong muốn của các thuốc dạng opi bao gồm an thần, buồn nôn, nôn, táo bón và nguy hiểm nhất là ức chế hô hấp. Các tác dụng đó nói chung thường được người bệnh dung nạp còn táo bón có thể ngừa được bằng thuốc nhuận tràng.
+
+Một số thuốc khác có thể sử dụng đơn thuần hoặc hỗ trợ trong xử trí đau. Các chất chống trầm cảm ba vòng như amitriptylin liều thấp có thể dùng trong các chứng đau mạn tính khó chữa trị như đau do bỏng, đau thần kinh sau zona, bệnh thần kinh do đái tháo đường, đau dây tam thoa.
+
+Các thuốc chống động kinh (như carbamazepin, gabapentin và pregabalin) có tác dụng giảm đau xuất xứ thần kinh.
+
+Các benzodiazepin và các thuốc giãn cơ khác như baclofen hoặc dantrolen có thể làm giảm đau do co thắt cơ.
+
+Thuốc điều biến xương như calcitonin và biphosphonat có thể dùng trong đau ung thư do di căn xương. Biphosphonat lúc đầu có khi gây tăng đau xương thoáng qua.
+
+Các corticoid có thể cải thiện đau xuất xứ thần kinh và cũng có thể làm giảm nhức đầu do tăng áp lực trong sọ và đau do di căn xương. Một số thuốc gây mê hít được dùng với liều thấp hơn liều gây mê để điều trị đau cấp tính. Đặc biệt oxyd nitơ cho cùng với oxy để làm giảm đau trong thủ thuật sản khoa, nha khoa và một số thủ thuật khác và cả trong xử trí cấp cứu.
+
+### **Lựa chọn thuốc giảm đau ở trẻ em**
+
+Các thuốc giảm đau không opi được dùng cho trẻ nhỏ và trẻ em đơn thuần để điều trị chứng đau nhẹ hoặc bổ trợ cho một thuốc giảm đau dạng opi trong trường hợp đau nặng. Paracetamol tuy không có tác dụng chống viêm nhưng thường được sử dụng. Các thuốc chống viêm không steroid như ibuprofen dùng điều trị chứng đau nhẹ, đặc biệt khi có viêm hoặc chấn thương. Thường hạn chế dùng aspirin vì e ngại hội chứng Reye.
+
+Các thuốc dạng opi vẫn là thuốc chủ yếu để điều trị chứng đau ở trẻ em từ mức trung bình tới mức nặng và morphin vẫn là thuốc chuẩn để các thuốc khác so sánh. Morphin được tiêm tĩnh mạch để giảm đau nhanh (như sau bỏng, gẫy xương hoặc các chấn thương khác) và được chỉnh liều để đạt được liều giảm đau thích hợp. Nếu không tiêm được tĩnh mạch, có thể cho uống morphin nhưng tác dụng thường chậm hơn và không dự đoán được. Một số trường hợp được dùng diamorphin cho vào mũi để thay cho tiêm tĩnh mạch morphin. Tiêm truyền tĩnh mạch liên tục morphin có hoặc không có liều nạp ban đầu được áp dụng để điều trị đau sau phẫu thuật nhưng cần phải điều chỉnh tốc độ tiêm truyền để đạt được sự cân bằng giữa giảm đau và suy hô hấp (cần chú ý đặc biệt tới trẻ sơ sinh). Morphin tiêm dưới da cũng đã được dùng chủ yếu để giảm đau trong giai đoạn cuối của ung thư ở trẻ em. Thuốc có thể tiêm bắp nhưng rất đau và do đó có thể chỉ để dùng thời gian ngắn. Fentanyl cũng được sử dụng để giảm đau thời gian ngắn trong các thủ thuật ngoại khoa. Hỗn hợp oxyd nitơ và oxy để hít có thể sử dụng để giảm đau sơ bộ và ngắn trong các thủ thuật gây đau.
+
+Thuốc gây tê đặc biệt phù hợp để xử trí đau cấp tính trong chăm sóc ban ngày. Còn ketamin được dùng trong các thủ thuật gây đau thời gian ngắn như khi nắn xương gẫy và chỉnh trị rách mặt ở trẻ em.
+
+### **Kết luận**
+
+Đau không chỉ là một triệu chứng mà còn là một bệnh lý rất phổ biến trong lâm sàng ở mọi chuyên khoa y học. Trong thực hành, người thầy thuốc điều trị cần phải vận dụng mọi phương pháp lâm sàng và cận lâm sàng để xác định bệnh cảnh thực tế và nguyên nhân gây đau ở người bệnh.
+
+Trong chiến lược sử dụng thuốc để điều trị đau cho người bệnh, Tổ chức Y tế thế giới đã khuyến cáo cách ứng dụng mô hình ba bậc thang từ thấp lên cao là:
+
+Bậc 1: Các thuốc giảm đau thông thường, ví dụ paracetamol;
+
+Bậc 2: Các thuốc giảm đau kết hợp với dẫn xuất từ opi, ví dụ paracetamol kết hợp với codein;
+
+Bậc 3: Các thuốc giảm đau mạnh.
+
+Sử dụng thuốc là một biện pháp chủ yếu trong điều trị đau. Tuy nhiên trong thực hành lâm sàng còn có nhiều phương pháp quan trọng khác như liệu pháp vật lý (bao gồm cả xoa bóp, sử dụng nhiệt và lạnh), các kỹ thuật kích thích thần kinh (như châm cứu, kích thích tủy sống, kích thích điện qua da) và cả phẫu thuật thần kinh. Ngoài ra, đối với mọi người bệnh được điều trị đau, một hỗ trợ vô cùng quan trọng không thể thiếu được là liệu pháp tâm lý.
+
+## **SỬ DỤNG HỢP LÝ CÁC THUỐC ĐIỀU TRỊ BỆNH HEN PHẾ QUẢN**
+
+### **Đặc điểm cơ bản của bệnh hen phế quản**
+
+Hen phế quản (HPQ) là hội chứng viêm mạn tính đường hô hấp, có sự tham gia của nhiều loại tế bào gây viêm cùng với các kích thích khác làm tăng phản ứng phế quản, gây nên tình trạng co thắt, phù nề, tăng xuất tiết phế quản, làm tắc nghẽn phế quản. Biểu hiện lâm sàng của HPQ là cơn khó thở khò khè, chủ yếu là khó thở ra; những biểu hiện này có thể hồi phục tự nhiên hoặc do dùng thuốc.
+
+#### *Cơ chế bệnh sinh của hen phế quản*
+
+Cơ chế bệnh sinh của HPQ rất phức tạp do sự tác động của nhiều yếu tố khác nhau trong đó có sự tham gia của các dị nguyên, các tế bào gây viêm, cơ địa atopy, rối loạn hệ thần kinh tự động, nhiễm khuẩn hoặc virus, ô nhiễm môi trường, thay đổi thời tiết v.v…Các yếu tố này tác động dẫn đến tình trạng viêm, co thắt phế quản và gia tăng phản ứng phế quản. Đây là ba quá trình trong cơ chế bệnh sinh HPQ, trong đó viêm đóng vai trò cơ bản.
+
+Cơ chế đáp ứng miễn dịch trong HPQ thuộc loại hình dị ứng typ I theo phân loại của Gell - Coombs, còn có tên gọi là loại hình phản vệ, reagin, có nhiều thành phần tham gia.
+
+Trước hết, phải kể đến các dị nguyên (DN), thành phần quan trọng tham gia cơ chế này. Các DN gồm nhiều thể loại khác nhau như các loại bụi, trong đó bụi nhà là nguyên nhân chính, rồi đến phấn hoa, lông vũ, thức ăn, hóa chất, các vi khuẩn, virus, nấm mốc.
+
+Tiếp theo là vai trò của kháng thể IgE (KT IgE), các tế bào gây viêm. Sự kết hợp DN - KT IgE xảy ra trên dưỡng bào (mastocyt), bạch cầu ái kiềm (basophil) v.v… sẽ xảy ra phản ứng dị ứng, tóm tắt như sau: Khi DN xâm nhập vào cơ thể, DN bị các tế bào trình diện kháng nguyên tiếp nhận, các tế bào này truyền đặc điểm cấu trúc của DN đến tế bào Th2 . Th2 dưới tác động của interleukin 4 và 13 làm tế bào lympho B biệt hóa thành plasmocyte. Tế bào này tổng hợp KT IgE. Các KT IgE gắn trên màng dưỡng bào nhờ các receptor đặc hiệu. Khi DN lần thứ hai vào cơ thể, DN sẽ kết hợp với KT IgE đã gắn sẵn trên màng dưỡng bào, sự kết hợp này làm dưỡng bào vỡ các hạt dự trữ (degranulation) giải phóng hàng loạt các chất trung gian hóa học như histamin, serotonin, bradykinin v.v… gây viêm niêm mạc phế quản, tăng xuất tiết, phù nề và co thắt phế quản, làm xuất hiện triệu chứng hen.
+
+#### *Quá trình viêm trong hen phế quản*
+
+Các tế bào gây viêm trong HPQ bao gồm đại thực bào, bạch cầu đa nhân trung tính, bạch cầu ái kiềm, bạch cầu ái toan, dưỡng bào, tế bào lympho T và B. Các tế bào này tiết ra các chất trung gian hóa học gây viêm như histamin, serotonin, brandykinin, các prostaglandin (PG) như PGD2 , PGF2 , PGE2 … các leucotrien (LT) như LTC<sup>4</sup> , LTD<sup>4</sup> , LTE<sup>4</sup> , kinin, yếu tố hoạt hóa tiểu cầu PAF (Platelet Activating Factor).
+
+Nhiều cytokin gây viêm được giải phóng từ thromboxan A, đại thực bào, tế bào B như Interleukin (IL): IL<sup>4</sup> , IL5 , IL6 yếu tố kích thích dòng đại thực bào hạt GMCSF (Granulocyte Macrophage Colony Stimulating Factor) gây viêm dữ dội làm co thắt, phù nề, sung huyết phế quản.
+
+Các bạch cầu ái toan tiết ra một số chất trung gian MBP, ECF làm tróc biểu mô phế quản, giải phóng các neuropeptid gây viêm như chất P, VIP…
+
+Vai trò của phân tử kết kính được phát hiện gần đây bao gồm ICAM-1 và VCAM-1 (Intercell Cell Adhension Molecule và Vascular Cell Adhension Molecule) có mối quan hệ gắn bó trong quá trình viêm dị ứng.
+
+Các tế bào gây viêm nêu trên có vai trò khác nhau, chẳng hạn bạch cầu ái toan tăng phù hợp với mức độ nặng của hen, bạch cầu này phóng thích ra nhiều chất trung gian hóa học. Các đại thực bào xuất hiện nhiều trong lớp niêm mạc và tham gia vào phản ứng viêm do tiết ra các cytokin, các dưỡng bào có nhiều trong niêm mạc phế quản và là tế bào khởi phát phản ứng dị ứng tức thì khi tiếp xúc với DN… Do tác động của các tế bào viêm, các chất trung gian hóa học gây viêm, với sự tham gia của các cytokin, dẫn đến quá trình viêm phế quản, ngoài ra còn dẫn đến tình trạng co thắt phế quản, tăng tiết dịch và phù nề niêm mạc phế quản.
+
+#### *Quá trình co thắt phế quản*
+
+Co thắt phế quản là hậu quả của quá trình viêm và sự tác động của hệ thần kinh, ngoài ra tình trạng ion calci xâm nhập tế bào, các tế bào dưỡng bào vỡ hạt dự trữ giải phóng hàng loạt các chất trung gian hóa học cũng gây viêm và co thắt phế quản.
+
+Ngoài tác động của các chất trung gian hóa học gây viêm, người ta còn nhận thấy vai trò của các hệ thần kinh tự động (autonome), đó là:
+
+Hệ tiết cholin: Tiết acetylcholin làm giãn mạch, tăng tiết dịch và co thắt phế quản.
+
+Hệ giao cảm (adrenergic): Gây co mạch, co phế quản.
+
+Trong các chất trung gian hóa học gây viêm, vai trò của các leucotrien rất được chú ý, đây là sản phẩm chuyển hóa của acid arachidonic thông qua sự xúc tác của 5 - lypooxygenase hình thành hai typ leucotrien: Studio Peptid và LTB<sup>4</sup> có tác dụng co phế quản rất mạnh. Prostagladin, đặc biệt PGD2 , yếu tố hoạt hóa tiểu cầu (PAF) do dưỡng bào tiết ra thúc đẩy sự giải phóng histamin từ bạch cầu ái kiềm làm co thắt phế quản, bản thân PAF là chất trung gian hóa học thứ phát cũng làm co phế quản.
+
+#### *Gia tăng tính phản ứng phế quản*
+
+Tăng phản ứng phế quản với các yếu tố kích thích là đặc điểm quan trọng trong cơ chế bệnh sinh HPQ. Trong nhiều công trình nghiên cứu, các tác giả cho thấy mức độ tăng phản ứng phế quản phù hợp với mức độ viêm phế quản. Ngoài ra, sự gia tăng tính phản ứng phế quản còn có sự tham gia của các yếu tố môi trường, cơ trơn phế quản, thần kinh. Cơ trơn phế quản của người bệnh hen có phản ứng quá mức khi cho người bệnh hít các dược chất có tác dụng co thắt phế quản; phế quản đáp ứng co thắt một cách bất thường. Đây cũng là phản ứng quá mức của phế quản trước các tác nhân kích thích từ bên ngoài như dị nguyên, khói bụi các loại, không khí lạnh, gắng sức, các yếu tố vật lý, hóa học… Tình trạng này có thể do ở người HPQ có sự mất cân bằng hoạt động giữa hệ adrenergic và cholinergic, sự phản ứng bất thường của cơ trơn phế quản, sự gia tăng quá trình viêm phế quản, sự tăng nhạy cảm với dị nguyên. Tóm lại, từ ba quá trình viêm, co thắt phế quản, gia tăng tính phản ứng phế quản dần dần làm thay đổi tổ chức giải phẫu bệnh của phế quản do phù nề niêm mạc phế quản, phân hủy biểu mô phế quản và làm dày thêm màng cơ bản, phì đại cơ trơn phế quản, thâm nhiễm tế bào viêm.
+
+Ngoài ra, hậu quả của ba quá trình trên còn làm tăng số lượng tế bào tiết nhày, phì đại các tuyến dưới niêm mạc, giãn mạch và tạo nút nhày trong lòng phế quản.
+
+### **Các thuốc điều trị hen phế quản**
+
+Để giải quyết tình trạng viêm đường thở, co thắt phế quản và tăng phản ứng phế quản, trong điều trị người ta phải dùng thuốc chống viêm, giãn phế quản và giảm phản ứng phế quản.
+
+#### *Các thuốc điều trị cắt cơn và kiểm soát triệu chứng*
+
+*Thuốc kích thích beta<sup>2</sup> tác dụng nhanh SABA (Short Acting β<sup>2</sup> Agonist)*:
+
+Các thuốc nhóm này tác động trên thụ thể beta2 ở màng tế bào cơ trơn phế quản thông qua hoạt hóa enzym adenylcyclase làm tăng chuyển hóa ATP thành AMPc làm giãn cơ trơn. Ngoài ra thuốc cường beta2 còn có tác dụng giãn mạch, ức chế phóng thích các chất hóa học trung gian, tăng hoạt động bộ lông chuyển dẫn đến tác dụng tăng thải chất nhày, ngăn ngừa thoát mạch, tránh phù nề, ức chế co thắt phế quản do hệ thần kinh NANC (non-adrenergic non cholinergic) gây ra.
+
+Thuốc nhóm SABA có tác dụng cắt cơn nhanh (3 - 5 phút) khi dùng theo đường khí dung, tiêm. Thời gian tác dụng kéo dài 3 - 6 giờ tuỳ loại thuốc. Đây là thuốc tốt nhất dùng trong cấp cứu cơn hen. Các thuốc kích thích beta2 nhanh: Salbutamol và terbutalin, gồm các dạng thuốc như: Salbutamol dạng viên, 2 mg, 4 mg; salbutamol 0,5 mg tiêm dưới da hoặc nhỏ giọt tĩnh mạch qua máy truyền dịch; salbutamol 5 mg: Dạng khí dung qua máy; salbutamol dạng xịt.
+
+Các dạng thuốc khác: Terbutalin 5 mg (viên), terbutalin 0,5 mg (tiêm), terbutalin 5 mg khí dung, terbutalin dạng xịt.
+
+Tác dụng phụ có thể gặp: Nhịp tim nhanh, đau ngực, run cơ, hạ kali máu, đau đầu, mày đay.
+
+*Các thuốc kích thích beta<sup>2</sup> tác dụng chậm (LABA: Long Acting beta<sup>2</sup> Agonist)* như formoterol, salmeterol dùng để kiểm soát triệu chứng.
+
+Các thuốc nhóm LABA có tác dụng chậm (6 - 12 giờ) nên không dùng trong điều trị cắt cơn hen, thường dùng điều trị duy trì, kiểm soát hen vừa và nặng, ngăn chặn triệu chứng về đêm. Các thuốc này cần phối hợp với corticosteroid hít để làm tăng hiệu quả kiểm soát hen. Các thuốc nhóm LABA có tác dụng giãn phế quản và tăng khả năng chống viêm của corticosteroid khí dung, chỉ có tác dụng dự phòng hen.
+
+*Thuốc nhóm xanthin:*
+
+Được sử dụng từ lâu như theophylin, aminophylin. Các thuốc này có tác dụng giãn phế quản do ức chế enzym phosphodiesterase làm tăng AMPc trong tế bào. Theophylin còn có tác dụng chống viêm, điều hòa miễn dịch, bảo vệ phế quản.
+
+Do giới hạn an toàn giữa liều điều trị và liều độc của theophylin khá hẹp, nồng độ theophylin huyết tương cần thiết để có hiệu quả giãn phế quản tốt nhất là 10 - 20 mg/lít trong khi liều độc chỉ trên 20 mg/lít. Do tác dụng giãn phế quản của theophylin không bằng các thuốc kích thích β<sup>2</sup> , trong khi nguy cơ xuất hiện tác dụng không mong muốn cao nên thuốc này ít được lựa chọn đầu tiên trong điều trị cắt cơn hen. Các chế phẩm hay dùng là theophylin dạng uống và dung dịch tiêm aminophylin. Liều lượng như sau:
+
+Theophylin 100 mg: 4 viên/ngày, chia 2 lần.
+
+Hiện nay có dạng viên giải phóng chậm theophylin 100 mg, 200 mg, 300 mg, ngày uống 1 - 3 viên.
+
+Aminophylin 4,8%, ống 5 ml và 2,4%, ống 5 ml. Các thuốc này pha loãng tiêm tĩnh mạch chậm hoặc truyền nhỏ giọt tĩnh mạch.
+
+ADR: Làm tim đập nhanh, trống ngực, kích thích thần kinh gây mất ngủ, buồn nôn.
+
+*Thuốc kháng cholinergic*
+
+Acetylcholin được giải phóng từ thần kinh phó giao cảm gây co thắt phế quản do hoạt hóa các receptor muscarinic M<sup>3</sup> có trong cơ trơn phế quản. Các thuốc kháng cholinergic có tác dụng kháng acetylcholin nên gây giãn phế quản.
+
+Các thuốc này thường dùng phối hợp với các thuốc kích thích β<sup>2</sup> do tác dụng giãn phế quản không mạnh - thuốc được sử dụng là ipratropium bromid và oxitropium dùng dưới dạng hít và khí dung. ADR hay gặp là khô miệng, chán ăn.
+
+#### *Thuốc chống viêm corticosteroid*
+
+Corticosteroid là thuốc điều trị rất hiệu quả cho người bệnh hen bởi chúng làm giảm phản ứng viêm bằng cách làm giảm prostaglandin, làm tăng nồng độ một số phospholipid màng gây ức chế tổng hợp prostaglandin, corticosteroid làm giảm tính thấm mao mạch do ức chế hoạt tính của kinin và nội độc tố vi khuẩn, làm giảm lượng histamin do bạch cầu ưa bazơ tiết ra. Ngoài ra corticosteroid còn có tác dụng làm tăng đáp ứng của phế quản với các thuốc kích thích β<sup>2</sup> khởi phát tác dụng chậm 4 - 6 giờ. Có nhiều dạng bào chế corticosteroid khác nhau được sử dụng: Dạng thuốc viên, thuốc, tiêm, hít.
+
+*Thuốc tiêm:* Tiêm tĩnh mạch hoặc truyền tĩnh mạch chậm: Methylprednisolon 40 mg, depersolon 30 mg, dùng để điều trị cấp cứu cơn hen nặng, liều dùng 2 - 4 mg/kg cân nặng/ngày.
+
+*Thuốc viên:* Prednisolon 5 mg, methylprednisolon 4 mg và 16 mg, liều dùng 1 mg/kg cân nặng/ngày, uống buổi sáng sau khi ăn và giảm liều từ từ.
+
+*Thuốc dạng hít:* Corticosteroid dạng hít (inhaled corticosteroid-ICS) là thuốc hàng đầu trong điều trị dự phòng hen lâu dài.
+
+Các dạng thuốc, hàm lượng:
+
+Fluticason propionat: 125 mg x 60 và 120 liều. Fluticason propionat: 0,5 mg/2 ml x 5 ống/hộp. Budesonid: 100 microgam/liều (bình xịt 200 liều). Khí dung budesonid đơn liều 0,5 mg/ml: ống 1ml.
+
+Bột hít qua miệng budesonid 100 microgam, 200 microgam, ống 200 liều.
+
+Phun mù có định liều (metered dose inhale) budesonid 50 microgam, 200 microgam: Bình xịt 200 liều + đầu tra vào miệng. Beclomethason dipropionat 50 microgam/liều, bình xịt 200 liều. Corticosteroid dạng hít là thuốc điều trị viêm trong HPQ, chúng làm giảm triệu chứng cơn hen, giảm đáp ứng phế quản, giảm nhu cầu phải sử dụng SABA.
+
+ADR của các thuốc này có thể là nhiễm nấm *Candida* ở họng, khàn giọng, phù mạch, mày đay …
+
+#### *Thuốc giảm phản ứng phế quản*
+
+Thường dùng thuốc kháng histamin tổng hợp. Các thuốc này có tác dụng kháng viêm, tác dụng giãn phế quản yếu, nên được sử dụng trong điều trị dự phòng hen. Thuốc làm giảm triệu chứng, cải thiện chức năng phổi, giảm sự xuất hiện các cơn hen cấp. Một số thuốc hay dùng trong điều trị:
+
+Loratadin 10 mg x 1viên, ngày uống 1 viên.
+
+Cetirizin 10 mg x 1viên, ngày uống 1 viên.
+
+Fexofenadin 180 mg x 1viên, ngày uống 1 viên.
+
+Nhóm thuốc kháng leucotrien: Montelukast; zafirlukast (làm mất tác dụng của LTD<sup>4</sup> ).
+
+### **Các thuốc điều trị dự phòng kiển soát hen**
+
+Điều trị dự phòng kiểm soát hen có vai trò cực kỳ quan trọng nhằm cải thiện chất lượng sống do hạn chế đến mức thấp nhất các đợt hen cấp.
+
+Các thuốc kích thích β<sup>2</sup> kéo dài LABA và corticosteroid đều có tác dụng điều trị dự phòng kiểm soát hen, tuy nhiên khi dùng riêng rẽ, hiệu quả điều trị không cao. Khi phối hợp thuốc corticosteroid hít (ICS) với thuốc kích thích β<sup>2</sup> tác dụng dài dạng hít (LABA): Salmeterol hoặc formoterol thì đem lại sự kiểm soát hen tốt hơn bằng việc giảm các triệu chứng, cải thiện chức năng phổi và giảm hẳn những đợt kịch phát ở người bệnh hen nhẹ, trung bình, nặng. Hai thành phần này cùng có trong một ống hít với liều cố định salmeterol/fluticason propionat và formoterol/budesonid đang được sử dụng ngày càng nhiều.
+
+Sử dụng ống hít phối hợp hai loại thuốc trên dễ dàng và nhanh chóng kiểm soát triệu chứng và dễ dàng điều chỉnh liều. Ngoài ra còn làm giảm liều sử dụng corticosteroid đường toàn thân.
+
+Các dạng thuốc:
+
+*Salmeterol/fluticason propionat dạng xịt* có các hàm lượng 25/50 microgam, 25/125 microgam, 25/250 microgam, mỗi lần xịt 2 nhát, ngày xịt 2 lần sáng - tối.
+
+*Salmeterol/fluticason propionat dạng hít* có các hàm lượng 50/100 microgam, 50/250 microgam, 50/500 microgam, mỗi lần 1 nhát hít, ngày hít 2 lần.
+
+Các thuốc trên tùy mức hen nhẹ, vừa, nặng mà dùng liều thích hợp. Trẻ em thường dùng thuốc có hàm lượng 25/50 microgam.
+
+*Formoterol/budesonid dạng hít* (turbuhaler) có hàm lượng 160/4,5 microgam, mỗi lần hít 1 nhát, ngày hai lần và thêm một nhát hít khi cần thiết để cắt cơn, vì formoterol trong thành phần thuốc có tác dụng khởi phát giãn phế quản nhanh (3 - 5 phút), điều này cho thấy thuốc có thể vừa dùng để ngừa cơn vừa để cắt cơn nên được gọi là phương pháp SMART (Single Inhaler for Maintenance And Relief Therapy).
+
+ADR của thuốc là khàn giọng, nấm *Candida* miệng (sau khi dùng phải súc miệng bằng nước sạch), run tay, hồi hộp, có thể loạn nhịp tim, dùng kéo dài có thể làm chậm phát triển chiều cao ở trẻ em. Trong thực tế, khi đạt được sự kiểm soát triệu chứng với phác đồ 2 lần/ngày, việc điều chỉnh liều thấp nhất có hiệu quả có thể giảm số lần hít 1 lần/ngày.
+
+### **Các bước điều trị để đạt được kiểm soát hen**
+
+*Bước 1*: Thuốc cắt cơn khi cần.
+
+Bước này thường áp dụng đối với người bệnh hen nhẹ, thỉnh thoảng có triệu chứng ho, khò khè, khó thở, xảy ra ban ngày; ban đêm triệu chứng này xảy ra ngắn và nhẹ.
+
+Các thuốc hay dùng là thuốc kích thích β<sup>2</sup> tác dụng nhanh đường hít như salbutamol, hoặc các thuốc kháng cholinergic hít, thuốc kích thích β<sup>2</sup> tác dụng nhanh dùng uống hoặc theophylin cũng có thể được sử dụng.
+
+Đối với người bệnh hen vẫn khó thở khi vận động mặc dù hen được kiểm soát tốt hoặc đối với người bệnh hen mà triệu chứng khó thở xuất hiện khi vận động thì có thể dùng thuốc kích thích β<sup>2</sup> tác dụng nhanh trước khi vận động hoặc để giảm triệu chứng xuất hiện sau vận động. 
+
+*Bước 2*: Thuốc cắt cơn với một thuốc phòng cơn.
+
+Điều trị từ bước 2 đến bước 5 là sự kết hợp thuốc cắt cơn khi cần cùng với thuốc phòng cơn dùng đều đặn.
+
+Ở bước 2, corticoid hít liều thấp là thuốc phòng cơn để điều trị hen ở mọi lứa tuổi.
+
+Một loại thuốc phòng cơn khác là thuốc kháng leucotrien cũng được sử dụng trong trường hợp người bệnh không thể hay không muốn dùng corticoid hít do tác dụng phụ của thuốc này. Cũng có thể dùng theophylin giải phóng chậm, tuy nhiên thuốc này ít được khuyên dùng thường xuyên.
+
+*Bước 3*: Thuốc cắt cơn với 1 hay 2 thuốc phòng cơn.
+
+Thuốc này người ta thường kết hợp một thuốc corticoid hít liều thấp với thuốc kích thích β<sup>2</sup> tác dụng kéo dài vào trong một dụng cụ hít. Các thuốc hay sử dụng là salmeterol + fluticason propionat hoặc formoterol + budesonid.
+
+Các thuốc này làm giảm số lần kịch phát cơn hen và cải thiện kiểm soát hen ở liều điều trị thấp.
+
+Có thể phối hợp corticoid hít liều thấp với thuốc kháng leucotrien hoặc dùng theophylin giải phóng chậm liều thấp.
+
+*Bước 4*: Thuốc cắt cơn với 2 thuốc phòng cơn.
+
+Điều trị được khuyến cáo sử dụng là kết hợp corticoid hít liều trung bình hay liều cao với thuốc kích thích β<sup>2</sup> tác dụng kéo dài. Tuy nhiên, tăng liều điều trị corticoid hít từ trung bình sang liều cao ít có hiệu quả và liều cao chỉ được sử dụng trên cơ sở từ 3 - 6 tháng dùng liều corticoid hít trung bình kết hợp với thuốc kích thích β<sup>2</sup> kéo dài. Dùng corticoid hít liều cao kéo dài cũng tăng nguy cơ tác dụng phụ.
+
+Có thể dùng thuốc kháng leucotrien như là thuốc điều trị phối hợp với corticoid hít liều trung bình và cao hoặc kết hợp theophylin giải phóng chậm liều thấp với corticoid hít liều trung bình hoặc cao và thuốc kích thích β<sup>2</sup> tác dụng kéo dài cũng có kết quả tốt.
+
+*Bước 5*: Thuốc cắt cơn và các lựa chọn phòng cơn kết hợp
+
+Ngoài các thuốc cắt cơn thuộc nhóm kích thích β<sup>2</sup> kéo dài, kết hợp dùng corticoid tiêm hoặc uống. Cách dùng này thường có nhiều tác dụng phụ, do đó chỉ nên dùng phương pháp điều trị này nếu bệnh hen của người bệnh vẫn tiếp tục không kiểm soát được với các thuốc điều trị ở bước 4.
+
+### **Điều trị giảm bước khi hen được kiểm soát**
+
+Khi đã đạt được kiểm soát hen thì việc tiếp tục theo dõi người bệnh hen là cần thiết để duy trì kiểm soát hen và tìm được bậc điều trị thấp nhất. Mặt khác, hen là bệnh hay biến đổi, vì vậy điều trị hen phải được điều chỉnh kịp thời khi mất kiểm soát hen.
+
+Với thuốc dự phòng hen, tác dụng cải thiện triệu chứng bắt đầu có hiệu quả trong vài ngày sau khi dùng thuốc và chỉ cải thiện hoàn toàn phải sau 3 - 4 tháng. Đối với người bệnh nặng không được điều trị, thời gian có thể kéo dài hơn.
+
+Khi hen được kiểm soát, liều lượng thuốc có thể giảm như sau:
+
+Khi corticoid liều trung bình, liều cao dùng riêng lẻ có thể giảm liều 50% sau 3 tháng điều trị.
+
+Khi liều thấp corticoid hít mà kiểm soát được hen có thể dùng 1 lần/ngày.
+
+Khi người bệnh hen được kiểm soát bằng corticoid hít và thuốc kích thích β<sup>2</sup> kéo dài thì giảm liều corticoid hít 50% nhưng vẫn duy trì kích thích β<sup>2</sup> kéo dài. Nếu hen vẫn được kiểm soát tốt, tiếp tục giảm liều corticoid hít xuống liều thấp và không dùng thuốc kích thích β<sup>2</sup> kéo dài.
+
+Điều trị phòng cơn hen có thể ngừng nếu bệnh hen vẫn được kiểm soát ở liều corticoid thấp nhất và không có triệu chứng hen trong vòng 1 năm.
+
+### **Tăng bước điều trị khi hen không được kiểm soát**
+
+Điều trị hen phải được điều chỉnh thường xuyên khi hen không được kiểm soát 1 tháng sau khi đã tăng liều glucocorticoid gấp đôi thì tăng bậc điều trị. Các bước lựa chọn điều trị như sau:
+
+Sử dụng thuốc kích thích β<sup>2</sup> tác dụng ngắn liều cao để cắt cơn hen. Dùng corticoid đường tiêm tĩnh mạch hoặc uống, hoặc sử dụng corticoid hít và thuốc kích thích β<sup>2</sup> tác dụng nhanh, kéo dài để vừa cắt cơn, vừa phòng cơn.
+
+### **Cấp cứu cơn hen nặng, nguy kịch**
+
+#### *Các dấu hiệu biểu hiện cơn hen nặng, nguy kịch*
+
+Số lần thở > 30 lần/phút.
+
+Mạch nhanh > 120 lần/phút.
+
+Mạch nghịch đảo > 25 mmHg.
+
+Nghe phổi im lặng.
+
+Lưu lượng đỉnh PEF (Peak expiratory flow): < 60% so với lý thuyết.
+
+Tím tái.
+
+Nói: Từng từ.
+
+Tri giác: Bị kích thích, thường xuyên co kéo cơ hô hấp và hõm ức.
+
+PaO2 > 60 mmHg.
+
+PaCO2 < 45 mmHg.
+
+SaO2 < 90%.
+
+*Chú ý*: Chỉ cần một vài dấu hiệu (không cần thiết phải có tất cả) là có thể xếp loại hen nặng, nguy cơ.
+
+#### *Xử trí cơn hen nguy kịch (trong bệnh viện)*
+
+Thở oxy bóp bóng 10 lít/phút.
+
+Đặt nội khí quản hoặc mở khí quản nếu người bệnh ngạt thở.
+
+Adrenalin: Tiêm dưới da hoặc tiêm bắp trong hen cấp hoặc nguy kịch, mỗi lần 0,3 mg, cứ 5 - 10 phút tiêm nhắc lại.
+
+Thuốc giãn phế quản kích thích β<sup>2</sup> tác dụng nhanh. Tiêm tĩnh mạch salbutamol 0,5 mg/ống pha trong dung dịch glucose 5% tiêm bằng bơm tiêm điện hoặc máy truyền dịch với tốc độ truyền 0,3 mg/ giờ, có thể tăng liều tùy diễn biến nặng của bệnh, terbutalin sulfat 0,5 mg/ống truyền tĩnh mạch với liều giống salbutamol hoặc tiêm dưới da 0,5 mg/lần trong 4 - 6 giờ.
+
+Glucocorticosteroid: Tiêm tĩnh mạch methylprenisolon ống 40 mg x 2 ống hoặc hydrocortison ống 100 mg x 4 ống, cứ mỗi 4 - 6 giờ. Thuốc nhóm xanthin: Aminophylin 4,8% truyền tĩnh mạch
+
+0,5 mg/kg/giờ.
+
+Magnesi sulfat: Được dùng trong cấp cứu hen. Có tác dụng làm giảm số lần phải nhập viện, tuy nhiên đây không phải là thuốc được sử dụng thường xuyên. Liều lượng tiêm tĩnh mạch 2 g trong 20 phút hoặc lâu hơn.
+
+#### *Thuốc điều trị*
+
+Thở oxy qua mặt nạ (3 - 5 lít/phút).
+
+Thuốc giãn phế quản kích thích β<sup>2</sup> tác dụng nhanh (SABA). Đối với đợt cấp mức độ nhẹ đến vừa phải xịt họng 2 - 4 nhát cứ mỗi 20 phút trong giờ đầu tiên. Sau giờ đầu tiên, thuốc giãn phế quản kích thích β<sup>2</sup> phụ thuộc vào mức độ nghiêm trọng của cơn hen cấp. Nếu là đợt cấp nhẹ xịt 2 - 4 nhát trong 3 - 4 giờ, nếu hen mức độ vừa phải xịt 10 nhát trong 1 - 2 giờ.
+
+Các thuốc thường dùng: Salbutamol, terbutalin hoặc ipratropium + salbutamol xịt vào buồng đệm (spacer) để tăng hiệu quả của thuốc. Nếu tình trạng khó thở không giảm phải chuyển đến cơ sở cấp cứu bệnh viện.
+
+*Glucocorticosteroid:*
+
+Uống prednisolon 0,5 mg - 1 mg/kg cân nặng.
+
+Hoặc tiêm tĩnh mạch 40 - 80 mg methylprednisolon.
+
+*Thuốc nhóm xanthin:*
+
+Aminophylin 4,8% (5 ml) hoặc 2,4% (5 ml) pha với 10 ml dung dịch glucose 5% tiêm tĩnh mạch chậm hoặc truyền tĩnh mạch 0,4 - 0,6 mg/kg/phút.
+
+### **Điều trị hen trẻ em**
+
+Thuốc điều trị hen cho trẻ em bao gồm glucocorticoid dạng hít, kháng leucotrien, theophylin, cromones và LABA dạng uống.
+
+#### *Glucocorticoid dạng hít*
+
+Trong điều trị hen cho trẻ em thì dạng thuốc hít được coi là nền tảng và do đó được khuyến cáo dùng cho trẻ em ở mọi lứa tuổi.
+
+**Bảng 1: Liều lượng glucocorticoid dạng hít ở trẻ trên 5 tuổi**
+
+| Thuốc                                     | Liều thấp<br>(microgam) | Liều trung<br>bình<br>(microgam) | Liều cao**<br>(microgam) |
+|-------------------------------------------|-------------------------|----------------------------------|--------------------------|
+| Beclomethason dipropionat                 | 100 - 200               | > 200 - 400                      | > 400                    |
+| Budesonid***                              | 100 - 200               | > 200 - 400                      | > 400                    |
+| Budesonid<br>Neb Inhalation<br>suspension | 250 - 500               | > 500 - 1 000                    | > 1 000                  |
+| Ciclesonid***                             | 80 - 160                | > 160 - 320                      | > 320                    |
+| Flunisolid                                | 500 - 750               | > 750 - 1 250                    | > 1 250                  |
+| Fluticason                                | 100 - 200               | > 200 - 500                      | > 500                    |
+| Mometason<br>furoat*                      | 100 - 200               | > 200 - 400                      | > 400                    |
+| Triamcinolon acetonid                     | 400 - 800               | > 800 - 1 200                    | > 1 200                  |
+
+#### Ghi chú:
+
+- So sánh dưa trên số liêu hiệu quả.
+- \*\* Khi dùng liều cao hàng ngày (trừ khi dùng ngắn hạn) cần tham khảo ý kiến thầy thuốc để có quyết định sử dụng phối hợp thuốc ngừa cơn hợp lý. Vì khi dùng liều cao kéo dài có thể có tác dụng phụ của thuốc.
+- \*\*\* Có thể cho dùng liều duy nhất trong ngày ở những người bệnh nhẹ.
+
+#### Kháng leucotrien
+
+Thuốc kháng leucotrien có tác dụng cải thiện triệu chứng lâm sàng ở tất cả các mức độ hen ở trẻ trên 5 tuổi.
+
+Thuốc thường dùng montelukast: Trẻ em 2 - 5 tuổi mỗi ngày nhai 1 viên 4 mg hoặc 1 gói 4 mg cốm hạt để uống. Trẻ 6 - 14 tuổi mỗi ngày nhai 1 viên 5 mg. Tác dụng không mong muốn có thể phát ban, ngứa, rất hiếm khi có ảo giác, buồn ngử.
+
+#### Thuốc kích thích β, tác dụng nhanh (SABA)
+
+Thường sử dụng dạng xịt, đây là phương pháp điều trị tốt nhất để cắt cơn hen cho mọi lứa tuổi ở trẻ em. Có thể xịt salbutamol hoặc terbutalin sulfat, dạng uống chỉ dùng cho trẻ không thể dùng thuốc dang xit.
+
+#### Theophylin
+
+Việc sử dụng theophylin đã làm cải thiện mức độ kiểm soát hen và giảm liều glucocorticoid.
+
+Nồng độ theophylin được duy trì trong huyết tương từ 55 - 100 micromol/lít (5 - 10 microgam/ml), tương ứng với liều 10 mg/kg/ngày.
+
+### **Điều trị cơn hen kịch phát ở trẻ em**
+
+#### Đặc điểm lâm sàng
+
+Cơn khó thở khò khè ngày càng tăng, tím tái.
+
+Thở nhanh, nông (trên 2 tuổi: 30 - 50 lần/phút).
+
+Co rút lồng ngực.
+
+Mạch nhanh (trên 2 tuổi: 110 - 130 lần/phút).
+
+Kích thích, vật vã, quấy khóc.
+
+#### Xử trí cấp cứu
+
+*Thở oxy qua mặt nạ* (mask) để duy trì  $SaO_2 \ge 95\%$ .
+
+Thuốc kích thích β, tác dụng nhanh
+
+Xịt salbutamol hoặc terbutalin sulfat tùy mức độ kịch phát: 2 - 4 nhát mỗi 20 phút trong giờ đầu, sau đó 2 - 4 nhát sau 3 - 4 giờ nếu nhẹ. Mức độ trung bình 6 - 10 nhát trong 1 - 2 giờ.
+
+Có thể tiêm dưới da salbutamol 0,5 mg: Trẻ 5 tuổi với liều 5 microgam/kg/lần, trên 5 tuổi 0,15 - 0,5 mg/lần.
+
+Nếu không có kết quả truyền tĩnh mạch: Salbutamol hoặc terbutalin sulfat liều 1 - 1,5 microgam/kg cân nặng.
+
+Thuốc kháng cholinergic
+
+Xịt ipratropium bromid 2 - 3 nhát/lần, hoặc khí dung ipratropium bromid cho trẻ dưới 5 tuổi là 1/2 ống, trẻ trên 5 tuổi là 1 ống (250 microgam/2 ml).
+
+ADR: Khô miệng, kích thích họng, có thể gặp nhịp tim nhanh, trống ngưc.
+
+Thuốc nhóm xanthin
+
+Tiêm tĩnh mạch chậm aminophylin 4,8% (5 ml) liều 5 - 7 mg/kg/ lần pha với 20 ml dung dịch glucose 5%.
+
+Glucocorticoid toàn thân
+
+Trong cấp cứu thường dùng tiêm tĩnh mạch 1 - 2 mg/kg cân nặng. Bệnh ổn định dùng đường uống.
+
+### **Những điều cần chú ý khi điều trị hen**
+
+#### Những thuốc không được dùng khi điều trị cơn hen cấp.
+
+Các thuốc an thần.
+
+Thuốc làm loãng đờm, giảm ho.
+
+Kháng sinh.
+
+Bù dịch số lượng lớn.
+
+#### Đối với phụ nữ mang thai
+
+Phụ nữ bị hen khi mang thai trước hết phải được kiểm soát hen triệt để nhằm giảm thấp nhất số lần có cơn khó thở ảnh hưởng đến thai nhi.
+
+Khi lên cơn khó thở thuốc dạng hít kích thích  $\beta_2$  tác dụng nhanh (SABA) được ưu tiên sử dụng đầu tiên.
+
+Khi có cơn hen nặng vẫn sử dụng các thuốc cấp cứu hen như những người bệnh khác.
+
+## **SỬ DỤNG HỢP LÝ THUỐC KHÁNG ĐỘNG KINH**
+
+### **Đại cương**
+
+Động kinh là một hội chứng bệnh lý của não có thể do nhiều nguyên nhân khác nhau gây ra có đặc điểm là sự tái diễn của các cơn kích thích tế bào thần kinh ở não gây hoạt động phóng lực kịch phát được thể hiện trên lâm sàng và qua một số xét nghiệm cận lâm sàng đặc hiệu.
+
+Khoảng 1% dân số thế giới mắc động kinh. Hàng năm ước có 20 - 25 trường hợp mới phát hiện trên 100 000 người và số người bệnh có ít nhất một cơn động kinh trong cuộc đời là 5%. Tài liệu của Tổ chức Y tế thế giới (WHO) và Liên hội quốc tế chống động kinh (ILAE) cho biết hiện ước tính có 50 triệu người bệnh động kinh trên thế giới trong đó 80% thuộc các nước đang phát triển. Ở các nước phát triển tỷ lệ mới phát hiện hàng năm là 24 - 53 đối với 100 000 người, còn ở các nước đang phát triển là 49,3 - 190 đối với 100 000 người.
+
+Lịch sử tự nhiên của động kinh bắt đầu từ tuổi ấu thơ. Khoảng 2% trẻ dưới 2 tuổi và 7% trẻ dưới 5 tuổi mắc động kinh; một nửa tổng số người bệnh nói chung có cơn đầu tiên vào lúc 15 tuổi và hơn 75% người bệnh thấy xuất hiện động kinh trước 18 tuổi. Ở người trên 60 tuổi, tỷ lệ bệnh mới phát hiện hàng năm khoảng 100 đối với 100 000 người.
+
+Năm 1981, Liên hội quốc tế chống động kinh đã đưa ra bảng Phân loại các cơn động kinh hiện vẫn được sử dụng rộng rãi.
+
+### **Phân loại**
+
+Bảng 1: Phân loại quốc tế các cơn động kinh (1981)
+
+1. Cơn toàn bộ
+
+Cơn vắng ý thức:
+
+a. Điển hình (động kinh cơn nhỏ).
+
+b. Không điển hình.
+
+Cơn rung giật cơ.
+
+Cơn giật (clonic).
+
+Con co cúng/trương lực (tonic).
+
+Con co cứng/co giật (tonico - clonic).
+
+Con mất trương lực (atonic, astatic).
+
+- 2. Cơn cục bộ
+- 2.1. Cơn cục bộ đơn thuần (không biến đổi ý thức):
+- a. Với dấu hiệu vận động.
+- b. Với dấu hiệu cảm giác cơ thể hoặc giác quan.
+- c. Với dấu hiệu thực vật.
+- d. Với dấu hiệu tâm thần.
+- 2.2. Cơn cục bộ phức hợp (kèm biến đổi ý thức):
+- a. Khởi phát cục bộ đơn thuần tiếp nối có rối loạn ý thức và/ hoặc động tác tự động.
+- b. Với rối loạn ý thức ngay lúc khởi phát cơn, có hoặc không kèm theo động tác tự động.
+- 2.3. Cơn cục bộ toàn bộ hóa thứ phát:
+- a. Cơn cục bộ đơn thuần toàn bộ hóa thứ phát.
+- b. Cơn cục bộ phức hợp toàn bộ hóa thứ phát.
+- c. Cơn cục bộ đơn thuần tiến triển sang cơn cục bộ phức hợp rồi toàn bộ hóa thứ phát.
+
+- 3. Cơn không phân loại được
+
+Năm 1989, Liên hội quốc tế chống động kinh, căn cứ vào Bảng Phân loại quốc tế (1981 - 1985) về các cơn co giật, động kinh và các hội chứng động kinh, đã đề xuất bốn nhóm lớn trình bày dưới đây. Tuy sau đó (1991) một Phân loại mới đã được đề nghị nhưng đến nay Phân loại 1989 vẫn được sử dụng phổ biến.
+
+**Bảng 2: Phân loại quốc tế các cơn động kinh (1989).**
+
+- 1. Động kinh cục bộ:
+- 1.1. Nguyên phát:
+- a. Động kinh lành tính tuổi thơ có kịch phát vùng đỉnh.
+- b. Động kinh lành tính tuổi thơ có kịch phát vùng chẩm.
+- c. Động kinh tiên phát khi đọc.
+- 1.2. Triệu chứng:
+- a. Hội chứng Kojenikov hoặc động kinh cục bộ tiếp diễn.
+- b. Động kinh thùy não.
+    Động kinh thùy thái dương.
+    Động kinh thùy trán.
+    Động kinh thùy đỉnh.
+    Động kinh thùy chẩm.
+- 1.3. Căn nguyên ẩn.
+- 2. Động kinh toàn bộ:
+- 2.1. Nguyên phát:
+    Co giật sơ sinh lành tính.
+    Co giật sơ sinh lành tính gia đình.
+    Động kinh rung giật cơ lành tính tuổi thơ.
+    Động kinh cơn vắng tuổi thơ.
+    Động kinh cơn vắng tuổi thiếu niên.
+    Động kinh rung giật cơ thiếu niên.
+    Động kinh có cơn lớn lúc thức giấc.
+    Động kinh có cơn xảy ra theo cách kích thích đặc hiệu. Các động kinh toàn bộ nguyên phát khác.
+
+- 2.2. Căn nguyên ẩn hoặc triệu chứng.
+    Co thắt trẻ thơ.
+    Hội chứng West.
+    Hội chứng Lennox-Gastaut.
+    Động kinh với cơn rung giật cơ - mất trương lực.
+    Động kinh với cơn vắng - rung giật cơ.
+
+- 2.3. Triệu chứng:
+    Không có nguyên nhân đặc hiệu.
+    Bệnh não rung giật cơ sớm.
+    Bệnh não động kinh trẻ em (hội chứng Ohtahara).
+    Các hội chứng khác.
+    Hội chứng đặc hiệu.
+
+- 3. Động kinh không xác định được cục bộ hay toàn bộ.
+- 3.1. Kết hợp cơn cục bộ và toàn bộ:
+    Cơn động kinh sơ sinh.
+    Động kinh rung giật cơ nặng.
+    Động kinh có nhọn - sóng liên tục khi ngủ.
+    Động kinh có thất ngôn mắc phải (hội chứng Landau-Kleffner).
+
+- 3.2. Các động kinh khác không rõ cục bộ hay toàn bộ.
+- 4. Hội chứng đặc biệt
+- 4.1. Cơn liên quan đến một tình trạng gây động kinh thoáng qua: Co giật do sốt cao; Cơn chỉ xảy ra do một yếu tố chuyển hóa hoặc nhiễm độc.
+- 4.2. Cơn đơn độc, động kinh liên tục đơn độc.
+
+### **Chẩn đoán**
+
+Chẩn đoán động kinh chủ yếu là chẩn đoán lâm sàng dựa trên hỏi bệnh, thăm khám toàn diện, hệ thống để có thể đặt chẩn đoán quyết định, thể bệnh và nguyên nhân.
+
+Cơn động kinh là một hiện tượng cấp tính, xảy ra nhất thời, thoáng qua còn bệnh động kinh là tình trạng diễn ra các cơn động kinh tái phát, mạn tính, trong nhiều năm. Như vậy một cơn động kinh duy nhất không tạo nên bệnh động kinh và những cơn động kinh xảy ra bất chợt thoáng qua cũng không phải là bệnh động kinh. Mặt khác không có loại động kinh nào không có cơn lâm sàng cũng như không chỉ có một bệnh động kinh mà có nhiều loại động kinh khác nhau.
+
+Về lâm sàng cần phân biệt các cơn động kinh với các cơn có biểu hiện thần kinh nhưng không do não (ví dụ cơn hạ calci huyết, hạ đường huyết...), các cơn không phải là động kinh (ví dụ cơn đau nửa đầu, thiếu oxy não, cơn ngất, cơn đột quỵ não...) và các cơn do căn nguyên tâm lý.
+
+Để giúp chẩn đoán lâm sàng còn cần tới các thăm dò chức năng và xét nghiệm cận lâm sàng như: Ghi điện não, ghi điện cơ, ghi điện tim, siêu âm mạch não, chụp hình ảnh não (chụp cắt lớp vi tính, chụp cộng hưởng từ, chụp mạch máu...), chụp X - quang qui ước khoang ngực, sinh hóa máu và nước tiểu, vi sinh y học, v.v.
+
+Tuy nhiên cơ bản phải dựa trên các đặc điểm lâm sàng - điện não mô tả dưới đây.
+
+#### *Cơn động kinh toàn bộ* (Động kinh cơn lớn)
+
+Trên lâm sàng, ý thức của người bệnh bị mất hoặc rối loạn kèm với những triệu chứng thực vật (hô hấp, tuần hoàn, bài tiết...) đồng thời với những hiện tượng vận động cân đối hai bên cơ thể là co giật (co cứng và/hoặc co giật), mất động tác chủ động, mất trương lực cơ bình thường.
+
+Trên bản ghi điện não thấy xuất hiện các phóng lực kịch phát toàn bộ hai bên bán cầu một cách đồng thì và cân xứng. Sự phóng lực của các tế bào thần kinh bị kích thích gây ra cơn động kinh có thể khởi phát ngay từ hai bán cầu não hoặc cũng có thể khởi phát từ một vị trí nào đó của một bên bán cầu rồi sau lan ra toàn bộ não. Do đó có thể phân biệt các cơn động kinh toàn bộ với các cơn động kinh cục bộ toàn bộ hóa thứ phát.
+
+#### *Cơn động kinh vắng ý thức* (Động kinh cơn nhỏ)
+
+Đặc điểm chủ yếu của động kinh cơn nhỏ thuần túy ở trẻ em là những cơn vắng ý thức. Đó là những cơn động kinh toàn bộ không có biểu hiện về mặt vận động, diễn ra ngắn trong vài chục giây (thường không quá nửa phút) và xuất hiện nhiều lần trong ngày (có thể hàng chục lần). Biểu hiện các cơn đó có thể đơn thuần hoặc phức hợp. Trong cơn vắng ý thức đơn thuần, bệnh nhi đột ngột mất cảnh tỉnh và tiếp xúc, không bị ngã, mi mắt chớp với nhịp độ 3 lần/giây, không đều, mắt hơi đảo ngược. Cơn dứt cũng đột ngột và bệnh nhi tiếp tục hoạt động bỏ dở lúc mới xảy ra cơn và không hề biết bản thân vừa qua một cơn vắng ý thức. Trong cơn vắng ý thức phức hợp, ngoài những chi tiết nêu trên, còn có thêm một số biểu hiện khác như: Rung giật cơ mặt hoặc ở gốc các chi trên, đầu có thể bị ngả ra sau hoặc mất trương lực cơ cục bộ; có các động tác tự động như nhai, nuốt, gãi mũi, xoa bàn tay, cởi khuy, cài khuy, nói líu ríu; đồng thời có thể kèm theo các hiện tượng thực vật khác. Trên bản ghi điện não xuất hiện nhịp 3 chu kỳ/giây, toàn bộ, hai bên, đối xứng, đều đặn và đồng thì với ưu thế vùng trán - trung tâm. Ngoài cơn, hình ảnh điện não có thể bình thường hoặc có kịch phát ngắn, không đều ở vùng đỉnh - chẩm.
+
+Bệnh thường xảy ra ở trẻ từ 3 - 9 tuổi, có thể giảm nhẹ sau 10 - 15 tuổi hoặc cũng có thể khỏi hoàn toàn. Một số trường hợp có thể tiếp diễn sau này và có khi xảy ra các cơn toàn bộ của động kinh cơn lớn.
+
+#### *Cơn động kinh cục bộ*
+
+Trên lâm sàng xuất hiện các triệu chứng vận động, cảm giác, giác quan và/hoặc tâm trí, không có tính chất hai bên hoặc toàn thể như các cơn động kinh toàn bộ phản ánh sự phóng lực các kích thích giới hạn ở một diện vỏ não nhất định liên quan đến các chức năng thần kinh riêng biệt.
+
+Trên bản ghi điện não xuất hiện các hình ảnh bất thường cục bộ, có thể không thấy rõ khi ghi điện não ở bề mặt.
+
+Ngoài ra một cơn động kinh cục bộ có thể được tiếp nối sau một thời gian ngắn bằng một cơn động kinh toàn bộ (co giật kèm với mất ý thức) nhưng không thể vì cơn co giật thứ phát đó mà thay đổi chẩn đoán ban đầu là cơn động kinh cục bộ.
+
+#### *Cơn động kinh liên tục* (trạng thái động kinh)
+
+Đây là cơn động kinh kéo dài hoặc xảy ra liên tiếp trong những khoảng cách ngắn dẫn đến tình trạng không dứt được động kinh. Động kinh liên tục có thể gặp đối với loại cơn toàn bộ cũng như cục bộ; đặc biệt có khi xảy ra sau ngưng thuốc điều trị động kinh một cách đột ngột. Nguy cơ đối với người bệnh bị động kinh liên tục là sẽ xảy ra các rối loạn thực vật như tăng thân nhiệt (sốt quá cao), tim nhịp nhanh, khó thở, trụy tim - mạch và có thể dẫn tới tử vong.
+
+### **Điều trị kháng động kinh**
+
+#### *Nguyên tắc thiết yếu*
+
+Có hai điểm cơ bản là phải kiểm soát được cơn động kinh và không để xảy ra các tác dụng không mong muốn. Như vậy, sau khi đặt chẩn đoán:
+
+Thầy thuốc điều trị lựa chọn loại thuốc căn cứ vào thể bệnh, loại cơn lâm sàng, thể trạng người bệnh. Phần lớn chỉ dùng một loại thuốc nhất định với điều kiện giữ được nồng độ thuốc điều trị trong máu sao cho đạt hiệu quả là cắt được cơn lâm sàng mà không gây tác dụng khó chịu cho người bệnh.
+
+Thuốc được chỉ định dùng hàng ngày (có thể chia hai hoặc ba lần), chủ yếu là thuốc uống, đúng theo liều qui định. Người bệnh không được tự ý tăng, giảm hoặc ngừng thuốc đột ngột.
+
+Không bao giờ kết hợp hai thứ thuốc cùng nhóm hóa học với nhau, ví dụ phenobarbital với primidon hoặc diazepam,...
+
+Có kế hoạch kiểm tra định kỳ các chức năng máu, gan, thận của người bệnh sau dùng thuốc.
+
+Hướng dẫn người bệnh có chế độ dinh dưỡng, sinh hoạt, lao động, tập luyện, nghỉ ngơi thích hợp với tình trạng bệnh tật.
+
+#### *Lựa chọn thuốc kháng động kinh*
+
+Một thuốc kháng động kinh có thể có nhiều tính chất sinh học thần kinh. Một số thuốc tác động theo một phương thức chủ yếu, một số khác có hoạt tính sinh học phức tạp hơn liên quan đến kích cỡ của phổ tác động điều trị. Một cách khái quát có thể nói rằng phương thức tác động ảnh hưởng tới các đặc tính của màng nội tại các tế bào thần kinh hoặc các yếu tố khớp thần kinh (sự truyền dẫn thần kinh). Hiện nay, chưa rõ cơ chế tác động của một số phân tử như acid valproic, gabapentin. Đối với các phân tử khác, các cơ chế đó bao gồm: ổn định màng tế bào chẹn các kênh natri phụ thuộc điện thế (phenytoin, carbamazepin, oxcarbazepin, lamotrigin, topiramat); chẹn các kênh calci phụ thuộc điện thế (ethosuximid); tăng tác động ức chế của acid gammaaminobutyric (GABA) do tác động chủ vận thụ thể GABA-A (benzodiazepin, phenobarbital, topiramat), do ức chế hóa giáng (vigabatrin) hoặc ức chế tái nhập khớp thần kinh (tiagabin) của GABA; ức chế giải phóng các acid amin kích thích, glutamat và aspartat (lamotrigin); chẹn thụ thể NMDA (N-methyl-D-aspartat) như felbamat; chẹn các thụ thể nhận glutamat loại kainat/AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) như topiramat.
+
+Về mặt dược lý học, khi lựa chọn thuốc kháng động kinh còn phải chú ý tới các tính chất dược động học như: thời gian đạt nồng độ tối đa, tỷ lệ gắn protein, thời gian bán thải, nồng độ huyết tương và tính sinh khả dụng. Những thông số dược động học này khác nhau đáng kể ở người trưởng thành và trẻ em đối với một số phân tử kháng động kinh có thể giải thích được sự khác nhau về mặt liều lượng chỉ định hàng ngày và nồng độ huyết tương được khuyến cáo trong bảng dưới đây (Bảng 3).
+
+Về mặt điều trị, ngoài những nguyên tắc thiết yếu đã nêu trên, còn phải cân nhắc phương thức xử trí động kinh dùng một thuốc (đơn trị liệu) hay phối hợp nhiều thuốc (đa trị liệu).
+
+Bao giờ cũng bắt đầu chỉ định một loại thuốc. Lựa chọn thuốc ban đầu này dựa trên thể động kinh, hoạt tính đã biết của phân tử thuốc, khả năng dung nạp (thường nên chọn loại thuốc khi sử dụng lâu dài ít gây tác dụng không mong muốn nhất, đặc biệt đối với chức năng nhận thức) và hoàn cảnh kinh tế - xã hội của người bệnh. Để tránh tác dụng an thần lúc mới dùng thuốc, nên tăng dần liều mỗi lần cách nhau từ 7 đến 10 ngày (riêng phenytoin có thể cho dùng ngay liều duy trì) và cho uống thuốc vào cuối bữa ăn. Khi điều trị bằng một loại thuốc chưa đạt hiệu quả cần xem xét lý do vì chưa cho đủ liều cần thiết hoặc vì phân tử thuốc không phù hợp với bệnh cảnh lâm sàng. Trường hợp không phù hợp sẽ phải thay đổi loại thuốc khác và vẫn chỉ nên chỉ định một loại kháng động kinh.
+
+Xu hướng hiện nay là sau khi dùng một thuốc không đạt hiệu quả sẽ chuyển sang cho người bệnh dùng kết hợp hai loại thuốc phù hợp. Kết hợp hai loại thuốc với việc sử dụng các phân tử khác nhau thường mang lại kết quả tốt tuy nhiên cần chú ý tới tương tác thuốc. Do đó cần thận trọng thăm dò khi bổ sung, kết hợp hoặc thay thế một loại thuốc mới đặc biệt chú ý tới tác động lâm sàng và liều lượng. Thực tế cho thấy không cần phải thử tất cả các phối hợp thuốc khác nhau; theo kinh nghiệm của các thầy thuốc điều trị có tới 90% trường hợp người bệnh mắc động kinh toàn bộ nguyên phát được kiểm soát tốt các cơn khi thực hiện đúng dùng một thuốc hoặc kết hợp hai thuốc. Thuật ngữ "kháng thuốc" hoặc "kháng trị" được đề cập tới nếu sau 2 năm tiến hành "điều trị đúng" mà vẫn còn có cơn dai dẳng. Khi đó người bệnh cần được thăm khám đánh giá lại tại một trung tâm chuyên khoa sâu về thần kinh học.
+
+Thông thường kết hợp ba loại thuốc ít có khả năng đạt hiệu quả mong muốn. Trái lại khi dùng nhiều thuốc khác nhau dễ xảy ra tương tác thuốc, liều lượng quá tải và độc tính gia tăng.
+
+### **Các thuốc kháng động kinh chủ yếu (kinh điển)**
+
+Từ trước tới nay, các thuốc này thường được lựa chọn ưu tiên hàng đầu trong điều trị các thể động kinh. Tổ chức Y tế thế giới cũng khuyến cáo sử dụng các thuốc này trong Danh mục các thuốc thiết yếu. *Hướng dẫn sử dụng cụ thể và các thông tin quan trọng liên quan của nhiều thuốc kháng động kinh đã được biên soạn trong từng chuyên luận thuốc*.
+
+| Tên thuốc     | Thời gian<br>đạt nồng độ<br>tối đa<br>(giờ) | Tỷ lệ phần gắn<br>protein<br>(%) | Nửa đời thải trừ<br>(giờ)    | Nồng độ huyết<br>tương<br>mg/lít<br>(mmol/lít) | Sinh khả<br>dụng<br>(%) | Liều lượng<br>mg/kg/ngày     |
+|---------------|---------------------------------------------|----------------------------------|------------------------------|------------------------------------------------|-------------------------|------------------------------|
+| Phenobarbital | 4 - 18                                      | 45 - 60                          | 20 - 40 (NL)<br>40 - 70 (TE) | 15 - 30<br>(65 - 130)                          | 90                      | 2 - 3 (NL)<br>3 - 4 (TE)     |
+| Primidon      | 6 - 8                                       | 0 - 20                           | 6 - 22                       | 5 - 10                                         | 100                     | 10 - 15                      |
+| Phenytoin     | 4 - 8                                       | 90                               | 13 - 95                      | 10 - 20<br>(40 - 80)                           | 90                      | 3 - 5 (NL)<br>5 - 8 (TE)     |
+| Ethosuximid   | 3 - 7                                       | 10                               | 60 (NL)<br>30 (TE)           | 40 - 80<br>(300 - 600)                         | 100                     | 15 - 20 (NL)<br>20 - 25 (TE) |
+| Carbamazepin  | 4 - 8                                       | 80                               | 5 - 16                       | 5 - 12<br>(20 - 50)                            | 80                      | 10 - 20 (NL)<br>20 - 25 (TE) |
+| Valproat      | 3 - 8                                       | 90                               | 8 - 16                       | 50 - 100<br>(350 - 700)                        | 100                     | 15 - 20 (NL)<br>20 - 30 (TE) |
+| Vigabatrin    | 1 - 2                                       | 0                                | 5 - 7                        | -                                              | 100                     | 20 - 55 (NL)<br>40 - 80 (TE) |
+| Felbamat      | 2 - 6                                       | 25                               | 13 - 20                      | -                                              | 90                      | 15 - 45 (NL)<br>15 - 45 (TE) |
+| Gabapentin    | 2 - 3                                       | 0                                | 5 - 7                        | -                                              | 35 - 65                 | 15 - 35                      |
+| Lamotrigin    | 3                                           | 55                               | 30                           | -                                              | 100                     | 3 - 7 (NL)<br>5 - 15 (TE)    |
+| Tiagabin      | 2                                           | 95                               | 7 - 9                        | -                                              | 100                     | 0,5 - 1                      |
+| Topiramat     | 3 - 4                                       | 13 - 17                          | 20                           | -                                              | 90                      | 3 - 15                       |
+| Oxcarbazepin  | 4 - 5                                       | 40                               | 8 - 10                       | -                                              | 100                     | 10 - 30 (NL)<br>10 - 45 (TE) |
+| Levetiracetam | 1 - 3                                       | 10                               | 6 - 8                        | -                                              | 100                     | 15 - 45 (NL)                 |
+| Diazepam      | 2 - 5                                       | 95                               | 20 - 40                      | 300 - 450                                      | 75 - 100                | 0,5                          |
+| Clobazam      | 1 - 4                                       | 90                               | 20                           | 10 - 30                                        | 90                      | 0,1                          |
+| Clonazepam    | 1 - 4                                       | 85                               | 20 - 40                      | 10 - 30                                        | 90                      | 0,05                         |
+
+**Bảng 3: Một số thông số được động học và nồng độ huyết tương của thuốc kháng động kinh.**
+
+Ghi chú: NL là người lớn; TE là trẻ em.
+
+#### *Valproat*
+
+Valproat được tổng hợp từ năm 1882 là một thuốc kháng động kinh mạnh với phổ rộng có tác dụng đối với mọi loại cơn, động kinh toàn bộ, động kinh cục bộ hoặc động kinh phức hợp, và không gây ngủ. Thuốc được dung nạp khá tốt và khi sử dụng lâu dài không ảnh hưởng tới các chức năng nhận thức.
+
+Valproat được chỉ định trong các trường hợp: Động kinh toàn bộ nguyên phát (cơn lớn, cơn nhỏ, cơn rung giật cơ), động kinh cục bộ (bao gồm cả động kinh Bravais-Jackson), động kinh phức hợp, hội chứng West, hội chứng Lennox-Gastaut. Ngoài ra, có thể sử dụng đề phòng co giật do sốt cao ở trẻ em, rối loạn tác phong do động kinh, thói tật (tic) ở trẻ em, nấc không kìm được.
+
+#### *Carbamazepin*
+
+Carbamazepin được tổng hợp năm 1961 có phổ rộng kháng động kinh từ các cơn cục bộ đến các cơn toàn bộ hóa thứ phát. Thuốc được chỉ định điều trị các loại động kinh cục bộ vì hiệu quả lâm sàng, được dung nạp tốt và không gây rối loạn chức năng nhận thức khi sử dụng lâu dài. Thuốc không được khuyến cáo đối với động kinh toàn bộ nguyên phát vì có thể làm nặng hơn các cơn vắng ý thức điển hình và các cơn rung giật cơ.
+
+Ngoài ra có thể điều trị đau thần kinh mặt (đau dây V) nguyên phát. Trong tâm thần học có thể kết hợp điều trị hưng cảm và dự phòng loạn thần chu kỳ tái phát.
+
+#### *Phenytoin*
+
+Phenytoin được dùng trong điều trị động kinh từ năm 1938, có tác dụng kháng động kinh từ các cơn cục bộ đến các cơn toàn bộ hóa thứ phát. Thuốc không có hiệu quả đối với các cơn vắng ý thức điển hình và lại có thể làm cho các cơn đó nặng lên. Vì thuốc có tác động an thần nên chế phẩm dạng tiêm được sử dụng trong điều trị động kinh liên tục. Phenytoin được chỉ định điều trị mọi thể động kinh trừ động kinh cơn nhỏ. Thuốc còn có tác dụng chống đau đối với đau dây thần kinh V. Ngoài ra có thể dùng chống loạn nhịp tim trong nhịp nhanh cấp, bệnh Bouveret, nhiễm độc digitalis.
+
+#### *Phenobarbital*
+
+Phenobarbital là một thuốc kháng động kinh cổ điển được sử dụng từ năm 1912 để điều trị động kinh. Thuốc có tác dụng đối với tất cả các thể lâm sàng của động kinh trừ các cơn vắng ý thức của động kinh cơn nhỏ. Do đó được chỉ định chủ yếu đối với động kinh cơn lớn và các cơn động kinh cục bộ.
+
+Hiện nay do các tác dụng không mong muốn của thuốc nên phenobarbital không được khuyến cáo dùng đầu tiên trong điều trị động kinh. Khi sử dụng lâu ngày, thuốc có thể làm giảm mức nhanh nhạy của trí tuệ và khả năng tập trung chú ý, gây bệnh cảnh đau loạn dưỡng v.v.
+
+### **Các thuốc kháng động kinh mới**
+
+Đây là những được chất phân từ được tổng hợp trong nửa sau của thế kỷ XX và được sử dụng trong lâm sàng những năm gần đây. Thuật ngữ "thuốc kháng động kinh mới" nêu lên sự tương phản với các thuốc kháng động kinh cổ điển hoặc thường được dùng phổ biến từ trước tới nay. Điều đáng chú ý là các loại thuốc mới này thường được chỉ định đối với các trường hợp động kinh khó chữa trị sau khi đã được dùng các thuốc kháng động kinh chủ yếu, thứ yếu, hỗ trợ hoặc kết hợp không đạt hiệu quả. Do đó cần thận trọng khi cho chỉ định các thuốc mới, đặc biệt đối với các trường hợp bênh nhi dưới 12 tuổi.
+
+Các thuốc kháng động kinh mới ít gây tương tác thuốc hơn các thuốc cổ điển, được dung nạp tốt hơn và ít ảnh hưởng tới các chức năng nhận thức. Tuy nhiên với giá thành cao và các phân tích tổng hợp từ các nghiên cứu ngẫu nhiên được kiểm soát trên các nhóm đối tượng khác nhau còn đang được tiếp tục tiến hành đặc biệt đối với động kinh khó chữa trị là những điểm thầy thuốc điều trị cần cân nhắc khi muốn thay thế hoặc loại bỏ hoàn toàn các thuốc được coi là kinh điển.
+
+#### **Oxcarbazepin**
+
+Oxcarbazepin có công thức hóa học gần giống carbamazepin và bị epoxid hóa như carbamazepin do đó được dung nạp tốt hơn và chuyển hóa của thuốc không bị ảnh hưởng khi chức năng gan bị suy giảm. Chất chuyển hóa được loại theo đường thận nên khi suy thận nặng cần phải giảm liều oxcarbazepin.
+
+Oxcarbazepin được chỉ định giống như carbamazepin và các thuốc kháng động kinh chủ yếu khác, mặt khác có thể thay thế hoặc bổ sung oxcarbazepin vào carbamazepin. Vì phổ tác động kháng động kinh hẹp nên thuốc này bị chống chỉ định trong các động kinh nguyên phát.
+
+#### **Gabapentin**
+
+Gabapentin là một thuốc kháng động kinh có cấu trúc hóa học rất gần với acid gamma aminobutyric (GABA) nhưng thực tế thực nghiệm và lâm sàng cho thấy thuốc này không có tác động đến thụ thể GABA. Trong một chừng mực nào đó, gabapentin giống như valproat nhưng khác phenytoin và carbamazepin. Ngoài ra gabapentin không bị chuyển hóa và được thải trừ nguyên dạng. Thuốc được chỉ định dùng đơn thuần hoặc kết hợp trong điều trị động kinh cục bộ ở người lớn và trẻ em trên 12 tuổi. Đối với bệnh nhi từ 2 đến 12 tuổi phải điều trị kết hợp. Thuốc không được chỉ định trong động kinh toàn bộ nguyên phát vì có thể làm cho loại
+
+#### **Levetiracetam**
+
+cơn vắng ý thức trở nên nặng hơn.
+
+Levetiracetam được nghiên cứu từ năm 1980 và được dùng kết hợp điều trị động kinh từ năm 1991. Đây là một dẫn xuất của pyrolidon, được hấp thu nhanh và ít gắn với protein huyết tương. Cơ chế tác động hiện chưa được rõ nhưng dường như không giống cơ chế tác động của các thuốc kháng động kinh thông dụng khác.
+
+Levetiracetam có tác dụng đối với mọi thể động kinh cục bộ và có thể có hiệu quả đối với một số hội chứng động kinh toàn bộ, đặc biệt là các thể có rung giật cơ. Thuốc thường được chỉ định trong các trường hợp động kinh cục bộ kháng trị ở người lớn. Khi dùng hỗ trợ đối với động kinh cục bộ có hoặc không có toàn bộ hóa thứ phát cũng như dùng trong đơn trị liệu, thuốc đã cho thấy có hiệu quả và an toàn. Levetiracetam có rất ít tác dụng thứ phát, tuy nhiên ở người cao tuổi cần phải giảm liều vì độ thanh thải thường thấp hơn bình thường. Thuốc không có biểu hiện tương tác với các thuốc kháng động kinh khác trừ khi lượng phenytoin gần tới mức bão hòa.
+
+#### **Vigabatrin**
+
+Vigabatrin là chất gamma-vinyl của acid gamma aminobutyric, một chất ức chế không hồi phục của GABA-tranaminase và do đó làm tăng hàm lượng GABA trong não, chất trung gian thần kinh ức chế chính của hệ thần kinh trung ương.
+
+Thuốc được chỉ định ưu tiên điều trị hội chứng West khi sử dụng một thuốc. Đối với động kinh cục bộ, có thể kết hợp với vigabatrin khi các thuốc điều trị khác không mang lại hiệu quả. Thuốc bị chống chỉ định trong động kinh nguyên phát có các cơn vắng ý thức điển hình và rung giật cơ. Nói chung vigabatrin được dung nạp tốt. Bất tiện chủ yếu là có thể gây hẹp thị trường đồng tâm ở 30 - 50% người bệnh, do đó chỉ nên cho dùng "khi tuyệt đối cần thiết sau khi các điều trị kết hợp khác không đủ hoặc không được dung nạp".
+
+#### **Felbamat**
+
+Felbamat được tổng hợp từ họ carbamat là một chất ức chế men mạnh, được hấp thu nhanh và tính sinh khả dụng cao. Tuy có nhiều cơ chế tác động và hiệu quả đôi khi khá cao nhưng thuốc được dung nạp ở mức trung bình và có ảnh hưởng tới các chức năng nhận thức. Vấn đề lớn nhất là khả năng gây viêm gan mạnh và gây bất sản tủy có thể dẫn đến từ vong. Ở nước ngoài, chỉ định hợp pháp hiện nay dành cho người bệnh mắc hội chứng Lennox - Gastaut kháng tri.
+
+#### **Lamotrigin**
+
+Lamotrigin là một phenyltriazin có phổ tác động kháng động kinh rộng bao gồm cả các cơn cục bộ và cơn toàn bộ. Do đó thuốc được chỉ định đối với động kinh toàn thể hoặc cục bộ ở người lớn và trẻ em trên 12 tuổi trong đơn trị liệu hoặc kết hợp. Ở bệnh nhi dưới 12 tuổi, có thể cho điều trị kết hợp với lamotrigin nếu thuốc dùng ban đầu chưa đạt hiệu quả.
+
+#### **Tiagabin**
+
+Tiagabin là một chất ức chế đặc hiệu tái hấp thu GABA ở khớp thần kinh, tế bào thần kinh và tế bào thần kinh đệm. Thuốc được hấp thu nhanh, chuyển hóa mạnh và 95% được gắn với protein huyết tương.
+
+Thuốc được dùng kết hợp, bổ sung trong động kinh cục bộ ở người lớn
+
+#### **Topiramat**
+
+Topiramat là một thuốc kháng động kinh phổ rộng được chỉ định trong điều trị kết hợp, bổ sung đối với động kinh cục bộ ở người lớn và trẻ em trên 4 tuổi cũng như trong các động kinh có cơn toàn bộ co giật kháng trị.
+
+Thuốc có tác động an thần, gây rối loạn tập trung và ngôn ngữ, biến đổi tác phong; mặt khác gây chán ăn, giảm thể trọng và đặc biệt có nguy cơ cao gây sởi thận, glôcôm góc hẹp thứ phát.
+
+#### **Fosphenytoin**
+
+Fosphenytoin là một este của phenytoin và chuyển thành phenytoin trong cơ thể. 750 mg fosphenytoin tương đương với 500 mg phenytoin. Thuốc được dùng dưới dạng thuốc tiêm bắp hoặc tĩnh mạch do đó có thể sử dụng trong điều trị động kinh liên tục và dự phòng các cơn động kinh liên tiếp sau chấn thương hoặc sau phẫu thuật thần kinh.
+
+### **Các thuốc hỗ trợ kháng động kinh**
+
+Đây là các thuốc thường được dùng bổ sung, kết hợp hoặc thay thế khi điều trị bằng các thuốc kháng động kinh chủ yếu chưa đạt hiệu quả mong muốn.
+
+#### *Benzodiazepin*
+
+Đây là những thuốc tác động tâm trí nhưng đặc biệt lại có tác dụng kháng động kinh mạnh và nhanh đối với mọi loại cơn. Mặt bất tiện là tuy có hiệu lực tức thời nhưng khi người bệnh đã quen thuốc thì cơn động kinh dễ tái phát một đôi lần trong vòng sáu tháng đầu, có khi ngay từ tuần thứ hai. Do đó khi tăng liều thuốc có thể dễ dẫn đến sự xuất hiện các dấu hiệu của độc tính, mặt khác khi ngừng thuốc có thể xảy ra hội chứng cai thuốc với sự xuất hiện của nhiều cơn động kinh.
+
+Có năm dẫn xuất thường dùng là diazepam, clonazepam, nitrazepam, clobazam và clorazepam.
+
+Diazepam và clonazepam được dùng đường tĩnh mạch trong điều trị cấp cứu các cơn động kinh liên tiếp hoặc động kinh liên tục (trạng thái động kinh). Riêng diazepam có thể dùng đường hậu môn để dự phòng và điều trị co giật do sốt cao kéo dài.
+
+Clobazam và nitrazepam có thể được sử dụng điều trị hỗ trợ đối với một số thể động kinh kháng trị hoặc trong một số trường hợp như: điều trị từng đợt ngắn ngày một vài thể động kinh cường phát vào chu kỳ kinh, điều trị một vài thể động kinh xảy ra khi ngủ đêm.
+
+### **Một số thuốc khác**
+
+*Ethosuximid* có tác dụng đặc hiệu đối với các cơn vắng ý thức điển hình và cũng có thể dùng điều trị các cơn vắng ý thức không điển hình và các cơn rung giật cơ.
+
+*Primidon* là loại thuốc chuyển hóa trong cơ thể thành phenobarbital do đó khó phân biệt đặc tính riêng của thuốc này so với phenobarbital.
+
+*Pheneturid* là loại thuốc phối hợp phenobarbital với phenytoin theo những liều nhất định do đó có thể kê đơn bào chế theo y lệnh của thầy thuốc điều trị.
+
+Một số thuốc mới như Ativan (lorazepam dạng tiêm), zonisamid, losigamon, stiripentol, remacemid, ralitolin, pregabalin và nhiều phân tử mới nữa hiện đang được tiếp tục nghiên cứu trên thế giới.
+
+### **Tương tác thuốc và tác dụng không mong muốn của thuốc kháng động kinh**
+
+Có rất nhiều tương tác giữa các thuốc kháng động kinh là hậu quả của sử dụng nhiều loại thuốc (đa trị liệu). Các tương tác đó thường hay gặp đối với các thuốc kháng động kinh kinh điển hơn là các phân tử mới. Nói chung, cần chú ý tới tác động cảm ứng men của phenobarbital, phenytoin, primidon và carbamazepin cũng như tác động ức chế men của valproat và felbamat.
+
+Cùng với các tác dụng tích cực chủ yếu là cắt được cơn lâm sàng, các thuốc kháng động kinh đều có một số tác dụng không mong muốn nhất định. Các tác dụng đó có thể liên quan đến các phản ứng đặc ứng, liều lượng thuốc, thời gian dùng thuốc và thể trạng người bệnh.
+
+Các phản ứng đặc ứng có thể xảy ra cấp tính, bất ngờ, không phụ thuộc vào liều lượng thuốc, ảnh hưởng tới tiên lượng sinh mạng của người bệnh nên cần phải ngừng sử dụng. Đối với các thuốc kinh điển (như phenytoin, carbamazepin, phenobarbital) và lamotrigin (khi dùng kèm valproat), thường gặp các hội chứng quá mẫn gây sốt, phát ban ngoài da, đau khớp, sưng hạch và nếu không ngừng thuốc, có thể tiến triển sang suy gan - thận hoặc hội chứng Stevens-Johnson hay hội chứng Lyell. Các phản ứng nặng khác bao gồm viêm gan miễn dịch - dị ứng (đối với felbamat, phenytoin, carbamazepin, valproat) và bất sản tủy không hồi phục (với felbamat, carbamazepin). Ở một số người bệnh đã có tiền sử loạn thần, vigabatrin có thể gây loạn thần cấp tính. Rất hiếm gặp viêm tụy do valproat cũng như giảm tiểu cầu thường không rõ triệu chứng. Topiramat cũng có khi gây glôcôm góc hẹp thứ phát.
+
+Các phản ứng không đặc ứng, tùy thuộc vào liều lượng thuốc và thời gian sử dụng, có thể xuất hiện sớm, muộn hoặc lặng lẽ. Các thuốc đã biết như phenobarbital, phenytoin, primidon, benzodiazepin thường ảnh hưởng tới chức năng nhận thức và khả năng rèn tập. Phenytoin có thể gây teo tiểu não. Vigabatrin dùng lâu dài có thể gây hẹp thị trường đồng tâm.
+
+Ngoài ra một số tác dụng không mong muốn khác tùy thuộc vào liều lượng và thời gian sử dụng bao gồm: Hội chứng tiền đình - tiểu não khi quá liều phenytoin hoặc khi tăng quá nhanh liều carbamazepin; hạ natri huyết do oxcarbazepin; bệnh não lú lẫn do tiagabin; thèm ăn nhiều do valproat và vigabatrin; chán ăn do felbamat và topiramat; ảnh hưởng tới thẩm mỹ khi điều trị lâu dài (phenytoin và phenobarbital); đau khớp muộn do phenobarbital.
+
+### **Một số vấn đề liên quan đến điều trị**
+
+#### *Thời kỳ mang thai*
+
+Tương tác giữa thai nghén và động kinh là một vấn đề phức tạp và được bàn luận nhiều. Ở phụ nữ có thai, người ta nhận thấy 1/4 số trường hợp, tần số cơn động kinh có xu hướng tăng lên lúc đầu, lúc cuối thai kỳ và ngay sau khi sinh con. Ngoài các nguy cơ đối với thai phụ, các cơn động kinh có thể gây thiếu oxy nhất thời cho thai nhi và gây đẻ non.
+
+Ở người phụ nữ động kinh có thai khi đang điều trị, có thể xem xét sử dụng liều thuốc tối thiểu để ngừa cơn động kinh bằng cách nếu có thể sẽ chuyển đa trị liệu sang đơn trị liệu và nên cho dùng loại thuốc giải phóng kéo dài, theo dõi nồng độ huyết tương của thuốc. Mặt khác có thể tăng số lần uống thuốc trong ngày. Nếu gia đình có tiền sử gai đôi cột sống, nên tránh dùng valproat và carbamazepin. Người bệnh cũng nên dùng bổ sung acid folic khoảng hai tháng trước khi thụ thai, mỗi ngày 10 mg. Để đề phòng hội chứng chảy máu ở trẻ em sơ sinh bị phơi nhiễm với các thuốc gây cảm ứng men (phenobarbital, phenytoin, carbamazepin, primidon) có thể cho thêm mỗi ngày 10 mg vitamin K bắt đầu từ tuần thụ thai thứ 36. Đồng thời phải cho dùng đều đặn thuốc kháng động kinh cho tới ngày sinh con.
+
+#### *Thời kỳ cho con bú*
+
+Các thuốc kháng động kinh nói chung đều được phân bố vào sữa mẹ, tuy nhiên nồng độ thuốc thường thấp hơn so với nồng độ thuốc trong huyết tương người mẹ. Như vậy trẻ nhỏ bú sữa mẹ được cho là an toàn đối với các thuốc kháng động kinh khi người mẹ dùng liều thông thường. Các thuốc như carbamazepin, ethosuximid, phenytoin, valproat thường có thể dùng khi phụ nữ cho con bú. Cần thận trọng đối với phenobarbital và primidon vì các tác dụng không mong muốn. Hiện chưa có nhiều tài liệu về các thuốc kháng động kinh mới liên quan đến vấn đề trẻ bú sữa mẹ.
+
+#### *Giảm liều thuốc và ngừng điều trị*
+
+Điều trị động kinh thời gian lâu dài cần được lượng giá định kỳ. Khi người bệnh được ổn định đã lâu, có thể xem xét giảm bớt số lượng các thuốc phối hợp trong đa trị liệu. Thông thường trước tiên có thể giảm hoặc bỏ bớt loại thuốc có hiệu lực thấp nhất, nhất là khi đang kết hợp trên hai loại kháng động kinh. Điều quan trọng là việc thay đổi liều lượng thuốc phải hết sức thận trọng, từng bước và kéo dài trong nhiều tuần.
+
+Đối với trường hợp người bệnh đã không có cơn động kinh từ 2 - 5 năm, có thể cân nhắc việc giảm dần rồi ngừng điều trị. Việc giảm dần liều có thể kéo dài từ 6 đến 18 tháng, đồng thời với việc tiếp tục theo dõi lâm sàng và hình ảnh điện não.
+
+### **Kết luận**
+
+Tiêu chuẩn chủ yếu của hiệu quả điều trị là kiểm soát được tối ưu các cơn động kinh. Trên nguyên tắc, thầy thuốc điều trị phải theo dõi diễn biến lâm sàng trong quá trình người bệnh được dùng thuốc kháng động kinh. Ngoài việc kiểm tra lâm sàng và điện não đồ, cần theo dõi thường quy các xét nghiệm sinh học, đặc biệt chú ý tới các thông số gan, thận và các chỉ số huyết học. Ở một số trung tâm y tế chuyên khoa có trang thiết bị phù hợp, có thể tiến hành định lượng thuốc kháng động kinh trong huyết tương vài tuần sau khi bắt dầu dùng thuốc và sau đó mỗi năm từ 1 - 2 lần.
+
+## **SỬ DỤNG HỢP LÝ THUỐC KHÁNG HIV CHO NGƯỜI BỆNH HIV/AIDS**
+
+Từ khi đưa các thuốc chống retrovirus (ARV) vào điều trị người bệnh nhiễm HIV tỷ lệ sống sót đã được cải thiện nhiều, tỷ lệ mắc các nhiễm khuẩn cơ hội giảm ở người bị bệnh AIDS. Người được điều trị ARV và được chăm sóc duy trì điều trị có thể sống nhiều năm như một bệnh mạn tính, nhưng không khỏi bệnh. Mục đích điều trị là làm ức chế sự nhân lên của virus trong máu, tạo phục hồi hệ thống miễn dịch, cải thiện chất lượng sống.
+
+Có nhiều loại thuốc ARV tấn công virus bằng nhiều đường khác nhau. Vì lý do đó, điều trị ngày nay bao giờ cũng phối hợp nhiều thuốc. Các thuốc được dùng phổ biến nhất gồm 3 loại: Các thuốc nucleosid ức chế enzym sao chép ngược (NRTI), các thuốc không phải nucleosid ức chế enzym sao chép ngược (NNRTI) và các thuốc ức chế protease. Một loại thuốc mới - thuốc ức chế đường vào (entry inhibitors) - ngăn cản HIV vào tế bào T là điều tối quan trọng để duy trì đáp ứng miễn dịch của người bệnh. Tất cả các thuốc chống retrovirus đều có tác dụng không mong muốn khác nhau và ảnh hưởng đến cách dùng thuốc thế nào và người bệnh uống thuốc như thế nào.
+
+Vấn đề kháng thuốc rất quan trọng. Khi số lượng virus rất cao trong máu, như lúc bắt đầu điều trị đòi hỏi phải tuân thủ dùng thuốc đều. Nếu quên uống một vài liều ở giai đoạn này, nguy cơ phát triển virus kháng thuốc cao hơn rất nhiều so với sau 6 tháng điều trị đều. Để ngăn phát triển virus kháng thuốc, đòi hỏi phải tuân thủ dùng thuốc ít nhất ở mức 95% trong thời gian điều trị và đặc biệt trong 6 tháng đầu. Điều này rất khó thực hiện. Khi bị kháng thuốc, phác đồ điều trị bậc 1 không còn tác dụng, người bệnh bắt đầu bị nhiễm khuẩn cơ hội và truyền virus kháng thuốc sang người khác. Lúc đó phải thay sang phác đồ bậc 2 (hàng 2) đắt tiền hơn nhiều và có các tác dụng không mong muốn khác phác đồ trước.
+
+Khi nào bắt đầu liệu pháp ARV ở người lớn và thiếu niên: Sau khi được xác định chẩn đoán (theo Việt Nam): Mẫu huyết thanh dương tính cả 3 lần với 3 loại sinh phẩm khác nhau. Tổ chức Y tế thế giới (WHO) nhấn mạnh tầm quan trọng dùng các thông số lâm sàng để quyết định khi nào thì bắt đầu cho điều trị. Tuy vậy, phân loại lâm sàng để quyết định bắt đầu điều trị và giám sát liệu pháp ART được tốt hơn nếu có thêm thông tin về số lượng tế bào CD4 lúc bắt đầu và sau này điều trị.
+
+Chẩn đoán và điều trị HIV/AIDS được thực hiện theo *Hướng dẫn chẩn đoán và điều trị HIV/AIDS (Ban hành kèm theo Quyết định số 3003/QĐ-BYT ngày 19/8/2009 của Bộ trưởng Bộ Y tế)* và Quyết định số 4139/QĐ-BYT ngày 02/11/2011 của Bộ trưởng Bộ Y tế về việc sửa đổi, bổ sung một số nội dung trong "Hướng dẫn chẩn đoán và điều trị HIV/AIDS" ban hành kèm theo Quyết định số 3003/ QĐ-BYT ngày 19/8/2009 của Bộ trưởng Bộ Y tế.
+
+Chuyên đề Sử dụng hợp lý thuốc kháng HIV cho người bệnh HIV/ AIDS trong Dược thư quốc gia Việt Nam được biên soạn ngắn gọn dựa trên các hướng dẫn chuyên môn của Bộ Y tế, với mong muốn giúp thầy thuốc và cán bộ y tế có tài liệu tham khảo trong công tác sử dụng các thuốc kháng HIV cho người bệnh HIV/AIDS.
+
+### **A. ĐIỀU TRỊ CHO NGƯỜI LỚN NHIỄM HIV**
+
+#### **I. ĐIỀU TRỊ BẰNG THUỐC KHÁNG HIV (Điều trị ARV)**
+
+##### **1. Các nhóm thuốc ARV được sử dụng tại Việt Nam**
+
+Nhóm ức chế enzym sao chép ngược nucleosid và nucleotid (NRTI).
+
+Nhóm ức chế enzym sao chép ngược không phải là nucleosid (NNRTI).
+
+Nhóm ức chế enzym protease (PI).
+
+###### **1.1. Nhóm ức chế enzym sao chép ngược nucleosid và nucleotid (NRTI)**
+
+ Abacavir (ABC) Zidovudin (AZT) Didanosin (ddI) Stavudin (d4T) Lamivudin (3TC) Tenofovir (TDF)
+
+###### **1.2. Thuốc ức chế enzym sao chép ngược non-nucleosid (NNRTI)**
+
+Efavirenz (EFV)
+
+Nevirapin (NVP)
+
+###### **1.3. Thuốc ức chế protease (PI)**
+
+ Atazanavir + Ritonavir (ATV/r) Lopinavir/Ritonavir (LPV/r)
+
+Ritonavir (RTV)
+
+###### **Các loại thuốc ARV không nên kết hợp với nhau**
+
+Không nên kết hợp d4T với AZT (vì có hiện tượng đối kháng), hoặc d4T kết hợp với ddI (dinanosin), hoặc ddI với ddc (zalcitabin) hoặc d4T với ddc hoặc ddc với 3TC (lamivudin) vì sẽ làm tăng độc tính của thuốc và gây nhiều phản ứng phụ.
+
+*Khi dùng 3 loại thuốc ARV:* 
+
+Không nên kết hợp các thuốc tenofovir với lamivudin và với abacavir, hoặc tenofovir với lamivudin và với didanosin vì làm xuất hiện chủng đột biến kháng thuốc K65R và làm điều trị thất bại vì ức chế virus rất sớm và tỷ lệ thất bại rất cao.
+
+Không kết hợp tenofovir với didanosin và bất kỳ loại thuốc ức chế enzym sao chép ngược không thuộc nhóm nucleosid (NNRTI) vì có tỷ lệ cao thất bại ức chế HIV.
+
+Thuốc ddI nên dùng cho phác đồ điều trị thứ 2.
+
+Không kết hợp nelfinavir với ritonavir.
+
+*Xem hướng dẫn chi tiết về sử dụng các thuốc ARV trong các chuyên luận riêng.*
+
+##### **2. Tiêu chuẩn bắt đầu điều trị ARV**
+
+Người nhiễm HIV có số lượng tế bào TCD4 ≤ 350 tế bào/mm<sup>3</sup> không phụ thuộc giai đoạn lâm sàng hoặc
+
+Người nhiễm HIV ở giai đoạn lâm sàng 3, 4, không phụ thuộc số lượng tế bào TCD4.
+
+##### **3. Các phác đồ điều trị ARV bậc một**
+
+###### **3.1. Phác đồ chính**
+
+TDF + 3TC + EFV hoặc TDF + 3TC + NVP
+
+Chỉ định: Sử dụng một trong hai phác đồ này cho tất cả các người bệnh bắt đầu điều trị ARV.
+
+*3.1.1. Phác đồ TDF + 3TC + EFV*
+
+Liều lượng và cách sử dụng:
+
+TDF: Liều lượng 300 mg uống 1 lần/ngày.
+
+3TC: Liều lượng 300 mg uống 1 lần/ngày.
+
+EFV: Liều lượng 600 mg uống 1 lần/ngày vào buổi tối.
+
+Xét nghiệm creatinin/độ thanh thải creatinin trước khi điều trị và định kỳ 6 tháng/lần. Điều chỉnh liều khi người bệnh có suy thận, cụ thể như sau:
+
+*Bảng 1. Độ thanh thải creatinin và liều TDF*
+
+| Độ thanh thải creatinin và liều TDF     |                                             |                                                                |                                  |  |
+|-----------------------------------------|---------------------------------------------|----------------------------------------------------------------|----------------------------------|--|
+| > 50<br>ml/phút                         | 30 - 49<br>ml/phút                          | 10 - 29<br>ml/phút                                             | < 10<br>ml/phút                  |  |
+| Ngày uống<br>1 lần 1 viên<br>TDF 300 mg | Hai ngày uống 1<br>lần 1 viên TDF<br>300 mg | 3 - 4 ngày<br>uống 1 lần 1 viên<br>TDF 300 mg<br>(tuần 2 viên) | Không có<br>chỉ định<br>điều trị |  |
+
+3.1.2. Phác đồ TDF + 3TC + NVP
+
+Liều lượng và cách sử dụng:
+
+TDF: Liều lượng 300 mg uống 1 lần/ngày.
+
+3TC: Liều lượng 300 mg 1 lần/ngày.
+
+NVP: Liều lượng 200 mg  $\times$  1 lần/ngày trong 2 tuần, sau đó tăng lên 2 lần/ngày.
+
+Uống thuốc cách nhau 12 giờ, có thể uống thuốc lúc đói hoặc lúc no. Xét nghiệm ALT trước điều trị, sau 1 tháng và sau đó 6 tháng/lần. Thận trọng khi sử dụng NVP trên người bệnh có ATL > 2,5 lần trị số bình thường, người bệnh điều trị lao phác đồ có rifampicin, phụ nữ có CD4 > 250 tế bào/mm³.
+
+Xét nghiệm creatinin/độ thanh thải creatinin trước khi điều trị và định kỳ 6 tháng/1 lần và điều chỉnh liều khi người bệnh có suy thận (như trên).
+
+###### **3.2. Phác đồ thay thế**
+
+AZT + 3TC + EFV hoặc AZT + 3TC + NVP
+
+Chi định: Sử dụng một trong hai phác đồ này khi người bệnh có chống chỉ đinh với TDF.
+
+3.2.1. Phác đồ AZT + 3TC + EFV
+
+Liều lượng và cách sử dụng:
+
+AZT: Liều lượng 300 mg, 2 lần/ngày.
+
+3TC: Liều lượng 150 mg, 2 lần/ngày.
+
+EFV: Liều lượng 600 mg, 1 lần/ngày vào buổi tối.
+
+Uống AZT + 3TC cách nhau 12 giờ, EFV vào buổi tối. Không dùng EFV cùng thức ăn có nhiều chất béo.
+
+Xét nghiệm Hgb trước điều trị, sau 1 tháng và sau đó 6 tháng/lần hoặc khi nghi ngờ có thiếu máu.
+
+Không bắt đầu điều trị phác đồ này cho người bệnh khi Hgb < 80 g/lít và/hoặc phụ nữ có thai trong 3 tháng đầu. Không dùng EFV cho người bênh tâm thần (hiện tại hoặc tiền sử).
+
+3.2.2. Phác đồ AZT + 3TC + NVP
+
+Liều lượng và cách sử dụng:
+
+AZT: Liều lượng 300 mg 2 lần/ngày.
+
+3TC: Liều lượng 150 mg 2 lần/ngày.
+
+NVP: Liều lượng 200 mg 1 lần/ngày, trong 2 tuần, sau đó tăng lên 2 lần/ngày.
+
+Uống AZT + 3TC cách nhau 12 giờ, có thể uống lúc đói hoặc lúc no.
+
+Xét nghiệm ALT trước điều trị, sau 1 tháng và sau đó 6 tháng/lần. Thận trọng khi sử dụng NVP trên người bệnh có ATL > 2,5 lần trị số bình thường, người bệnh điều trị lao phác đồ có rifampicin, phụ nữ có CD4 > 250 tế bào/mm³.
+
+Xét nghiệm creatinin/độ thanh thải creatinin trước khi điều trị và định kỳ 6 tháng/1 lần và điều chỉnh liều khi người bệnh có suy thận (như trên).
+
+##### **4. Tác dụng không mong muốn (ADR) của các thuốc ARV và xử trí**
+
+Phân loại mức độ tác dụng không mong muốn của các thuốc ARV và xử trí (xem trong các chuyên luận riêng).
+
+###### 4.1. Tác dụng không mong muốn nhẹ của thuốc ARV:
+
+Xuất hiện sớm và có thể tư khỏi.
+
+Bảng 2. Những tác dụng không mong muốn nhẹ của các thuốc ARV và xử trí
+
+| Các triệu chứng | Xử trí                                                        |  |
+|-----------------|---------------------------------------------------------------|--|
+| Buồn nôn        | Nên uống thuốc cùng với thức ăn.                              |  |
+| Tiêu chảy       | Bù nước và điện giải. Có thể sử dụng loperamid.               |  |
+| Đau đầu         | Dùng paracetamol. Nếu liên tục trong 2 tuần cần khám lại.     |  |
+| Mệt mỏi         | Thường chỉ kéo dài 4 - 6 tuần, nếu lâu hơn cần thăm khám lại. |  |
+
+| Khó chịu ở bụng       | Nếu xuất hiện liên tục cần khám lại.                                                                                                                       |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nổi mẫn nhẹ           | Điều trị bằng thuốc kháng histamin. Nếu<br>nặng, xem xét khả năng có phản ứng quá mẫn<br>với thuốc.                                                        |
+| Buồn ngủ              | Uống thuốc trước khi đi ngủ.                                                                                                                               |
+| Mất ngủ               | Có thể dùng thuốc hỗ trợ. Nếu người bệnh<br>mất ngủ nhiều do EFV, có thể chuyển EFV<br>sang uống buổi sáng nhưng không nên sử<br>dụng máy móc hoặc lái xe. |
+| Ác mộng,<br>chóng mặt | Thường xảy ra khi uống EFV và kéo dài không quá 3 tuần.                                                                                                    |
+
+###### 4.2. Xử trí một số tác dụng không mong muốn chủ yếu trong điều trị ARV bậc 1
+
+4.2.1. Thiếu máu do AZT
+
+Thiếu máu thường xảy ra trong 4 - 6 tuần đầu sử dụng AZT. Cần loại trừ các nguyên nhân khác gây ra thiếu máu hoặc suy tuỷ.
+
+Bảng 3. Xác định mức độ thiếu máu và xử trí
+
+| Mức độ                                    | Hgb (g/lít) | Xử trí                                                                                                                                                                                    |
+|-------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Mức độ 1<br>(Nhẹ)                         | 80 - 94     | Tiếp tục dùng AZT.<br>Bổ sung vi chất: Vitamin B <sub>12</sub> , viên sắt,                                                                                                                |
+| Mức độ 2<br>(Trung<br>bình)               | 70 - 79     | acid folic, tư vấn về chế độ ăn. Xét nghiệm công thức máu lại sau 1, 3 tháng. Nếu tình trạng người bệnh ổn định hoặc cải thiện thì tiếp tục dùng AZT và tư vấn về khẩu phần ăn thích hợp. |
+| Mức độ 3<br>(Nặng)                        | 65 - 69     | Thay AZT bằng d4T hoặc TDF sau khi loại trừ các nguyên nhân khác có thể gây thiều máu hoặc suy tuỷ.  Truyền khối hồng cầu hoặc máu toàn phần.  Bổ sung vi chất, vitamin B <sub>12</sub> , viên sắt, acid folic                                                                                                              |
+| Mức độ 4<br>(Nặng đe<br>dọa tính<br>mạng) | Hgb < 65    | Thay AZT bằng d4T hoặc TDF sau khi loại trừ các nguyên nhân khác có thể gây thiều máu hoặc suy tuỷ.  Truyền khối hồng cầu hoặc máu toàn phần.  Bổ sung vi chất, vitamin B <sub>12</sub> , viên sắt, acid folic                                                       |
+
+4.2.2. Phát ban do NVP
+
+Thường xảy ra trong 2 - 8 tuần đầu điều trị.
+
+Theo dõi người bệnh chặt chẽ và đánh giá mức độ phát ban. Tư vấn cho người bệnh đến tái khám ngay khi phát ban nặng lên, hoặc phát ban kèm theo triệu chứng toàn thân như sốt, mệt mỏi,...
+
+Điều trị triệu chứng, sử dụng kháng histamin hoặc steroid tùy mức đô và theo dõi chặt chẽ diễn biễn lâm sàng và xét nghiệm ALT.
+
+
+4.2.3. Nhiễm độc gan do NVP
+
+Xét nghiệm ALT trước khi điều trị. Xét nghiệm HBsAg và anti HCV nếu có điều kiện.
+
+Các biểu hiện: ALT tăng cao, có thể kèm hoặc không kèm theo các triệu chứng lâm sàng như phát ban, sốt, khó chịu, nôn, buồn nôn, hoàng đản, đau bụng. Hay gặp nhất sau khi điều trị ARV được vài tuần đến vài tháng,
+
+Nguy cơ nhiễm độc gan cao ở (1) phụ nữ mang thai có CD4 > 250 tế bào/mm³, (2) người bệnh có ALT trước điều trị cao, (3) người bệnh đồng nhiễm HIV và viêm gan B hoặc C và (4) người bệnh lao đang điều trị bằng phác đồ có rifampicin.
+
+Theo dõi chặt chẽ chức năng gan đối với người bệnh sử dụng NVP, đặc biệt là đối với người bệnh có yếu tố nguy cơ nói trên.              |
+
+##### **5. Thất bại điều trị ARV và các phác đồ bậc hai**
+
+###### 5.1. Theo dõi kết quả trong 6 tháng đầu điều trị
+
+Các tháng đầu của liệu pháp ARV có tính quyết định. Cải thiện lâm sàng và sinh học không phải bao giờ cũng rõ và cơ thể xuất hiện nhiễm độc. Úc chế virus nhân lên và phục hồi miễn dịch phải có thời gian. Tăng cân cũng không phải có ngay, nhất là những người gầy nhiều do nhiễm khuẩn cơ hội. Khi chưa thấy có cải thiện rõ lúc đầu điều trị AVR không có nghĩa là có đáp ứng xấu đối với điều trị. Khi chức năng miễn dịch phục hồi, tình trạng bệnh có thể nặng lên (thí dụ bệnh lao lại phát triển), không phải do điều trị thất bại mà là hệ miễn dịch được phục hồi. Hội chứng viêm do phục hồi miễn dịch (Hội chứng IRIS: Immune reconstitution inflammatory syndrome).
+
+###### 5.2. Nhiễm độc sớm của liệu pháp ARV
+
+Nhiễm độc do dùng phác đồ bậc 1 có thể xếp thành 2 loại: Nhiễm độc sau vài tuần hoặc tháng và nhiễm độc muộn hơn. Nhiễm độc sớm hay gặp và có tiềm năng nặng gồm có mẫn cảm với các thuốc NNRTI (EFV và NVP) thông thường xuất hiện trong vài tuần đầu điều trị. Nếu không được phát hiện sớm, có thể gây tử vong (xem thêm trong chuyên luận riêng).
+
+###### 5.3. Đánh giá thất bại điều trị
+
+Phải hết sức thận trọng khi đánh giá thất bại điều trị: Quá sớm hoặc quá muộn đều ảnh hướng đến tiên lượng bệnh.
+
+Chi xem xét thất bại điều trị khi người bệnh đã uống ARV đúng phác đồ 3 thuốc trong ít nhất 6 tháng, người bệnh tuân thủ tốt. Các biểu hiện xuất hiện trong vòng 6 tháng sau khi bắt đầu điều trị ARV thường là nhiễm trùng cơ hội, hội chứng viêm phục hồi miễn dịch hoặc các tác dụng không mong muốn của thuốc.
+
+Tiêu chuẩn đánh giá thất bại điều trị:
+
+Bảng 7. Tiêu chuẩn đánh giá thất bại điều trị ARV
+
+| Thất bại về lâm<br>sàng            | Xuất hiện mới hoặc tái phát các bệnh lý giai đoạn lâm sàng 4 sau điều trị ít nhất 6 tháng <sup>a, b</sup> .                                                                                                              |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thất bại về miễn dịch học°         | CD4 giảm xuống bằng hoặc dưới mức CD4 ban đầu trước điều trị, hoặc CD4 giảm dưới một nửa so với mức CD4 cao nhất đạt được (nếu biết giá trị này), hoặc CD4 dưới 100 tế bào/mm³ máu liên tục trong 1 năm liền không tăng. |
+| Thất bại về virus học <sup>d</sup> | Tải lượng virus đo được trên 5 000 phiên bản/ml.                                                                                                                                                                         |
+
+Ghi chú:
+
+(a) Một số bệnh lý giai đoạn lâm sàng 4 như lao hạch, lao màng phổi, nấm *candida* thực quản, viêm phổi tái phát không được coi là chỉ điểm thất bại điều trị. Điều trị các bệnh lý này, nếu người bệnh đáp ứng tốt, tiếp tục phác đồ bậc 1.
+
+(b) Một số bệnh lý giai đoạn lâm sàng 3 (như lao phổi, nhiễm vi khuẩn nặng) có thể là chỉ điểm của thất bại điều trị. Lao xuất hiện sau 6 tháng điều trị ARV được coi là thất bại điều trị khi đi kèm với thất bại về miễn dịch học hoặc thất bại về virus học. Nếu không thực hiện được các xét nghiệm này, xem xét thất bại điều trị nếu người bệnh có các bệnh lý khác thuộc giai đoạn lâm sàng 3, 4 hoặc người bệnh bị lao lan tỏa.
+
+(c) Các bệnh lý kèm theo thường làm giảm tạm thời số CD4; điều trị các bệnh lý này trước, làm xét nghiệm CD4 khi tình trạng người bệnh đã ổn định.
+
+(d) Đo tải lượng virus là xét nghiệm chính xác nhất để khẳng định hoặc loại trừ thất bại điều trị. Thay đổi phác đồ khi tải lượng virus > 5 000 phiên bản/ml trong hai lần xét nghiệm cách nhau ít nhất 1 tháng.
+
+###### **5.4. Lựa chọn phác đồ bậc hai**
+*5.4.1 Liều dùng và cách dùng của các thuốc phác đồ bậc 2*
+
+Tenofovir: 300 mg uống 1 lần /ngày.
+
+Abacavir: 300 mg uống 2 lần/ngày, cách nhau 12 giờ hoặc 600 mg uống 1 lần/ngày.
+
+Didanosin: cân nặng < 60 kg: 250 mg/ngày; cân nặng ≥ 60 kg: 400 mg/ngày.
+
+Lopinavir/ritonavir: 400 mg/100 mg uống 2 lần/ngày, cách nhau 12 giờ. LPV/r viên nang nên uống khi no; LPV/r viên nén có thể uống lúc đói hoặc lúc no.
+
+Atazanavir/ritonavir: 300 mg/100 mg uống 1 lần/ngày.
+
+Lamivudin và zidovudin: Liều lượng và cách dùng như trong phác đồ bậc một.
+
+*5.4.2. Độc tính của một số thuốc ARV trong phác đồ bậc hai và cách xử trí*
+
+*Bảng 9. Độc tính của một số thuốc ARV trong phác đồ bậc hai và cách xử trí*
+
+| Thuốc<br>ARV | Độc tính,<br>ADR hay gặp                                                                                                                                                                                      | Xử trí                                                                                                                                                                                                                                                                                                                                              |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TDF          | Độc tính với thận.<br>Ảnh hưởng lên sự<br>phát triển xương.                                                                                                                                                   | Giảm liều khi có suy thận. Thay<br>TDF bằng ABC.<br>Tránh sử dụng cho PNMT và trẻ em.                                                                                                                                                                                                                                                               |
+| LPV/r        | Viêm gan.                                                                                                                                                                                                     | Đánh giá mức độ tăng men gan.<br>Tăng mức độ 1, 2: tiếp tục phác đồ<br>và theo dõi; tăng mức độ 3: Thay<br>NVP bằng EFV (nếu có); tăng mức<br>độ 4: Ngừng ARV và theo dõi; khi<br>hồi phục có thể bắt đầu lại ARV,<br>thay LPV/r bằng một thuốc PI khác.                                                                                            |
+|              | Rối loạn chuyển<br>hóa mỡ: Tích tụ<br>mỡ (nội tạng, vú,<br>cổ); tăng lipid máu;<br>rối<br>loạn<br>chuyển<br>hóa glucose (đái<br>tháo đường kháng<br>insulin, tăng nguy<br>cơ mắc bệnh tim<br>mạch, viêm tuỵ). | Tăng<br>cholesterol<br>và<br>triglycerid<br>mức độ 1 hoặc 2 - áp dụng chế<br>độ ăn kiêng, tập luyện, theo dõi;<br>tăng mức độ 3 hoặc 4 - cho dùng<br>các<br>thuốc<br>fibrate<br>(fenofibrat<br>600 mg, dùng 1 - 2 lần/ngày); điều<br>trị tăng cholesterol bằng các thuốc<br>statin (tránh dùng simvastatin và<br>lovastatin do có tương tác thuốc). |
+
+|       | Tăng bilirubin gián<br>tiếp trong máu.                                                                                                                                                                        | Thường không có triệu chứng, hoặc<br>gây vàng mắt nhẹ mà không tăng<br>ALT. Thay ATV bằng một PI khác.                                    |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| ATV/r | Rối loạn chuyển<br>hóa mỡ: Tích tụ<br>mỡ (nội tạng, vú,<br>cổ); tăng lipid máu;<br>rối<br>loạn<br>chuyển<br>hóa glucose (đái<br>tháo đường kháng<br>insulin, tăng nguy<br>cơ mắc bệnh tim<br>mạch, viêm tuỵ). | Xử trí tương tự như đối với rối loạn<br>chuyển hóa mỡ do LPV/r                                                                            |
+|       | Blốc nhĩ thất độ 1<br>(PR kéo dài trên<br>điện tim).                                                                                                                                                          | Sử dụng thận trọng ở người bệnh<br>có rối loạn dẫn truyền tim tiềm tàng<br>hoặc người bệnh sử dụng đồng thời<br>các thuốc gây PR kéo dài. |
+
+*5.4.3. Theo dõi người bệnh điều trị phác đồ bậc 2*
+
+Đảm bảo tuân thủ điều trị.
+
+Theo dõi các tương tác thuốc khi dùng LPV/r.
+
+Đánh giá đáp ứng về lâm sàng và miễn dịch (CD4) tương tự như đối với phác đồ bậc 1.
+
+##### **6. Điều trị ARV ở các đối tượng đặc biệt**
+
+###### **6.1. Điều trị ARV cho người bệnh lao/HIV**
+
+Người bệnh lao/HIV luôn có nguy cơ tử vong cao hơn những người nhiễm HIV không bị lao, do vậy cần được chỉ định điều trị ARV kịp thời.
+
+Cần tư vấn về việc uống nhiều loại thuốc, lưu ý vấn đề tương tác giữa các thuốc ARV với các thuốc chống lao như rifampicin và nguy cơ ngộ độc gan.
+
+*6.1.1. Bắt đầu điều trị ARV trên người bệnh mắc lao đồng nhiễm HIV*
+
+*Bảng 10. Các phác đồ bậc 1 cho người bệnh lao/HIV bắt đầu điều trị ARV*
+
+a. Người bệnh đang điều trị lao phác đồ có rifampicin và bắt đầu điều trị ARV:
+
+*Phác đồ chính*: AZT hoặc d4T + 3TC + EFV
+
+*Phác đồ thay thế*:
+
+Khi không có EFV, hoặc phụ nữ có thai trong 3 tháng đầu và CD4 < 250 tế bào/mm<sup>3</sup> : AZT hoặc d4T + 3TC + NVP
+
+Phụ nữ có thai 3 tháng đầu và CD4 > 250 tế bào/mm<sup>3</sup> : AZT + 3TC + NVP và theo dõi chặt chẽ tác dụng không mong muốn NVP hoặc AZT + 3TC + ABC hoặc AZT + 3TC + LVP 400 mg/ RTV 400 mg.
+
+Người bệnh không sử dụng được NVP và EFV: AZT + 3TC + TDF
+
+*Lưu ý: Tránh sử dụng phác đồ này cho phụ nữ có thai, nếu có thể*
+
+Liều lượng và cách dùng giống như người nhiễm HIV không mắc lao, trừ RTV tăng lên từ 100 mg lên 400 mg.
+
+b. Người bệnh đang điều trị lao giai đoạn không có rifampicin: Lựa chọn phác đồ bậc 1 giống như người nhiễm HIV không mắc lao.
+
+*6.1.2. Người bệnh đang điều trị ARV mắc lao*
+
+Người bệnh đang điều trị ARV mắc lao có thể do hội chứng viêm phục hồi miễn dịch (trong 6 tháng đầu điều trị) hoặc do mắc lao mới, hoặc thất bại điều trị.
+
+*6.1.2.1. Người bệnh đang điều trị ARV mắc lao*
+
+Điều trị lao theo hướng dẫn điều trị lao quốc gia. Điều chỉnh các thuốc trong phác đồ điều trị ARV nếu cần.
+
+Nếu tình trạng của người bệnh nặng và không thể tiếp tục các thuốc ARV, ngừng tạm thời điều trị ARV để điều trị lao. Khi người bệnh ổn định, bắt đầu điều trị lại ARV bằng phác đồ đang dùng trước đó, lưu ý tương tác thuốc (Phụ lục 5).
+
+Sau khi kết thúc điều trị rifampicin, có thể cân nhắc sử dụng lại NVP và dùng ngay liều NVP 200 mg x 2 lần/ngày.
+
+6.1.2.2. Chỉ định phác đồ bậc 2 cho người bệnh lao đang điều trị ARV phác đồ bậc 1 có thất bại điều trị
+
+Phác đồ bậc 2 khi điều trị phác đồ lao có rifampicin tương tự như phác đồ cho người bệnh không mắc lao và tăng liều ritonavir: LVP 400 mg/RTV 400 mg.
+
+Theo dõi chặt chẽ lâm sàng và xét nghiệm để phát hiện nhiễm độc gan.
+
+###### 6.2. Điều trị ARV cho người bệnh đồng nhiễm HIV và viêm gan B, C
+
+Tiêu chuẩn điều trị ARV trên người bệnh viêm gan B và C cũng giống như đối với các người bệnh khác.
+
+Lưu ý các vấn đề tương tác thuốc và ngộ độc gan để lựa chọn phác đồ ARV cho phù hợp.
+
+6.2.1. Điều trị ARV cho người bệnh đồng nhiễm HIV với viêm gan B
+
+6.2.1.1. Lựa chọn phác đồ điều trị ARV cho người bệnh đồng nhiễm HIV với viêm gan B
+
+Phác đồ điều trị: TDF + 3TC + EFV
+
+Một số lưu ý:
+
+EFV là lựa chọn tốt nhất để điều trị cho người bệnh đồng nhiễm HIV/viêm gan B hoặc khi có biểu hiện lâm sàng viêm gan hoặc men gan tăng.
+
+Khi không có EFV, sử dụng NVP khi người bệnh có men gan cao nhưng phải theo dõi chặt chẽ.
+
+6.2.1.2. Xử trí đợt bùng phát viêm gan B khi đang điều trị ARV Đợt bùng phát viêm gan B (VGB) dễ xảy ra trên người bệnh đồng nhiễm HIV/VGB trong vài tháng đầu tiên điều trị ARV, có thể là biểu hiện của hội chứng viêm phục hồi miễn dịch, hoặc do ngừng ARV có tác dụng điều trị viêm gan B (3TC, TDF).
+
+Biểu hiện: Men gan tăng cao và nhanh, kèm theo các triệu chứng của viêm gan cấp (mệt mỏi, đau bụng, vàng da). Đôi khi khó chẩn đoán phân biệt với ngộ độc gan do ARV.
+
+Nếu men gan tăng mức độ 3 và tình trạng người bệnh ổn định, tiếp tục điều trị ARV, sử dụng các thuốc ít độc hơn với gan như EFV; theo dõi chặt chẽ men gan (2 tuần/lần) và các dấu hiệu lâm sàng. Cần theo dõi chặt chẽ người bệnh đồng nhiễm HIV/VGB khi phải
+
+ngừng các thuốc ARV trong đó có 3TC, TDF.
+
+6.2.2. Điều trị ARV cho người bệnh đồng nhiễm HIV với viêm gan C
+
+Điều trị giống như người nhiễm HIV không mắc viêm gan C, tốt nhất sử dụng phác đồ có EFV.
+
+Lưu ý khi sử dụng ARV trên người bệnh đồng nhiễm viêm gan C: Các thuốc điều trị ARV không có tác dụng điều trị viêm gan C.
+
+Điều trị viêm gan C nếu có điều kiện bằng interferon, ribavirin (RBV). Nồng độ AZT tăng khi sử dụng đồng thời AZT và RBV; theo dõi chặt chẽ độc tính AZT. Người bệnh đáp ứng tốt với điều trị viêm gan C khi số CD4 trên 200 tế bào/mm³.
+
+6.2.3. Điều trị ARV trên người bệnh có ALT ban đầu cao hoặc không biết tình trạng nhiễm viêm gan B, C
+
+Xét nghiệm men gan theo quy định cho tất cả các người bệnh trước khi bắt đầu điều trị ARV.
+
+Xét nghiệm HBsAg, anti-HCV trước điều trị hoặc khi men gan tăng, nếu có điều kiện.
+
+Khi men gan tăng, biết hoặc không biết tình trạng nhiễm viêm gan B, C, nên sử dụng phác đồ có EFV.
+
+###### 6.3. Điều trị ARV cho người nghiện chích ma túy
+
+Phác đồ điều trị ARV cho người nhiễm HIV nghiện chích ma túy
+
+Lựa chọn phác đồ bậc 1 tương tự như các người bệnh khác.
+
+Phác đồ chính: AZT hoặc d4T + 3TC + NVP Phác đồ thay thế: AZT hoặc d4T + 3TC + EFV
+
+Luu ý.
+
+Xét nghiệm HBsAg và anti-HCV nếu có điều kiện trước khi điều trị ARV. Nếu người bệnh có men gan tăng và hoặc có HBsAg và hoặc anti-HCV (+): xem phần điều trị ARV cho người bệnh đồng nhiễm HIV, viêm gan B, C.
+
+EFV/NVP làm giảm nồng độ methadon trên người bệnh đang điều trị methadon dễ gây hội chứng cai. Xem xét tăng liều methadon. Lựa chọn phác đồ bậc 2 tương tự như các người bệnh khác, lưu ý LPV, RTV làm giảm nồng độ methadon gây ra hội chứng cai ở những người bênh đang điều tri methadon.
+
+#### II. ĐIỀU TRỊ ARV Ở PHỤ NỮ MANG THAI VÀ DỰ PHÒNG LÂY TRUYỀN HIV TỪ ME SANG CON
+
+##### Nguyên tắc
+
+Cần phát hiện sớm tình trạng nhiễm HIV ở phụ nữ mang thai (PNMT) để áp dụng các biện pháp can thiệp dự phòng lây truyền HIV từ mẹ sang con (DPLTMC), bao gồm dự phòng bằng ARV, dùng sữa thay thế cho con và giới thiệu các dịch vụ chăm sóc và điều tri sau sinh.
+
+PNMT nhiễm HIV cần được hội chẩn với cơ sở chăm sóc và điều trị HIV/AIDS để xem xét điều trị bằng ARV hay điều trị DPLTMC. PNMT được ưu tiên điều trị ARV khi đủ tiêu chuẩn; quá trình chuẩn bị sẵn sàng điều trị có thể rút ngắn để việc dự phòng bằng ARV kịp thời và hiệu quả.
+
+Cần sử dụng phác đồ DPLTMC hiệu quả nhất. Người phụ nữ sau khi sinh cần được đánh giá lại về lâm sàng và miễn dịch để xem xét chỉ định điều trị ARV. Nếu không có chỉ định, điều trị ARV được dừng lại hoàn toàn; nếu có chỉ định, sử dụng phác đồ ARV phù hợp như người lớn khác.
+
+##### 1. Điều trị ARV cho phụ nữ mang thai nhiễm HIV
+
+Điều trị ARV: Sử dụng lâu dài các thuốc ARV để điều trị cho PNMT nhiễm HIV cũng như dự phòng lây truyền HIV từ mẹ sang con
+
+###### 1.1. Bắt đầu điều trị ARV cho PNMT 
+1.1.1. Chỉ định điều trị ARV cho PNMT
+
+Tiêu chuẩn chỉ định điều trị ARV cho PNMT nhiễm HIV như tiêu chuẩn chỉ định điều trị ARV cho người lớn nhiễm HIV.
+
+*1.1.2. Phác đồ điều trị ARV cho PNMT nhiễm HIV*
+
+**Phác đồ ưu tiên:** AZT + 3TC + NVP
+
+Sử dụng trong suốt thời gian mang thai, trong khi sinh và sau khi sinh. Liều dùng của các thuốc ARV cho PNMT giống như ở người nhiễm HIV người lớn khác.
+
+Theo dõi chặt chẽ chức năng gan, nhất là ở PNMT có CD4 từ 250 đến 350 tế bào/mm<sup>3</sup> . Xét nghiệm ALT lúc bắt đầu điều trị, 2 tuần một lần trong tháng đầu tiên, 1 tháng 1 lần từ tháng thứ 2 đến tháng thứ 4, và sau đó từ 1 đến 3 tháng 1 lần. Thay sang phác đồ phù hợp khi có độc tính với gan.
+
+**Phác đồ thay thế:**
+
+Khi không sử dụng được AZT: Thay AZT bằng d4T hoặc ABC. Khi không sử dụng được NVP do phát ban và ngộ độc: Áp dụng một trong các lựa chọn sau theo thứ tự ưu tiên:
+
+AZT + 3TC + EFV (nếu thai > 12 tuần); hoặc
+
+AZT + 3TC + LPV/r hoặc
+
+AZT + 3TC + ABC.
+
+*Lưu ý:*
+
+PNMT nhiễm HIV mắc lao tiến triển được điều trị lao bằng phác đồ có rifampicin cần lưu ý đến tương tác thuốc với NVP hoặc/và độc tính của EFV trong 3 tháng đầu khi lựa chọn phác đồ điều trị ARV (xem phần điều trị ARV cho người bệnh lao/HIV).
+
+Sau khi sinh mẹ có thể tiếp tục phác đồ đang sử dụng hoặc chuyển về phác đồ bậc 1 chính.
+
+###### **1.2. Phụ nữ đang điều trị ARV thì có thai**
+
+Phụ nữ đang điều trị ARV thì có thai: Tiếp tục điều trị ARV và lưu ý:
+
+Những người phụ nữ đang sử dụng phác đồ có EFV và thai < 12 tuần: Thay EFV bằng NVP (cho ngay liều 200 mg x 2 lần/ngày) hoặc các phác đồ thay thế phù hợp. Tư vấn về nguy cơ ảnh hưởng đến thai và thảo luận về kế hoạch giữ thai hoặc không giữ thai với PNMT…
+
+Có thể tiếp tục sử dụng phác đồ có EFV trong 3 tháng giữa và 3 tháng cuối của thai kỳ, nếu có chỉ định.
+
+###### **1.3. Phác đồ điều trị dự phòng cho trẻ sinh ra từ các bà mẹ điều trị ARV**
+
+*Nếu mẹ điều trị ARV trước sinh trên 4 tuần:*
+
+Sirô AZT 4 mg/kg hai lần một ngày x 7 ngày.
+
+*Nếu mẹ điều trị ARV trước sinh chưa đủ 4 tuần:*
+
+Siro AZT 4 mg/kg hai lần một ngày x 4 tuần.
+
+###### **1.4. Phác đồ điều trị ARV cho phụ nữ sau sinh con có tiền sử được dự phòng lây truyền mẹ con bằng liều đơn NVP**
+
+*Nếu có chỉ định điều trị ARV trong vòng 6 - 12 tháng sau sinh:* Có thể chỉ định phác đồ bậc 1 như đối với các người bệnh HIV khác (xem phần điều trị ARV cho người lớn).
+
+Sử dụng phác đồ: AZT + 3TC + TDF, hoặc thay NVP hoặc EFV bằng LPV/r, nếu có điều kiện để tránh kháng thuốc
+
+*Nếu có chỉ định điều trị ARV sau 6 - 12 tháng sau sinh*: Chỉ định phác đồ bậc 1 như đối với các người bệnh HIV khác.
+
+##### **2. Điều trị dự phòng lây truyền HIV từ mẹ sang con bằng ARV 
+
+###### 2.1. Các đối tượng cần điều trị DPLTMC bằng ARV**
+
+Phụ nữ mang thai nhiễm HIV chưa đủ tiêu chuẩn điều trị ARV (giai đoạn lâm sàng 1 - 2 và CD4 > 350 tế bào/mm<sup>3</sup> ).
+
+PNMT nhiễm HIV đủ tiêu chuẩn điều trị ARV nhưng không có điều kiện điều trị ARV, hoặc
+
+PNMT nhiễm HIV không được quản lý trong thời kỳ mang thai hoặc phát hiện nhiễm HIV muộn khi chuyển dạ và khi đẻ.
+
+Trẻ em sinh ra từ những người mẹ nhiễm HIV.
+
+###### **2.2. Các phác đồ ARV cho mẹ và con trong DPLTMC** 
+
+*2.2.1. Phác đồ ưu tiên AZT + liều đơn NVP*
+
+*Bảng 12. Phác đồ dự phòng lây truyền mẹ - con bằng AZT + liều đơn NVP*
+
+| Mẹ  | Khi mang<br>thai     | AZT 300 mg x 2 lần/ngày, uống hàng ngày<br>từ tuần thai thứ 14 hoặc ngay khi phát hiện<br>nhiễm HIV sau tuần thai thứ 14 cho đến khi<br>chuyển dạ. |
+|-----|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|     | Khi chuyển<br>dạ     | NVP 200 mg + AZT 600 mg<br>+ 3TC 150 mg.<br>Sau đó 12 giờ một lần AZT 300 mg<br>+ 3TC 150 mg cho đến khi đẻ.                                       |
+|     | Sau đẻ               | AZT 300 mg + 3TC 150 mg ngày 2 lần<br>trong 7 ngày.                                                                                                |
+| Con | Ngay sau<br>khi sinh | NVP liều đơn 6 mg, uống một lần ngay sau<br>khi sinh + AZT 4 mg/kg uống ngày 2 lần.                                                                |
+|     | Sau sinh             | Tiếp tục AZT 4 mg/kg uống 2 lần một<br>ngày, trong 4 tuần                                                                                          |
+
+*Bổ sung phác đồ: AZT + 3TC + LPV/r:*
+
+*Mẹ*: Uống hàng ngày từ tuần thai thứ 14 hoặc ngay khi phát hiện nhiễm HIV sau tuần thai thứ 14 cho đến khi sinh con. Nếu người mẹ không cho con bú sữa mẹ thì dừng uống, nếu người mẹ cho con bú sữa mẹ tiếp tục uống hàng ngày cho đến khi sau cai sữa một tuần.
+
+Liều lượng: AZT 300 mg/lần x 2 lần/ngày.
+
+3TC 150 mg/lần x 2 lần/ngày.
+
+LPV/r 400/100 mg/lần x 2 lần/ngày.
+
+*Con*: AZT 4 mg/kg uống 2 lần một ngày trong 4 tuần.
+
+*Lưu ý:* AZT có thể gây thiếu máu ở phụ nữ mang thai, tuy không phổ biến. Theo dõi tình trạng thiếu máu lâm sàng, xét nghiệm hemoglobin thường xuyên, điều trị thiếu máu nếu có.
+
+*2.2.2. Phác đồ dự phòng LTMC khi PNMT được phát hiện nhiễm HIV trong lúc chuyển dạ*
+
+Chỉ định khi người PNMT nhiễm HIV không được quản lý trong thời kỳ mang thai, hoặc được phát hiện nhiễm HIV muộn khi chuyển dạ và khi đẻ.
+
+*Bảng 13. Phác đồ dự phòng lây truyền mẹ - con khi PNMT được phát hiện nhiễm HIV trong lúc chuyển dạ*
+
+| Khi<br>chuyển dạ<br>Mẹ |        | Khi bắt đầu chuyển dạ:<br>NVP 200 mg + AZT 600 mg + 3TC 150 mg.<br>Sau đó 12 giờ một lần AZT 300 mg + 3TC<br>150 mg cho đến lúc đẻ. |
+|------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------|
+|                        | Sau đẻ | (AZT 300 mg + 3TC 150 mg) 12 giờ một lần<br>x 7 ngày.                                                                               |
+| Con                    |        | NVP liều đơn 6 mg, uống một lần ngay sau khi<br>sinh + AZT 4 mg/kg uống 2 lần một ngày x 4<br>tuần.                                 |
+
+*Lưu ý:*
+
+a. Đối với PNMT có xét nghiệm sàng lọc HIV dương tính khi chuyển dạ: Tư vấn và cho điều trị dự phòng ngay, làm chẩn đoán khẳng định sau. Nếu xét nghiệm khẳng định âm tính, ngừng các can thiệp dự phòng.
+
+b. Không sử dụng ARV dự phòng cho mẹ khi tiên lượng mẹ sẽ sinh trong vòng 1 giờ; Trong trường hợp mẹ không được sử dụng ARV vẫn thực hiện phác đồ dự phòng ARV cho con như trên.
+
+c. Khi không sẵn có AZT, vẫn sử dụng NVP liều đơn cho mẹ khi chuyển dạ và NVP liều đơn cho con ngay sau sinh.
+
+#### III. DƯ PHÒNG SAU PHƠI NHIỄM HIV
+
+##### 1. Dự phòng sau phơi nhiễm HIV do nghề nghiệp
+
+Phơi nhiễm với HIV do tai nạn nghề nghiệp là tiếp xúc trực tiếp với máu và các dịch cơ thể có nhiễm HIV dẫn đến nguy cơ lây nhiễm HIV.
+
+###### 1.1. Các dạng phơi nhiễm
+
+Do kim đâm khi làm các thủ thuật tiêm truyền, lấy máu làm xét nghiệm, chọc dò...
+
+Vết thương do dao mổ và các dụng cụ sắc nhọn khác có dính máu hoặc dịch cơ thể của người bệnh.
+
+Tổn thương qua da do các ống đựng máu hoặc dịch của người bệnh vỡ đâm vào.
+
+Máu, chất dịch cơ thể của người bệnh bắn vào các vùng da bị tổn thương (chàm, bỏng, viêm loét từ trước) hoặc niêm mạc (mắt, mũi, họng). Khác: Phơi nhiễm với máu có HIV do bị người khác dùng kim tiêm chứa máu đâm vào hoặc trong khi làm nhiệm vụ đuổi bắt tội phạm...
+
+###### 1.2. Điều trị dự phòng sau phơi nhiễm HIV bằng thuốc ARV
+
+Tiến hành điều trị càng sớm càng tốt từ 2 - 6 giờ và trước 72 giờ sau khi bị phơi nhiễm cho tất cả các trường hợp có nguy cơ cao, đồng thời đánh giá tình trạng HIV của nguồn gây phơi nhiễm và người bị phơi nhiễm.
+
+Bảng 14. Điều trị dự phòng sau phơi nhiễm HIV bằng thuốc ARV
+
+|                                                 | Các thuốc<br>sử dụng                           | Chỉ định                                                                                       |
+|-------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Phác đồ điều trị<br>2 thuốc (Phác<br>đồ cơ bản) | AZT + 3TC<br>hoặc d4T + 3TC                    | Tất cả các trường hợp phơi nhiễm có nguy cơ.                                                   |
+| Phác đồ<br>điều trị 3 thuốc                     | AZT + 3TC<br>hoặc d4T + 3TC<br>cộng với: LPV/r | Trong trường hợp nguồn<br>gây phơi nhiễm đã và<br>đang điều trị ARV và nghi<br>có kháng thuốc. |
+| Thời gian điều trị                              | 4 tuần.                                        |                                                                                                |
+
+##### 2. Dự phòng phơi nhiễm HIV ngoài môi trường nghề nghiệp
+
+Phơi nhiễm không do nghề nghiệp là những trường hợp phơi nhiễm với máu, dịch cơ thể có khả năng làm lây nhiễm HIV không liên quan đến nghề nghiệp.
+
+Điều trị dự phòng sau phơi nhiễm bằng thuốc ARV:
+
+Điều trị dự phòng sau phơi nhiễm ngoài môi trường nghề nghiệp bằng ARV tương tự như dự phòng sau phơi nhiễm nghề nghiệp; bắt đầu ARV càng sớm càng tốt, trong vòng 72 giờ sau khi bị phơi nhiễm và tiếp tục trong 28 ngày. Chỉ định phác đồ 2 thuốc.
+
+Khi nguồn lây hiện tại hoặc trong tiền sử đã sử dụng ARV, hoặc được biết là thất bại với phác đồ bậc 1, khuyến cáo sử dụng phác đồ 3 thuốc.
+
+Tư vấn về tác dụng không mong muốn và tuân thủ điều trị trước khi dùng thuốc.
+
+### B. ĐIỀU TRỊ VÀ CHĂM SÓC TRỂ EM NHIỄM HIV/AIDS 
+#### I. ĐIỀU TRỊ KHÁNG RETROVIRUS (điều trị ARV)
+
+##### 1. Tiêu chuẩn bắt đầu điều trị ARV
+
+Tiêu chuẩn bắt đầu điều trị bằng ARV ở trẻ em dựa vào tình trạng chẩn đoán nhiễm HIV, lứa tuổi, giai đoạn lâm sàng và giai đoạn miễn dịch của trẻ.
+
+##### 1.1. Trẻ có chấn đoán xác định nhiễm HIV
+
+Trẻ dưới 24 tháng tuổi: Điều trị ARV ngay, không phụ thuộc vào giai đoạn lâm sàng và số lượng tế bào TCD4.
+
+Trẻ từ 24 tháng tuổi đến dưới 60 tháng tuổi: Điều trị ARV khi: Trẻ có % tế bào  $TCD4 \le 25\%$  hoặc số lượng tế bào  $TCD4 \le 750$  tế bào/mm³ không phụ thuộc giai đoạn lâm sàng; hoặc trẻ ở giai đoạn lâm sàng 3, 4, không phụ thuộc số lượng tế bào TCD4.
+
+Trẻ từ 60 tháng tuổi trở lên: Chi định điều trị ARV tương tự như người lớn nhiễm HIV.
+
+###### 1.2. Trẻ dưới 18 tháng tuổi có kết quả chẩn đoán PCR lần 1 dương tính
+
+Tiến hành điều trị ARV cho trẻ đồng thời tiếp tục thực hiện xét nghiệm PCR lần 2. Dừng điều trị ARV nếu trẻ có kết quả chẩn đoán khẳng đinh nhiễm HIV âm tính.
+
+###### 1.3. Trẻ dưới 18 tháng tuổi chưa có chẩn đoán xác định nhiễm HIV
+
+Thực hiện điều trị ARV khi trẻ được chẩn đoán lâm sàng bệnh HIV/ AIDS năng.
+
+##### 2. Các phác đồ điều trị bậc 1
+
+a. Đối với trẻ dưới 24 tháng tuổi đã từng tiếp xúc với NVP hoặc EFV do mẹ điều trị ARV hoặc sử dụng ARV để dự phòng lây truyền HIV từ mẹ sang con:
+
+$$AZT + 3TC + LPV/r$$
+
+b. Đối với trẻ dưới 24 tháng tuổi không có hoặc không rõ tiền sử tiếp xúc với NVP hoặc EFV do mẹ điều trị ARV hoặc sử dụng ARV để dự phòng lây truyền HIV từ mẹ sang con:
+
+$$AZT + 3TC + NVP$$
+
+c. Đối với trẻ từ 24 tháng tuổi đến 36 tháng tuổi:
+
+$$AZT/d4T + 3TC + NVP$$
+
+d. Đối với trẻ trên 36 tháng tuổi:
+
+$$AZT + 3TC + NVP/EFV$$
+
+Trong trường hợp không sử dụng được AZT thay bằng ABC. Nếu có chống chỉ định với ABC dùng d4T.
+
+e. Trường hợp trẻ > 12 tuổi và bị viêm gan B:
+
+$$TDF + 3TC + EFV/NVP$$
+
+##### 3. Tác dụng không mong muốn của các thuốc ARV và cách xử trí
+
+###### 3.1. Tác dụng không mong muốn của thuốc ARV
+
+Tác dụng không mong muốn của thuốc ARV ở trẻ em chia làm 4 mức độ nhẹ, vừa, nặng, và nặng đe dọa tính mạng, tương tự như ở người lớn.
+
+Mức độ 1 (nhẹ): Điều trị triệu chứng, không đổi phác đồ.
+
+Mức độ 2 (vừa): Rối loạn phân bố mỡ hoặc bệnh lý thần kinh ngoại biên (d4T): Thay thuốc. Tác dụng không mong muốn khác: tiếp tục phác đồ ARV và điều trị triệu chứng, nếu không cải thiện thay thuốc gây đôc.
+
+Mức độ 3 (nặng): Không dừng ARV, thay thuốc gây tác dụng không mong muốn.
+
+Mức độ 4 (nặng đe dọa tính mạng): Ngừng ngay thuốc ARV, xử lý các triệu chứng. Khi triệu chứng giảm, thay thuốc ARV gây độc tính.
+
+Lưu ý khi xử trí các tác dụng không mong muốn của thuốc ARV:
+
+- a. Xác định mức độ nặng của độc tính trên cơ sở lâm sàng và xét nghiệm cần thiết.
+- b. Xem xét các thuốc trẻ đang dùng, xác định độc tính do ARV hay thuốc khác.
+- c. Loại trừ các bệnh lý có thể là nguyên nhân gây tình trạng trẻ xấu đi.
+- d. Xử trí theo mức độ tác dụng không mong muốn.
+- e. Nhấn manh tầm quan trong của tuân thủ điều trị.
+
+###### 3.2. Một số tác dụng không mong muốn hay gặp của các thuốc ARV và cách xử trí
+
+Cần xác định mức độ nặng tác dụng không mong muốn của thuốc ARV dựa vào biểu hiện lâm sàng và xét nghiệm để quyết định xử trí phù hợp.
+
+##### **4. Thất bại điều trị phác đồ bậc 1 và đổi phác đồ bậc 2**
+
+###### **4.1. Đánh giá thất bại điều trị**
+
+*4.1.1. Nguyên tắc*
+
+Chỉ xem xét thất bại điều trị khi trẻ đã điều trị ARV đúng phác đồ 3 thuốc trong ít nhất 6 tháng và đảm bảo tuân thủ tốt. Cần loại trừ hội chứng viêm phục hồi miễn dịch, hoặc tác dụng không mong muốn của thuốc, hoặc các nguyên nhân gây hấp thu thuốc kém.
+
+*4.1.2. Tiêu chuẩn thất bại điều trị*
+
+Bảng 16. Tiêu chuẩn thất bại điều trị
+
+Lâm sàng: Trẻ ngừng tăng trưởng về chiều cao và cân nặng mặc dù trước đây đã có đáp ứng với điều trị.  Mất các mốc phát triển về thần kinh hoặc xuất hiện bệnh lý não.  Xuất hiện các nhiễm trùng cơ hội hoặc bệnh lý ác tính, hoặc tái phát các bệnh nhiễm trùng, nấm và không đáp ứng với điều trị.
+
+Miễn dịch: CD4 giảm xuống dưới mức suy giảm miễn dịch nặng theo lứa tuổi sau khi có đáp ứng phục hồi ban đầu. Hoặc: CD4 bắt đầu giảm nhanh xuống dưới mức suy giảm miễn dịch nặng theo lứa tuổi, được khẳng định bằng ít nhất hai lần xét nghiệm CD4 liên tiếp. Hoặc: CD4 giảm xuống bằng hoặc dưới mức CD4 trước khi điều trị. Hoặc: CD4 giảm trên 50% so với mức CD4 đạt được cao nhất kể từ khi điều trị bằng ARV. 
+
+Lưu ý: Một số bệnh lý giai đoạn 3 như lao hạch, lao phổi, viêm phổi do vi khuẩn có thể không phải là chỉ điểm thất bại điều trị và không đòi hỏi phải thay đổi phác đồ.
+
+###### 4.2 Lựa chọn phác đồ bậc 2
+
+Bảng 17. Cách thay phác đồ ARV bậc 1 sang phác đồ bậc 2
+
+| Cách thay phác đồ                                  |                       |
+|----------------------------------------------------|-----------------------|
+| Phác đồ bậc 1 đang điều trị                        |  Phác đồ bậc 2 thay thế  |
+| AZT/d4T + 3TC + NVP/EFV                            | ABC + 3TC/ddI + LPV/r |
+| ABC + 3TC + NVP/EFV                                | AZT + 3TC/ddI + LPV/r |
+| AZT/d4T + 3TC + ABC                                | ddI + EFV/NVP + LPV/r |
+
+Cách dùng các thuốc phác đồ bậc 2:
+
+Didanosin (ddI): Uống 1 lần/ngày hoặc 2 lần/ngày. Uống thuốc lúc đói, trước khi ăn ít nhất 1 giờ, hoặc sau khi ăn sớm nhất 2 giờ. Lopinavir/ritonavir (LPV/r): Uống 2 lần/ngày, cách nhau 12 giờ.
+
+LPV/r viên nang nên uống khi no; LPV/r viên nén có thể uống lúc đói hoặc lúc no.
+
+Atazanavir/ritonavir (ATV/r): Uống 1 lần/ngày.
+
+##### 5. Điều trị ARV ở trẻ mắc lao
+
+###### 5.1. Trẻ được phát hiện lao trước khi điều trị ARV
+
+Trẻ mắc lao cần phải được điều trị lao 2 - 8 tuần trước khi điều trị ARV. Điều trị ARV ở trẻ đang điều trị lao có rifampicin:
+
+Trẻ ≤ 3 tuổi và cân nặng < 10 kg: AZT hoặc d4T + 3TC + ABC hoặc xem xét dùng AZT+3TC+NVP (nếu không sẵn có ABC);
+
+Trẻ > 3 tuổi và cân nặng > 10 kg: AZT hoặc d4T + 3TC + EFV. Lưu  $\acute{y}$ : Có thể sử dụng lại phác đồ có NVP khi điều trị lao bằng phác đồ có rifampicin kết thúc.
+
+###### 5.2. Trẻ được phát hiện lao trong khi điều trị ARV
+
+Cần xác định lao có phải là hội chứng phục hồi miễn dịch không. Nếu có cần đánh giá và điều trị như hội chứng phục hồi miễn dịch. Tiếp tục điều trị ARV đồng thời với điều trị lao.
+
+Lua chọn phác đồ:
+
+Nếu trẻ đang dùng phác đồ bậc 1 không có NVP, tiếp tục phác đồ đã dùng.
+
+Nếu trẻ đang dùng phác đồ bậc 1 có NVP:
+
+Thay NVP bằng ABC nếu trẻ  $\leq$  3 tuổi hoặc cân nặng dưới 10 kg; Thay NVP bằng EFV nếu trẻ > 3 tuổi và cân nặng trên 10 kg và quay về phác đồ chuẩn d4T + 3TC + NVP khi kết thúc điều trị lao. Nếu không có ABC hoặc EFV tiếp tục dùng NVP.
+
+Nếu trẻ đang điều trị phác đồ có LPV/r: Tăng liều ritonavir bằng liều lopinavir.
+
+###### 5.3. Sử dụng các phác đồ sau:
+
+5.3.1. Đối với trẻ $\leq$ 36 tháng tuổi mắc lao:
+
+AZT + 3TC + NVP hoăc AZT + 3TC + ABC
+
+5.3.2. Đối với trẻ trên 36 tháng tuổi mắc lao:
+
+AZT + 3TC + EFV hoặc AZT + 3TC + ABC
+
+Chỉ định dự phòng lao bằng INH cho trẻ nhiễm HIV khi:
+
+Trẻ ≥ 12 tháng tuổi: Không có bằng chứng của lao tiến triển dựa vào sàng lọc lâm sàng và không tiếp xúc với người bệnh lao.
+
+Trẻ < 12 tháng tuổi: Trẻ có tiếp xúc với người bị bệnh lao và được
+
+loại trừ lao tiến triển. Nếu trẻ < 12 tháng tuổi không có lao tiến triển và không tiếp xúc với người bệnh lao thì không nên điều trị dự phòng lao.
+
+Liều lượng: 10 mg/kg/ngày (tối đa 300 mg/ngày).
+
+Thời gian dự phòng: 6 tháng.
+
+Bổ sung vitamin B<sup>6</sup> : 25 mg/ngày khi điều trị dự phòng bằng INH.
+
+##### **6. Điều trị ARV ở trẻ đồng nhiễm viêm gan**
+
+Nếu có điều kiện nên làm xét nghiệm xác định đồng nhiễm viêm gan virus B và C.
+
+Tiêu chuẩn điều trị ARV cho trẻ có đồng nhiễm viêm gan B và C cũng như mọi trẻ khác.
+
+*Trước khi điều trị ARV, kiểm tra men gan theo quy định:*
+
+Nếu men gan tăng ≥ 2,5 lần bình thường:
+
+ Đối với trẻ trên 3 tuổi: Tốt nhất, sử dụng phác đồ AZT (hoặc d4T) + 3TC + EFV
+
+ Đối với trẻ dưới 3 tuổi hoặc không có EFV: Sử dụng phác đồ AZT (hoặc d4T) + 3TC + NVP; theo dõi sát xét nghiệm ALT.
+
+Không điều trị bằng phác đồ có NVP khi ALT > 5 lần trị số bình thường.
+
+Cần theo dõi chặt chẽ men gan trong giai đoạn viêm gan đang tiến triển: Nếu ALT ≤ 5 lần chỉ số bình thường, vẫn tiếp tục điều trị.
+
+Nếu ALT tăng từ 5 - 10 lần chỉ số bình thường, tiếp tục phác đồ điều trị nhưng phải theo dõi chặt chẽ, làm xét nghiệm men gan 1 - 2 tuần/lần;
+
+Nếu ALT tăng > 10 lần, hoặc tăng gấp 5 lần kèm theo vàng da cần thay NVP bằng EFV hoặc bằng PI.
+
+Phác đồ 3TC có tác dụng điều trị viêm gan B. Trong trường hợp cần thay đổi phác đồ điều trị nên tiếp tục 3TC trong phác đồ mới để tránh bùng phát viêm gan B.
+
+Các thuốc điều trị ARV không có tác dụng điều trị viêm gan C. *Lưu ý:*
+
+Đợt bùng phát viêm gan B dễ xảy ra khi có đồng nhiễm HIV/VGB trong vài tháng đầu tiên điều trị ARV, có thể là biểu hiện của hội chứng viêm phục hồi miễn dịch, hoặc do ngừng ARV có tác dụng điều trị viêm gan B (3TC, TDF).
+
+Biểu hiện: Men gan tăng cao và nhanh, kèm theo các triệu chứng của viêm gan cấp (mệt mỏi, đau bụng, vàng da). Đôi khi khó phân biệt với ngộ độc gan do ARV.
+
+Cần theo dõi lâm sàng và xét nghiệm men gan chặt chẽ khi phải ngừng các thuốc ARV trong đó có 3TC, TDF.
+
+## **SỬ DỤNG HỢP LÝ THUỐC KHÁNG SINH**
+
+Từ kháng sinh trong chuyên luận này được dùng để chỉ những chất có tác dụng trên vi khuẩn (Antibacterial drugs). Về nguồn gốc, nhóm này bao gồm không chỉ những chất có nguồn gốc từ vi khuẩn, nấm, xạ khuẩn (ví dụ: các penicilin, các cephalosporin, các aminoglycosid...) như định nghĩa trước kia mà cả những chất có nguồn gốc hoàn toàn do tổng hợp hóa dược (cotrimoxazol, fluoroquinolon...). Thuốc kháng sinh là nhóm thuốc có vai trò rất quan trọng trong chăm sóc sức khoẻ, đặc biệt là ở những nước có tỷ lệ bệnh nhiễm khuẩn cao như Việt Nam. Tuy nhiên đây lại là một nhóm thuốc bị lạm dụng nhiều nhất. Hậu quả làm gia tăng tỷ lệ kháng kháng sinh và mất đi những thuốc có chỉ số Hiệu quả/An toàn cao trong điều trị nhiễm khuẩn trong khi số kháng sinh mới được đưa thêm vào thị trường rất ít. Cách tốt nhất để giảm tỷ lệ kháng kháng sinh là tuân thủ các nguyên tắc sử dụng kháng sinh hợp lý.
+
+### **Các nguyên tắc sử dụng kháng sinh hợp lý** 
+#### *Chỉ sử dụng kháng sinh khi có nhiễm khuẩn*
+
+Các tác nhân gây bệnh cho người có thể là virus, vi khuẩn, nấm,
+
+sinh vật đơn bào (protozoa) hoặc ký sinh trùng (giun, sán...). Các kháng sinh thông dụng chỉ có tác dụng với vi khuẩn, rất ít kháng sinh có tác dụng với virus, nấm gây bệnh, sinh vật đơn bào. Do đó việc chẩn đoán đúng trước khi kê đơn là bước quan trọng đầu tiên. Tuy nhiên trong thực tế khó có thể xác định chính xác ngay vi khuẩn gây bệnh để thiết lập phác đồ điều trị bằng kháng sinh vì xét nghiệm bệnh phẩm tìm vi khuẩn cần thời gian ít nhất vài ngày, điều này làm chậm tiến trình điều trị; hơn nữa kết quả xét nghiệm lại phụ thuộc nhiều vào năng lực của từng phòng xét nghiệm và không phải lúc nào cũng cho kết quả như mong đợi. Từ kinh nghiệm điều trị, các nhà lâm sàng học đã nhận thấy đa phần các bệnh nhiễm khuẩn đều có thể phát hiện thông qua dấu hiệu lâm sàng đặc trưng và xét nghiệm cận lâm sàng. Các phác đồ hướng dẫn điều trị (của Bộ Y tế hoặc của đơn vị điều trị) được sử dụng như những hướng dẫn ban đầu trong khi chờ đợi kết quả phân lập vi khuẩn và làm kháng sinh đồ. Tìm vi khuẩn gây bệnh là bắt buộc trong trường hợp nhiễm khuẩn rất nặng như nhiễm khuẩn máu, viêm màng não, thương hàn... khi mà thăm khám lâm sàng không tìm thấy dấu hiệu đặc trưng hoặc khi điều trị không hiệu quả do vi khuẩn kháng kháng sinh. Do đó nâng cao trình độ chuyên môn của bác sĩ sẽ góp phần vào việc chẩn đoán đúng, đó là bước đầu tiên bảo đảm kê đơn hợp lý kháng sinh.
+
+#### *Lựa chọn kháng sinh hợp lý*
+
+Lựa chọn kháng sinh hợp lý phải đạt được các tiêu chí sau:
+
+Có phổ tác dụng phù hợp với vi khuẩn gây bệnh.
+
+Có dược động học phù hợp để bảo đảm nồng độ tác dụng tại vị trí nhiễm khuẩn mà không gây hại cho người bệnh.
+
+Phù hợp với cơ địa, sinh lý và bệnh lý mắc kèm ở người bệnh.
+
+*Lựa chọn kháng sinh có phổ tác dụng phù hợp với vi khuẩn gây bệnh*:
+
+Phổ tác dụng của kháng sinh liệt kê các vi khuẩn mà kháng sinh đó có tác dụng. Cần lưu ý phổ lúc kháng sinh mới ra đời và sau một thời gian lưu hành do có thể phát sinh hiện tượng kháng của vi khuẩn với kháng sinh khi sử dụng. Các hướng dẫn điều trị đưa ra các phác đồ lựa chọn kháng sinh phù hợp với những loại vi khuẩn có tỷ lệ gặp cao nhất trong từng bệnh căn cứ vào thống kê dịch tễ về vi khuẩn học. Do đó kiến thức về vi khuẩn phổ biến và tính nhạy cảm với kháng sinh tại địa phương sẽ giúp ích nhiều trong lựa chọn kháng sinh trước khi có kết quả xét nghiệm về vi khuẩn. Những trường hợp này thường dùng kháng sinh phổ hẹp trừ khi có triệu chứng và dấu hiệu nặng đe dọa tính mạng.
+
+Lựa chọn kháng sinh tốt nhất là dựa vào độ nhạy cảm của vi khuẩn qua phân lập vi khuẩn và làm kháng sinh đồ. Tuy nhiên, thực tế phải mất ít nhất 3 ngày để làm việc này nên không thể thực hiện với mọi trường hợp. Với những trường hợp nhiễm khuẩn nặng hoặc khi điều trị > 3 ngày mà không thấy kết quả, lúc này phân lập vi khuẩn và làm kháng sinh đồ sẽ giúp điều chỉnh lại phác đồ điều trị theo kinh nghiệm ban đầu. Với những trường hợp có thể lấy được bệnh phẩm (máu, đờm, mủ tai, phết họng...), những phương pháp phát hiện nhanh vi khuẩn từ bệnh phẩm được khuyến khích như các phương pháp nhuộm Gram, phát hiện kháng nguyên bằng phản ứng miễn dịch (ELISA).
+
+Có nhiều nguyên nhân dẫn đến sử dụng kháng sinh không có hiệu quả trong đó có nguyên nhân lựa chọn kháng sinh không phù hợp với loại vi khuẩn hoặc độ nhạy cảm của vi khuẩn gây bệnh. Khi điều trị không có kết quả, cần phân biệt kháng thật và kháng giả để xử trí. Kháng thật là do vi khuẩn tạo điều kiện thích nghi trong môi trường kháng sinh như tiết ra enzym phá hủy kháng sinh, thay đổi đích gắn của kháng sinh hoặc làm giảm tính thấm của kháng sinh vào trong tế bào. Những trường hợp này đòi hỏi phải tăng liều kháng sinh hoặc phối hợp kháng sinh. Kháng giả là chọn kháng sinh có dược động học không phù hợp, khả năng phân bố vào ổ nhiễm khuẩn kém nên không đạt nồng độ điều trị (thường gặp khi nhiễm khuẩn ở các tổ chức khó thấm thuốc như màng não, thủy dịch ở mắt...) hoặc điều kiện tại ổ nhiễm khuẩn không thuận lợi cho tác dụng của kháng sinh như pH thấp, nồng độ protein cao (có mủ). Kháng giả cũng gặp khi điều trị cho người bệnh suy giảm miễn dịch. Những trường hợp này test *in vitro* có thể vẫn nhạy cảm nhưng điều trị không có hiệu quả. Cần lưu ý trường hợp ngược lại: Test *in vitro* có thể kháng nhưng điều trị lại có hiệu quả; đó là trường hợp nhiễm khuẩn tiết niệu, nơi nồng độ kháng sinh có thể đạt rất cao vì đây là đường thải trừ của kháng sinh. Trong các hướng dẫn điều trị nhiễm khuẩn, các phác đồ khuyến cáo lựa chọn kháng sinh điều trị khởi đầu sẽ là cơ sở tin cậy để thiết lập phác đồ. Tuy nhiên, cũng cần thường xuyên cập nhật tình hình kháng kháng sinh tại nơi điều trị để điều chỉnh cho phù hợp.
+
+*Lựa chọn kháng sinh có dược động học phù hợp để bảo đảm đủ nồng độ tác dụng tại vị trí nhiễm khuẩn mà không gây hại cho người bệnh:*
+
+Muốn điều trị thành công thì nồng độ kháng sinh tại vị trí nhiễm khuẩn phải đủ để ức chế hoặc tiêu diệt vi khuẩn mà không gây hại cho người bệnh. *Điều này phụ thuộc vào khả năng hấp thu và phân bố của kháng sinh.*
+
+Mức độ hấp thu của kháng sinh theo đường uống rất khác nhau. Các kháng sinh nhóm penicilin hấp thu kém trong khi các kháng sinh nhóm fluoroquinolon lại hấp thu rất tốt (sinh khả dụng đường uống thường đạt trên 80%). Cũng cần lưu ý đến tương tác thuốc với thức ăn để tránh làm giảm sinh khả dụng; ví dụ: Các kháng sinh nhóm penicilin, các kháng sinh nhóm macrolid nên dùng xa bữa ăn, các kháng sinh nhóm quinolon không được dùng cùng các thực phẩm giàu calci, uống cùng với sữa hoặc các kháng acid (antacid). Tuy nhiên, khi điều trị nhiễm khuẩn, đặc biệt là nhiễm khuẩn nặng, không có kháng sinh nào dùng theo đường uống bảo đảm được đủ nồng độ điều trị, do đó những trường hợp này ưu tiên chọn đường tiêm. Khả năng phân bố thuốc vào các tổ chức bị bệnh rất khác nhau trong đó có những tổ chức rất khó thấm thuốc như hàng rào máu - não. Ví dụ các tetracyclin, fluoroquinolon, cloramphenicol, metronidazol, rifampicin… khuếch tán được qua hàng rào máu - não kể cả khi màng não không bị viêm nhưng có những kháng sinh, ví dụ các cephalosporin thế hệ 1, 2, các aminoglycosid vẫn không đạt đủ nồng độ điều trị ngay cả khi màng não bị viêm. Khả năng thấm sẽ được cải thiện hơn khi bị viêm, ví dụ: Kháng sinh cephalosporin thế hệ 3 (trừ cefoperazon) đạt đủ nồng độ điều trị trong dịch não tủy khi bị viêm.
+
+Với các trường hợp tác nhân gây bệnh là vi khuẩn nội bào (intracellular) như *Salmonella, Brucella, Toxoplasma, Listeria*, *M. tuberculosis*… cần lựa chọn kháng sinh có khả năng thâm nhập tốt vào trong tế bào như các kháng sinh nhóm fluoroquinolon, nhóm macrolid, isoniazid, trimethoprim - sulfamethoxazol, rifampicin. Với các kháng sinh đã được lựa chọn thì mức liều và nhịp đưa thuốc để bảo đảm được chỉ số Hiệu quả/An toàn cao lại phụ thuộc vào các đặc tính "Dược động học/Dược lực học" - PK/ PD (Pharmacokinetics/Pharmacodynamics) của thuốc. Ví dụ các kháng sinh beta-lactam thuộc nhóm "kháng sinh phụ thuộc thời gian" và có tác dụng hậu kháng sinh (PAE) ngắn nên nhịp đưa thuốc thường được chia nhiều lần để bảo đảm thời gian thuốc có nồng độ trên MIC (nồng độ ức chế tối thiểu) khoảng 40 - 50% khoảng cách liều; trái lại các kháng sinh nhóm aminoglycosid thuộc nhóm "kháng sinh phụ thuộc nồng độ" và có tác dụng hậu kháng sinh (PAE) dài nên nhịp đưa thuốc thường chỉ một lần mỗi ngày để bảo đảm được tỷ lệ nồng độ đỉnh trên nồng độ ức chế tối thiểu (Cpeak/MIC) cao (khoảng 8 - 10).
+
+Đặc tính dược động học còn cho biết đường thảỉ trừ chính của thuốc. Điều này được áp dụng trong điều trị; ví dụ: Ceftriaxon, cefoperazon, ampicilin thải trừ ở dạng còn hoạt tính qua mật nên được ưu tiên dùng trong điều trị nhiễm khuẩn đường mật. Mặt khác, đường thải trừ sẽ là điểm cần lưu ý khi tỷ lệ thuốc còn hoạt tính cao dẫn đến khả năng gây độc cho cơ quan bài xuất. Trường hợp này cần thận trọng hoặc phải giảm liều trên những người bệnh có chức năng gan thận còn yếu (trẻ nhỏ) hoặc bị suy giảm do tuổi tác (người cao tuổi) hoặc do bệnh lý (suy gan thận).
+
+*Lựa chọn kháng sinh phù hợp với cơ địa, sinh lý và bệnh mắc kèm ở người bệnh:* 
+
+Có nhiều yếu tố thuộc về người bệnh cần xem xét trước khi kê đơn kháng sinh để bảo đảm điều trị thành công.
+
+Cơ địa người bệnh:
+
+Kháng sinh là một trong những nhóm thuốc có nguy cơ gây dị ứng rất cao, do đó trước khi kê đơn cần tìm hiểu tiền sử của người bệnh vì dị ứng với kháng sinh là chống chỉ định bắt buộc. Tuy nhiên, dị ứng thực sự với kháng sinh rất ít. Đa phần dị ứng liên quan đến độ tinh khiết của kháng sinh, vì vậy các kháng sinh có nguồn gốc tổng hợp và bán tổng hợp ít gặp dị ứng hơn các sản phẩm chiết xuất từ môi trường nuôi cấy vi sinh vật. Có nhiều khả năng gặp dị ứng chéo giữa các nhóm kháng sinh có cấu trúc hóa học tương tự. Ví dụ tỷ lệ dị ứng chéo giữa penicilin và cephalosporin từ 5 đến 15%; do đó nếu đã gặp dị ứng với một kháng sinh nào đó thì tốt nhất nên thay bằng một kháng sinh khác nhóm, còn nếu vẫn phải dùng thì phải có biện pháp giám sát chặt chẽ để xử lý tai biến kịp thời nếu xảy ra.
+
+Đối tượng có khác biệt về sinh lý hoặc bệnh lý với người trưởng thành khoẻ mạnh:
+
+Đối tượng người bệnh này bao gồm trẻ em (đặc biệt là trẻ sơ sinh) và người cao tuổi, người bệnh suy giảm chức năng gan và/hoặc thận. Ảnh hưởng của kháng sinh chủ yếu do chức năng gan thận chưa hoàn chỉnh hoặc bị suy giảm, dẫn đến tăng nồng độ kháng sinh với nguy cơ gây độc cho người bệnh. Phụ nữ mang thai hoặc đang cho con bú cũng thuộc nhóm người bệnh đặc biệt do nguy cơ của thuốc trên đứa trẻ. Nhóm kháng sinh cần lưu ý khi sử dụng cho trẻ đẻ non và trẻ sơ sinh là aminosid (gentamicin, amikacin...), glycopeptid (vancomycin), polypeptid (colistin) vì đây là những kháng sinh có khả năng phân bố nhiều trong pha nước nên khuếch tán rất rộng ở các lứa tuổi này.
+
+Một số đối tượng đặc biệt khác:
+
+Các trạng thái bệnh lý khác như người bệnh bị bệnh nhược cơ, thiếu enzym G6PD... đều có thể làm nặng thêm các tai biến và tác dụng phụ của thuốc.
+
+### **Phối hợp kháng sinh hợp lý**
+
+Việc sử dụng kháng sinh đơn độc được khuyến khích trong đa số trường hợp. Phối hợp kháng sinh chỉ cần với một số tình trạng bệnh lý như gặp vi khuẩn kháng kháng sinh, tổ chức nhiễm khuẩn khó thấm thuốc, điều trị kéo dài (lao), nhiễm đồng thời nhiều loại vi khuẩn (kỵ khí - hiếu khí - nội bào). Tuy nhiên, việc dùng đồng thời nhiều kháng sinh phải được tính toán nhằm tạo được tác dụng hiệp đồng có lợi, tránh những phối hợp làm giảm hiệu quả điều trị hoặc tăng tác dụng bất lợi và độc tính trên người bệnh.
+
+#### *Mục đích chỉ định phối hợp kháng sinh bao gồm*
+
+*Hiệp đồng tác dụng lên các chủng đề kháng mạnh:*
+
+Trường hợp này được sử dụng cho điều trị nhiễm khuẩn mắc phải ở bệnh viện hoặc những trường hợp vi khuẩn kháng thuốc. Ví dụ: Khi điều trị nhiễm tụ cầu (*S. aureus*), vi khuẩn Gram âm đa kháng thuốc như trực khuẩn mủ xanh (*P. aeruginosa*). Ví dụ: Phối hợp amikacin với ciprofloxacin trong điều trị *P. aeruginosa* đã kháng với gentamicin.
+
+Phối hợp cũng cần khi sử dụng cho những người bệnh suy giảm miễn dịch, giảm bạch cầu trung tính, khi khả năng đề kháng của cơ thể suy giảm.
+
+*Nới rộng phổ tác dụng:*
+
+Việc nới rộng phổ chỉ cần thiết trong những trường hợp nguy cơ nhiễm kỵ khí Gram âm, đặc biệt là *B. fragilis* vì phần lớn các kháng sinh thông dụng không có tác dụng lên vi khuẩn này. Ngoài ra nới rộng phổ cũng cần thiết khi nghi ngờ nhiễm vi khuẩn nội bào (*Legionella*, *Brucella*…), trường hợp này thường gặp trong các trường hợp nhiễm khuẩn hô hấp. Lạm dụng việc nới rộng phổ thường không cần thiết vì đã có nhiều loại kháng sinh phổ rộng và các dạng chế phẩm phối hợp sẵn. Nếu tự ý phối hợp có thể gặp những tương tác bất lợi; ví dụ: Phối hợp erythromycin với lincomycin, erythromycin với cloramphenicol hoặc streptomycin với tetracyclin đều dẫn tới giảm tác dụng kháng khuẩn. Hơn nữa, khi phối hợp các kháng sinh tiêm, xu hướng chung hay trộn lẫn thuốc trong cùng một bơm tiêm, dễ dẫn tới tương kỵ; ví dụ: Trộn lẫn penicilin G hoặc ampicilin với gentamicin, trộn lẫn lincomycin với gentamicin đều gây tương kỵ.
+
+*Giảm khả năng kháng thuốc hoặc tránh tạo những chủng vi khuẩn đề kháng:*
+
+Phối hợp kháng sinh với mục đích này thường được áp dụng khi điều trị các nhiễm khuẩn kéo dài. Ví dụ: Phối hợp kháng sinh trong điều trị lao, viêm màng trong tim, viêm xương...
+
+#### *Những phối hợp kháng sinh cần tránh*
+
+Không được phối hợp kháng sinh trong cùng một nhóm dược lý vì có thể tạo tương tác đối kháng làm giảm tác dụng hoặc hiệp đồng tác dụng phụ làm tăng độc tính. Ví dụ: Phối hợp các kháng sinh nhóm macrolid với nhóm phenicol hoặc lincosamid; phối hợp tetracyclin với streptomycin… sẽ gây đối kháng tác dụng.
+
+Phối hợp các kháng sinh cùng nhóm aminoglycosid với nhau hoặc với vancomycin gây tăng độc tính trên thận.
+
+### **Liều lượng và thời gian của đợt điều trị hợp lý**
+
+Liều lượng kháng sinh phụ thuộc vào các yếu tố như: Tuổi, cân nặng, chức năng gan, thận và mức độ nặng của bệnh. Dùng liều "chuẩn" cho bệnh nặng có thể thất bại thậm chí tử vong. Do đó, cần kê đơn một liều thích hợp với tình trạng bệnh. Liều không thỏa đáng còn làm tăng tính kháng thuốc của vi khuẩn..
+
+Thời gian đợt điều trị tùy thuộc loại nhiễm khuẩn, nhưng nếu lựa chọn được kháng sinh thích hợp thì tình trạng bệnh lý sẽ được cải thiện sau 48 - 72 giờ. Thời gian điều trị của kháng sinh dài hay ngắn phụ thuộc vào các yếu tố như độ nhạy cảm của vi khuẩn gây bệnh, vị trí nhiễm khuẩn, sức đề kháng của người bệnh. Ví dụ: Viêm màng trong tim do nhiễm khuẩn phải dùng kháng sinh kéo dài trên 40 ngày cho đến khi siêu âm hết các nốt loét sùi. Viêm màng não mủ phải dùng kháng sinh đến khi mẫu chọc dò dịch não tủy trở về bình thường mới được ngừng kháng sinh. Như vậy thường không có một quy định cứng nhắc về độ dài điều trị cho mọi loại nhiễm khuẩn mà phụ thuộc vào bản chất của nhiễm khuẩn và đáp ứng với điều trị. Quá trình điều trị không nên quá dài vì có thể làm vi khuẩn tăng kháng thuốc, tăng tác dụng không mong muốn và tăng chi phí. Trái lại, một liều duy nhất kháng sinh vẫn có thể điều trị hiệu quả nhiễm khuẩn đường tiết niệu không biến chứng.
+
+### **Đảm bảo chi phí thấp nhất có hiệu quả**
+
+Chi phí điều trị ở đây bao gồm tiền thuốc kháng sinh và các chi phí phụ trợ cho sử dụng kháng sinh đó. Đường uống là đường dùng được ưu tiên vì giá thành rẻ và không cần dụng cụ hỗ trợ đưa thuốc. Đường tiêm được dùng trong những trường hợp khả năng hấp thu bị ảnh hưởng (viêm ruột, nôn nhiều) hoặc nhiễm khuẩn nặng. Tuy nhiên cần xem xét chuyển ngay sang đường uống khi có thể. Trường hợp này nên chọn các kháng sinh có sinh khả dụng đường uống cao như các kháng sinh nhóm fluoroquinolon, metronidazol... Việc kê đơn thuốc generic cũng là biện pháp để giảm chi phí điều trị nhưng cần lựa chọn được các thuốc có tương đương sinh học để bảo đảm được chỉ số Hiệu quả/Chi phí tốt nhất.
+
+### **Kết luận**
+
+Điều trị nhiễm khuẩn thành công phụ thuộc nhiều vào tính chính xác trong chẩn đoán ban đầu. Tuy nhiên khi áp dụng cần phải căn cứ vào tính kháng thuốc tại từng địa phương, từng bệnh viện để lựa chọn kháng sinh phù hợp. Nguyên tắc sử dụng kháng sinh có nhiều thay đổi so với trước kia dựa trên kết quả của các công trình nghiên cứu sau khi thuốc được đưa vào thị trường, do đó muốn bảo đảm sử dụng thuốc kháng sinh một cách hợp lý, an toàn và hiệu quả cần thường xuyên cập nhật kiến thức và bám sát các hướng dẫn điều trị mới.
+
+## **SỬ DỤNG HỢP LÝ THUỐC KHÁNG SINH CEPHALOSPORIN**
+
+Các kháng sinh cephalosporin thuộc nhóm kháng sinh phổ rộng nên được sử dụng rộng rãi cả với mục đích điều trị và dự phòng. Đây là những kháng sinh có nhiều ưu điểm như có tác dụng diệt khuẩn mạnh, ít tác dụng phụ nghiêm trọng, dùng được cho mọi đối tượng, kể cả phụ nữ mang thai và trẻ sơ sinh; do đó việc định hướng sử dụng nhóm thuốc này là cần thiết nhằm tránh kháng thuốc và nhờ đó sẽ giữ được "một vũ khí quan trọng" cho điều trị. Để định hướng sử dụng cephalosporin tốt, cần nắm vững những đặc tính dược lý học và có cách sử dụng đúng.
+
+### **Phân loại**
+
+Mặc dù các cephalosporin đã được phân loại dựa vào cấu trúc hóa học, đặc tính dược lý lâm sàng, khả năng kháng beta-lactamase hoặc phổ kháng khuẩn, nhưng phân loại theo thế hệ được coi là rất hữu ích và được sử dụng rộng rãi. Phân loại cephalosporin theo thế hệ dựa vào đặc tính kháng khuẩn của thuốc.
+
+*Bảng 1. Phân loại các cephalosporin theo thế hệ* 
+
+| Thế hệ   | Tên kháng<br>sinh                                                  | Phổ tác dụng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|----------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thế hệ 1 | Cefazolin<br>Cefalotin<br>Cephalexinu<br>Cefadroxilu<br>Cephradinu | Cầu khuẩn Gram dương: Sinh hay<br>không sinh penicilinase:<br>S. aureus,<br>S. epidermidis (trừ các chủng kháng<br>meticilin), S. pyogenes (nhóm A beta tan<br>huyết), Streptococcus agalactiae (nhóm<br>B), Streptococcus viridans. Kháng thuốc:<br>S. pneumoniae kháng penicilin.<br>Vi khuẩn Gram âm hiếu khí: E.<br>coli,<br>Proteus mirabilis và Klebsiella<br>pneumoniae, nhưng độ nhạy cảm thay<br>đổi.<br>Với vi khuẩn kỵ khí: Các cầu khuẩn<br>Gram dương thường nhạy cảm nhưng B.<br>fragilis đề kháng với cephalosporin thế<br>hệ 1. |
+
+| Thế hệ   | Tên kháng<br>sinh                                                                                                                    | Phổ tác dụng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thế hệ 2 | Cefuroxim<br>Cefuroxim<br>acetilu<br>Cefacloru<br>Cefoxitin<br>Cefotetan<br>Cefprozilu<br>Ceforanid<br>Loracarbefu                   | Cầu khuẩn Gram dương hiếu khí: Các<br>cầu khuẩn nhạy cảm giống cephalosporin<br>thế hệ 1.<br>Vi khuẩn Gram âm hiếu khí: H.<br>influenzae (bao gồm cả các chủng kháng<br>ampicilin),<br>Moraxella<br>catarrhalis,<br>Neisseria<br>meningitidis<br>và<br>một<br>số<br>Enterobacteriacae. Cephalosporin thế hệ<br>2 thường có hoạt tính mạnh hơn in vitro<br>đối với vi khuẩn Gram âm so với thế hệ<br>1, tuy phổ tác dụng đặc hiệu có thay đổi<br>giữa các thuốc trong nhóm. Cefaclor ít<br>tác dụng đối với vi khuẩn Gram âm hơn<br>so với các cephalosporin thế hệ 2 khác.<br>Vi khuẩn kỵ khí: Đa số vi khuẩn ở miệng<br>và đại tràng nhạy cảm (ví dụ Bacteroides<br>sp. bao gồm cả B. fragilis)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Thế hệ 3 | Cefotaxim<br>Ceftriaxon<br>Cefdinir<br>Ceftizoxim<br>Cefpodoxim<br>proxetilu<br>Cefoperazon<br>Ceftazidim<br>Cefiximu<br>Cefpodoximu | Phổ tác dụng mở rộng đối với các vi<br>khuẩn Gram âm so với các thế hệ 1, 2.<br>Cầu khuẩn Gram dương hiếu khí:<br>Thường ít tác dụng in vitro hơn so với<br>cephalosporin thế hệ 1 và 2. Cefotaxim<br>và ceftriaxon có hoạt tính mạnh hơn<br>ceftizoxim đối với Str. pneumoniae.<br>Cầu khuẩn Gram âm hiếu khí: Có phổ tác<br>dụng mở rộng đối với các vi khuẩn Gram<br>âm so với thế hệ 1 và 2. Tác dụng tốt với<br>H. influenzae, Moraxella catarrhalis, N.<br>meningitidis và Enterobacteriaceae (như<br>E. coli, Klebsiella sp., Proteus mirabilis,<br>Providencia) trong nhiễm khuẩn tại<br>bệnh viện và cộng đồng. Một số chủng<br>Enterobacter có khuynh hướng kháng<br>với cephalosporin nên nhóm này thường<br>không được chọn để điều trị nhiễm<br>Enterobacter.<br>Một nhóm phụ thế hệ 3 gồm ceftazidim,<br>cefoperazon có tác dụng chống P.<br>aeruginosa, nhưng ít có tác dụng chống<br>cầu khuẩn Gram dương hơn các thuốc<br>thế hệ 3 khác.<br>Các cephalosporin thế hệ 3 đường uống<br>không có tác dụng trên P. aeruginosa và<br>Enterobacter.<br>Các cephalosporin thế hệ 3 nói chung<br>không có tác dụng trên Enterococcus và<br>Listeria monocytogenes.<br>Vi khuẩn kỵ khí: Cefotaxim, ceftriaxon<br>và ceftizoxim có tác dụng đối với vi<br>khuẩn kỵ khí như B. fragilis. |
+| Thế hệ 4 | Cefepim                                                                                                                              | Phổ kháng khuẩn rộng hơn so với thuốc<br>thế hệ 3 và có độ bền vững cao đối với<br>sự thủy phân bởi các beta-lactamase qua<br>trung gian nhiễm sắc thể và plasmid.<br>Ví dụ: Cầu khuẩn Gram dương sinh<br>hay không sinh penicilinase: S. aureus,<br>S. epidermidis (trừ các chủng kháng<br>meticilin), S. pyogenes (nhóm A beta tan<br>huyết), Streptococcus agalactiae (nhóm<br>B), Streptococcus viridans                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+| Kháng thuốc: S. pneumoniae kháng<br>penicilin,<br>Enterococcus,<br>Listeria                                                                                                                                                                                       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| monocytogenes.<br>Vi<br>khuẩn<br>Gram<br>âm<br>hiếu<br>khí:<br>P.<br>aeruginosa, E. coli, Proteus mirabilis và<br>Klebsiella pneumoniae, nhưng độ nhạy<br>cảm thay đổi. Cầu khuẩn Gram dương kỵ<br>khí thường nhạy cảm nhưng B. fragilis<br>đề kháng với cefepim. |
+
+*Ghi chú:* Ký hiệu (u ) có ở dạng bào chế dùng đường uống.
+
+### **Các đặc tính dược lý** 
+
+#### *Cơ chế tác dụng*
+
+Các cephalosporin cũng có cơ chế tác dụng ức chế sự tổng hợp peptidoglycan của thành tế bào vi khuẩn tương tự các penicilin. Thuốc có tác dụng diệt khuẩn nên áp dụng được cho người bệnh suy giảm miễn dịch.
+
+#### *Cơ chế kháng cephalosporin của vi khuẩn*
+
+Vi khuẩn kháng cephalosporin có thể tự nhiên hoặc mắc phải do một hoặc nhiều yếu tố phối hợp. Khả năng kháng cephalosporin của vi khuẩn có thể do kháng sinh không tới được các vị trí tác dụng, do biến đổi các protein gắn penicilin (PBP)-đích của cephalosporin, hoặc do các enzym beta-lactamase của vi khuẩn phá hủy vòng beta-lactam làm mất tác dụng của cephalosporin. Cơ chế cuối cùng này là cơ chế kháng cephalosporin phổ biến nhất.
+
+Các cephalosporin nhạy cảm với beta-lactamase ở mức độ khác nhau. Ví dụ, trong các cephalosporin thế hệ 1, cefazolin nhạy cảm với sự thủy phân bởi beta-lactamase do *S. aureus* tiết ra nhiều hơn so với cefalothin. Cefoxitin, cefuroxim và cephalosporin thế hệ 3 kháng lại sự thủy phân bởi beta-lactamase của vi khuẩn Gram âm hơn cephalosporin thế hệ 1. Cephalosporin thế hệ 3 nhạy cảm với sự thủy phân bởi beta-lactamase (typ I) cảm ứng được thể nhiễm sắc mã hóa. Sự cảm ứng các beta-lactamase typ I này xảy ra khi sử dụng các cephalosporin thế hệ 3 hoặc 2 và/hoặc imipenem để điều trị trực khuẩn Gram âm ưa khí (đặc biệt là *Enterobacter* spp., *Citrobacter freundii, Morganella, Serratia, Providencia* và *Pseudomonas aeruginosa*) có thể dẫn đến việc kháng tất cả các cephalosporin thế hệ 3. Tuy nhiên, cephalosporin thế hệ 4 như cefepim là những chất cảm ứng yếu của beta-lactamase typ I và ít bị thủy phân bởi beta lactamase typ I hơn so với thuốc thế hệ 3.
+
+Một điểm quan trọng cần nhớ là không một cephalosporin nào có tác dụng đáng tin cậy đối với các vi khuẩn sau: *Streptococcus pneumoniae* kháng penicilin, *Staphylococcus aureus* kháng methicilin, *Staphylococcus epidermidis* kháng methicilin và *Staphylococcus coagulase* - âm tính khác, *Enterococcus*, *Listeria monocytogenes*, *Legionella pneumophila, Legionella micdadei, C. difficile, Pseudomonas maltophilia, P. putida, Campylobacter jejuni,* các loài *Acinetobacter*, và tất nhiên không có tác dụng chống nấm như *Candida albicans*.
+
+*Dược động học*
+
+Các cephalosporin có thể dùng ở dạng uống hoặc tiêm, thường dạng tiêm phổ biến hơn (Bảng 1). Tuy nhiên kháng sinh dạng uống hiện có đều không thể thay thế cho dạng tiêm trong điều trị các trường hợp nhiễm khuẩn nặng.
+
+Tỷ lệ liên kết của cephalosporin với protein huyết tương thường ở mức trung bình (50 - 80%) và yếu (< 50%). Những chất có tỷ lệ liên kết trên 90% bao gồm cefotetan, cefpiramid, cefonicid, ceftriaxon. Đây là những chất có nửa đời sinh học (t1/2) dài hơn những chất có tỷ lệ liên kết với protein huyết tương dưới 90%; ví dụ t1/2 của ceftriaxon tới 8 giờ trong khi t1/2 của các cephalosporin khác thông thường chỉ từ 0,4 đến 2,6 giờ.
+
+Các kháng sinh thế hệ 1 không qua hàng rào máu não, ngay cả khi bị viêm, trong khi các kháng sinh thế hệ 3 (trừ cefoperazon) qua được và đạt nồng độ điều trị khi viêm màng não. Cephalosporin cũng qua được nhau thai; đạt nồng độ cao trong hoạt dịch và dịch màng ngoài tim. Khả năng thấm của các cephalosporin thế hệ 3 vào trong thủy dịch mắt khá tốt nếu dùng đường toàn thân, nhưng thuốc thấm kém vào dịch thủy tinh thể. Thuốc đạt nồng độ đủ để điều trị nhiễm khuẩn mắt do vi khuẩn Gram dương và Gram âm khi dùng đường toàn thân. Hầu hết các cephalosporin không bị chuyển hóa qua gan mà bài xuất nguyên dạng qua nước tiểu; vì vậy cần phải hiệu chỉnh lại liều các thuốc này đối với người bệnh suy thận. Probenecid làm chậm sự tiết qua ống thận của phần lớn các cephalosporin. Cefoperazon và cefpiramid bị chuyển hóa qua gan qua phản ứng liên hợp và bài xuất qua mật rồi đổ vào ruột, do đó đây là 2 thuốc có nồng độ trong mật cao nhất.
+
+*Đặc tính dược động học/dược lực học* (*Pharmacokinetics/ Pharmacodynamics hay PK/PD)*
+
+Chỉ số PK/PD biểu thị mối liên hệ giữa nồng độ thuốc trong máu và tác dụng diệt khuẩn *in vivo* của kháng sinh. Đặc tính PK/PD của beta-lactam là tác dụng diệt khuẩn phụ thuộc thời gian và có tác dụng hậu kháng sinh (PAE) ngắn; do đó chế độ liều khuyến khích là chia nhiều lần trong ngày hoặc truyền tĩnh mạch kéo dài (trừ các thuốc có t1/2 dài). Thời gian truyền kháng sinh cần được cân nhắc dựa trên độ ổn định của kháng sinh khi đã pha loãng trong dung môi tương hợp. T>MIC là chỉ số có tương quan với hiệu quả điều trị của nhiều kháng sinh beta-lactam. Các nghiên cứu trên mô hình động vật cho thấy hiệu quả diệt khuẩn tốt khi nồng độ thuốc trong máu cao hơn nồng độ ức chế tối thiểu (MIC) từ 1 - 4 lần; khoảng thời gian T>MIC dao động tùy theo vi khuẩn: Với Streptococci và *Enterobacteriaceae*, T>MIC (khi thử trên động vật) phải bảo đảm 60 - 70% nhưng với *S. aureus* chỉ cần 40 - 50% khoảng liều.
+
+### **Tác dụng không mong muốn**
+
+Do cấu trúc tương tự giữa penicilin và cephalosporin nên người bệnh đã bị dị ứng với penicilin có thể bị dị ứng chéo khi dùng cephalosporin. Các nghiên cứu về miễn dịch cho thấy phản ứng chéo vào khoảng 20% số bệnh nhân bị dị ứng với penicilin, nhưng nghiên cứu lâm sàng cho thấy tỷ lệ thấp hơn nhiều (khoảng 1%). Không có test da nào có thể dự đoán một cách tin cậy người bệnh sẽ có dị ứng với cephalosporin hay không.
+
+Phản ứng quá mẫn đối với các cephalosporin là phản ứng không mong muốn thường gặp nhất và không có chứng cứ nào cho thấy cephalosporin này gây mẫn cảm ít hoặc nhiều hơn so với cephalosporin khác. Các phản ứng tức thời bao gồm phản vệ, co thắt phế quản, mày đay. Phản ứng da hay gặp là ban dát sần (thường xảy ra sau vài ngày điều trị). Dị ứng có thể kèm hoặc không kèm sốt, tăng bạch cầu ái toan.
+
+Người bệnh có tiền sử dị ứng nhẹ hoặc đã có phản ứng từ lâu trước đây với penicilin thì ít có nguy cơ phát ban hoặc phản ứng dị ứng khác đối với cephalosporin. Tuy nhiên, người bệnh có phản ứng gần đây nặng và tức thời với penicilin thì khi dùng cephalosporin phải hết sức thận trọng hoặc tốt nhất nên tránh sử dụng.
+
+Phản ứng Coombs dương tính thường gặp ở người dùng liều cao cephalosporin. Cephalosporin có thể gây ức chế tủy xương, đặc trưng là giảm bạch cầu hạt nhưng hiếm gặp.
+
+Cephalosporin được coi là có tiềm năng độc với thận, mặc dù mức độ độc ít hơn aminoglycosid hoặc polymyxin. Hoại tử ống thận đã xảy ra khi dùng cephaloridin với liều trên 4 g mỗi ngày (hiện tại kháng sinh này đã bị rút khỏi thị trường). Những cephalosporin khác ít độc hơn nhiều, hiếm khi thấy dấu hiệu độc với thận khi dùng đơn độc và ở liều điều trị. Dùng liều cao cefalothin có thể gây hoại tử ống thận cấp trong một số trường hợp, liều thường dùng (8 - 12 g/ngày) đã gây độc với thận ở người đã mắc bệnh thận từ trước. Có bằng chứng cho thấy, khi sử dụng đồng thời cefalothin và gentamicin hoặc tobramycin, xuất hiện tác dụng hiệp đồng gây độc với thận, đặc biệt rõ ở người trên 60 tuổi. Tiêu chảy có thể xảy ra khi dùng cephalosporin và thường gặp hơn khi dùng cefoperazon, có thể do cefoperazon thải trừ chủ yếu qua mật. Tiêu chảy và viêm ruột kết giả mạc do *Clostridium difficile* đã được ghi nhận khi sử dụng kháng sinh, trong đó có các kháng sinh cephalosporin. Cần phải chú ý phản ứng không dung nạp rượu (phản ứng giống disulfiram) khi dùng cefamandol, cefotetan, moxalactam và cefoperazon.
+
+Chảy máu nặng do giảm prothrombin huyết, giảm tiểu cầu và/ hoặc rối loạn chức năng tiểu cầu đã được thông báo ở nhiều kháng sinh cephalosporin, trong đó thường gặp hơn với các chất có chuỗi N-methylthiotetrazol như cefamandol, cefoperazon trên các người bệnh thiếu hụt vitamin K, suy thận, phẫu thuật cắt ống tiêu hóa.
+
+### **Chống chỉ định**
+
+Người bệnh có tiền sử mẫn cảm với cephalosporin.
+
+Riêng với ceftriaxon: Do nguy cơ ceftriaxon đẩy bilirubin ra khỏi liên kết với protein huyết tương, gây tăng bilirubin huyết dẫn đến hội chứng não - gan, do đó không được dùng cho trẻ sơ sinh, đặc biệt là trẻ sơ sinh thiếu tháng và trẻ sơ sinh có vàng da do tan máu, giảm albumin huyết. Không được trộn lẫn ceftriaxon với các dung dịch tiêm tĩnh mạch có calci (bao gồm cả dịch truyền nuôi dưỡng nhân tạo qua đường tĩnh mạch có chứa calci) do nguy cơ gặp tủa muối calci gây tắc mạch, đặc biệt dễ xảy ra ở trẻ sơ sinh và sơ sinh đẻ non tháng.
+
+### **Tương tác thuốc cần lưu ý**
+
+Cần theo dõi chức năng thận khi phối hợp các cephalosporin với kháng sinh nhóm aminoglycosid, nhóm polypeptid, nhóm lợi tiểu quai.
+
+### **Lựa chọn cephalosporin**
+
+*Cephalosporin thế hệ 1:* Như cefalotin và cefazolin, có tác dụng tốt chống vi khuẩn Gram dương nhưng ít có tác dụng chống vi khuẩn Gram âm. Phần lớn cầu khuẩn Gram dương nhạy cảm với thuốc (trừ *Enterococcus, S. aureus* kháng methicilin và *S. epidermidis)*. Đa số vi khuẩn kỵ khí ở miệng thường nhạy cảm, nhưng nhóm vi khuẩn *Bacteroides fragilis* thường kháng thuốc. Tác dụng chống *Moraxella catarrhalis, E. coli, K. pneumoniae* và *P. mirabilis*  thường là tốt. Tuy vậy, ở Việt Nam các chủng vi khuẩn thường có mức kháng kháng sinh cao nên cần cân nhắc trước khi lựa chọn. Các cephalosporin thế hệ 1 dùng đường uống được dùng để điều trị nhiễm khuẩn đường tiết niệu không biến chứng, nhiễm khuẩn da và các mô mềm thể nhẹ ở cộng đồng. Do tỷ lệ nhiễm *S. aureus* kháng meticilin tăng nên chỉ định này bị hạn chế. Thuốc thế hệ 1 dùng đường tiêm là thuốc thường được chọn để dự phòng trong đa số phẫu thuật sạch, tuy nhiên nếu tỷ lệ nhiễm tụ cầu kháng meticilin cao sau phẫu thuật thì phải dùng thuốc khác như vancomycin.
+
+*Cephalosporin thế hệ 2:* Có tác dụng chống vi khuẩn Gram âm tốt hơn đôi chút so với thế hệ 1 nhưng kém hơn nhiều so với cephalosporin thế hệ 3. Một nhóm phụ thế hệ 2 (cefoxitin, cefotetan, cefmetazol) có tác dụng chống vi khuẩn kỵ khí, trong đó có *Bacteroides fragilis* và được dùng điều trị nhiễm khuẩn vùng bụng, viêm ruột thừa, nhiễm khuẩn trong sản khoa do vi khuẩn kỵ khí, đồng thời dùng trong dự phòng phẫu thuật với các phẫu thuật đại - trực tràng hoặc cắt bỏ tử cung.
+
+*Cephalosporin thế hệ 3:* Nói chung ít có tác dụng chống cầu khuẩn Gram dương hơn thế hệ 1, nhưng có tác dụng tốt hơn nhiều đối với họ *Enterobacteriaceae*, kể cả các chủng tiết beta-lactamase. Một nhóm phụ thế hệ 3 gồm ceftazidim, cefoperazon có tác dụng chống *Pseudomonas aeruginosa*, nhưng ít có tác dụng chống cầu khuẩn Gram dương hơn các thuốc thế hệ 3 khác. Tác dụng chống *Pseudomonas aeruginosa* phải được cân nhắc rất thận trọng vì có sự khác nhau lớn về tỷ lệ kháng thuốc, tùy thuộc vào việc sử dụng kháng sinh ở các bệnh viện và trong cộng đồng. Cephalosporin thế hệ 2 nhìn chung được chỉ định cho nhiễm khuẩn do các vi khuẩn đa kháng (*Proteus, Klebsiella, Enterobacter, Haemophylus*). Các cephalosporin thế hệ 3 đường uống được chỉ định trong nhiễm khuẩn hô hấp và tiết niệu.
+
+Ceftriaxon được chỉ định để điều trị bệnh lậu, hạ cam và bệnh Lyme nặng. Do thuốc vào được dịch não tủy nên cephalosporin thế hệ thứ 3 được dùng để điều trị viêm màng não do *S. pneumoniae*, *meningococcus*, *H. influenza*. Ở người già bị viêm màng não có khả năng gặp *Listeria monocytogenes* nên phối hợp cephalosporin thế hệ 3 với ampicilin hoặc trimethoprim-sulfamethoxazol cho tới khi *L. monocytogenes* bị loại. Ceftazidim được dùng để điều trị viêm màng não do *Pseudomonas*. Liều lượng dùng để điều trị viêm màng não phải ở cao hơn liều khuyến cáo vì nồng độ thuốc trong dịch não tuỷ chỉ bằng 10 - 20% nồng độ thuốc trong huyết thanh. Cefdinir và cefpodoxim là các thuốc uống tác dụng tốt với các trường hợp nhiễm *S. pneumoniae* và *S. aureus*.
+
+Cephalosporin thế hệ 4: Như cefepim có phổ kháng khuẩn rộng hơn thế hệ 3 và có độ bền vững cao đối với sự thủy phân bởi các beta-lactamase qua trung gian nhiễm sắc thể và plasmid nên có tác dụng trên một số vi khuẩn họ Enterobacteriaceae đã kháng các cephalosporin khác; tác dụng mạnh hơn ceftazidim và ngang cefotaxim đối với Streptococcus và các chủng S. aureus nhạy cảm meticilin. Kháng sinh thế hệ 4 được dùng để điều trị nhiễm trực khuẩn Gram âm ưa khí đã kháng với cephalosporin thế hệ 3. Thuốc cũng thường được dùng theo kinh nghiệm để điều trị người bệnh sốt giảm bạch cầu trung tính.
+
+### Liều lượng và cách dùng
+
+Đây là nhóm thuốc có phạm vi điều trị rộng và mức liều dao động lớn. Liều lượng tùy thuộc vào mức độ nặng của bệnh.
+
+Độ dài điều trị phải bảo đảm cho đến khi hết triệu chứng hoặc có bằng chứng hết vi khuẩn và tiếp tục ít nhất 48 - 72 giờ sau đó. Nhiễm khuẩn do *Streptococci* beta tan huyết nên điều trị ít nhất 10 ngày. Trong trường hợp nhiễm khuẩn nặng như nhiễm khuẩn huyết, viêm nội tâm mạc hoặc viêm tủy xương, thời gian điều trị phải kéo dài ít nhất 4 đến 6 tuần.
+
+Liều cho người bệnh suy thận cần được hiệu chỉnh theo chức năng thận qua độ thanh thải creatinin (Cl<sub>cr</sub>), trừ cefoperazon và ceftriazon.
+
+Các cephalosporin ở những dạng bào chế phù hợp có thể sử dụng bằng đường uống hoặc đường tiêm. Tiêm bắp có thể gây đau nên phải tiêm sâu. Có những dạng bào chế tiêm bắp có pha thêm chất gây tê (lidocain) vào dung môi để giảm đau nhưng cần lưu ý không được đưa vào tĩnh mạch dạng này vì nguy cơ tụt huyết áp, loạn nhịp tim và có thể dẫn đến tử vong. Tiêm tĩnh mạch phải đưa chậm (3 - 7 phút). Truyền tĩnh mạch có thể truyền ngắt quãng hoặc truyền liên tục kéo dài. Tuy nhiên khi đưa theo đường tĩnh mạch cần lưu ý có thể gây viêm tắc tĩnh mạch, đặc biệt khi dùng liều cao kéo dài. Cần sử dụng kim nhỏ, đưa vào các tĩnh mạch lớn và luôn thay đổi vị trí tiêm.
+
+Cephalosporin ở dạng dung dịch chỉ ổn định được một thời gian ngắn trừ trường hợp đông lạnh. Thuốc này cũng tương ky với hầu hết các thuốc tiêm khác, đặc biệt là kháng sinh nhóm aminoglycosid. Do đó không được trộn lẫn trong cùng bơm tiêm với thuốc tiêm khác; đặc biệt không được tiêm ở cùng một chỗ,
+
+cùng thời điểm với aminoglycosid.
+
+### Kết luân
+
+Trong tất cả loại thuốc kháng sinh, cephalosporin được dùng nhiều nhất, nhưng cũng bị lạm dụng nhiều nhất, đặc biệt là các cephalosporin thế hệ 3 và thế hệ 4. Hậu quả không tránh khỏi của sử dụng tràn lan đã làm xuất hiện ngày càng nhiều các vi khuẩn kháng thuốc, đòi hỏi ngày càng tăng nhu cầu tìm thuốc mới. Tránh lạm dụng kháng sinh là cách tốt nhất để kiểm soát vi khuẩn kháng thuốc. Do đó, cần định hướng sử dụng cephalosporin để hạn chế vi khuẩn kháng thuốc. Các hướng dẫn và thông tin chính thức về cách sử dụng hợp lý, an toàn và hiệu quả các thuốc kháng sinh nhóm cephalosporin đã được biên soạn trong chuyên luận riêng. Tuân thủ hướng dẫn điều trị, quy định hội chẩn khi kê đơn với các cephalosporin thế hệ 3 và thế hệ 4, tăng cường cập nhật kiến thức trong sử dụng kháng sinh là những biện pháp góp phần giảm tỷ lệ kháng thuốc và bảo vệ được những nhóm kháng sinh quý, hiệu quả cao và độc tính thấp như các cephalosporin.
+
+## THUỐC CHỐNG LOẠN THẦN, XỬ TRÍ CÁC TÁC DỤNG KHÔNG MONG MUỐN
+
+### Đại cương
+
+Loạn thần hay rối loạn tâm thần là thuật ngữ chỉ tình trạng các chức năng tâm lý - trí tuệ của một cá nhân bị suy giảm và/hoặc biến đổi gây ảnh hưởng tới các hành vi và cách ứng xử của người đó trong môi trường gia đình và xã hội. Rối loạn tâm thần xây ra do nhiều yếu tố nguyên nhân khác nhau, từ bên ngoài hoặc bên trong, tác động trực tiếp hoặc gián tiếp tới cơ thể và hệ thần kinh. Hậu quả là các quá trình chức năng như cảm giác, tri giác, ý thức, trí nhớ, tư duy, ngôn ngữ và cả tính tình tác phong của người bệnh có thể bị sai lệch, không phù hợp với thực tại khách quan làm cho người bệnh khó hòa nhập với môi trường xã hội.
+
+Có nhiều biểu hiện và bệnh cảnh lâm sàng khác nhau của các rối loạn tâm thần đã được nêu trong Phân loại bệnh quốc tế lần thứ X (ICD-X); các Tiêu chuẩn chẩn đoán trình bày trong sách Chẩn đoán và Thống kê các Rối loạn Tâm thần lần thứ IV của Hiệp hội Tâm thần học Mỹ (DSM-IV) cũng đang được áp dụng rộng rãi trên thế giới.
+
+Việc sử dụng các chất tác động tâm trí để điều trị các rối loạn tâm thần đã được biết đến từ xa xưa. Với sự phát triển mạnh mẽ của khoa học kỹ thuật và sự ra đời của nhiều thuốc mới, Dược lý Tâm thần học ngày càng đóng vai trò quan trọng trong xử trí các biểu hiện bệnh lý tâm thần. Hiện nay bốn loại thuốc chủ yếu thường được sử dụng trong lâm sàng là: Thuốc chống trầm cảm, thuốc giải lo âu, thuốc điều hòa khí sắc và thuốc chống loạn thần. Nói chung, ngoài hiệu lực giải quyết được các biểu hiện phức tạp của các rối loạn tâm thần, các thuốc trên đều có một số tác dụng không mong muốn. Phạm vi nội dung của chuyên luận này đề cập đến việc xử trí các tác dụng không mong muốn của các thuốc chống loạn thần.
+
+### Phân loại thuốc chống loạn thần
+
+Có hai loại thuốc chống loạn thần:
+
+Thuốc chống loạn thần điển hình (thuốc chống loạn thần thế hệ thứ nhất).
+
+Thuốc chống loạn thần không điển hình (thuốc chống loạn thần thế hệ thứ hai).
+
+Các thuốc chống loạn thần thế hệ thứ nhất có tác dụng chủ yếu là chẹn các thụ thể dopamin  $D_2$  và có tác dụng không chọn lọc đối với bất cứ bốn thụ thể  $D_1$ ,  $D_3$ ,  $D_4$ ,  $D_5$  và do đó có thể gây các tác dụng không mong muốn, đặc biệt là các triệu chứng ngoại tháp và làm
+
+tăng prolactin máu.
+
+#### Thuốc chống loạn thần thế hệ thứ nhất
+
+Các thuốc chống loạn thần, điển hình là clorpromazin, dẫn xuất của phenothiazin còn được gọi là "các thuốc an thần kinh" (neuroleptics) hoặc "các thuốc bình thần chủ yếu" (major tranquillisers). Nói chung các thuốc này thường làm cho người bệnh trở nên bình tĩnh nhưng không làm suy giảm ý thức và không gây kích thích nghịch đảo. Trong lâm sàng các thuốc chống loạn thần được sử dụng để trấn tĩnh người bệnh kích động do bất kỳ bệnh lý tâm thần nào như tâm thần phân liệt, hưng cảm, tổn thương não, sảng nhiễm độc hoặc kích động trầm cảm.
+
+Có thể chia ra ba nhóm chính:
+
+Nhóm 1: Clorpromazin, levomepromazin và promazin có tác dụng an thần mạnh, còn các tác dụng thứ phát kháng muscarin và ngoại tháp vừa phải.
+
+Nhóm 2: Pericyazin và pipotiazin có tác dụng an thần vừa phải, tác dụng kháng muscarin rõ, còn tác dụng ngoại tháp ít hơn nhóm 1 và 3
+
+*Nhóm 3*: Fluphenazin, perphenazin, proclorperazin và trifluoperazin có đặc tính chung là ít tác dụng an thần và kháng muscarin hơn nhưng tác dụng phụ ngoại tháp mạnh hơn nhóm 1 và 2.
+
+Bên cạnh ba nhóm trên còn có các thuốc thuộc nhóm hóa học khác thường giống các phenothiazin nhóm 3 về tính chất tác động lâm sàng bao gồm: Các butyrophenon (benperidol và haloperidol), diphenylbutylpiperidin (pimozid), thioxanthen (flupentixol và zuclopenthixol) và benzamid (sulpirid).
+
+#### Thuốc chống loạn thần thế hệ thứ hai
+
+Các thuốc chống loạn thần thế hệ thứ hai tác động đến nhiều thụ thể hơn so với thế hệ thứ nhất và tác động lâm sàng có nét khác hơn, đặc biệt là các tác dụng không mong muốn.
+
+Amisulpirid có tác dụng đối kháng chọn lọc đối với thụ thể  $\rm D_2$  và  $\rm D_3.$  Aripiprazol là một chủ vận một phần  $\rm D_2,$  một phần yếu tố 5-HT1a và đối kháng thụ thể 5-HT $_{\rm 2a}.$  Thuốc này có thể gây nôn và làm giảm prolactin máu.
+
+Clozapin là một thuốc đối kháng thụ thể  $D_1$ ,  $D_2$ , 5- $HT_{2a}$ , alpha $_1$  và muscarin.
+
+Olanzapin đối kháng thụ thể  $D_1$ ,  $D_2$ ,  $D_4$ , 5-H $T_{2a}$ , histamin  $H_1$  và muscarin.
+
+Paliperidon là một chất chuyển hóa của risperidon.
+
+Quetiapin là một thuốc đối kháng thụ thể  $D_1, D_2, 5$ - $HT_{2a}$ , alpha $_1$  và histamin  $H_1$ .
+
+ $\it Risperidon$  đối kháng thụ thể  $\it D_2$ , 5- $\it HT_{2a}$ ,  $\it alpha_1$  và histamin  $\it H_1$ .
+
+### Các tác dụng không mong muốn
+
+Các tác dụng không mong muốn là những phản ứng xảy ra ở người bệnh trong quá trình được điều trị. Đây là những vấn đề thường gặp trong lâm sàng đặc biệt ở những người bệnh được sử dụng đồng thời nhiều loại thuốc. Có nhiều yếu tố nguyên nhân khác nhau cũng như có thể liên quan đến nhiều cơ chế bệnh sinh cần được xem xét: Từ cấu trúc hóa học của dược chất, tác dụng và liều lượng thuốc đến tương tác của các thuốc; từ cơ địa, phản ứng đặc ứng đến vai trò của di truyền dị ứng ở từng người bệnh.
+
+Đối với các thuốc chống loạn thần, các tác dụng không mong muốn có nhiều biểu hiện lâm sàng khác nhau bao gồm:
+
+Toàn thân: Sốt quá cao.
+
+*Nội tiết*: Tăng tiết sữa, mất kinh, vú to nam giới, rối loạn chức năng tuyến giáp, rối loạn tình dục, tăng prolactin huyết.
+
+Chuyển hóa: Ăn nhiều.
+
+*Ngoài da*: Trứng cá, hồng ban đa dạng hoặc hội chứng Stevens-Johnson, sẫn lichen, viêm da ánh sáng, nổi mày đay.
+
+Huyết học: Mất bạch cầu đa nhân, thiếu máu tan huyết, tăng bạch cầu, sưng hạch.
+
+*Tim mạch*: Rối loạn nhịp tim, bệnh cơ tim, hạ huyết áp, thuyên tắc tĩnh mạch.
+
+Tiêu hóa: Vàng da, táo bón, tổn thương tế bào gan.
+
+*Thận - tiết niệu*: Rối loạn chức năng bàng quang.
+
+*Thần kinh*: Rối loạn ngoại tháp, nhức đầu, co giật, loạng choạng. *Mắt*: Nhìn mờ, viêm thần kinh thị giác, bệnh võng mạc.
+
+Trên các người bệnh đang được điều trị có thể gặp một hoặc nhiều biểu hiện khác nhau nói trên nhưng có hai nhóm bệnh cảnh cần được đặc biệt quan tâm là các biểu hiện ngoại tháp và hội chứng ác tính thuốc an thần kinh.
+
+### Dự phòng các tác dụng không mong muốn
+
+Cũng như đối với nhiều loại thuốc khác được sử dụng trong lâm sàng, thường khó đoán trước sự xuất hiện các tác dụng không mong muốn ở một người bệnh được dùng thuốc chống loạn thần. Do đó, để góp phần vào việc dự phòng có một số điểm cần được chú ý như sau:
+
+Trong quá trình hỏi bệnh và thăm khám, cần khai thác kỹ tiền sử bệnh tật, chú trọng tới các yếu tố gây dị ứng, các thuốc đã và đang dùng, thể trạng và cơ địa của người bệnh.
+
+Xét nghiệm cận lâm sàng bao giờ cũng chú trọng tới các chức năng máu, gan, thận cũng như không bỏ qua các thăm dò chuyên khoa như ghi điện não, ghi điện tim và các kết quả hình ảnh học thần kinh.
+
+Sau khi đã có chẩn đoán lâm sàng và được chỉ định điều trị, thầy thuốc chuyên khoa cần lựa chọn thuốc chống loạn thần phù hợp với bệnh cảnh lâm sàng, cho liều lượng thuốc cần thiết với bệnh trạng cũng như cân nhắc đường đưa thuốc vào cơ thể người bệnh. Luôn thận trọng khi phải kết hợp nhiều loại thuốc chống loạn thần khác nhau và khi cho sử dụng liều cao.
+
+Ngoài việc theo dõi người bệnh hàng ngày trên lâm sàng, cần có kế hoạch định kỳ xét nghiệm kiểm tra các chức năng máu, gan, thận của người bệnh.
+
+Đặc biệt cũng cần quan tâm tới các nhân viên y tế, y tá, điều dưỡng thường hay bị phơi nhiễm với các thuốc chống loạn thần vì thực tế cho thấy đôi khi có thể xảy ra dị ứng ngoài da.
+
+### Xử trí tác dụng không mong muốn
+
+Khi nghi ngờ xảy ra tác dụng không mong muốn, người bệnh cần được thăm khám kiểm tra toàn trạng và xem xét hồ sơ bệnh án phản ánh quá trình điều trị. Các xét nghiệm cận lâm sàng và thăm dò chức năng cần thiết được tiến hành nhanh chóng, chú ý tới các chức năng tim - mạch, tiêu hóa, thận - tiết niệu, máu,... Cần cân nhắc việc giảm liều hoặc ngừng thuốc ngay, đồng thời hội chẩn với các chuyên khoa liên quan.
+
+Người bệnh cần được tăng cường nghỉ ngơi, tránh ra nắng, bù đủ nước và thức ăn dinh dưỡng, được theo dõi thân nhiệt, mạch, huyết áp đều hàng ngày. Luôn đề phòng người bệnh bị vấp ngã do rối loạn vận động, rối loạn thị giác, hạ huyết áp tư thế.
+
+Ngoài ra khi có chỉ định điều trị bằng một loại thuốc mới, cần thận trọng thăm dò liều lượng và theo dõi người bệnh trong suốt quá trình dùng thuốc.
+
+### Xử trí các biểu hiện ngoại tháp
+
+Các biểu hiện ngoại tháp là những triệu chứng khá phổ biến đối với các thuốc nhóm phenothiazin - piperazin (như fluphenazin, perphenazin, proclorperazin, trifluoperazin) và butyrophenon (như benperidol, haloperidol). Các triệu chứng lâm sàng thường phụ thuộc vào liều lượng thuốc, loại thuốc và độ nhạy cảm của từng người bệnh.
+
+#### Hội chứng Parkinson do thuốc an thần kinh
+
+Người bệnh có các triệu chứng giống như trong bệnh Parkinson là run khi nghỉ, tăng trương lực cơ, vận động chậm chạp, tăng tiết nhiều dãi, v.v... Các dấu hiệu và triệu chứng thường xuất hiện một thời gian sau khi người bệnh được dùng các thuốc an thần kinh là các chất chẹn thụ thể dopamin cũng như các chất làm giảm dopamin. Tỷ lệ mắc có thể từ 15 đến 61% các trường hợp với đặc điểm ở người cao tuổi và phụ nữ thường mắc cao hơn nam giới. Nói chung biểu hiện bệnh hay xảy ra với liều điều trị, ngoại trừ clozapin. Khi giảm hoặc ngừng thuốc, hội chứng này có thể tiến triển tốt nhưng cũng có khi kéo dài tới 18 tháng.
+
+Có thể sử dụng các chất kháng cholin và amantadin trong xử trí hội chứng Parkinson; còn levodopa chỉ có tác dụng khi lượng dopamin bị suy giảm nặng.
+
+#### Loan trương lực cơ cấp tính
+
+Đây là một biến chứng cấp xảy ra khi điều trị bằng các thuốc có tác dụng đối vận thụ thể dopamin, thường gặp khi cần xử trí nhanh một người bệnh tâm thần kích động. Người ta nhận thấy phản ứng diễn ra trong vòng 48 giờ ở phần lớn các trường hợp. Biểu hiện lâm sàng là trạng thái các cơ luôn bị co gây ra các động tác co vặn tái diễn và các tư thế bất thường, có thể thấy rõ ở các cơ mắt, mặt, hàm, lưỡi, gáy, thân mình nhưng ít khi ở các chi. Hai yếu tố nguy cơ đang chú ý là tuổi người bệnh thường trẻ và các thuốc ức chế thụ thể  $\mathbf{D}_2$  như risperidon, bupropion, ziprasidon và clozapin.
+
+Khi xử trí cơn loạn trương lực cơ có thể sử dụng các chất kháng cholin và kháng histamin như diphenhydramin, benztropin mesylat hoặc biperiden. Đôi khi có thể dùng diazepam đường tĩnh mạch. Ngoài ra cũng có thể dùng chất kháng cholin để dự phòng khi sử dụng các thuốc có tác dụng đối vận thụ thể dopamin.
+
+#### Đứng ngồi không yên (akathisia)
+
+Đứng ngồi không yên là tình trạng người bệnh luôn vận động quá mức kết hợp với nhu cầu cấp thiết phải di động cơ thể, có thể gặp ở người mắc bệnh Parkinson đã lâu, nhưng hiện nay thường do tác dụng không mong muốn của thuốc an thần kinh, người bệnh có thể luôn luôn đi tại chỗ, quằn quại, luôn xoay trở mình trên giường hoặc có các động tác định hình lắc lư hay đung đưa cơ thể. Bản thân người bệnh cảm thấy bị căng thẳng, khó chịu không rõ rệt, bứt rứt nên thường xuyên có các biểu hiện vận động không kiềm chế được. Đứng ngồi không yên xảy ra khoảng từ 5 - 60 ngày sau khi dùng thuốc an thần kinh, phần lớn do tác dụng ức chế dopamin của thuốc. Tuy nhiên các loại thuốc mới thế hệ thứ hai dường như ít gây ra triệu chứng này.
+
+Khi ngừng thuốc hoặc thay thuốc thường thấy tình trạng đứng ngồi không yên giảm nhưng có thể vẫn cần sử dụng các chất kháng cholin để điều trị. Amantadin, propanolol hoặc clonidin có tác dụng tốt. Một số nghiên cứu đề cập tới vai trò của miếng dán nicotin, cyproheptadin, mianserin và trazodon.
+
+#### Loạn động muộn (tardive dyskinesia)
+
+Đặc điểm của loạn động muộn do thuốc an thần kinh là tình trạng các cơ bắp luôn bị co hoặc vặn gây cho toàn cơ thể có một tư thế bất thường không ổn định. Loạn động muộn thường xảy ra khi người bệnh loạn thần được dùng thuốc điều trị với liều cao và trong thời gian dài. Các triệu chứng phổ biến là những động tác bất thường, không hữu ý, xuất hiện một cách tự động và thành nhịp ở mặt, hàm, lưỡi, đầu, cổ, gáy. Bệnh cảnh này đặc biệt hay xuất hiện ở người cao tuổi nhưng cũng có khi xảy ra với liều thuốc an thần kinh thấp và khi ngừng thuốc.
+
+Xử trí loạn động muộn có thể dùng chất kháng cholin như trihexyphenidyl, ethopropazin hoặc các chất ức chế dopamin như benzodiazepin, baclofen, valproat.
+
+### Xử trí hội chứng ác tính thuốc an thần kinh
+
+Hội chứng ác tính thuốc an thần kinh là một phản ứng đặc ứng đôi khi có thể ảnh hưởng tới sinh mạng của người bệnh. Có ba triệu chứng chủ yếu là:
+
+Sốt quá cao, thường kèm theo các rối loạn thực vật như nhịp tim nhanh, toát nhiều mồ hôi và huyết áp không ổn định.
+
+Dấu hiệu ngoại tháp, thường thấy tăng trương lực cơ hoặc loạn trương lực đi kèm với tăng các men cơ.
+
+Biến đổi trạng thái tâm trí như lú lẫn, kích động.
+
+Bệnh cảnh này diễn ra đột ngột trong khi người bệnh đang được dùng thuốc chống loạn thần không phải với liều độc. Tình trạng sốt quá cao kéo dài và co thắt cơ toàn thể có thể dẫn đến tiêu cơ vân và suy thân.
+
+Hội chứng bệnh lý này có thể xuất hiện sớm sau khi người bệnh được dùng liều thuốc đầu tiên hoặc bất kỳ thời điểm nào trong quá trình điều trị nhưng phần lớn xảy ra khi người bệnh dùng thuốc kéo dài. Mọi triệu chứng đều biểu hiện rõ trong vòng 24 giờ, tối đa trong vòng 72 giờ. Khi được xử trí đúng, người bệnh có thể phục hồi sức khỏe dần trong vài tuần; tuy nhiên đây là tình trạng rất nguy hiểm và tỷ lệ tử vong có thể lên tới 20% các trường hợp.
+
+Tất cả các chất ức chế thụ thể  $D_2$  đều có thể kích hoạt hội chứng ác tính thuốc an thần kinh, kể cả clozapin và tetrabenazin, haloperidol. Hiện nay vẫn chưa rõ cơ chế sinh bệnh lý của hội chứng ác tính thuốc an thần kinh nhưng đã có trường hợp xảy ra bệnh cảnh tương tự khi ngừng đột ngột thuốc levodopa cho thấy có thể do cơ chế thiếu hụt cấp tính dopamin.
+
+Hội chứng ác tính thuốc an thần kinh yêu cầu phải được xử trí cấp cứu, trước hết là ngừng ngay mọi thuốc chống loạn thần đồng thời triển khai các kỹ thuật và biện pháp điều trị tích cực. Người bệnh cần được bảo đảm thông khí, chống kiệt nước, ổn định chức năng tim - mạch, hô hấp, tiết niệu, tiêu hóa, đề phòng loét do tỳ đè, đảm bảo dinh dưỡng, bình ổn tâm lý,... Cần cân nhắc việc sử dụng các thuốc điều trị triệu chứng như dantrolen, bromocriptin, levodopa hoặc carbamazepin. Sau điều trị có khi còn thấy trạng thái căng trương lực tâm thần (catatonia) kéo dài từ vài tuần đến vài tháng.
+
+### Kết luận
+
+Sự ra đời của các thuốc điều trị bệnh tâm thần đã làm thay đổi bộ mặt của Tâm thần học nói chung, giúp giải quyết tốt các trường hợp rối loạn tâm thần trong các cơ sở chuyên khoa. Với nhiều phương thức khác nhau, đặc biệt là sử dụng các thuốc chống loạn thần trong điều trị đã mang lại kết quả khả quan trong thực hành lâm sàng. Tuy nhiên việc chỉ định hợp lý và sử dụng an toàn các thuốc chống loạn thần, luôn cảnh giác đề phòng và kịp thời phát hiện xử trí các tác dụng không mong muốn là điều kiện tiên quyết để bảo đảm mục đích tối cao của điều trị là bảo đảm chất lượng cuộc sống cho mọi người bệnh.
+
+## TÌNH HÌNH BỆNH LAO, LAO KHÁNG THUỐC VÀ SỬ DỤNG HỢP LÝ THUỐC CHỐNG LAO
+
+Bệnh lao là một bệnh lây truyền từ người sang người (hoặc động vật có vú) bằng đường hô hấp. Mặc dù nguyên nhân gây bệnh lao đã biết từ năm 1882, song mãi tới những năm cuối của thế kỉ 20, một số thuốc chống lao mới được tìm ra. Sau nhiều năm sử dụng, vi khuẩn lao đã dần kháng lại các thuốc chống lao hiện nay, hình thành một tình trạng lao kháng thuốc đang đe dọa loài người.
+
+Tổ chức Y tế thế giới (WHO) thông báo hiện nay có khoảng một phần ba dân số thế giới đã nhiễm lao. Bệnh lao là nguyên nhân gây tử vong đứng hàng thứ hai trong các bệnh nhiễm trùng với khoảng 1,2 - 1,5 triệu người tử vong mỗi năm. Tình hình lao kháng thuốc đang xảy ra ở hầu hết các quốc gia. Riêng năm 2010 trên toàn cầu có 12 triệu người mắc lao, trong đó mắc lao mới là 8,8 triệu người và gần nửa triệu người bệnh lao đa kháng thuốc.
+
+Ở nước ta, theo số liệu điều tra dịch tễ lao toàn quốc năm 2007, tỷ lệ hiện mắc lao phổi của Việt nam là 145/100 000 dân. Tỷ lệ lao kháng đa thuốc trong số người bệnh lao mới phát hiện là 2,3% và trong số người bệnh lao điều trị lại là 19,7%. Do vậy, WHO đã xếp Việt Nam đứng thứ 12 trong 22 nước có số người bệnh lao cao nhất thế giới và 14 trong 27 nước có tỷ lệ lao đa kháng thuốc cao trên toàn cầu.
+
+### **Chẩn đoán lao phổi**
+
+Bệnh lao có 2 thời kì:
+
+a. Thời kỳ nhiễm trùng lao tiềm tàng (latent infection): Khi cơ thể bị nhiễm vi khuẩn lao, nhưng không có triệu chứng lâm sàng. Những người có bằng chứng là nhiễm lao tiềm tàng cần được điều trị một liệu trình thuốc đơn giản (ví dụ isoniazid) để đề phòng phát triển thành lao bệnh.
+
+b. Thời kỳ lao bệnh, là cơ thể có các triệu chứng lâm sàng, cận lâm sàng của bệnh lao hoạt động. Những người bệnh này phải được điều trị bằng các phác đồ nhiều thuốc kết hợp, mà không được điều trị bằng một thuốc đơn lẻ.
+
+Vi khuẩn lao có thể gây bệnh tại tất cả các cơ quan của cơ thể. Hay gặp nhất và nguy hiểm nhất là bệnh lao phổi, chiếm tới 85% trong tổng số các thể bệnh lao. Những người bị lao phổi thường biểu hiện bằng: Ho khạc đờm trên 2 tuần hoặc có ho ra máu; kèm theo là các biểu hiện toàn thân như: Sốt nhẹ về chiều, ra mồ hôi trộm, gầy sút cân, mệt mỏi, kém ăn. Đặc biệt các biểu hiện này xảy ra ở những người có nguy cơ cao như có kèm thêm bệnh đái tháo đường, các bệnh mạn tính khác hoặc tiếp xúc với nguồn lây (làm việc trong môi trường có vi khuẩn lao như chăm sóc người bệnh lao phổi, phòng xét nghiệm vi khuẩn lao...).
+
+#### *Tiêu chuẩn để xác định bệnh lao phổi*
+
+*Tìm thấy vi khuẩn kháng cồn - kháng toan trong đờm* (AFB) bằng soi kính hiển vi (phương pháp nhuộm Ziehl - Neelsen), nuôi cấy vi khuẩn lao (MTB) trên các môi trường đặc biệt theo phương pháp kinh điển (môi trường Loeweinstein - Jensen) hoặc môi trường lỏng MGIT (mycobacteria growth indicator tube), hoặc ứng dụng các phương pháp sinh học phân tử (PCR - polymerase chain reaction)… tại các phòng xét nghiệm.
+
+*Hình ảnh tổn thương trên chụp X-quang phổi*, phản ứng mạnh với tuberculin sẽ gợi ý cho chẩn đoán bệnh.
+
+### **Bệnh lao kháng thuốc**
+
+Bệnh lao kháng thuốc là do đột biến kháng thuốc tại gen của vi khuẩn lao và có một phần tác động của con người gây nên. Trên phương diện vi sinh, kháng thuốc là do sự đột biến gen trong nhân tế bào vi khuẩn làm cho một loại thuốc nào đó bị mất hiệu lực điều trị đối với vi khuẩn đó. Tỷ lệ đột biến kháng của vi khuẩn với từng loại thuốc có khác nhau. Ví dụ với rifampicin, tỷ lệ đột biến kháng là 1/10<sup>8</sup> . Có nghĩa là trong 10<sup>8</sup> vi khuẩn sẽ có 1 con vi khuẩn có khả năng kháng rifampicin. Như vậy, nếu trong tổn thương lao phổi có càng nhiều vi khuẩn lao (các thể lao có hang, lao phát hiện muộn...) thì càng có khả năng tỷ lệ đột biến kháng cao.
+
+Một trong các yếu tố tác động của con người làm tăng khả năng gây kháng thuốc là cách điều trị lao không đúng. Quản lý điều trị tốt người bệnh mắc lao khi vi khuẩn còn nhạy cảm thuốc là cách tốt nhất để ngăn chặn sự xuất hiện kháng đa thuốc.
+
+Xác định sớm bệnh lao kháng đa thuốc và điều trị kịp thời, đầy đủ ngay giai đoạn đầu của bệnh là rất cần thiết để ngăn chặn việc lây truyền vi khuẩn kháng đa thuốc.
+
+Theo phân loại của Tổ chức Y tế thế giới, hiện nay có thể dựa vào nuôi cấy vi khuẩn lao trong môi trường có thuốc chống lao (phương pháp xác định tỷ lệ) hoặc phương pháp nhân gen (polymerase chain reaction - PCR) hoặc giải trình tự gen (spoligotyping) để xác định có kháng thuốc hay không.
+
+#### *Các loại kháng thuốc:*
+
+*Kháng thuốc tiên phát*: Là kháng thuốc ở người bệnh chưa từng điều trị thuốc chống lao, nay mắc bệnh lao kháng thuốc do lây nhiễm vi trùng lao kháng thuốc từ người bệnh bị lao kháng thuốc. *Kháng thuốc mắc phải* (Accquired Drug Resistance): Là kháng thuốc xuất hiện ở người bệnh đã được điều trị lao ít nhất trên 1 tháng. Nhưng do điều trị không đúng gây ra các chủng lao kháng thuốc.
+
+*Kháng thuốc ban đầu* (Primary Drug Resistance): Là những chủng trực khuẩn lao kháng thuốc ở những người bệnh không có tiền sử điều trị lao trước đó, hoặc dùng thuốc lao dưới 4 tuần.
+
+*Kháng đa thuốc* (MDR-TB: Multi Drug Resistant TB ): Trực khuẩn lao kháng đồng thời với cả rifampicin và isoniazid.
+
+*Siêu kháng thuốc* (XDR-TB: Extensively Drug Resistant TB): Là bệnh lao ngoài kháng đa thuốc còn kháng thêm với bất cứ thuốc nào trong nhóm fluoroquinolon và kháng với ít nhất một loại thuốc chống lao hàng 2 dạng tiêm là capreomycin, kanamycin và amikacin.
+
+*Siêu siêu kháng thuốc* (XXDR-TB: Extremely Drug Resistant): Kháng toàn bộ các thuốc chống lao (TDR-TB: Total Drug Resistant).
+
+### **Nguyên tắc sử dụng thuốc chống lao**
+
+Thuốc chống lao hiện nay được phân loại thành 2 nhóm:
+
+*Các thuốc chống lao hàng 1*: Bao gồm isoniazid, rifampicin, ethambutol và pyrazinamid.
+
+*Các thuốc chống lao hàng 2*: Bao gồm acid aminosalicylic, capreomycin, cycloserin, ethionamid, một số aminoglycosid (streptomycin, amikacin, kanamycin) và một số loại thuộc dòng fluoroquinolon (như gatifloxacin, levofloxacin, moxifloxacin). Thuốc chống lao hàng 2 thường độc hơn và kém hiệu quả hơn thuốc hàng 1, chỉ dùng khi chống chỉ định hoặc vi khuẩn kháng với thuốc hàng 1.
+
+#### *Nguyên tắc điều trị*
+
+*Phối hợp các thuốc chống lao*: Mỗi loại thuốc chống lao có cơ chế tác dụng khác nhau trên vi khuẩn lao (diệt khuẩn, kìm khuẩn) và vi khuẩn có tỷ lệ đột biến kháng với mỗi thuốc khác nhau, do vậy phải phối hợp ít nhất 3 loại thuốc chống lao trong giai đoạn ban đầu và ít nhất 2 loại trong giai đoạn duy trì để tăng tác dụng diệt khuẩn và giảm tỷ lệ đột biến kháng đồng thời với các thuốc sử dụng. Ví dụ dùng đồng thời 2 loại thuốc rifampicin và isoniazid thì tỷ lệ đột biến kháng với 2 loại thuốc sẽ là 1/10<sup>6</sup> x 1/108 = 1/1014 (thấp hơn rất nhiều so với dùng đơn lẻ 1 thuốc).
+
+*Phải dùng thuốc đúng liều*: Các thuốc chống lao tác dụng hợp đồng, mỗi thuốc có một nồng độ ức chế tối thiểu (MIC) khác nhau. Nếu dùng liều thấp hơn liều ức chế tối thiểu sẽ không hiệu quả và dễ tạo ra các chủng vi khuẩn kháng thuốc, nếu dùng liều cao dễ gây tai biến.
+
+*Phải dùng thuốc đều đặn*: Các thuốc chống lao phải được uống cùng một lần vào thời gian nhất định trong ngày và xa bữa ăn để đạt hấp thu thuốc tối đa (đạt được nồng độ cao trong máu).
+
+*Phải dùng thuốc đủ thời gian, theo 2 giai đoạn tấn công (ban đầu) và duy trì:* Giai đoạn tấn công kéo dài 2, 3 tháng nhằm tiêu diệt nhanh số lượng lớn vi khuẩn có trong các vùng tổn thương để ngăn chặn các đột biến kháng thuốc. Giai đoạn duy trì kéo dài 4 đến 6 tháng nhằm tiêu diệt triệt để các vi khuẩn lao trong vùng tổn thương để tránh tái phát.
+
+*Thời gian điều trị*: Việc điều trị dựa trên cụ thể từng người bệnh, nhất là khi sử dụng nhiều thuốc chống lao trong một phác đồ điều trị cần phải đặt ra một cách nghiêm túc. Bởi lẽ sẽ liên quan đến việc có khả năng kéo dài thời gian điều trị hoặc có những người bệnh kèm theo những bệnh lí như HIV, đái tháo đường, bệnh máu hoặc bệnh của hệ võng - nội mô ác tính, điều trị các thuốc ức chế miễn dịch, suy thận mạn, suy dinh dưỡng... hoặc người đó bị các thể bệnh lao nặng như lao màng não, biến chứng của lao phổi (mủ màng phổi...). Nhìn chung thời gian điều trị cho hầu hết các ca lao phổi (trừ lao toàn thể, lao màng não và các thể lao ngoài phổi khác) là từ 6 - 9 tháng. Tuy nhiên Hội lồng ngực Hoa Kỳ (ATS) và Trung tâm kiểm soát bệnh Hoa Kỳ (CDC) khuyến cáo rằng quan trọng hơn là phải dựa vào tổng liều thuốc dùng chứ không chỉ đơn thuần căn cứ vào thời gian.
+
+#### *Nguyên tắc quản lý*
+
+Điều trị sớm ngay sau khi được chẩn đoán.
+
+Điều trị phải được theo dõi và kiểm soát trực tiếp: Kiểm soát việc tuân thủ điều trị của người bệnh, theo dõi kết quả xét nghiệm đờm, theo dõi diễn biến lâm sàng, xử trí kịp thời các biến chứng của bệnh và tác dụng không mong muốn của thuốc. Sự tuân thủ của người bệnh là yếu tố quyết định sự thành công của điều trị. Người bệnh cần phải được biết lợi ích của việc tuân thủ suốt cả quá trình điều trị. Việc thực hiện chế độ điều trị có giám sát trực tiếp (DOT-Directly Observed Therapy) bất kì khi nào có thể sẽ đảm bảo việc tuân thủ điều trị của người bệnh được tốt hơn. Khuyến cáo sử dụng các viên thuốc kết hợp 2 hoặc 3 loại thuốc, đảm bảo cho việc tuân thủ điều trị được thuận lợi, đặc biệt trong điều kiện không có thể triển khai được chế độ DOT.
+
+Thầy thuốc cần tư vấn đầy đủ cho người bệnh trước, trong và sau khi điều trị để người bệnh thực hiện tốt liệu trình theo quy định.
+
+#### *Chỉ định và phác đồ điều trị*
+
+*Các thuốc chống lao thiết yếu:* 
+
+Bộ Y tế Việt Nam quy định 5 thuốc chống lao thiết yếu là: Isoniazid (H), Rifampicin (R), Pyrazinamid (Z), Streptomycin (S) và Ethambutol (E).
+
+Liều lượng các thuốc chống lao theo cân nặng, khuyến cáo theo Bảng 1 dưới đây.
+
+*Bảng 1: Liều lượng các thuốc chống lao theo cân nặng*
+
+| Loại thuốc       | Liều lượng<br>(mg/kg)                           |
+|------------------|-------------------------------------------------|
+| Isoniazid (H)    | 5 (4 - 6)                                       |
+| Rifampicin (R)   | 10 (8 - 12)                                     |
+| Pyrazinamid (Z)  | 25 (20 - 30)                                    |
+| Ethambutol (E)   | Trẻ em: 20 (15 - 25)<br>Người lớn: 15 (15 - 20) |
+| Streptomycin (S) | 15 (12 - 18)                                    |
+
+*Chỉ định và phác đồ điều trị:*
+
+Với lao phổi:
+
+*Phác đồ I:*
+
+Phác đồ IA: 2S(E)HRZ/4RHE hoặc phác đồ IB: 2S(E)RHZ/4RH hoặc 2S(E)RHZ/6HE.
+
+Chỉ định: Cho các trường hợp người bệnh lao mới (chưa điều trị lao bao giờ hoặc đã từng điều trị lao nhưng dưới 1 tháng).
+
+Hướng dẫn:
+
+Giai đoạn tấn công kéo dài 2 tháng, gồm 4 loại thuốc dùng hàng ngày, E có thể thay thế cho S.
+
+Giai đoạn duy trì kéo dài 4 tháng gồm 2 loại thuốc là H và R dùng hàng ngày hoặc 4 tháng gồm 3 loại thuốc R, H, E dùng hàng ngày. *Phác đồ II*: 2HRZE/4HR hoặc 2HRZ/4HR
+
+Chỉ định: Cho tất cả các thể lao ở trẻ em. Trong trường hợp lao ở trẻ em thể nặng có thể cân nhắc dùng phối hợp với S.
+
+Hướng dẫn:
+
+Giai đoạn tấn công kéo dài 2 tháng, gồm 4 loại thuốc (HRZE) hoặc 3 loại thuốc (HRZ) dùng hàng ngày.
+
+Giai đoạn duy trì kéo dài 4 tháng gồm 2 loại thuốc là H và R dùng hàng ngày.
+
+Với lao ngoài phổi:
+
+Các phác đồ như lao phổi, nhưng cần kéo dài giai đoạn củng cố cho
+
+đủ 9 tháng, hoặc căn cứ vào tình trạng người bệnh để bác sĩ chuyên khoa quyết định thêm thuốc hay ngừng thuốc.
+
+#### *Điều trị lao cho những trường hợp đặc biệt*
+
+*Các trường hợp lao nặng:* Đối với lao màng não, lao kê, lao màng tim, màng bụng, màng phổi 2 bên, cột sống, lao ruột và lao sinh dục tiết niệu cần hội chẩn với thầy thuốc chuyên khoa lao để quyết định điều trị ngay bằng phác đồ II. Thời gian dùng thuốc có thể kéo dài, tùy thuộc vào tiến triển và mức độ bệnh.
+
+*Điều trị lao ở phụ nữ có thai hoặc cho con bú:* Sử dụng phác đồ điều trị 2RHZE/4RHE, không dùng streptomycin vì thuốc này có thể gây điếc cho trẻ, pyrazinamid (PZA) vì có thể gây quái thai, mặc dù chưa có bằng chứng.
+
+*Đang dùng thuốc tránh thai:* Rifampicin tương tác với thuốc tránh thai, làm giảm tác dụng của thuốc tránh thai. Vì vậy nên khuyên phụ nữ khi đang sử dụng rifampicin hãy chọn phương pháp tránh thai khác.
+
+*Người bệnh có rối loạn chức năng gan:*
+
+Nếu người bệnh có tổn thương gan nặng từ trước:
+
+Phải được điều trị tại bệnh viện và theo dõi chức năng gan trước và trong quá trình điều trị.
+
+Phác đồ điều trị sẽ do bác sĩ chuyên khoa quyết định tùy khả năng dung nạp của người bệnh.
+
+Sau khi người bệnh dung nạp tốt, men gan không tăng và có đáp ứng tốt về lâm sàng, có thể chuyển điều trị ngoại trú và theo dõi sát. Những trường hợp tổn thương gan do thuốc chống lao:
+
+Ngừng sử dụng thuốc lao, điều trị hỗ trợ chức năng gan cho đến khi enzym gan về bình thường, hết vàng da. Cần theo dõi lâm sàng và enzym gan.
+
+Nếu không đáp ứng hoặc có biểu hiện viêm gan do thuốc, chuyển đến cơ sở chuyên khoa để điều trị.
+
+Trường hợp người bệnh lao nặng: Có tổn thương gan, có thể tử vong nếu không điều trị thuốc lao thì dùng 2 loại thuốc ít độc với gan là S, E hoặc kết hợp với ofloxacin. Khi hết các biểu hiện của tổn thương gan thì trở lại điều trị bằng các thuốc đã dùng.
+
+*Người bệnh có suy thận:*
+
+Phác đồ 2RHZ/4RH là tốt nhất để điều trị lao cho người bệnh suy thận. Thuốc H, R, Z có thể dùng liều bình thường ở người bệnh suy thận.
+
+*Người bệnh lao nhiễm HIV/AIDS:*
+
+Các thuốc chống lao có tác dụng tốt với bệnh lao ở người bệnh lao/ HIV. Điều trị lao cho người bệnh HIV/AIDS nói chung không khác biệt so với người bệnh không nhiễm HIV/AIDS. Khi điều trị cần lưu ý một số điểm sau:
+
+Tiến hành điều trị lao sớm ở người HIV có chẩn đoán lao và điều trị thuốc kháng virus (ARV) sớm nhất có thể cho người bệnh lao có nhiễm HIV.
+
+Phối hợp điều trị thuốc chống lao với điều trị dự phòng nhiễm trùng cơ hội khác bằng cotrimoxazol.
+
+#### *Quản lý điều trị*
+
+Sau khi có chẩn đoán xác định, người bệnh cần được đăng ký điều trị ngay, càng sớm càng tốt.
+
+Thực hiện theo đúng chiến lược DOT *(Directly Observed Treatment):* Giám sát trực tiếp việc dùng từng liều thuốc của người bệnh, đảm bảo người bệnh dùng đúng loại thuốc, đúng liều, đều đặn và đủ thời gian.
+
+Thầy thuốc chỉ định điều trị, người theo dõi cần hướng dẫn, tư vấn cho người bệnh và người nhà kiến thức về bệnh lao.
+
+Người giám sát trực tiếp có thể là cán bộ y tế, người tình nguyện viên cộng đồng, người nhà người bệnh đã được tư vấn đầy đủ về giám sát trực tiếp trong điều trị lao.
+
+Khi chuyển người bệnh đi nơi khác điều trị phải kèm theo phiếu chuyển và các hồ sơ người bệnh theo quy định. Nơi nhận người bệnh phải có phiếu phản hồi cho cơ sở chuyển sau khi nhận và đăng ký điều trị tiếp và phiếu phản hồi kết quả điều trị khi kết thúc điều trị.
+
+#### *Đánh giá kết quả điều trị*
+
+Rất cần thiết phải tìm vi khuẩn lao trong đờm bằng soi và nuôi cấy trong giai đoạn điều trị đầu tiên. Trong quá trình điều trị lao phổi soi và cấy đờm phải được thực hiện ít nhất 1 lần /tháng cho đến khi có liên tiếp 2 lần âm tính. Hầu hết (85%) các trường hợp vi khuẩn lao sẽ âm tính trong đờm sau 2 tháng điều trị đầu tiên. Những người có vi khuẩn lao và tổn thương hang trên X-quang thường phải sử dụng liệu trình ít nhất là 9 tháng.
+
+*Khỏi:* Người bệnh điều trị đủ thời gian và có kết quả xét nghiệm đờm âm tính ít nhất 02 lần liên tiếp trước khi kết thúc liệu trình.
+
+*Hoàn thành điều trị:* Người bệnh điều trị đủ thời gian nhưng không xét nghiệm đờm hoặc chỉ có xét nghiệm đờm 01 lần có kết quả âm tính.
+
+*Thất bại điều trị:* Người bệnh xét nghiệm đờm còn AFB(+) hoặc AFB(+) trở lại từ tháng thứ 5 trở đi.
+
+*Bỏ điều trị:* Người bệnh bỏ thuốc chống lao liên tục trên 02 tháng trong quá trình điều trị.
+
+*Chuyển đi:* Người bệnh được chuyển đi nơi khác điều trị và có phiếu phản hồi. Nếu không có phiếu phản hồi coi như người bệnh bỏ điều trị.
+
+*Chết:* Người bệnh chết vì bất cứ căn nguyên gì trong quá trình điều trị lao.
+
+*Không đánh giá:* Những người bệnh đã đăng ký điều trị lao nhưng vì lý do nào đó không tiếp tục điều trị cho đến khi kết thúc phác đồ điều trị (ví dụ: Thay đổi chẩn đoán khác).
+
+### **Phòng bệnh lao**
+
+Biện pháp dự phòng quan trọng nhất là "cắt đứt nguồn lây", có nghĩa là phát hiện sớm những người có lao phổi có vi khuẩn lao trong đờm và điều trị khỏi cho họ. Tuy nhiên bệnh lao là bệnh xã hội, nên các biện pháp dự phòng mang tính cộng đồng là rất quan trọng.
+
+Làm tốt công tác truyền thông giáo dục sức khỏe cho mọi người để ai cũng biết bệnh lao là bệnh lây qua đường hô hấp, có thể phòng và chữa được hoàn toàn. Qua đó có ý thức phòng bệnh bằng cách tăng cường sức khỏe, làm sạch và thông thoáng môi trường sống. Tiêm vắc xin BCG cho tất cả trẻ sơ sinh.
+
+Kiểm soát phòng chống lây nhiễm ở tại các cơ sở y tế hoặc nơi có nguồn bệnh (bệnh viện, trại giam...) bằng cách:
+
+Người bệnh phải đeo khẩu trang khi tiếp xúc với người khác. Khi ho, hắt hơi phải che miệng, khạc đờm vào chỗ qui định và được hủy theo đúng phương pháp (đốt).
+
+Tận dụng ánh sáng mặt trời càng nhiều càng tốt cho nơi ở và các vật dụng của người bệnh.
+
+Tạo điều kiện thông thoáng tốt các phòng ở, nơi sinh hoạt để giảm tập trung mật độ các hạt bụi chứa vi khuẩn lao.
+
+Bệnh lao là một bệnh có tính xã hội, cho nên cần phải được phòng bệnh, quản lý rộng rãi từ xã hội.
+
+## **PHÒNG BỆNH VIÊM GAN B VÀ SỬ DỤNG HỢP LÝ THUỐC ĐIỀU TRỊ VIÊM GAN B MẠN TÍNH**
+
+### **Phòng bệnh nhiễm virus viêm gan B (HBV)**
+
+Phòng chống nhiễm virus viêm gan B là vấn đề mang tính toàn cầu. Người là ổ chứa duy nhất virus viêm gan B. Nhiễm virus viêm gan B gây tác hại quan trọng là viêm gan B mạn tính, xơ gan và ung thư tế bào gan.
+
+Trên thế giới có khoảng 2 tỷ người nhiễm virus viêm gan B, trong đó có 350 triệu người nhiễm HBV mạn tính và khoảng 25% người nhiễm HBV mạn tính tiến triển thành viêm gan mạn, xơ gan và ung thư tế bào gan. Tỷ lệ nhiễm HBV thay đổi theo từng khu vực, từng vùng và từng nước có liên quan đến các biện pháp phòng bệnh và tiêm phòng vắc xin viêm gan B.
+
+Tình hình nhiễm HBV ở Việt Nam rất cao. Tỷ lệ người mang kháng nguyên bề mặt của HBV (HBsAg) ở người khỏe mạnh từ 11% đến 25%, tùy theo từng vùng địa lý. Theo ước tính của Tổ chức Y tế thế giới (WHO) thì Việt Nam có khoảng 8 triệu người nhiễm HBV và ung thư gan nguyên phát là nguyên nhân thứ hai gây tử vong ở nam giới.
+
+Theo thông báo của Bộ Y tế Việt Nam, tính từ 1978 đến 1990, số người mắc viêm gan trong 1 năm có khoảng 20 000 người, tỷ lệ tử vong từ 0,7 - 0,8%. Tỷ lệ HBsAg dương tính trong số người bệnh viêm gan từ 45 - 50%. Như vậy Việt Nam là nước có dịch tễ nhiễm virus viêm gan B lưu hành cao (từ 11 - 25%).
+
+#### *Những nguy cơ lây nhiễm virus viêm gan B*
+
+Virus viêm gan B chủ yếu lây theo đường máu. Những nguy cơ lây nhiễm HBV cao, bao gồm:
+
+*Người bệnh được truyền máu nhiều lần* hoặc các sản phẩm của máu có nhiễm HBV (các sản phẩm của máu như fibrinogen, thrombin, huyết tương đông lạnh, các yếu tố VIII, IX..). Thời gian nung bệnh viêm gan B sau truyền máu khoảng 50 - 150 ngày.
+
+*Lây theo đường tiêm* mà dụng cụ bơm kim tiêm có HBV (ví dụ tiêm chích ma túy do dùng chung với kim tiêm…)
+
+*Lây trong gia đình.* Trong gia đình có người mang HBsAg mạn tính rồi dùng chung dao cạo râu, bàn chải đánh răng, dùng chung bơm kim tiêm không sát trùng kỹ.
+
+*Lây theo đường tình dục.* Bạn tình có HBsAg dương tính có thể làm lây truyền viêm gan B, lây theo đồng tính luyến ái hoặc tình dục khác giới (như gái mại dâm nhiễm HBV làm lây cho bạn tình). Tinh dịch của nam giới hoặc dịch tiết âm đạo của những người viêm gan B có chứa virus viêm gan B rất cao. Áp dụng giao hợp có dùng bao cao su sẽ làm giảm nguy cơ lây truyền virus viêm gan B. Đối với gia đình có người nhiễm virus viêm gan B thì tất cả những người trong gia đình phải được tiêm phòng vắc xin viêm gan B sẽ giảm nguy cơ lây truyền trong gia đình.
+
+*Lây truyền HBV từ mẹ mang thai nhiễm HBV cho trẻ sơ sinh.* Bà mẹ có thai mà trong máu có HBsAg dương tính, kháng nguyên e của virus (HBeAg) dương tính thì tỷ lệ truyền HBV cho thai nhi tới 85 - 90%. Bà mẹ có thai nhiễm virus viêm gan B mà trong máu có HBsAg dương tính và HBeAg âm tính thì tỷ lệ truyền HBV cho thai nhi khoảng 15 - 20%. Do đó cần có biện pháp phòng lây nhiễm HBV từ bà mẹ truyền sang cho con từ lúc sơ sinh.
+
+*Lây truyền trong bệnh viện.* Lây truyền HBV trong bệnh viện là do các dụng cụ y tế để tiêm, dụng cụ để làm thủ thuật, dụng cụ chữa răng, thận nhân tạo v..v không được vô khuẩn tuyệt đối, vẫn còn HBV làm lây truyền HBV trong bệnh viện. Mặt khác, một số cán bộ y tế phục vụ trong khoa viêm gan vô tình để kim tiêm lấy máu người bệnh đâm vào tay, các nhân viên phòng xét nghiệm các bệnh phẩm của người bệnh viêm gan có thể bị lây truyền HBV.
+
+*Đồng nhiễm HBV với các loại virus khác,* như là HIV, HCV thường hay gặp nhất ở những người tiêm chích ma túy hoặc gái mại dâm. *Nhiễm HBV tồn tại kéo dài.* Những người mang kháng nguyên bề mặt của HBV (HBsAg) kéo dài trên 6 tháng là những người nhiễm HBV mạn tính và những người nhiễm HBV từ lúc sơ sinh do bà mẹ nhiễm HBV truyền sang sẽ mang virus viêm gan B kéo dài và là nguồn lây HBV trong cộng đồng.
+
+#### *Các biện pháp phòng bệnh viêm gan B*
+
+*Kiểm soát nguồn lây bệnh và ngăn chặn lây nhiễm virus viêm gan B (HBV)*
+
+Bơm kim tiêm chỉ sử dụng 1 lần, dùng xong phải hủy, không dùng chung 1 bơm kim tiêm cho nhiều người.
+
+Những dụng cụ đã dùng cho người bệnh (ví dụ dụng cụ nhổ răng, dao kéo, kim châm cứu, kim xăm da người, v.v...) nếu dùng lại thì DTQGVN 2
+
+cần rửa sạch, sát trùng và đun sôi hoặc hấp ở nhiệt độ cao: Đun sôi 100 °C ít nhất trong vòng 20 phút; hoặc hấp khô ở nhiệt độ 160 °C trong 2 giờ; hoặc hấp ướt ở nhiệt độ 121 °C trong 20 phút.
+
+Tránh dùng chung những dụng cụ có thể làm tổn thương da và niêm mạc, có thể làm lây nhiễm HBV như là dao cạo râu, bàn chải đánh răng, kim châm cứu, kim xăm da v.v...
+
+Khi tiếp xúc với máu, dịch tiết, các bệnh phẩm để xét nghiệm của người bệnh viêm gan, phải đeo găng tay. Sau khi thăm khám người bệnh viêm gan cần phải rửa tay bằng xà phòng và sau đó ngâm tay vào dung dịch cloramin 1%.
+
+Tất cả nhân viên y tế phục vụ người bệnh viêm gan hoặc tiếp xúc xét nghiệm máu của người bệnh, cần phải được tiêm phòng viêm gan B.
+
+Trong gia đình có người mang HBsAg mãn tính thì tất cả mọi người trong gia đình phải được tiêm phòng vắc xin viêm gan B. Tất cả những người cho máu phải được xét nghiệm trước kháng nguyên HBsAg và kháng thể anti-HBs trong máu. Nếu xét nghiệm dương tính thì không được lấy máu truyền cho người khác.
+
+Những dụng cụ đã dùng cho người bệnh viêm gan B mà không thể đun sôi hoặc không thể hấp được thì cần sát trùng bằng cách ngâm vào hóa chất để sát trùng như là: Dung dịch formalin 40%, ngâm trong 12 giờ, hoặc dung dịch natri hypoclorid 0,5 - 1%, ngâm trong 30 phút. Tạo miễn dịch thụ động bằng tiêm globulin miễn dịch viêm gan B (HBIG)
+
+HBIG được bào chế từ huyết tương người có nồng độ kháng thể anti-HBs cao, có tác dụng miễn dịch tạm thời trong vòng 4 - 5 tuần. Sau khi bị phơi nhiễm HBV thì tiêm ngay HBIG trong vòng 12 giờ đến 24 giờ mới có tác dụng. Liều lượng từ 200 - 500 IU. Dùng cho những người phơi nhiễm HBV do bơm kim tiêm có HBV, dụng cụ nhổ răng, gái mại dâm v.v...
+
+Bà mẹ mang thai mà có HBsAg dương tính trong máu, cần phòng lây HBV từ mẹ sang cho con bằng cách tiêm HBIG cho con trong 12 - 24 giờ sau khi sinh và sau đó tiêm vắc xin viêm gan B. Liều thường dùng HBIG là 0,06 ml/kg, tiêm bắp.
+
+Tạo miễn dịch chủ động bằng tiêm phòng vắc xin viêm gan B Nhờ có vắc xin phòng viêm gan B mà tỷ lệ nhiễm HBV trong cộng đồng giảm xuống rõ rệt, đồng thời giảm tỷ lệ viêm gan B mạn tính, giảm xơ gan và ung thư gan nguyên phát.
+
+Trong vòng 10 năm qua, Việt Nam đã áp dụng tiêm phòng viêm gan B cho trẻ sơ sinh trong chương trình tiêm chủng mở rộng. Vắc xin viêm gan B có hiệu lực sau khi tiêm phải tạo ra nhanh chóng kháng thể anti-HBs trong huyết thanh. Kháng thể ít nhất phải đạt trên 10 mUI/ml (> 10 UI/l) trong huyết thanh mới có hiệu lực bảo vệ. Nếu nồng độ kháng thể giảm xuống cần phải tiêm nhắc lại 1 mũi sau 2 năm đến 5 năm.
+
+#### *Các loại vắc xin phòng viêm gan B*
+
+Vắc xin huyết tương, vắc xin thế hệ 1: Vắc xin này được bào chế từ huyết tương người mang kháng nguyên bề mặt HBsAg mạn tính mà không có tổn thương gan. Vắc xin gồm có các kháng nguyên S, tiền S<sub>1</sub> và tiền S<sub>2</sub>. Vắc xin có thể hỗn hợp nhiều loại phân typ HBsAg khác nhau đang lưu hành. Vắc xin có tính sinh miễn dịch cao, có tới trên 95% số người tiêm vắc xin, tạo được kháng thể anti-HBs có hiệu lực bảo vệ phòng lây nhiễm HBV.
+
+Vắc xin tái tổ hợp, vắc xin thế hệ 2:
+
+Loại vắc xin tái tổ hợp sản xuất từ nấm men (Saccharomyces, Cerevisiae, Pastoris), có chứa kháng nguyên tiền S và kháng nguyên S. Vắc xin này có đáp ứng sinh miễn dịch cao, kể cả đáp ứng cho những người trước đây ít có đáp ứng miễn dịch sau khi tiêm, hiệu giá miễn dịch tương đối cao, có tới 95% kháng thể tiền S sau tiêm liều thứ 3.
+
+Vắc xin tái tổ hợp sản xuất trên tế bào trứng chuột đất vàng Trung
+
+Quốc, Vắc xin Genhevac B chứa 20% protein tiền  $S_2$ . Tỷ lệ đáp ứng miễn dịch rất cao, 100% có anti-HBs và kháng thể tiền  $S_2$  sau mũi tiêm thứ 3.
+
+Một số vắc xin viêm gan B lưu hành ở Việt Nam: Engerix - B (của Bỉ), HBV vắc xin (Việt Nam), recomB vax (Việt Nam), rHBvax (Việt Nam), HBvax II (Mỹ), HBvax Pro (Mỹ), Sci-B-vac (Israel), Hepa-B-vac (Trung Quốc), Tritanrix - HB (Bỉ), Hepavax-Gene (Hàn Quốc), H-B-vaxII (Mỹ).
+
+Vắc xin tái tổ hợp thế hệ 3: Vắc xin này chứa 3 kháng nguyên là kháng nguyên S, tiền $S_1$ , tiền $S_2$. Vắc xin này tạo miễn dịch cao. Ngoài tác dụng phòng bệnh, vắc xin này còn có thể áp dụng điều trị viêm gan B mãn tính, nhất là chủng HBV kháng thuốc sẽ sinh kháng thể anti-HBs nồng độ cao, đáp ứng kháng thể trực tiếp tiền $S_1$ kích thích đáp ứng lympho T đặc hiệu.
+
+#### *Liều lượng một số vắc xin viêm gan B*
+
+Liều lượng dùng để tiêm tùy thuộc vào từng loại vắc xin được sử dụng và lứa tuổi.
+
+Bảng 1. Liều lượng đối với một số vắc xin viêm gan
+
+| Đối tượng dùng                                      | Vắc xin<br>EngerixB    | Vắcxin<br>Recombivax-B  | Vắc xin huyết<br>tương thế hệ 1<br>của Việt nam |
+|-----------------------------------------------------|------------------------|-------------------------|-------------------------------------------------|
+| Tiêm cho trẻ<br>sơ sinh<br>(mẹ có HBsAg<br>âm tính) | 10 microgam/<br>1 liều | 2,5 microgam/<br>1 liều | 2,5 microgam/<br>1 liều                         |
+| Trẻ sơ sinh<br>(mẹ có HBsAg<br>dương tính           | 10 microgam/<br>1 liều | 5 microgam/<br>1 liều   | 2,5 microgam/<br>1 liều                         |
+| Trẻ em<br>< 11 tuổi                                 | 10 microgam/<br>1 liều | 2,5 microgam/<br>1 liều | 10 microgam/<br>1 liều                          |
+| Trẻ em và vị<br>thành niên<br>(11 - 19 tuổi)        | 20 microgam/<br>1 liều | 5 microgam/<br>1 liều   | 20 microgam/<br>1 liều                          |
+| Người lớn                                           | 20 microgam/<br>1 liều | 10 microgam/<br>1 liều  | 20 microgam/<br>1 liều                          |
+| Người bị suy<br>giảm miễn dịch                      | 40 microgam/<br>1 liều | 40 microgam/<br>1 liều  |                                                 |
+
+#### *Các đối tượng cần tiêm phòng vắc xin viêm gan B*
+
+Tiêm vắc xin viêm gan B cho tất cả trẻ sơ sinh và trẻ em dưới 1 tuổi. Ở Việt Nam, trong vòng 10 năm nay, đã tiêm vắc xin viêm gan B cho tất cả trẻ sơ sinh theo chương trình tiêm chủng mở rộng. Tiêm vắc xin viêm gan B cho tất cả những người có nguy cơ lây nhiễm cao trong nghề nghiệp (ví dụ: Nhân viên y tế làm xét nghiệm và phục vụ người bệnh viêm gan B, nha sĩ, người được truyền máu nhiều lần, chạy thận nhân tạo, ghép gan v..v..)
+
+Tiêm vắc xin viêm gan B cho tất cả mọi người trong gia đình mà có người mang HBsAg trong máu.
+
+Tiêm vắc xin viêm gan B cho những người tiêm chích ma túy, những người có quan hệ tình dục bừa bãi, đồng tính luyến ái...
+
+Tiêm vắc xin viêm gan B cho tất cả tân binh, những sinh viên học ngành y.
+
+Tiêm vắc xin viêm gan B cho tất cả những nhân viên phục vụ tại trung tâm săn sóc, những người khuyết tật về tâm thần.
+
+#### *Phòng lây truyền HBV từ mẹ có thai nhiễm HBV sang cho trẻ sơ sinh*
+
+Phụ nữ mang thai có HBsAg dương tính và nồng độ AND-HBV cao trong máu cần uống thuốc chống HBV là lamivudin (uống 100 mg/ngày) hoặc thuốc tenofovir (300 mg/ngày), uống 3 tháng cuối của thai kỳ.
+
+Không uống thuốc kháng HBV vào 3 tháng đầu và 3 tháng giữa của thai kỳ để tránh tai biến thuốc có thể gây các dị tật bẩm sinh cho thai nhi.
+
+Trẻ sơ sinh sinh ra trong 12 giờ đến 24 giờ đầu được tiêm ngay globulin miễn dịch viêm gan B (HBIG) với liều lượng 200 đơn vị quốc tế, tiêm bắp đùi ở một vị trí, đồng thời tiêm bắp vắc xin viêm gan B ở một vị trí khác (vắc xin mũi 1), đùi bên cạnh.
+
+Sau 1 tháng (30 ngày sau tiêm vắc xin mũi 1) thì tiêm vắc xin viêm gan B lần 2 (mũi 2), đồng thời tiêm HBIG liều lượng 200 UI ở một vị trí khác.
+
+1 tháng sau nữa tiêm bắp vắc xin viêm gan B lần 3 (mũi 3).
+
+12 tháng sau khi sinh, tiêm nhắc lại 1 liều vắc xin viêm gan B (mũi thứ 4).
+
+Đồng thời xét nghiệm HBsAg và anti-HBs để đánh giá kết quả. 
+
+#### *Vị trí tiêm vắc xin*
+
+Vị trí để tiêm thích hợp nhất đối với trẻ em là tiêm bắp, mặt ngoài cơ đùi và đối với người lớn thì tiêm vào cơ delta ở cánh tay. Không được tiêm vào cơ mông vì có nhiều mô mỡ. Khi tiêm vắc xin ứ đọng ở mô mỡ nên không thấm vào máu do đó làm giảm sinh kháng thể kháng virus viêm gan B.
+
+#### *Lịch tiêm chủng*
+
+Lịch tiêm vắc xin viêm gan B phổ biến là tiêm 3 mũi vào các tháng 0 - 1 - 6 tháng sẽ sinh kháng thể làm bảo vệ cơ thể kéo dài chống virus.
+
+Có loại lịch tiêm vào tháng 0 - 1 - 2 tháng sẽ sinh miễn dịch nhanh, nhưng đáp ứng miễn dịch kém hơn loại lịch tiêm 0 - 1 - 6 tháng. Có loại lịch tiêm vào tháng 0 - 1 - 2 - 12 tháng. Để có miễn dịch bền vững lâu dài, có thể tiêm nhắc lại 1 mũi sau 2 năm hoặc sau 5 năm.
+
+#### *Các tác dụng không mong muốn khi tiêm vắc xin*
+
+Nói chung, khi tiêm vắc xin viêm gan B ít có tác dụng độc hại quan trọng.
+
+Sưng tấy nơi tiêm, đau, người khó chịu, nhức đầu, đôi khi sốt nhẹ 38 o C. Những tác dụng phụ thường xuất hiện sau khi tiêm 1 ngày và khỏi sau 1 - 2 ngày.
+
+Tác dụng phụ nặng hơn như phát ban, nổi mề đay, phản ứng quá mẫn, sốc (tỷ lệ khoảng 1 phần trong 600 000 trường hợp), đôi khi liệt mềm ngoại biên. Tác dụng phụ nặng rất hiếm gặp. Không nên tiêm vắc xin cho trẻ đang sốt, viêm họng hoặc phát ban.
+
+#### *Cách bảo quản vắc xin*
+
+Bảo quản vắc xin ở nhiệt độ từ 2 - 8 o C.
+
+Không được để vắc xin ở những nhiệt độ quá cao và không được để vắc xin đông lạnh.
+
+### **Phương hướng điều trị và sử dụng hợp lý thuốc điều trị viêm gan B**
+
+#### *Bệnh viêm gan B mạn tính*
+
+Nhiễm HBV thường gây 2 bệnh cảnh lâm sàng chủ yếu là viêm gan B cấp và viêm gan B mạn tính. Khoảng 90 - 95% số người bệnh viêm gan B cấp tính đều khỏi bệnh trong vòng 1 - 4 tháng, mất HBsAg, xuất hiện kháng thể anti-HBs và có miễn dịch tránh tái nhiễm mà không cần điều trị thuốc kháng HBV. Chỉ có khoảng 5 - 10% số người bệnh viêm gan B cấp chuyển thành viêm gan B mạn tính, HBsAg tồn tại kéo dài trên 6 tháng, chức năng gan alanin-aminotransferase (ALT) tồn tại kéo dài trên 6 tháng. Viêm gan B mạn tính cần phải được điều trị bằng các thuốc kháng HBV để ức chế phát triển HBV, tránh biến chứng xơ gan và ung thư tế bào gan nguyên phát.
+
+##### *Các xét nghiệm làm trước khi điều trị thuốc và sau khi điều trị* 
+
+Trước khi điều trị cần làm các xét nghiệm trong huyết thanh như là:
+
+Chức năng gan ALT, AST, các dấu ấn của HBV bao gồm: HBsAg, anti-HBs, HBeAg, kháng thể anti-HBe, đo nồng độ ADN-HBV huyết thanh. Trường hợp cần thiết có thể sinh thiết gan để theo dõi biến đổi về mô học ở gan.
+
+Sau điều trị thuốc, cứ 3 tháng đến 6 tháng làm lại các xét nghiệm trên để đánh giá kết quả điều trị và phát hiện tình trạng kháng thuốc.
+
+##### *Các thuốc kháng virus điều trị viêm gan B mạn tính hiện nay Mục tiêu điều trị các thuốc kháng HBV*
+
+Ức chế sự phát triển HBV, ngăn ngừa sự tiến triển của viêm gan B mạn tính chuyển thành xơ gan và ung thư tế bào gan.
+
+Làm chức năng gan, ALT trở về bình thường.
+
+Làm giảm nồng độ ADN-HBV huyết thanh trở về âm tính (dưới ngưỡng phát hiện), ức chế lâu dài sự sao chép của HBV.
+
+Cải thiện tổn thương mô học ở gan.
+
+Lý tưởng nhất là làm mất kháng nguyên bề mặt của HBV (HBsAg) tương đương với mất ADN-HBV trong tế bào gan (mất CCCDNA) để tránh tái phát.
+
+*Tiêu chuẩn và chỉ định điều trị viêm gan B mạn tính bằng các thuốc kháng HBV*
+
+Viêm gan B mạn tính có HBeAg dương tính và HBeAg âm tính, khi nồng độ ADN-HBV huyết thanh ≥ 1 x 10<sup>5</sup> sao chép/ml và nồng độ ALT ≥ 2 lần so với trị số bình thường. Nếu làm được sinh thiết gan, có tổn thương về mô học ở trong gan.
+
+Viêm gan B mạn tính bị xơ gan có bù trừ.
+
+Phòng viêm gan tái nhiễm sau khi ghép gan do biến chứng của virus viêm gan B.
+
+*Các thuốc kháng HBV hiện nay để điều trị viêm gan B mạn tính* Hiện nay có 2 nhóm thuốc chủ yếu để điều trị viêm gan B mạn tính, bao gồm:
+
+*Nhóm thứ 1* là Interferon alpha và thuốc mới là pegylated interferon alpha (peg-interferon alpha).
+
+*Nhóm thứ 2* là các thuốc tương tự nucleos(t)id, bao gồm: Lamivudin, adefovir, dipivoxil, entecavir, tenofovir và telbivudin.
+
+*Nội dung chi tiết về thuốc điều trị viêm gam B mạn tính xin xem hướng dẫn tại các chuyên luận riêng. Dưới đây xin giới thiệu tóm tắt về một số thuốc dùng để điều trị viêm gan B mạn tính.*
+
+*Interferon alpha*
+
+Có 2 loại interferon alpha là interferon alpha - 2a và interferon alpha - 2b. Liều dùng từ 3 triệu đơn vị đến 10 triệu đơn vị, 1 tuần tiêm 3 mũi, tiêm dưới da hoặc tiêm bắp, tiêm trong vòng 24 tuần hoặc 48 tuần. Interferon có tác dụng điều hòa miễn dịch, chống tăng sinh và kháng virus. Trong điều trị viêm gan mạn tính, 50 - 80% số người bệnh đáp ứng điều trị làm chuyển đảo huyết thanh HBeAg (mất HBeAg và xuất hiện kháng thể anti-HBe). Giảm nồng độ ADN-HBV huyết thanh và ALT trở về bình thường cải thiện mô học ở gan.
+
+*Peg-interferon alpha*
+
+Khi gắn interferon alpha với phân tử polyethylen glycol tạo thành thuốc mới là pegylated interferon alpha (peg-interferon alpha). Có 2 loại peg-interferon alpha để điều trị viêm gan B mạn, bao gồm: peg-interferon alpha - 2a là gắn polyethylen glycol với Interferon alpha - 2a liều lượng dùng điều trị là 180 microgram/1 lần. Tuần tiêm 1 lần, trong thời gian 24 tuần hoặc 48 tuần. Sau khi tiêm dưới da 180 microgram, nồng độ đỉnh của thuốc trong huyết tương vào khoảng 45 - 60 giờ. Nửa đời khoảng 65 giờ. Phân bố của thuốc cao nhất là ở gan. Thải trừ qua gan, thận.
+
+Peg-interferon alpha - 2b là gắn polyethylen glycol với interferon alpha - 2b. Sau khi tiêm 0,5 microgram/kg dưới da, nồng độ đỉnh trong huyết tương vào khoảng 45 giờ. Nửa đời khoảng 40 - 58 giờ. 30% số thuốc được thải trừ qua thận còn 70% thuốc dị hóa ở gan. Thể tích phân bố của thuốc vào thể dịch của cơ thể phụ thuộc vào trọng lượng cơ thể. Do đó khi dùng liều lượng thuốc để điều trị cần phải dựa vào cân nặng của cơ thể (kg).
+
+Liều lượng thuốc:
+
+Peg-interferon alpha - 2a tiêm 180 microgram/1 lần, 1 tuần tiêm 1 lần trong 24 tuần hoặc 48 tuần, tiêm dưới da.
+
+Peg-interferon alpha - 2b tiêm 0,5 microgram/kg/1 lần, 1 tuần tiêm 1 lần hoặc 1 microgram/kg/1 lần, tiêm dưới da 24 tuần hoặc 48 tuần.
+
+Chống chỉ định:
+
+Mẫn cảm với interferon.
+
+Có tiền sử hoặc đang bị bệnh tâm thần, trầm cảm.
+
+Phụ nữ mang thai hoặc đang cho con bú.
+
+Người bệnh đang bị suy tim, nhồi máu cơ tim, suy thận nặng, xơ gan bị suy gan nặng, động kinh, đái tháo đường, bệnh tuyến giáp do rối loạn miễn dịch suy giáp.
+
+Bạch cầu dưới 2 000/mm<sup>3</sup> .
+
+Tiểu cầu dưới 80 000/mm<sup>3</sup> .
+
+Hematocrit < 30%
+
+*Tác dụng không mong muốn (ADR):*
+
+ADR > 30 % (rất thường gặp): Triệu chứng giống cúm, sốt cao, đau cơ, nhức đầu, rét run, mệt mỏi, hạ bạch cầu, hạ tiểu cầu, xuất hiện tự kháng thể.
+
+ADR: 1 - 30% (thường gặp): Chán ăn, mất ngủ, tiêu chảy, phát ban, dị ứng, rụng tóc, hói đầu, buồn rầu, lo âu, thiếu tập trung tư tưởng, trầm cảm, thay đổi vị giác, thay đổi mùi vị, viêm kết mạc, da khô, ngứa, tăng tiết mồ hôi.
+
+ADR < 1% (ít gặp): Hoang tưởng, có ý muốn tự sát, viêm đa rễ thần kinh, viêm thần kinh thị giác, viêm võng mạc, nghễnh ngãng, nghe kém, giảm thính lực, co giật, rối loạn nhịp tim, giảm tình dục, đái tháo đường.
+
+*Tác dụng và kết quả điều trị:*
+
+Điều trị viêm gan B mạn tính bằng peg-interferon alpha tạo nên sự đáp ứng miễn dịch mạnh thông qua tế bào T giúp đỡ đặc hiệu để diệt virus. Mặt khác, peg-interferon alpha có tác dụng kích hoạt 2'-5' oligoadenylat synthetase (OAS) tham gia vào ức chế hoạt động của virus qua trung gian interferon.
+
+Dùng peg-interferon alpha điều trị viêm gan B mạn tính trong 6 tháng, nhận thấy kết quả làm nồng độ ADN-HBV trong huyết thanh trở nên âm tính (dưới ngưỡng phát hiện) vào khoảng 44 - 60% số người bệnh, chuyển đảo huyết thanh HBsAg khoảng 39 - 50%. ALT trở về bình thường là 52 - 55% và cải thiện về mô học ở gan. Đặc biệt dùng peg-interferon alpha để điều trị, tỷ lệ mất HBsAg trong máu khoảng 15 - 20%. Nếu điều trị trong 6 tháng mà không làm giảm nồng độ ADN-HBV trong máu thì cần phải ngừng điều trị. Nếu điều trị peg-interferon kéo dài 12 tháng thì đáp ứng điều trị cao hơn có tới 29% số người bệnh mất HBsAg và xuất hiện kháng thể anti-HBs.
+
+*Tái phát sau khi điều trị bằng interferon hoặc peg-interferon alpha* Khi điều trị bằng interferon alpha hoặc peg-interferon alpha thì không có hiện tượng virus kháng thuốc. Sự tái phát hoặc bùng phát viêm gan B mạn tính sau điều trị là do có sự tái hoạt động của virus viêm gan B, mặc dù peg-interferon alpha đã làm giảm nồng độ ADN-HBV huyết thanh dưới ngưỡng phát hiện, ALT đã trở về bình thường, nhưng một số người bệnh vẫn còn ADN-HBV ở trong tế bào gan (CCCADN) gây nên tái hoạt động HBV và làm bệnh tái phát sau điều trị. Sự tái hoạt động HBV thường xuất hiện 12 tháng sau kết thúc điều trị chiếm vào khoảng 15 - 20% số người bệnh, làm tăng nồng độ ADN-HBV, tăng ALT trong huyết thanh.
+
+*Các thuốc tương tự nucleos(t) id*
+
+Trong hơn 20 năm nay, điều trị viêm gan B mạn tính có nhiều tiến bộ, phát hiện các chất tương tự nucleos(t)id làm ức chế mạnh sao chép HBV, làm giảm nhanh nồng độ ADN-HBV huyết thanh, làm mất HBeAg. Tuy nhiên, thuốc có bất lợi là không xác định rõ được thời gian điều trị (có thể 1 năm, 2 năm hoặc 3 năm) và làm xuất hiện các chủng đột biến HBV kháng thuốc làm bệnh tái phát sau khi ngừng điều trị.
+
+## **PHÒNG NGỪA VÀ XỬ TRÍ PHẢN ỨNG CÓ HẠI CỦA THUỐC**
+
+Bất kỳ thuốc nào cũng có thể tạo ra các phản ứng không mong muốn, có hại khi sử dụng. Hiện nay cụm từ này thường được viết tắt là ADR (Adverse Drug Reactions).
+
+### **Định nghĩa**
+
+Theo tổ chức Y tế thế giới (WHO), ADR là các phản ứng không định trước, gây tác hại cho cơ thể khi sử dụng thuốc ở liều bình thường để điều trị, dự phòng hoặc chẩn đoán.
+
+### **Phân loại**
+
+Có thể phân loại ADR theo nhiều cách nhưng 2 cách sau đây hay được sử dụng nhất:
+
+#### *Theo tần suất gặp*
+
+Theo cách phân loại này, một phản ứng có hại có thể xếp vào một trong các mục sau:
+
+*Rất thường gặp: ADR >1/10 Thường gặp: ADR > 1/100 Ít gặp: 1/1 000 < ADR < 1/100 Hiếm gặp: ADR < 1/1 000 Rất hiếm gặp*: *ADR <1/10 000*
+
+#### *Theo typ*
+
+Có 2 typ chính là A và B (có thể có các typ phụ khác nhưng ít được đề cập).
+
+*Typ A*: Typ A có đặc tính phụ thuộc liều dùng, thường gặp đối với các thuốc có phạm vi điều trị hẹp và các biểu hiện của ADR có liên quan đến tác dụng dược lý của thuốc nhưng cường độ vượt quá mức cần thiết, ví dụ hạ đường huyết quá mức khi sử dụng thuốc điều trị đái tháo đường.
+
+*Typ B*: Typ B có đặc tính không phụ thuộc liều, không liên quan đến các đặc tính dược lý đã biết của thuốc mà liên quan tới các yếu tố di truyền hoặc miễn dịch, có tính chất đặc ứng và thường không tiên đoán được. Ví dụ về phản ứng typ B gồm thiếu máu bất sản do cloramphenicol hoặc phát ban do kháng sinh nhóm beta-lactam.
+
+### **Báo cáo ADR**
+
+Việc báo cáo ADR là bắt buộc trong các thử nghiệm lâm sàng; tuy nhiên do số lượng người tham gia thử nghiệm ít nên khả năng phát hiện các phản ứng nghiêm trọng bị hạn chế. Vì vậy việc báo cáo tự nguyện về ADR là rất quan trọng sau khi thuốc được bán rộng rãi trên thị trường, điều này đã trở thành nguyên tắc bắt buộc đối với các thuốc mới. Phải báo cáo tất cả những triệu chứng và phản ứng không mong muốn khi phát hiện được và nghi ngờ là ADR. Cần nhận thức được là những ADR này đôi khi rất nghiêm trọng, có khi có nguy cơ gây cho người bệnh những bệnh mới, gây tàn tật, thậm chí tử vong. Do đó điều quan trọng là phải tìm cách hạn chế tối đa việc xuất hiện ADR.
+
+Khi thay đổi cách sử dụng một thuốc cũ, khi phối hợp với một thuốc khác theo cách mới, hoặc khi sử dụng cho mục đích mới, đều có thể gây những phản ứng không mong muốn mới hoặc tăng tần suất gặp phản ứng. Vì vậy, báo cáo ADR phải nêu những mối liên quan nghi ngờ giữa thuốc và triệu chứng không mong muốn vì chỉ bằng cách này mới có thể phát hiện được những vấn đề mới và như vậy mới có hướng xử trí đúng. Vai trò của người thầy thuốc rất quan trọng trong quá trình này; đưa ra chẩn đoán đúng và kê đơn phù hợp căn cứ vào những hướng dẫn điều trị hợp lý và an toàn.
+
+### **Cách báo cáo ADR**
+
+Phải dựa trên cơ sở những tác dụng có hại và tác dụng phụ nghi vấn. Không cần thiết phải xác nhận những triệu chứng nhận xét thấy có thật sự là ADR hay không. Ý tưởng tổng quát của việc báo cáo là thu thập dấu hiệu, dựa trên những quan sát nghề nghiệp từ những tình huống mà người bệnh dùng thuốc, thấy có phản ứng và triệu chứng không mong muốn.
+
+Khi những phản ứng này xảy ra, điều quan trọng là phải mô tả kỹ các triệu chứng, thời gian triệu chứng xuất hiện, kết thúc và ghi chép tất cả những thuốc mà người bệnh đã dùng. Cũng cần hỏi người bệnh về tự dùng thuốc, kể cả thuốc cổ truyền. Cần thông tin về diễn biến bệnh của người bệnh và thông tin về thời gian của tất cả các thuốc mà người bệnh được cho dùng hoặc đã tự dùng. Cần tuân thủ nguyên tắc: Mọi phản ứng nghiêm trọng và đặc biệt là tất cả những phản ứng có hại gây chết người hoặc đe dọa tính mạng đều phải được báo cáo. Khi điều trị với thuốc mới, theo quy định Quốc tế mà tất cả các Quốc gia đều phải tuân theo là phải báo cáo ngay mọi phản ứng và triệu chứng không mong muốn phát hiện được.
+
+### **Trách nhiệm theo dõi ADR**
+
+Mỗi bác sĩ, cán bộ y tế hoặc dược sĩ có trách nhiệm nghề nghiệp với người bệnh của mình, hướng dẫn cách theo dõi và cho lời khuyên nhằm mục đích hạn chế nguy cơ. Mọi cán bộ y tế sau đó có trách nhiệm phải báo cáo về nghi vấn tác dụng không mong muốn nếu triệu chứng xảy ra có biểu hiện là một tác dụng không mong muốn có hại. Người bệnh hoặc người chăm sóc người bệnh cũng có thể báo cáo cho thầy thuốc bất cứ phản ứng bất thường nào gặp trong quá trình điều trị.
+
+### **Phòng ngừa ADR**
+
+Nhiều phản ứng có hại của thuốc có thể phòng ngừa, nếu tuân thủ những nguyên tắc sau đây:
+
+1. Không bao giờ kê đơn bất kỳ thuốc nào mà không có chứng cứ phù hợp với tình trạng bệnh lý của người bệnh.
+2. Nếu người bệnh mang thai, cần rất hạn chế dùng thuốc.
+3. Hỏi người bệnh về tiền sử dị ứng và các phản ứng có hại khác. Dị ứng mắc trước đó là một yếu tố dự đoán tin cậy về nguy cơ dị ứng với thuốc.
+4. Hỏi người bệnh xem trước đó đã dùng thuốc nào chưa, kể cả những thuốc tự dùng. Các thuốc sử dụng trước đó cũng có thể gây tương tác thuốc nghiêm trọng và bất ngờ.
+5. Tránh phối hợp thuốc không cần thiết. Hãy dùng càng ít thuốc nếu có thể.
+6. Tuổi tác, các bệnh gan hoặc thận có thể ảnh hưởng đến chuyển hóa và khả năng đào thải thuốc. Ở những người bệnh này, cần phải dùng liều thấp hơn bình thường.
+7. Cung cấp những chỉ dẫn thật rõ ràng cả về bệnh và về cách sử dụng đúng thuốc đã kê đơn cho người bệnh, nhất là đối với người cao tuổi.
+8. Khi có nguy cơ là các thuốc được kê đơn có thể gây phản ứng có hại, phải chỉ dẫn cho người bệnh về cách nhận biết các triệu chứng sớm, như vậy vấn đề phản ứng có hại có thể được điều trị sớm ở mức có thể.
+
+### **Nhận biết và xử trí một số ADR**
+
+Nhận biết và xử trí một số ADR ngoài da và niêm mạc quan trọng: Các phản ứng ngoài da và niêm mạc do thuốc gây ra rất quan trọng do khả năng cảnh báo sớm cũng như do tính chất nghiêm trọng của chúng. Sau đây là những phản ứng thường gặp:
+
+*Ban đỏ dát sần:* Gây ngứa và tróc vảy, có thể tự hết nếu ngừng thuốc, chiếm một tỷ lệ lớn trong tất cả những phản ứng ngoài da do thuốc.
+
+*Mày đay/phù mạch:* Mày đay là một cảnh báo quan trọng vì có mối liên quan rất chặt chẽ với phản ứng phản vệ đầy đủ và hen nặng. Mày đay xuất hiện đột ngột, cùng với ban đỏ ngứa rải rác ở nhiều nơi, thường dịu đi trong vòng 24 giờ. Ban da bọng nước được tạo thành là do hậu quả giải phóng histamin, có thể do nhiều quá trình gây ra. Ðiều quan trọng cần nhớ: Phản ứng phản vệ là do sự hoạt hóa của các chất trung gian rất giống nhau. Phù mạch khác về cơ chế hóa sinh, tuy nhiên cũng có thể rất nặng khi liên quan đến niêm mạc đường hô hấp trên, có thể đe dọa tính mạng bằng cách trực tiếp gây tắc nghẽn đường thở. Phù mạch có thể do các thuốc ức chế enzym chuyển angiotensin. Các penicilin và aspirin cũng có thể gây ra phù mạch thông qua sự hoạt hóa bổ thể qua trung gian IgE hoặc IgG. Mày đay cũng có thể xuất hiện do kết quả của bệnh huyết thanh. Trong trường hợp này, mày đay tồn tại lâu hơn bình thường và xuất hiện cùng các triệu chứng toàn thân. Ðiều trị bằng adrenalin, glucocorticoid và kháng histamin. Ngừng các thuốc nghi vấn và cẩn thận tránh dùng lại những thuốc đó. Hen được điều trị theo những hướng dẫn chuẩn Quốc tế.
+
+*Ban cố định do thuốc:* Ban dạng này có những ranh giới rõ rệt; tổn thương ban đỏ gây đau ở bàn tay, mặt, cẳng tay và bộ phận sinh dục. Tăng sắc tố cục bộ thường tồn tại sau khi hồi phục. Tiếp xúc lại với thuốc nghi vấn lại gây các ban mới ở cùng nơi. Các thuốc gây phản ứng này bao gồm cotrimoxazol, tetracyclin, barbiturat, salicylat, dapson…
+
+*Phản ứng nhạy cảm ánh sáng:* Phản ứng này giới hạn ở những vị trí tiếp xúc với ánh sáng mặt trời và có thể do một phản ứng dị ứng ánh sáng qua trung gian miễn dịch, ví dụ sau khi dùng clorpromazin, cotrimoxazol, amiodaron. Phản ứng cũng có thể trực tiếp độc do ánh sáng và không liên quan đến miễn dịch, ví dụ sau khi dùng tetracyclin, cotrimoxazol, griseofulvin, naproxen, furosemid liều cao. Viêm da do ánh sáng cũng có thể hình thành sau liệu pháp tia X, có thể tăng lên nhiều do một số thuốc. Biện pháp hạn chế là tránh tiếp xúc với ánh sáng mặt trời nếu vẫn phải tiếp tục điều trị với thuốc.
+
+*Hồng ban đa dạng và hội chứng Stevens-Johnsons*: Hồng ban đa dạng và hội chứng Stevens-Johnsons còn gọi là hội chứng da và niêm mạc cấp tính do thuốc; một số tác giả xếp vào thể hồng ban đa dạng. Các triệu chứng gồm: Ban đỏ khắp người và mụn nước và bọng nước xuất hiện sau khi dùng thuốc vài giờ đến một tuần. Những bọng nước to vỡ ra nhưng sau đó không để lại sẹo. Có thể gặp loét các hốc tự nhiên như mắt, miệng, các lỗ sinh dục. Phản ứng này thường phối hợp với sốt, khó chịu. Các thuốc được biết có thể gây phản ứng này bao gồm thuốc kháng sinh (đặc biệt nhóm betalactam), thuốc kháng retrovirus (ARV), các sulfonamid, các thuốc chống co giật, các salicylat, các barbiturat.
+
+*Ðiều trị:* Ngừng các thuốc nghi vấn, điều trị glucocorticoid và adrenalin và để kiềm chế phá hủy mô nếu cần thì có thể dùng các thuốc ức chế miễn dịch khác.
+
+*Hoại tử thượng bì nhiễm độc* (TEN): Hoại tử thượng bì nhiễm độc còn gọi là hội chứng Lyell. Các triệu chứng gồm: Trên da xuất hiện nhiều mảng đỏ với mụn nước hoại tử rộng khắp, bong da từng mảng lớn. Cùng với tổn thương da rộng là tình trạng hoại tử niêm mạc các hốc tự nhiên (miệng, mắt, lỗ sinh dục, hậu môn..). Nhiều cơ quan như phổi, gan, thận cũng bị tổn thương. Triệu chứng kèm theo là sốt cao, rét run, ngứa khắp người, hốt hoảng, mất ngủ… Các thuốc có thể gây ra hội chứng này là các penicilin, streptomycin, carbamazepin, alopurinol, paracetamol, cotrimoxazol.
+
+*Ðiều trị:* Hỗ trợ cân bằng dịch và điện giải. Dùng kháng sinh chống nguy cơ nhiễm khuẩn. Điều trị hỗ trợ chống tác dụng của chảy máu, bao gồm cả chảy máu đường tiêu hóa. Quan sát nguy cơ phù phổi và hội chứng suy hô hấp cấp ở người lớn. Ðiều trị chống đông dự phòng với heparin tiêm dưới da 5000 đvqt, 3 lần/24 giờ. Giảm đau và thuốc an thần. Ðiều trị sốt cao.
+
+Hội chứng Stevens-Johnson và hội chứng Lyell có nhiều triệu chứng tương đồng. Cả hai hội chứng đều là thể lâm sàng dị ứng thuốc rất nặng, diễn biến phức tạp và có tỷ lệ tử vong cao.
+
+*Các phản ứng penicilin thông thường:* Các phản ứng với penicilin gặp ở 1 - 10% số người bệnh điều trị nhưng chỉ có 0,04% của số này, tức là khoảng 1/50 000 người điều trị với penicilin bị phản ứng dị ứng nặng. 10% số người bệnh dị ứng với penicilin cũng dị ứng chéo với cephalosporin. Các phản ứng dị ứng đe dọa tính mạng (typ I) thông qua trung gian IgE, hoặc trong một số trường hợp hiếm gặp qua trung gian IgG có liên quan đến bệnh huyết thanh. Những phản ứng này dẫn tới các phản ứng phản vệ, mày đay và nguy cơ sốc; hay gặp nhất là phản vệ với penicilin tiêm tĩnh mạch. Yếu tố di truyền dị ứng bẩm sinh, dị ứng khác, atopi là những yếu tố nguy cơ để dự đoán phản ứng.
+
+*Điều trị:* Ngoại ban kèm hoặc không kèm theo ngứa nhẹ: Tiếp tục dùng thuốc nhưng phải theo dõi người bệnh. Nếu người bệnh đã có phản ứng ngoại ban không kèm ngứa trong lần điều trị trước với penicilin: Điều trị liều đầu tiên phải tiến hành nội trú tại bệnh viện, giữ người bệnh để theo dõi và chuẩn bị tốt để xử trí nếu có phản ứng dị ứng. Mày đay vừa phải hoặc ngoại ban kèm ngứa: Ngừng điều trị, tiêm adrenalin, dùng thuốc kháng histamin và glucocorticoid. Không bao giờ được điều trị lại với penicilin, trừ khi được giải mẫn cảm đặc hiệu. Mày đay nặng hoặc mày đay kèm với sưng khớp và mặt: Ngừng thuốc gây phản ứng. Xử trí với adrenalin, glucocorticoid và kháng histamin. Không bao giờ điều trị lại bằng penicilin. Phản ứng da và niêm mạc hoặc các phản ứng da nặng khác: Ngừng và không bao giờ điều trị lại bằng penicilin. *Loét niêm mạc miệng:* Niêm mạc miệng có thể bị tổn thương do tác dụng trực tiếp hoặc toàn thân của thuốc. Các thuốc gây tổn thương có thể là các chất gây độc tế bào như methotrexat, thuốc chống viêm không steroid (NSAID), pancreatin, penicilamin, proguanil, thuốc điều trị HIV (ARV) nhóm ức chế protease. Trong hội chứng Stevens-Johnsons do thuốc (như đã nêu trên) có thể gặp loét các hốc tự nhiên trong đó có niêm mạc miệng. Nhiễm nấm Candida miệng khi dùng các thuốc kháng khuẩn hoặc thuốc ức chế miễn dịch, các corticoid cũng hay gặp.
+
+*Xử trí:* Ngừng thuốc gây phản ứng. Điều trị tại chỗ bằng thuốc phù hợp (chống nấm, làm dịu). Xử trí theo nguyên tắc giống như khi gặp các ADR khác.
+
+## **DỊ ỨNG THUỐC**
+
+Dị ứng thuốc (drug allergy) là phản ứng quá mức, bất thường, có hại cho người bệnh khi dùng hoặc tiếp xúc với thuốc, do đã có giai đoạn mẫn cảm và gây ra những phản ứng tại chỗ hoặc toàn thân. Dị ứng thuốc có tính mẫn cảm chéo, biểu hiện bằng một số triệu chứng, hội chứng lâm sàng đặc trưng và thường có biểu hiện trên da. Nếu dùng hoặc tiếp xúc lại với thuốc đã gây dị ứng thì phản ứng dị ứng sẽ nặng hơn và có thể gây tử vong.
+
+Những phản ứng dị ứng thuốc chiếm khoảng 1/6 các phản ứng có hại do thuốc. Các phản ứng dị ứng thuốc gồm những phản ứng dị ứng và phản ứng giả dị ứng. Phản ứng giả dị ứng bao gồm những yếu tố kích thích trực tiếp tới đáp ứng miễn dịch tế bào, vì vậy nó giống như phản ứng dị ứng, nhưng không xác định được mối liên hệ với hệ miễn dịch.
+
+Dị ứng thuốc có thể biểu hiện lâm sàng ở nhiều mức độ khác nhau. Một số trường hợp khá nghiêm trọng và thậm chí có thể dẫn đến tử vong. Phần lớn những phản ứng dị ứng thông thường xuất hiện ở trên da và được quan sát thấy trên khoảng 2 - 3% số người bệnh được nằm viện. Mọi loại thuốc đều có thể gây ra những phản ứng dị ứng, tuy nhiên dị ứng thuốc kháng sinh và thuốc chống động kinh gặp nhiều hơn. Yếu tố nguy cơ của phản ứng dị ứng và mức độ nghiêm trọng của triệu chứng lâm sàng phụ thuộc vào tình trạng đáp ứng miễn dịch của mỗi người bệnh, liều lượng thuốc, thời gian điều trị và yếu tố miễn dịch di truyền bẩm sinh (đặc biệt là hệ HLA-B-alen), trong khi nguyên nhân do yếu tố dược di truyền học hiếm khi được xác định.
+
+Những loại thuốc dùng trên da có nguy cơ nhạy cảm cao hơn so với những thuốc dùng đường uống hoặc tiêm. Atopy - được định nghĩa như cơ địa di truyền làm tăng đáp ứng IgE với dị nguyên.
+
+###  **Hệ thống miễn dịch nhận diện cấu trúc của thuốc** 
+
+#### *Khái niệm về hapten và prohapten*
+
+Sự nhận diện các phân tử có kích thước nhỏ như thuốc bởi tế bào lympho B và lympho T thường được giải thích bằng khái niệm hapten. Hapten (bán kháng nguyên) là những phân tử có kích thước nhỏ (thường nhỏ hơn 1kDa), có khả năng phản ứng hóa học, có thể tồn tại dưới dạng bền vững hoặc liên kết với protein, peptid có kích thước lớn hơn. Các hapten chỉ tồn tại dưới dạng liên kết với protein hoặc peptid mới có đặc tính của một kháng nguyên. Các hapten có thể kích thích hệ miễn dịch bẩm sinh bằng cách liên kết với cấu trúc bề mặt của tế bào, những liên kết mới này có thể gây bộc lộ dấu ấn màng CD40 trên tế bào tua.
+
+Nhiều loại thuốc không xảy ra phản ứng hóa học nhưng cũng có thể gây những tác dụng phụ gián tiếp của hệ miễn dịch. Giả thuyết pro-hapten giải thích hiện tượng này thông qua việc các thuốc có tính chất hóa học trơ có thể gây đáp ứng miễn dịch sau khi chuyển hóa. Sulfamethoxazol là một prohapten điển hình. Với cấu trúc hóa học ban đầu chất này không gây ra phản ứng hóa học nhưng có thể trở thành chất gây phản ứng miễn dịch thông qua cơ chế chuyển hóa nội bào. Sulfamethoxazol chuyển hóa qua hệ thống Cytochrom P450 tạo thành sulfamethoxazol-hydroxylamin; sau đó sulfamethoxazol-hydroxylamin phản ứng hóa học mạnh và liên kết cộng hóa trị với những protein hoặc peptid, hình thành những kháng nguyên mới.
+
+*Khái niệm P-I (Pharmacological interaction with immune receptors - tác động dược lý học lên receptor miễn dịch)*
+
+Gần đây các nhà khoa học đã đưa ra khái niệm tương tác dược lý của thuốc với các thụ thể miễn dịch (khái niệm P-I). Theo khái niệm này, những thuốc có tính chất hóa học trơ, không có khả năng liên kết cộng hóa trị với những peptid hoặc protein. Tuy nhiên những thuốc này lại có thể trực tiếp làm hoạt động những tế bào T, nếu chúng có thể tương thích với một trong rất nhiều các thụ thể khác nhau của tế bào lympho T (TCRs). Khái niệm P-I nhanh chóng làm thay đổi hiểu biết về phản ứng dị ứng thuốc, một số trường hợp không điển hình của phản ứng quá mẫn thuốc có thể giải thích được bằng khái niệm này mà không giải thích được bằng khái niệm hapten. Theo khái niệm P-I, các biểu hiện trên lâm sàng là kết quả của đáp ứng miễn dịch do tương tác giữa thuốc với các tế bào miễn dịch có thẩm quyền và không phải là đáp ứng miễn dịch đặc hiệu.
+
+### **Phân loại phản ứng quá mẫn thuốc**
+
+Những phản ứng quá mẫn thuốc có thể là nguyên nhân của nhiều bệnh khác nhau. Để dễ dàng đánh giá sự không đồng nhất này và giải thích các hình ảnh lâm sàng khác nhau, Gell và Coombs đã phân loại phản ứng quá mẫn thuốc cũng như những phản ứng miễn dịch khác từ loại I đến loại IV. Sự phân loại này đã được sửa đổi dựa trên sự phát hiện ra các vai trò khác nhau của tế bào T và sự tác động qua lại giữa các phản ứng này, ví dụ: Sự trưởng thành 86 **Dị ứng thuốc** DTQGVN 2
+
+của những tế bào B tiết ra IgE hoặc IgG phụ thuộc vào tế bào T trợ giúp. Do đó, phản ứng dị ứng loại I và loại IVb, thường xuất hiện đồng thời, cũng như phản ứng dị ứng loại II, loại III với loại IVa và hình ảnh lâm sàng chắc chắn sẽ bị chi phối bởi một phản ứng miễn dịch chiếm ưu thế.
+
+#### *Phản ứng dị ứng thuốc nhanh qua trung gian kháng thể Phản ứng dị ứng thuốc loại I* (Phản ứng qua trung gian IgE)
+
+Các kháng thể IgE được tạo ra do phản ứng của hệ miễn dịch với một lượng rất nhỏ kháng nguyên, sự phản ứng mạnh mẽ này là do thông qua các thụ thể Fcε có ái lực cao (Fcε-RI) gắn trên các dưỡng bào (mastocyt), nơi mà dị nguyên hoặc thuốc-kháng thể IgE đặc hiệu được gắn vào. Một lượng nhỏ thuốc dường như đủ để tương tác và kích thích những thụ thể gắn trên phân tử IgE, do đó đôi khi ngay cả những xét nghiệm với thuốc ở trên da cũng có thể gây ra những phản ứng toàn thân. Nhờ vào liên kết chéo của Fcε-RI, những chất trung gian hóa học histamin, tryptase, leukotrien, prostaglandin, yếu tố hoại tử u α (TNF-α) được giải phóng là nguyên nhân của các triệu chứng dị ứng trên lâm sàng.
+
+Giai đoạn mẫn cảm không xuất hiện triệu chứng và nó có thể đã xảy ra trong lần dùng thuốc trước đó. Sự tiếp xúc lại với thuốc lần tiếp theo, phức hợp gắn hapten được hình thành lại, sau đó phức hợp này liên kết chéo với kháng thể IgE đặc hiệu với thuốc trên những dưỡng bào. Thuốc thường có trọng lượng phân tử quá nhỏ để qua liên kết hai phân tử kế cận IgE do đó cần phức hợp mang hapten, vì vậy một lượng nhỏ thuốc cũng gây nên những phản ứng nghiêm trọng. Tuy nhiên trong quá trình giảm mẫn cảm với thuốc đã chứng minh tính mẫn cảm còn phụ thuộc liều một cách rõ ràng. Phản ứng dị ứng loại I trên người bệnh có cơ địa nhạy cảm có thể xuất hiện một vài giây sau khi tiêm thuốc và một vài phút sau khi uống thuốc. Sốc phản vệ có thể xuất hiện trong vòng 15 phút, người bệnh có thể ngạt thở do phù nề thanh quản trong khoảng 15 đến 60 phút. Các triệu chứng ban đầu có thể là ngứa ở gan bàn tay, chân, bộ phận sinh dục, hoặc nách, các triệu chứng này nên được xem xét như dấu hiệu báo trước của sốc. Ban đỏ da thường là dấu hiệu đầu tiên xuất hiện ở thân, sau đó lan ra toàn bộ cơ thể trong khoảng từ 30 đến 60 phút, mày đay có thể xuất hiện, kèm theo phù vùng quanh hốc mắt, xung quanh miệng, đôi khi ở bộ phận sinh dục. Sốc phản vệ có thể gây tử vong chiếm khoảng 1% các trường hợp. Những yếu tố làm cho các phản ứng thuốc nặng hơn như hen phế quản, tuổi già, nhồi máu cơ tim hoặc tổn thương tế bào não... *Phản ứng dị ứng loại II* (Độc tế bào - phản ứng qua trung gian IgG)
+
+Trong những phản ứng loại II, hoặc là kháng thể được gắn trực tiếp trên màng tế bào (hiếm gặp) hoặc hoạt hóa phức hợp miễn dịch phản ứng xảy ra trên bề mặt tế bào. Cả hai hiện tượng này đều có thể dẫn tới phá hủy hoặc cô lập tế bào. Các tế bào đích bị tác động bao gồm hồng cầu, bạch cầu, tiểu cầu và các tế bào non sinh máu trong tủy xương.
+
+Những trường hợp lâm sàng rõ nhất được báo cáo là do quinin, quinidin, hoặc sulfonamid. Những tế bào được gắn kháng thể sẽ bị giữ lại tại hệ thống lưới nội mô tại gan và lách do gắn với thụ thể Fc hoặc thụ thể bổ thể. Sự phá hủy nội mạch có thể xuất hiện do ly giải qua trung gian bổ thể nhưng hiếm gặp hơn.
+
+Thiếu máu huyết tán đã được cho là do penicilin và các dẫn xuất của chúng, cephalosporin, levodopa, methyldopa, quinidin, một số thuốc chống viêm.
+
+Giảm tiểu cầu là một tai biến dị ứng tương đối phổ biến do thuốc. Đôi khi giảm tiểu cầu cấp tính có thể đe dọa tới tính mạng người bệnh đã được thừa nhận do điều trị bằng quinin, các kháng sinh nhóm sulfonamid và một vài loại thuốc khác. Giảm tiểu cầu miễn dịch do thuốc thường tiến triển sau 5 đến 8 ngày sau khi tiếp xúc với những thuốc nhạy cảm hoặc sau khi tiếp xúc với cùng một loại thuốc lần thứ hai. Người bệnh có triệu chứng xuất huyết lan rộng dưới da và niêm mạc miệng, đôi khi kèm theo xuất huyết đường tiết niệu và đường tiêu hóa, xuất huyết não hiếm gặp. Sau khi ngừng thuốc, tiểu cầu thường trở về bình thường trong vòng 3 tới 5 ngày.
+
+Đặc biệt có một hình thức trung gian giữa phản ứng dị ứng loại II và loại III là giảm tiểu cầu do heparin: Những tiểu cầu có ái lực yếu với các thụ thể Fc (Fcγ-RIIa) có thể gắn với phức hợp miễn dịch và kích hoạt các tiểu cầu.
+
+*Phản ứng dị ứng loại III* (lắng đọng phức hợp miễn dịch - Phản ứng qua trung gian IgG)
+
+Phức hợp miễn dịch cũng có thể được hình thành trong quá trình dùng thuốc hoặc thuốc hình thành một phức hợp mang hapten, do đó làm tăng một đáp ứng miễn dịch hoặc nếu thuốc là một protein lạ thì chính nó có thể gây ra đáp ứng miễn dịch. Kháng thể thường được tạo ra trong vòng 4 ngày đến 10 ngày, sau khi tiếp xúc với dị nguyên, tạo thành phức hợp miễn dịch hòa tan lưu hành. Các mạch máu nhỏ bị phức hợp miễn dịch chứa bổ thể (C1q) lắng đọng và thu hút các bạch cầu bằng cách tương tác với thụ thể Fcγ-RIII, sau đó giải phóng các enzym phân hủy protein gây tổn thương thành mạch. Phản ứng dị ứng loại III được thể hiện qua tổn thương viêm các mạch nhỏ hoặc bệnh huyết thanh dị loài hoặc huyết thanh đồng loài. Gần đây bệnh huyết thanh chủ yếu do các thuốc gây ra. Viêm mạch dị ứng thường do cefaclor, trimethoprim-sulfamethoxazol, cephalexin, amoxicilin, thuốc chống viêm không steroid (NSAID) và thuốc lợi tiểu.
+
+Các triệu chứng chính của bệnh phức hợp miễn dịch là đau khớp, đau cơ, sốt và viêm mạch. Các biểu hiện chủ yếu trên da dưới dạng ban xuất huyết, các nốt tím, đỏ thường xuất hiện ở chân. Ở trẻ em thường được chẩn đoán là ban xuất huyết Henoch-Schönlein, thường kèm theo viêm khớp. Những tổn thương có thể liên kết lại để tạo thành mảng và đôi khi bị loét. Các cơ quan nội tạng thường ảnh hưởng nhiều nhất là đường tiêu hóa, thận và khớp. Tiên lượng tốt nếu không kèm theo tổn thương các cơ quan nội tạng. Mô bệnh học có thể thấy phức hợp miễn dịch chứa IgA và các tổn thương mô bệnh học của tổn thương thận trong thực tế giống với bệnh thận IgA.
+
+*Phản ứng dị ứng loại IV (trung gian tế bào T)*
+
+Phân loại ban đầu của Gell và Coombs về các phản ứng dị ứng thuốc đã được công bố trước khi thế giới có bản phân tích chi tiết về các chức năng của các loại tế bào lympho T khác nhau sau này. Gần đây nhiều tác giả đã đưa ra ba loại phản ứng dị ứng phụ thuộc kháng thể đòi hỏi sự tham gia của các tế bào T trợ giúp, những tế bào T có vai trò điều khiển các hình thức khác nhau của quá trình viêm. Do đó những phản ứng dị ứng loại IV qua trung gian tế bào T đã được phân loại nhỏ hơn nữa, từ IVa đến IVd.
+
+Phản ứng dị ứng loại IVa:
+
+Phản ứng dị ứng loại IVa tương ứng với những đáp ứng miễn dịch loại Th1: Những tế bào Th1 kích thích các đại thực bào bằng cách tiết ra số lượng lớn interferon-γ (IFN-γ), điều tiết việc sản xuất các nhóm kháng thể cố định bổ thể trong những phản ứng dị ứng loại II và III (IgG 1, IgG 3), là đồng yếu tố cho những đáp ứng tiền viêm (TNF, IL-12) và những đáp ứng của tế bào T CD8. Các tế bào T thúc đẩy những phản ứng này bằng cách tiết IFN-γ và có thể là các cytokin khác (TNF-α, IL-18).
+
+Phản ứng dị ứng loại IVb:
+
+Phản ứng dị ứng loại IVb tương ứng với những đáp ứng miễn dịch loại Th2. Những tế bào Th2 tiết ra các cytokin IL-4, IL13 và IL-5, các cytokin này thúc đẩy tế bào B sản xuất IgE và IgG4, điều hòa hoạt động của đại thực bào, dưỡng bào và bạch cầu ái toan. Việc tăng tiết các cytokin IL-5 của tế bào Th2 dẫn đến tăng phản ứng viêm do bạch cầu ái toan, đây loại tế bào viêm đặc trưng trong nhiều phản ứng quá mẫn thuốc. Ngoài ra, có một mối liên kết với phản ứng dị ứng loại I, do những tế bào Th2 hỗ trợ sản xuất IgE thông qua tiết IL-4 hoặc IL-13.
+
+Phản ứng dị ứng loại IVc:
+
+Những phản ứng này xảy ra ở hầu hết các phản ứng quá mẫn thuốc chậm, chủ yếu kết hợp cùng với các phản ứng dị ứng loại IV khác (bạch cầu mono, ái toan, hoặc thu hút và kích hoạt các bạch cầu hạt đa nhân). Các tế bào lympho T độc do đó đóng vai trò trong các bệnh ban sẩn hoặc những bệnh da bọng nước như viêm da do bạch cầu trung tính, AGEP, viêm da tiếp xúc. Phản ứng dị ứng loại IVc đóng vai trò chủ yếu trong cơ chế bệnh sinh của các bệnh da bọng nước như hội chứng SJS và TEN, nó cũng có thể chiếm ưu thế trong viêm gan hoặc viêm thận do thuốc.
+
+Phản ứng dị ứng loại IVd:
+
+Khác với phản ứng dị ứng loại IVc, trong phản ứng dị ứng này các tế bào T có thể phối hợp với bạch cầu trung tính gây viêm vô khuẩn. Một ví dụ điển hình là AGEP. Trong bệnh này CXCL8 và yếu tố kích thích đơn dòng đại thực bào - bạch cầu hạt (GM - CSF) được sản xuất từ các tế bào lympho T, đã thu hút các bạch cầu trung tính thông qua việc giải phóng CXCL 8 và ngăn ngừa quá trình chết theo chương trình của chúng thông qua việc giải phóng GM - CSF. Ngoài bệnh AGEP, những phản ứng dị ứng do tế bào T cũng được phát hiện ở người bệnh bị bệnh vẩy nến và bệnh Behçet.
+
+#### *Cơ chế dung nạp*
+
+Hầu hết người bệnh dùng thuốc mà không gây ra các đáp ứng miễn dịch. Điều này có thể do những người này thiếu các tế bào tiền thân có thể tương tác với thuốc. Những đáp ứng miễn dịch rất khác nhau với thuốc, một người bệnh có nhiều các tế bào non nhạy cảm với thuốc chiếm khoảng 2 - 4% trong quần thể người bình thường, nhưng gặp tỷ lệ cao ở những người nhiễm HIV (30% đến trên 50%); phản ứng dị ứng với sulfamethoxazol có thể gợi ý rằng nó không chỉ thiếu các tế bào tiền thân mà còn phụ thuộc các yếu tố khác như tình trạng hệ miễn dịch cơ bản (những tiền tế bào Lympho nhớ) và cơ chế điều hòa của các tế bào T có thể đóng vai trò quan trọng. Do đó, vai trò điều hòa có thể ở các mức độ khác nhau và có thể phụ thuộc các thuốc khác nhau sẽ kích thích hệ miễn dịch khác nhau, theo cơ chế hapten, prohapten hoặc khái niệm P-I*.*
+
+#### *Ngoại ban dạng sần (MPE)*
+
+MPE là loại phản ứng quá mẫn thuốc thường gặp nhất, ảnh hưởng tới 2 - 8% người bệnh nằm viện, đặc biệt là sau khi điều trị bằng các beta-lactam, sulfamethoxazol, quinolon, thuốc lợi tiểu và nhiều thuốc khác. Hầu hết trường hợp bệnh xuất hiện từ 8 - 11 ngày sau khi bắt đầu dùng thuốc, đôi khi xuất hiện từ 1 - 2 ngày sau khi ngừng dùng thuốc. Ở những người bệnh đã có giai đoạn nhạy cảm trước với thuốc, MPE có thể xuất hiện vào ngày đầu tiên dùng thuốc. MPE rõ ràng phụ thuộc vào liều thuốc. Hầu hết các MPE (đặc biệt nguyên nhân gây ra do beta-lactam hoặc gemifloxacin) có biểu hiện lâm sàng khá nhẹ và có thể chỉ cần điều trị bằng kem có chất làm mềm da, có thể dùng corticoid bôi tại chỗ, hoặc kháng histamin. Ngoại ban có thể lui bệnh với dấu hiệu bong vảy trong vòng 2 tới 10 ngày sau khi ngừng thuốc. Các trường hợp MPE ít khi tiến triển thành SJS hoặc TEN.
+
+#### *Ban dạng mụn mủ cấp tính (AGEP)*
+
+AGEP là một bệnh hiếm gặp (xấp xỉ 1:100 000 người bệnh dùng thuốc) nó được đánh giá tương đương với hội chứng SJS và TEN. Nguyên nhân do thuốc gặp ở 90% người bệnh. Dấu hiệu lâm sàng quan trọng của bệnh là xuất hiện nhanh rất nhiều các mụn mủ vô khuẩn rải rác trên da, thường 3 đến 5 ngày sau dùng thuốc, người bệnh có biểu hiện sốt, tăng bạch cầu trong máu, đôi khi có tăng bạch cầu ái toan, nhưng không tổn thương các niêm mạc. Tỷ lệ tử vong khoảng 2 - 4%, đặc biệt ở người cao tuổi. Các tổn thương bình phục trong khoảng 5 ngày sau ngừng thuốc. AGEP và những phản ứng của tế bào T dường như là mô hình cho cơ chế viêm vô khuẩn do bạch cầu trung tính (phản ứng dị ứng loại IVd) giống như bệnh vẩy nến và bệnh Behçet.
+
+#### *Ban bọng nước, hội chứng Stevens-Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN, Lyell)*
+
+Đa số các phản ứng dị ứng thuốc có tổn thương trên da nghiêm trọng đều hình thành những bọng nước như SJS và TEN. Tỷ lệ bệnh TEN và SJS là hiếm gặp (xấp xỉ 1 : 1 000 000 đối với TEN, 1 : 100 000 đối với SJS). Ngày nay, hai bệnh này được xem như là hình thức của một bệnh với hai mức độ nặng và nhẹ của cùng một bệnh (SJS có diện tích trợt da < 10%, TEN có diện tích trợt da > 30%). Chúng được phân loại theo bảng điểm, tuổi, tình trạng của bệnh và diện tích trợt da, đây là những yếu tố tiên lượng bệnh quan trọng. Theo các nghiên cứu ở châu Âu, SJS có tỉ lệ chết khoảng 13% và bệnh TEN khoảng 39%, các hình thức trung gian giữa SJS và TEN có tỉ lệ chết khoảng 21%.
+
+SJS và TEN khác hẳn với biểu hiện hồng ban đa dạng trên da hồng ban đa dạng có nguyên nhân chính là do nhiễm virus, hay tái phát và thường xảy ra ở người trẻ tuổi. Khoảng gần 6% những người bệnh SJS và TEN không dùng thuốc trong vòng 1 tuần trước khi biểu hiện bệnh và được nghi ngờ là nhiễm khuẩn. Nó cũng có thể do bệnh thải ghép chống chủ. Đa số những phản ứng này bắt đầu trong khoảng 8 tuần đầu tiên dùng thuốc (khởi phát triệu chứng trung bình khoảng 17 ngày), với những nguyên nhân khác nhau (có thể muộn hơn như kháng sinh nhóm sulfonamid). Tiến triển SJS và TEN khá nhanh. Đầu tiên là các ban đỏ, sau đó có thể là chấm tím đỏ trên nền ban, đau nhức. Trong vòng từ 12 - 24 giờ, bọng nước có thể xuất hiện và dấu hiệu Nikolsky dương tính. Việc dừng thuốc gây dị ứng tại thời điểm này có thể không ngăn chặn được sự tiến triển của hội chứng SJS, nhưng có thể ngăn chặn SJS thành TEN. Niêm mạc miệng, bộ phận sinh dục, mắt...có thể bị loét, mắt có thể bị tổn thương vĩnh viễn.
+
+Nguyên nhân chính của SJS và TEN là do thuốc, tần suất gặp có thể khác nhau ở những vùng khác nhau do yếu tố di truyền và dân tộc. Các yếu tố nguy cơ quan trọng là nhiễm HIV (giảm CD4, tăng CD8), bệnh thận, bệnh tự miễn như lupus ban đỏ hệ thống, hội chứng Still, bệnh Sjögren và viêm khớp dạng thấp.
+
+Có ba yếu tố đóng vai trò trong bệnh này là: (1) loại thuốc; (2) loại phản ứng dị ứng và (3) có thể vai trò của chủng tộc, như một số phản ứng được mô tả ở người Hán Trung Quốc. Các allen HLA-B, mà phần lớn là các đa allen HLA đóng vai trò liên quan. Hội chứng SJS và TEN do carbamazepin là HLA-B\*1502, với phenytoin là HLA-B\*5601; abacavir là HLA-B\*5701 cùng với hsp70.
+
+#### *Các phản ứng thuốc toàn thân - Hội chứng dị ứng thuốc nặng*
+
+Một số thuốc là nguyên nhân của những phản ứng dị ứng nặng, với biểu hiện sốt, hạch to, viêm gan, nhiều biểu hiện ban đỏ trên da khác nhau, có thể bị viêm ruột, viêm tụy và bệnh phổi kẽ... Trên 70% người bệnh có tăng bạch cầu ưa acid và lympho kích thích trong máu. Hội chứng quá mẫn thuốc (DHS hoặc DiHS) hoặc ban đỏ trên kèm theo tăng bạch cầu ưa acid và những triệu chứng toàn thân (DRESS). Những triệu chứng dị ứng có thể bắt đầu gần 12 tuần sau khi dùng thuốc, hay sau khi tăng liều thuốc, cũng có khi sau khi ngừng dùng thuốc. Do có những triệu chứng lâm sàng ban đầu giống nhau, nên cần phân biệt với nhiễm virus và nhiễm Epstein-Barr cấp hay các nguyên nhân của tăng bạch cầu ưa acid. Thuốc chống động kinh thường gây các hội chứng dị ứng thuốc nặng (khoảng 1:3 000 ở người bệnh dùng thuốc đó và tỷ lệ tử vong khoảng 10%). Một điểm cần quan tâm ở các hội chứng này các triệu chứng kéo dài mặc dù đã ngừng thuốc. Người bệnh có thể tăng nhạy cảm kéo dài với các thuốc khác, dẫn tới các phản ứng quá mẫn cấp tính với những thuốc thường ít gây dị ứng (acetaminophen). Bệnh thường được điều trị bằng liều cao corticosteroid, đặc biệt là những người bệnh bị viêm gan nặng. Nhiều loại thuốc có thể gây ra viêm gan và một số thuốc (penicilin, thuốc ức chế bơm proton, quinolon, disulfiram) có thể gây viêm thận. Ít gặp hơn là gây bệnh phổi kẽ (furadantin), viêm tụy, sốt đơn thuần hoặc tăng bạch cầu ái toan là triệu chứng duy nhất của một loại thuốc gây dị ứng. Viêm thận kẽ xâm lấn bạch cầu ái toan do thuốc đôi khi được xác định qua nước tiểu (ngay cả khi không thấy bạch cầu ái toan trong máu).
+
+#### *Hội chứng dị ứng nhiều loại thuốc*
+
+Thuật ngữ "quá mẫn với nhiều loại thuốc" được sử dụng để mô tả nhiều dạng tác dụng phụ khác nhau do nhiều loại thuốc. Một số thầy thuốc dùng thuật ngữ này cho người bệnh không dung nạp với nhiều loại thuốc (phản ứng giả dị ứng do NSAID). Theo các tài liệu khoa học đã công bố, có khoảng 10% người bệnh quá mẫn với thuốc cũng dị ứng với nhiều loại thuốc khác. Ví dụ những người bệnh dị ứng với lidocain, nhiều năm sau đó có thể bị dị ứng khi tiếp xúc với corticosteroid. Ngoài ra, người bệnh dị ứng với amoxicilin, phenytoin và sulfamethoxazol trong một vài tháng với những triệu chứng lâm sàng khác nhau. Phần lớn những người bệnh này đã có phản ứng khá nghiêm trọng ít nhất một loại thuốc.
+
+Cơ chế giảm mẫn cảm với thuốc có thể được giải thích do kích thước quá nhỏ của các phân tử thuốc. Một đáp ứng miễn dịch với thuốc có thể theo cơ chế hapten hoặc cơ chế P-I, có thể là do sai sót của sự dung nạp, cùng người bệnh có thể dị ứng không chỉ với các thuốc khác nhau mà còn có yếu tố tự miễn. Cần phân biệt với người bệnh có phản ứng dị ứng toàn thân, các tế bào lympho T của hệ miễn dịch được kích thích quá mức, giống như một nhiễm virus cấp. Do đó mà các người bệnh này thường có xu hướng tăng phản ứng với những thuốc mới và có thể biểu hiện những ban đỏ cấp tính với những kháng sinh mới, nhưng xét nghiệm da với loại thuốc lần sau thì âm tính và sau đó nó sẽ dung nạp tốt nếu những yếu tố đồng kích thích không còn.
+
+### **Chẩn đoán dị ứng thuốc**
+
+Để chẩn đoán dị ứng thuốc cần phải trả lời ba câu hỏi sau: (1) Đó có phải là một phản ứng quá mẫn không? (2) Phản ứng quá mẫn theo cơ chế nào? và (3) Thuốc nào gây nên phản ứng quá mẫn?
+
+#### *Chẩn đoán dị ứng thuốc*
+
+Phản ứng dị ứng thuốc được nghĩ đến nếu thấy xuất hiện những ban đỏ trên da ở người bệnh đang dùng thuốc hoặc có tiền sử dùng thuốc. Triệu chứng ngứa, tăng bạch cầu ưa acid trong máu và khi dùng thêm loại thuốc mới thường là những biểu hiện của phản ứng dị ứng. Triệu chứng đau ở trên da và dấu hiệu Nikolsky dương tính là những dấu hiệu nguy hiểm và rất quan trọng của hội chứng SJS, TEN và DRESS. Một số người bệnh không có biểu hiện trên da mà chỉ có viêm gan hoặc viêm thận kẽ cũng cần nghĩ đến dị ứng thuốc. Việc phối hợp triệu chứng lâm sàng và thời gian xuất hiện bệnh giúp định hướng loại phản ứng dị ứng. Phản ứng quá mẫn nhanh thường xuất hiện các triệu chứng sau 1 giờ dùng thuốc. Phản ứng quá mẫn thuốc muộn thường xuất hiện khoảng sau 12 giờ dùng thuốc thường là phản ứng quá mẫn qua trung gian tế bào T hoặc là phản ứng quá mẫn miễn dịch trung gian IgG, số lượng tế bào tiền lympho đặc hiệu với thuốc càng nhiều thì triệu chứng xuất hiện càng nhanh.
+
+Xét nghiệm nồng độ tryptase cần được thực hiện trong khoảng 2 đến 4 giờ ở những phản ứng dị ứng thuốc nghiêm trọng. Nó đặc biệt quan trọng nếu nghi ngờ sốc phản vệ trong quá trình gây mê, khi người bệnh bị ngừng tim và không có các triệu chứng ở da. Ở những phản ứng quá mẫn thuốc muộn, cần tiến hành xét nghiệm: Công thức máu có thể thấy bạch cầu lympho kích thích, tăng bạch cầu ưa acid hoặc giảm bạch cầu hạt. Cần có xét nghiệm enzym của gan (ALT, AST, ALP và GGT). Một số xét nghiệm cơ bản có thể được chỉ định: Creatinin, phân tích nước tiểu, PCR...
+
+#### *Xác định nguyên nhân thuốc gây dị ứng*
+
+Những câu hỏi quan trọng như: Người bệnh đã được dùng thuốc nào, dùng từ khi nào? Có tăng liều không? Số loại thuốc đã dùng? Điều gì có thể làm cản trở chuyển hóa của thuốc? Những thuốc đã sử dụng trước đây gây ra triệu chứng tương tự? Người bệnh đang bị bệnh gì? Đã có những phản ứng tương tự khi không hoặc có sử dụng thuốc trước đó?
+
+Trên *in vivo* (test da) và các xét nghiệm *in vitro* để chẩn đoán dị ứng thuốc khó chuẩn hóa. Test kích thích với thuốc nghi ngờ là nguyên nhân đang được tiến hành ở nhiều trung tâm lâm sàng nhưng không thường xuyên. Các xét nghiệm được làm theo nhóm, với hai nguyên tắc quan trọng là: (1) xét nghiệm chỉ có thể bổ sung cho tiền sử và (2) độ nhạy của xét nghiệm thường thấp, do đó xét nghiệm dương tính có giá trị chẩn đoán, còn xét nghiệm âm tính không có giá trị chẩn đoán loại trừ. Đối với những phản ứng dị ứng nhanh, cả test lẩy da và test trong da đều có thể thực hiện. Test penicilin đã được sử dụng rộng rãi. Các chất tinh khiết (ví dụ, amoxicilin) cũng có thể được đánh giá tốt, vì test trên da luôn cho kết quả dương tính. Tại châu Âu người ta thường dùng test áp da cho các phản ứng quá mẫn thuốc muộn (viêm da tiếp xúc) với độ nhạy tổng thể là gần 50% nhưng nó rất hữu ích cho MPE, DiHS/ DRESS, AGEP. Đây cũng là test đáng tin cậy để chẩn đoán dị ứng abacavir, thậm chí nếu chỉ xảy ra viêm gan.
+
+Những xét nghiệm *in vitro* đối với phản ứng thuốc loại quá mẫn nhanh như định lượng kháng thể IgE đặc hiệu nhưng độ nhạy khá thấp, một số trường hợp có giá trị trong chẩn đoán và phân biệt với những phản ứng giả dị ứng. Nhiều xét nghiệm đánh giá quá trình giải phóng hạt hoặc đánh giá sự hoạt động của bạch cầu ưa base đã được đề cập để chẩn đoán dị ứng thuốc. Xét nghiệm chuyển dạng tế bào lympho (LTT) là một xét nghiệm phức tạp, nhưng có giá trị chẩn đoán cao với độ nhạy đến 90% đối với DiHS hoặc DRESS, nhưng lại thấp hơn đối với SJS hoặc TEN.
+
+Các test kích thích với thuốc gây dị ứng được xem như tiêu chuẩn vàng cho chẩn đoán. Chúng hữu ích cho những phản ứng quá mẫn thuốc nhanh, nhưng kém hiệu quả với phản ứng quá mẫn thuốc chậm. Sự vắng mặt của các đồng yếu tố trong test kích thích và liều thuốc không gây ra triệu chứng lâm sàng. Xét nghiệm này có thể loại trừ được những phản ứng quá mẫn thuốc nhanh đối với liều được sử dụng cho test kích thích, nhưng dùng với liều cao hơn có thể vẫn gây nên các triệu chứng lâm sàng.
+
+### **Điều trị dị ứng thuốc**
+
+#### *Phương pháp điều trị giảm mẫn cảm*
+
+Một số trường hợp, thuốc là nguyên nhân gây dị ứng, nhưng không còn lựa chọn khác vẫn phải dùng để điều trị bệnh, ví dụ penicilin để điều trị giang mai khi mang thai hoặc thuốc cytostatic trong điều trị ung thư. Hầu hết các hướng dẫn giảm mẫn cảm thuốc được dùng cho những phản ứng quá mẫn liên quan đến sự mất hạt của dưỡng bào và là phương pháp tốt nhất cho penicilin và thuốc chống viêm không steroid (NSAID).
+
+Liều khởi đầu để giảm mẫn cảm được xác định bằng liều người bệnh dung nạp tốt ở test lẩy da, thường bằng 1:10 000 liều điều trị. Tăng liều gấp đôi sau mỗi 15 phút cho tới khi đạt tới liều điều trị. Sau quá trình giảm mẫn cảm hoàn tất, người bệnh có thể nhận được đủ liều penicilin theo thiết kế của hướng dẫn ban đầu. Nếu việc điều trị bị gián đoạn trên 48 giờ, người bệnh sẽ tăng nguy cơ bị sốc phản vệ và hướng dẫn giảm mẫn cảm đầy đủ cần được nhắc lại.
+
+#### *Điều trị một số hội chứng dị ứng thuốc*
+
+Điều trị sốc phản vệ
+
+Theo NIAID/FAAN (National institute of allergy and infectious disease/Food allergy and anaphylaxis network 2006) và tài liệu của "Viện quốc gia Hoa Kỳ về Dị ứng và Bệnh nhiễm trùng năm 2006", điều trị sốc phản vệ gồm các bước cơ bản sau:
+
+1. Ngừng tiếp xúc với thuốc ngay lập tức.
+2. Khẩn trương đánh giá ban đầu về tình trạng hô hấp và tim mạch. Đặt nội khí quản ngay nếu có thở khò khè và ngừng thở. Trong trường hợp phù nề năng đường hộ hấp trên (khó thở thanh quản). nếu đặt nội khí quản khó khăn thì cần mở khí quản ngay.
+3. Thiết lập ngay đường truyền tĩnh mạch để cho dịch truyền và
+4. Cho người bệnh nằm ngửa và thở oxy.
+5. Điều trị thuốc: Tùy theo mức độ nặng hay nhẹ để sử dụng các thuốc hợp lý (adrenalin, dịch truyền, kháng histamin, giãn phế quản, các corticoid...)
+
+Epinephrin (adrenalin): Adrenalin là thuốc được chọn đầu tiên và không có chống chỉ định tuyệt đối ở người bệnh sốc phản vệ.
+
+Tiêm bắp ngay ở trước bên đùi 0,3 - 0,5 ml dung dịch adrenalin 1/1 000 (trẻ em: 0,01 mg/kg cân nặng), lặp lại mỗi 5 - 15 phút, có thể ngắn hơn 3 - 5 phút.
+
+Nếu không đáp ứng với liều tiêm bắp thứ nhất hoặc liều tiêm bắp adrenalin thứ hai, thì truyền dịch ngay adrenalin đường tĩnh mạch. Khi tụt huyết áp nặng (huyết áp tối đa < 70 mmHg), liều adrenalin tĩnh mạch: 0,1 - 0,5 mg (1 - 5 ml adrenalin 1:10 000).
+
+Trên người bệnh dùng thuốc ức chế β thì sử dụng glucagon: 1 - 5 mg tĩnh mạch trong 5 phút (20 - 30 microgam/kg ở trẻ em), sau đó liều cao tĩnh mạch glucagon: 5 - 15 microgam/phút.
+
+Truyền dịch: Dung dịch tiêm natri clorid 0,9% là dịch truyền thích hợp. Nếu tụt huyết áp, hạ huyết áp tư thế: 1 - 2 lít dung dịch tiêm natri clorid 0,9%, với tốc độ 5 - 10 ml/kg cân nặng trong vòng 5 - 10 phút. Trẻ em, liều cao (bolus): 20 ml/kg mỗi 5 - 10 phút.
+
+Kháng histamin: Kháng histamin được sử dụng cho tất cả người bênh sốc phản vê.
+
+Phối hợp cả hai kháng histamin H, và kháng histamin H, tốt hơn sử dụng đơn độc.
+
+Diphenhydramin (kháng histamin H<sub>1</sub>): 25 - 50 mg tiêm bắp hoặc tĩnh mạch mỗi 4 giờ; không vượt quá 400 mg/ngày (tốc độ tiêm tĩnh mạch không vượt quá 25 mg/phút). Liều uống: 25 - 50 mg,
+
+Ranitidin (kháng histamin H<sub>2</sub>): 1 mg/kg tiêm bắp hoặc tĩnh mạch mỗi 6 - 8 giờ. Liều uống: 150 mg x 2 lần/ngày.
+
+Điều trị co thắt phế quản:
+
+Albuterol phun khí dung hoặc dùng bình xit định liều:
+
++ Phun khí dung: 2,5 5 mg/4 6 giờ.
++ Xịt định liều: 1 2 nhát bóp/4 6 giờ đến khi triệu chứng cải thiện hoàn toàn.
+
+Methylprednisolon (Corticoid):
+
+Liều tĩnh mạch ban đầu: 125 - 250 mg. Liều tĩnh mạch duy trì: 0,25 - 1 mg/kg mỗi 6 giờ, trong 4 - 5 ngày.
+
+Hydrocortison hoặc dexamethason cũng có thể sử dụng.
+
+Theo dõi sốc phản vệ:
+
+1. Theo NIAID/ FAAN khuyến cáo: Thời gian theo dõi tuỳ theo từng người bệnh, dựa vào độ nặng của phản ứng, khả năng dễ dàng tiếp cận với chăm sóc y tế.
+2. Tất cả người bệnh cần biết những triệu chứng tái phát có thể xảy ra 72 giờ sau biểu hiện ban đầu và được cung cấp dụng cụ tự tiêm có adrenalin (epinephrin autoinjectors).
+
+Điều trị một số thể lâm sàng dị ứng thuốc (mày đay, phù Quincke, bệnh huyết thanh, đỏ da toàn thân, các loại hồng ban...).
+
+Ngừng ngay việc tiếp xúc với thuốc (tiêm, uống, bôi, nhỏ mắt và nhỏ, xịt mũi...). Hai loại thuốc chính điều trị các hội chứng này là glucocorticoid và kháng histamin H<sub>1</sub>.
+
+Glucocorticoid: Liều dùng phụ thuộc vào thể lâm sàng và loại thuốc glucocorticoid: Liều ban đầu 1 - 2 mg/kg/24 giờ.
+
+Kháng histamin H<sub>1</sub>: Đa số kháng histamin H<sub>1</sub> đường uống, dùng một lần vào buổi tối.
+
+Điều trị hội chứng Stevens-Johnson và Lyell
+
+Ngừng ngay việc tiếp xúc với thuốc (tiêm, uống, bôi, nhỏ mắt và nhỏ, xịt mũi...)
+
+Điều trị hội chứng Stevens-Johnson và Lyell như điều trị 2 hội chứng: Bỏng và dị ứng thuốc.
+
+Điều trị bỏng: Bồi phụ nước, điện giải, dinh dưỡng và chống nhiễm khuẩn.
+
+Bồi phụ nước: Cần cung cấp dung dịch glucose 5%, dung dịch Ringer lactate hoặc dung dịch tiêm truyền natri clorid 0,9% từ 500 - 2 000 ml/ngày.
+
+Bồi phụ các chất điện giải: Dựa vào điện giải đồ.
+
+Dinh dưỡng: Ăn súp đủ số lượng và chất lượng (giàu protein) qua miệng hoặc qua ống thông mũi - thực quản - dạ dày. Nếu có loét trợt đường tiêu hóa: Cung cấp năng lượng qua dịch truyền, có thể truyền plasma tươi, albumin, lipovenos (đam, mỡ).
+
+Chống nhiễm khuẩn:
+
+Chống nhiễm khuẩn tại chỗ: Tránh làm tuột da người bệnh, các thuốc sát khuẩn tại chỗ (bạc nitrat 0,5% hoặc clorhexidin 0,05%) hoặc băng bó cho người bệnh bằng gạc với mỡ, bạc citrat, Polyvidon iod, hoặc các hydrogel. Chăm sóc mắt người bệnh có nghĩa là phòng di chứng, biến chứng, tra nước mắt nhân tạo hoặc dung dịch natri clorid 0,9%. Vệ sinh các hốc tự nhiên hàng ngày bằng dung dịch natri clorid 0,9%. Glycerin borat bôi môi chống căng gây chảy máu.
+
+Chống nhiễm khuẩn toàn thân: Có thể dùng thuốc kháng sinh khác nhóm hoặc họ xa với thuốc đã gây dị ứng.
+
+Điều trị dị ứng thuốc:
+
+Glucocorticoid: Việc sử dụng các corticoid còn có ý kiến khác nhau. Tuy nhiên đa số tác giả trong và ngoài nước vẫn coi corticoid là thuốc cơ bản trong điều trị hai hội chứng SJS và Lyell.
+
+Cách dùng: Glucocorticoid liều ban đầu: 1 - 2 mg/kg/24 giờ. Nếu có tổn thương não, tim mạch, suy đa phủ tạng... có thể dùng glucocorticoid theo phương pháp "pulse therapy" hay "bolus":
+
+Tiêm tĩnh mạch liều cao methylprednisolon 500 - 1 000 mg/ngày, 3 ngày liền, sau đó giảm về liều bình thường.
+
+Kháng histamin H<sub>1</sub>: Dùng đường tiêm khi tổn thương niêm mạc miệng và đường tiểu hóa, sau đó chuyển sang thuốc uống.
+
+Một số quan điểm khác trong điều trị hai hội chứng Stevens-Johnson và Lyell
+
+Truyền hoặc tiêm vitamin C tĩnh mạch.
+
+Globulin miễn dịch tiêm truyền tĩnh mạch (IVIG).
+
+Điều chỉnh miễn dịch: Lọc máu trong điều trị hội chứng Stevens-Johnson hoặc Lyell.
+
+Cyclophosphamid cũng đã được đề nghị sử dụng ở người bệnh Lvell.
+
+N-acetylcystein (NAC) làm tăng độ thanh thải của một vài thuốc và chất chuyển hóa và ức chế in vitro sự sản xuất TNF-OC và IL-IP. Các thuốc khác: Sử dụng yếu tố kích thích tạo cụm bạch cầu hạt, heparin, các kháng thể đơn dòng chống lại các cytokines và pentoxifylin...
+
+### **Tiên lượng dị ứng thuốc**
+
+Tiên lượng chung các dạng dị ứng thuốc: Dị ứng thuốc lần sau lại nặng hơn lần trước nếu tiếp xúc lại với thuốc đã gây dị ứng. Tuy nhiên, 90% kháng thể IgE còn hiện diện ở người bệnh sau một năm xảy ra phản ứng dị ứng thuốc và sau 10 năm kháng thể IgE chỉ còn lại 20 - 30% trong huyết thanh người bệnh đã bị dị ứng thuốc.
+
+Sốc phản vệ là một phản ứng thực sự nghiêm trọng, dường như kháng thể được giữ lại lâu hơn trong huyết thanh người bệnh, nhưng khi người bệnh đã sống sót thường không bị suy giảm nhận thức hoặc trí tuệ.
+
+Hội chứng Stevens-Johnson: Thường tiến triển nặng. Người bệnh có thể có các biến chứng như mất nước, protein, điện giải qua da và dễ có nguy cơ nhiễm khuẩn. Ngoài ra, có thể để lại sẹo ở mắt gây dính mống mắt, đường tiêu hoá, khí quản và cơ quan sinh dục. Hội chứng Lyell: Tiên lượng nặng nề do tổn thương da và nội tạng rất nặng. Khoảng 20% người bệnh bị hội chứng Lyell có hoại tử tế bào biểu mô phế quản, có thể tiến triển nhanh thành suy hô hấp, tiên lượng rất xấu. Nhiều người bệnh có biến chứng ở mắt như loét giác mạc, dính mi, xơ cứng cùng đồ, dính kết mạc, lộn mi và mù loà.
+
+### **Một số biện pháp phòng và hạn chế dị ứng thuốc**
+
+#### *Với người bệnh*
+
+Không tự điều trị, chỉ dùng thuốc theo đơn của thầy thuốc.
+
+Không dùng thuốc theo sự mách bảo của người khác, không dùng đơn thuốc của người khác hoặc đưa đơn thuốc của mình cho người khác sử dụng.
+
+Không dùng thuốc mất nhãn, chuyển màu, có vật lạ, kết tủa, quá thời hạn sử dụng…
+
+Tránh mua thuốc ở những nơi không đáng tin cậy.
+
+Phải đọc kỹ tờ hướng dẫn sử dụng trước khi dùng thuốc, phải giữ cẩn thận tờ hướng dẫn sử dụng vì có khi phải đọc lại nhiều lần.
+
+#### *Để thuốc xa tầm tay, tầm nhìn của trẻ em*
+
+Thận trọng khi đang mang thai, thời kỳ cho con bú và trạng thái bệnh lý khác và thông báo những vấn đề này cho thầy thuốc trước khi kê đơn.
+
+Khi có những dấu hiệu bất thường sau khi dùng thuốc: Sốt, mệt mỏi khác thường, choáng váng, chóng mặt, buồn nôn, ngứa nổi mẩn trên da… cần đến ngay thầy thuốc, bệnh viện hoặc cơ sở y tế gần nhất để được khám, điều trị.
+
+Cần mang theo thẻ theo dõi dị ứng thuốc hoặc nếu có thể đeo vòng cảnh báo dị ứng thuốc.
+
+#### *Với bác sĩ và dược sỹ*
+
+Chỉ dùng thuốc cho người bệnh khi cần thiết.
+
+Dùng thuốc đúng người, đúng bệnh.
+
+Cân nhắc trước khi cho một loại thuốc có nguy cơ cao gây ra những tác dụng không mong muốn.
+
+Không điều trị bao vây.
+
+Có kiến thức về an toàn thuốc và có hiểu biết về những tai biến do thuốc.
+
+Phải khai thác tiền sử dị ứng trước khi kê đơn.
+
+Hướng dẫn chu đáo người bệnh nhận biết tai biến do thuốc, cách dùng thuốc và bảo quản thuốc mỗi khi kê đơn hoặc cấp phát thuốc.
+
+#### *Với người quản lý*
+
+Giáo dục cho người dân sử dụng thuốc an toàn, hợp lý.
+
+Quản lý tốt các nguồn xuất, nhập khẩu thuốc.
+
+Quản lý chặt chẽ các cơ sở sản xuất thuốc.
+
+Giúp các thầy thuốc và dược sỹ cập nhật nhanh chóng thông tin về những tai biến do thuốc.
+
+## **NGỘ ĐỘC VÀ THUỐC GIẢI ĐỘC**
+
+Ngộ độc thực phẩm, hóa chất nói chung và ngộ độc thuốc và kim loại nói riêng có thể do thầy thuốc hoặc người bệnh vô tình gây nhầm lẫn nhưng cũng có thể do cố ý tự tử hoặc bị đầu độc. Trong trường hợp ngộ độc do vô tình nhầm lẫn bệnh cảnh lâm sàng thường không nặng và có thể chẩn đoán đúng nguyên nhân gây ngộ độc và có biện pháp xử trí nhanh, đúng nên thường ít để lại hậu quả nghiêm trọng. Những người bệnh ngộ độc do tự tử hoặc do bị đầu độc thường ở trong tình trạng rất nặng vì các chất gây độc được dùng với liều rất cao, người bệnh thường cố ý che dấu, ít khi phát hiện được ngộ độc sớm và thường khó phát hiện các dấu hiệu đặc hiệu nên việc chẩn đoán và xử trí gặp nhiều khó khăn. Căn cứ trên thời gian tiếp xúc với chất gây ngộ độc và tiến triển của các dấu hiệu lâm sàng, ngộ độc được phân loại thành ngộ độc cấp tính và ngộ độc mạn tính. Trên thực tế có rất ít chất độc gây triệu chứng ngộ độc đặc hiệu mà thường là các triệu chứng có tính gợi ý và cũng không có nhiều thuốc đối kháng đặc hiệu nên việc điều trị đặc hiệu sẽ gặp nhiều khó khăn. Một số triệu chứng gợi ý để giúp chẩn đoán ngộ độc các chất được tóm tắt trong Bảng 1. Do vậy, việc xử trí ngộ độc nói chung và thuốc nói riêng cần phải thực hiện theo 3 nhóm nguyên tắc chung như sau:
+
+### **1. Hồi sức tích cực và điều trị triệu chứng**
+
+Hồi sức tích cực và điều trị triệu chứng nhằm phục hồi hai chức năng sống quan trọng là hô hấp và tuần hoàn, điều trị các triệu chứng xuất hiện như co giật, hạ thân nhiệt, tăng thân nhiệt v.v. và chăm sóc toàn diện cả tinh thần, thể chất cho người bệnh.
+
+#### *Hô hấp*
+
+Suy hô hấp thường xuất hiện khi ngộ độc. Để phục hồi chức năng hô hấp trong ngộ độc, trước tiên cần để người bệnh nơi thoáng khí, làm các biện pháp để thông khí đường thở như nâng cằm hoặc đẩy hàm ra phía trước, tháo hàm giả nếu có, sau đó tùy mức độ suy hô hấp và điều kiện cụ thể nơi cấp cứu mà thực hiện: Thở oxy, hà hơi thổi ngạt, bóp bóng, dùng thuốc kích thích hô hấp hoặc cho người bệnh thở máy.
+
+#### *Huyết áp*
+
+Cũng như hệ thống hô hấp, hệ tim mạch rất dễ bị thay đổi khi bị ngộ độc các chất. Tụt huyết áp là dấu hiệu rất hay gặp khi ngộ độc, đặc biệt là khi ngộ độc các thuốc ức chế TKTW. Khi huyết áp tâm thu dưới 70 mmHg có thể dẫn đến tổn thương não không hồi phục và hoại tử ống thận. Do vậy, cần phải để người bệnh nằm đầu thấp, truyền dịch và dùng các thuốc kích thích co bóp tim, gây co mạch để làm tăng huyết áp. Rối loạn dẫn truyền thần kinh tim và loạn nhịp cũng rất hay gặp khi ngộ độc các glycosid tim, chống trầm cảm loại 3 vòng, một số thuốc chống tâm thần, một số kháng histamin H1 . Tùy mức độ rối loạn mà có biện pháp xử lý khác nhau.
+
+#### *Thân nhiệt*
+
+Hạ thân nhiệt có thể xảy ra khi ngộ độc các thuốc nhóm barbiturat hoặc dẫn xuất phenothiazin. Khi gặp hiện tượng hạ thân nhiệt cần phải xử trí hạn chế sự mất nhiệt thêm bằng cách để người bệnh trong phòng ổn định nhiệt độ và ủ ấm cho người bệnh.
+
+Sốt cao cũng có thể gặp khi ngộ độc một số thuốc kích thích TKTW hoặc thuốc kháng cholinergic. Khi gặp triệu chứng sốt cao cần phải nới rộng hoặc bỏ bớt quần áo hoặc chườm khăn ướt ấm hoặc dùng các thuốc hạ sốt thích hợp.
+
+#### *Co giật*
+
+Khi ngộ độc các thuốc đặc biệt là các thuốc kích thích TKTW, có thể xuất hiện co giật. Tùy theo loại thuốc gây ngộ độc mà cơn co giật xuất hiện có tính chất khác nhau ví dụ khi ngộ độc strychnin hoặc mã tiền sẽ gây nên co giật có tính chất phản xạ, ngộ độc do nikethamid, cardiazol sẽ xuất hiện co giật qua 3 giai đoạn: Giật cứng, giật rung và giật hỗn hợp. Trong trường hợp xuất hiện co giật cần để người bệnh nơi yên tĩnh, hạn chế tối đa các kích thích và có biện pháp hạn chế cắn phải lưỡi. Nếu cơn co giật ngắn, không lặp lại thì không cần phải điều trị. Khi cơn co giật kéo dài, lặp lại nhiều lần có nguy cơ ảnh hưởng đến chức năng hô hấp thì cần phải dùng các thuốc chống co giật phù hợp như phenobarbital, diazepam, midazolam.
+
+### **2. Loại trừ các chất gây độc ra khỏi cơ thể**
+
+Tùy theo đường vào và đường thải trừ của chất gây độc mà chọn các biện pháp loại các chất gây độc ra khỏi cơ thể khác nhau.
+
+#### *Loại chất gây độc qua đường tiêu hóa*
+
+Để hạn chế sự hấp thu, tăng thải trừ chất gây độc qua đường tiêu hóa có thể sử dụng các biện pháp khác nhau. Nếu ngộ độc các chất qua đường tiêu hóa hoặc bài tiết qua tiêu hóa (morphin), chưa hôn mê cần phải gây nôn bằng biện pháp ngoáy họng, hoặc dùng sirô ipeca. Ngoài biện pháp gây nôn có thể rửa dạ dày bằng nước muối sinh lý ấm, hoặc dung dịch thuốc tím 0,1%. Không gây nôn và rửa dạ dày khi ngộ độc các chất có tính ăn mòn và gây hoại tử mạnh như acid, kiềm và các chất bay hơi. Gây nôn và rửa dạ dày chỉ có hiệu quả trong vòng 6 giờ đầu (tốt nhất trong vòng 1 giờ) bị ngộ độc đối với những hóa chất hoặc thuốc hấp thu nhanh như aspirin, cloroquin, dẫn xuất barbituric, thuốc chống loạn nhịp tim. Những thuốc làm chậm sự tháo rỗng dạ dày, hấp thu chậm, hoặc được bài tiết qua dạ dày hoặc ngộ độc nhiều chất cùng một lúc, hoặc không rõ các chất gây độc thì có thể rửa dạ dày trong vòng 24 giờ. Những cơ sở y tế có khả năng đặt nội khí quản có thể dùng biện pháp rửa dạ dày ở những người bệnh hôn mê.
+
+Bên cạnh gây nôn và rửa dạ dày có thể dùng than hoạt tính, than hoạt tính kết hợp với sorbitol và các thuốc tẩy muối để làm tăng thải các chất gây ngộ độc qua phân. Than hoạt tính có diện tích bề mặt lớn nên hấp phụ mạnh các chất lên bề mặt, làm hạn chế sự tiếp xúc giữa chất gây độc với niêm mạc đường tiêu hóa, giảm hấp thu. Liều uống than hoạt: Liều khởi đầu 50 g, sau đó cách 4 giờ uống 50 g. Trẻ em uống 1 g/kg, cách 4 giờ uống một lần. Thuốc có thể dùng riêng rẽ hoặc kết hợp với sorbitol giúp thải chất gây độc ra khỏi tiêu hóa nhanh hơn.
+
+Khi ngộ độc các chất có cấu trúc alcaloid như morphin, benladon, quinin, quinidin... có thể cho người bệnh uống dung dịch tanin hoặc các dung dịch chứa nhiều tanin (nước chè, cafe, nước búp sim...) để gây kết tủa các chất, hạn chế hấp thu và tăng thải trừ qua phân.
+
+Để tránh tăng độ tan làm tăng hấp thu các chất gây độc không nên dùng các thuốc tẩy dầu.
+
+#### *Loại chất gây độc qua đường tiết niệu*
+
+Vì hầu hết các thuốc và các chất gây độc đều được thải trừ qua thận với tỷ lệ khác nhau. Tùy tình trạng người bệnh, đặc biệt là mức độ suy thận và tính chất lý hóa của các chất gây độc mà sử dụng thuốc lợi tiểu như furosemid, manitol hoặc glucose ưu trương hoặc toan hóa hoặc kiềm hóa nước tiểu để gây tăng thải trừ chất gây độc qua thận. Đối với các chất gây độc có tính acid như phenobarbital, salicylat... cần phải kiềm hóa máu và nước tiểu bằng natri carbonat hoặc trihydroxymethylaminmetan (T.H.A.M). Những chất gây độc có tính kiềm cần phải toan hóa máu và nước tiểu. Tuy nhiên, việc gây toan hóa máu và nước tiểu khó thực hiện trong thực tế vì sự chịu đựng của người bệnh kém hơn nhiễm kiềm và toan hóa sẽ làm nặng thêm tổn thương thận do tiêu cơ vân rất hay gặp trong ngộ độc.
+
+#### *Loại chất gây độc qua lọc máu*
+
+Khi người bệnh bị ngộ độc ở trong tình trạng nặng hoặc các chất gây độc có thể tích phân bố thấp (nồng độ trong máu cao) sử dụng phương pháp thẩm phân màng bụng hoặc chạy thận nhân tạo sẽ mang lại hiệu quả. Một số chất khi ngộ độc được chỉ định lọc máu có hiệu quả là acid valproic, carbamazepin, ethylen glycol, lithi, methanol, metformin, phenobarbital, salicylat, theophylin. Tuy nhiên, khi ngộ độc một số chất không được chỉ định lọc máu hoặc lọc máu không hiệu quả như amphetamin, các thuốc chống trầm cảm, các thuốc điều trị rối loạn tâm thần, dẫn xuất benzodiazepin, nhóm thuốc chẹn kênh calci, digoxin, metoprolol, propranolol, các chất nhóm thuốc phiên.
+
+#### *Loại chất gây độc qua các đường khác*
+
+Khi ngộ độc các chất qua da cần loại bỏ nhanh quần áo và rửa vùng da bị nhiễm độc bằng xà phòng và nước. Những chất có tính bay hơi thải trừ qua đường hô hấp, khi ngộ độc trước tiên cần để người bệnh nơi có sự thông khí tốt, kích thích hô hấp giúp tăng thải trừ nhanh chất gây độc.
+
+### **3. Trung hòa chất gây đôc**
+
+Dựa vào tính chất lý hóa, tính đặc hiệu trên các receptor giữa các chất gây độc và chất đối kháng có thể dùng biện pháp tương ky hóa học hoặc các chất đối kháng đặc hiệu hoặc đối kháng sinh lý để trung hòa một phần chất gây độc.
+
+#### *Gây tương kỵ hóa học toàn thân hoặc đối kháng đặc hiệu*
+
+Vì có tính cạnh tranh đặc hiệu giữa chất gây độc và chất đối kháng trên cùng một receptor nên sẽ không có chất đối kháng chung cho mọi chất ngộ độc. Ngoài việc dùng các chất đối kháng đặc hiệu hoặc đối kháng sinh lý để trung hòa chất độc, còn có thể dùng các chất khác ví dụ như chất càng cua (hợp chất chelat) tạo ra hiện tượng tương ky hóa học toàn thân để điều trị ngộ độc các kim loại nặng. Một số chất đối kháng và chất gây tương ky thường dùng trong điều trị ngộ độc trình bày trong Bảng 2.
+
+
+**Bảng 1: Một số triệu chứng lâm sàng thường gặp khi ngộ độc một số chất**
+
+| Triệu chứng lâm sàng gợi ý | Chất nghi ngờ gây ngộ độc |
+| --- | --- |
+| **Hôn mê** | Dẫn xuất barbiturat, benzodiazepin, opiat, methanol, các thuốc chống trầm cảm loại 3 vòng, tricloroethanol. |
+| **Co giật** | Amphetamin, metamphetamin, theophylin, chống trầm cảm loại 3 vòng, mã tiền (strychnin). |
+| **Tăng huyết áp và tăng nhịp tim** | Amphetamin, cocain, kháng cholinergic. |
+| **Tụt huyết áp và chậm nhịp tim** | Các thuốc chẹn kênh calci, chẹn beta-adrenergic, clonidin, thuốc an thần gây ngủ. |
+| **Tụt huyết áp và tăng nhịp tim** | Các thuốc chống trầm cảm loại 3 vòng, trazodon, quetiapin, các thuốc giãn mạch. |
+| **Thở nhanh** | Salicylat, carbon monoxid. |
+| **Sốt cao** | Các thuốc giống giao cảm, salicylat, thuốc kháng cholinergic, metamphetamin, các chất ức chế MAO. |
+| **Co đồng tử** | Các opioid, clonidin, dẫn xuất phenothiazin, các chất ức chế cholinesterase bao gồm cả các chất phospho hữu cơ, carbamat, pilocarpin. |
+| **Giãn đồng tử** | Amphetamin, cocain, LSD (acid lysergic diethylamid), atropin và các thuốc kháng cholinergic khác, các chất ức chế MAO, dẫn xuất phenothiazin, quinin, kháng histamin thế hệ I, các thuốc giống giao cảm, các thuốc chống trầm cảm loại 3 vòng. |
+| **Phù phổi cấp** | Aspirin, ethylenglycol, chống trầm cảm loại 3 vòng, paraquat, các opiat, các phospho hữu cơ. |
+| **Toan lactic huyết** | Cyanid, CO, ibuprofen, isoniazid, metformin, salicylat, acid valproic, thuốc gây co giật. |
+| **Hạ kali huyết** | Bari, cafein, theophylin, lợi niệu thiazid và lợi niệu quai. |
+
+
+
+**Bảng 2: Một số chất đối kháng thường dùng trong điều trị ngộ độc**
+
+| Chất đối kháng | Chất gây độc | Một số khuyến cáo khi dùng |
+| --- | --- | --- |
+| **Acetylcystein** | Paracetamol | Sử dụng sớm, hiệu quả giải độc cao trong vòng 8 - 10 giờ. Kiểm tra chức năng gan và nồng độ paracetamol trong máu để quyết định liều dùng truyền tĩnh mạch và đường uống. |
+| **Atropin** | Các chất kháng cholinesterase, phospho hữu cơ, các carbamat | Khởi đầu tiêm tĩnh mạch 1 - 2 mg (0,05 mg/kg đối với trẻ em). Nếu không có đáp ứng dùng liều gấp đôi, cách 15 phút 1 lần. Kết thúc điều trị khi giảm thở khò khè và giảm tiết dịch hô hấp. |
+| **Calci** | Fluorid, thuốc chẹn kênh calci | Khởi đầu tiêm tĩnh mạch 15 mg/kg và có thể tăng liều khi cần, đặc biệt khi ngộ độc các thuốc chẹn kênh calci. |
+| **Deferoxamin** | Ion sắt | 100 mg deferoxamin có thể gắn được 8,5 mg ion sắt. Khi ngộ độc nặng tiêm tĩnh mạch 15 mg/kg. |
+| **Esmolol** | Theophylin, cafein, metaproterenol | Truyền tĩnh mạch 25 - 50 microgam/kg/phút. |
+| **Flumazenil** | Dẫn xuất benzodiazepin | Tiêm tĩnh mạch 0,2 mg đối với người lớn và có thể tiêm nhắc lại khi cần nhưng không vượt quá 3 mg. Không dùng khi có co giật hoặc ngộ độc thuốc chống trầm cảm loại 3 vòng và lệ thuộc benzodiazepin. |
+| **Fomepizol** | Methanol, ethylenglycol | Truyền tĩnh mạch chậm trong 30 phút liều 15 mg/kg, cách 12 giờ một lần. |
+| **Glucagon** | Các thuốc chẹn thụ thể beta-adrenergic | Tiêm tĩnh mạch cả liều 5 - 10 mg. |
+| **Hydroxocobalamin** | Cyanid | Tiêm tĩnh mạch chậm trong 15 phút, liều 5 g đối với người lớn. |
+| **Kháng thể kháng digoxin** | Digoxin và các glycosid tim | 1 lọ kháng thể có thể gắn kết được 0,5 mg digoxin. |
+| **Methionin** | Paracetamol | Trẻ em trên 6 tuổi và người lớn khởi đầu uống 2,5 g, sau đó uống 3 lần, mỗi lần cách nhau 4 giờ. Trẻ em dưới 6 tuổi uống liều 1 g/lần. Cứ 4 giờ uống 1 lần, uống đủ 4 lần. |
+| **Nalorphin** | Các dẫn xuất opiat | Tiêm bắp, dưới da hoặc tĩnh mạch, liều khởi đầu 5 - 10 mg, cứ 15 phút tiêm một lần, có thể tăng liều khi cần thiết và tối đa không quá 40 mg. |
+| **Naloxon** | Các dẫn xuất opiat | Tiêm bắp, dưới da hoặc tĩnh mạch, liều khởi đầu 0,4 - 2 mg, cứ 2 - 4 phút tiêm một lần, có thể tăng liều khi cần thiết và tối đa không quá 4 mg. |
+| **Natri bicarbonat** | Chống trầm cảm 3 vòng, quinidin | Tiêm tĩnh mạch 1 - 2 mEq/kg khi có tụt huyết áp và phức hợp QRS giãn rộng. |
+| **Natri nitrit** | Cyanid | Dùng kết hợp với natri thiosulfat, tiêm chậm tĩnh mạch 5 - 20 phút với liều 300 mg. Trẻ em 10 mg/kg, tối đa không vượt quá 300 mg. |
+| **Natri thiosulfat** | Cyanid | Tiêm tĩnh mạch chậm 12,5 g trong 10 phút. Trẻ em 400 mg/kg (tối đa không vượt quá 12,5 g). |
+| **Neostigmin** | Thuốc giãn cơ: galamin, pancuronium, rocuronium, tubocurarin, vecuronium | Tiêm tĩnh mạch mỗi lần 0,5 mg, tối đa không vượt quá 3 mg. Cần kết hợp tiêm atropin 1 - 1,2 mg để tăng tác dụng. |
+| **Penicilamin** | Chì, thủy ngân, đồng | Uống lúc đói liều 0,5 - 1,5 g/ngày trong 1 - 2 tháng, trẻ em 30 - 40 mg/kg cân nặng. |
+| **Physostigmin** | Các thuốc kháng cholinergic | Tiêm chậm tĩnh mạch ở người lớn 0,5 - 1 mg và có thể tiêm nhắc lại liều thấp khi dấu hiệu ngộ độc xuất hiện trở lại. Không dùng khi quá liều các thuốc chống trầm cảm loại 3 vòng. |
+| **Pilocarpin** | Belladon, atropin | Tiêm dưới da 10 mg/lần cho đến khi có nước bọt. |
+| **Pralidoxim (2-PAM)** | Các phospho hữu cơ, các chất ức chế cholinesterase | Tiêm tĩnh mạch 1 g đối với người lớn, trẻ em 250 mg và cách 3 - 4 giờ có thể tiêm nhắc lại khi cần thiết. Có thể truyền tĩnh mạch 250 - 400 mg/giờ, hoặc truyền tĩnh mạch chậm trên 20 phút liều 30 mg/kg, sau đó truyền liều 8 mg/kg, tối đa không quá 12 g/ngày. |
+| **Protamin sulfat** | Heparin | Tiêm tĩnh mạch chậm hoặc truyền nhỏ giọt tĩnh mạch liều 5 mg/phút, tối đa không quá 50 mg/10 phút. Cần chỉnh liều theo kết quả TCA, aPTT và liều heparin (mỗi 1 mg protamin sulfat trung hòa được 100 đơn vị heparin). |
+| **Than hoạt** | Ngộ độc các chất qua đường tiêu hóa hoặc bài tiết qua tiêu hóa | Uống liều khởi đầu 50 g, sau đó cách 4 giờ uống 50 g. Trẻ em uống 1 g/kg, cách 4 giờ uống một lần. |
+| **Vitamin B6** | Isoniazid (INH) | Liều dùng bằng liều INH đã dùng, thường khởi đầu tiêm tĩnh mạch 1 - 4 g, sau đó cách 30 phút tiêm bắp 1 g cho đến hết liều. |
+| **Vitamin K** | Dẫn xuất coumarin | Truyền tĩnh mạch chậm 10 - 20 mg, ngày không quá 40 mg, sau đó uống 5 - 10 mg. |
+| **Dimercaprol (BAL)** | Arsen, thủy ngân, chì, muối vàng | Tiêm bắp sâu và cần phải thay đổi vị trí tiêm. Khởi đầu 50 mg. Đối với ngộ độc cấp cách 4 giờ tiêm 4 mg/kg, trong 2 ngày, sau đó giảm xuống 3 mg/kg × 2 lần/ngày, liên tục trong 8 ngày. Đối với ngộ độc mạn tính: Khởi đầu cách 4 giờ tiêm 2,5 mg/kg, trong 2 ngày, sau đó tiêm 2,5 mg/kg mỗi ngày, liên tục trong 10 - 15 ngày. |
+| **Dinatri EDTA** | Chì | Truyền tĩnh mạch 30 - 50 mg/kg/ngày. Đợt điều trị không nên quá 5 ngày. |
+| **Prussian blue** | Muối thali, Cs137 | Người lớn: Uống mỗi lần 3 g, ngày 3 lần. Trẻ em 2 - 12 tuổi: Uống mỗi lần 1 g, ngày 3 lần. |
+| **Succimer (acid dimercaptosucinic)** | Chì, thủy ngân | Khi nồng độ chì trong máu trẻ em trên 45 microgam/dl, uống mỗi lần 10 mg/kg, ngày 3 lần. Có thể dùng điều trị ngộ độc chì ở người lớn. |
+
+## **DƯỢC ĐỘNG HỌC VÀ CÁC THÔNG SỐ CHÍNH**
+
+Dược động học (Pharmacokinetics) nghiên cứu các quá trình từ khi thuốc hấp thu vào cơ thể cho đến khi được thải trừ khỏi cơ thể. Các quá trình chính gồm hấp thu, phân bố, chuyển hóa và thải trừ.
+
+### **Hấp thu thuốc**
+
+Hấp thu (Absorption) là quá trình vận chuyển thuốc từ nơi dùng đến khi thuốc vào vòng tuần hoàn chung. Thuốc được dùng qua nhiều đường khác nhau: Uống, đặt dưới lưỡi, đặt trực tràng, bôi hoặc dán tại chỗ, hít, tiêm bắp, tiêm tĩnh mạch, tiêm dưới da... Thuốc hấp thu theo các đường dùng khác nhau chịu ảnh hưởng nhiều hoặc ít bởi các yếu tố sinh học của người dùng, yếu tố lý hóa của hoạt chất và do cách bào chế dạng thuốc. Đường tiêm tĩnh mạch ít hao hụt hơn so với đường dùng khác.
+
+#### **Chuyển hóa lần đầu qua gan**
+
+Thuốc sau khi hấp thu qua ống tiêu hóa được đổ vào tĩnh mạch cửa của gan, qua gan rồi vào tuần hoàn chung. Khi qua gan lần đầu này, thuốc bị chuyển hóa một phần gọi là *chuyển hóa lần đầu qua gan* (hepatic first pass metabolism) làm lượng thuốc bị hao hụt trước khi vào được vòng tuần hoàn chung.
+
+#### **Một số thông số quan trọng đối với sự hấp thu thuốc**
+
+$$C_{max} T_{max} \text{và AUC}$$
+
+Khi tiêm thuốc vào tĩnh mạch (IV), nồng độ thuốc trong máu đạt mức tối đa ngay; sau đó, giảm dần do thuốc bị thải trừ cho đến khi không còn trong máu (thuốc ở trong máu, nhưng khi định lượng, thường định lượng trong huyết thanh hoặc huyết tương).
+
+Khi uống (PO: per oral), tiêm dưới da (SC) hoặc một đường dùng nào khác không phải tiêm IV, thì khi bắt đầu dùng, thuốc chưa vào đến máu, nên nồng độ thuốc trong máu bằng không. Sau đó, thuốc được hấp thu vào tuần hoàn chung. Từ khi thuốc có ở tuần hoàn chung, đã diễn ra sự thải trừ thuốc; nhưng lúc đầu, hấp thu lớn hơn thải trừ, nên nồng độ thuốc trong máu tăng dần. Đến một lúc nào đó, lượng thuốc hấp thu bằng lượng thuốc thải trừ, thì nồng độ thuốc trong máu đạt mức cao nhất. Sau đó, hấp thu ít hơn thải trừ, nên nồng độ thuốc trong máu giảm dần cho đến khi không còn. Nồng độ thuốc đạt mức cao nhất đó gọi là *nồng độ đỉnh* và được ký hiệu là  $C_{max}$ . Thời gian từ khi bắt đầu dùng thuốc đến khi đạt được nồng độ đỉnh gọi là *thời gian đỉnh* và được ký hiệu là  $T_{max}$ .
+
+Nếu biểu diễn nồng độ thuốc (mg/lit hoặc microgam/ml) trong huyết tương trên trục tung theo thời gian (h hoặc min) trên trục hoành, sẽ được đường biểu diễn nồng độ - thời gian và diện tích phía dưới đường cong này đến trục hoành gọi là diện tích duới duờng cong (AUC: Area Under the Curve). AUC là diện tích kể từ thời gian bằng 0 (bắt đầu dùng thuốc) đến khi không còn thuốc trong cơ thể nên có tài liệu ghi  $AUC_0^{\circ}$ .
+
+AUC được tính theo  $mg.L^{-1}.h$  hoặc  $\mu g.ml^{-1}.h$  biểu thị lượng thuốc được hấp thu vào vòng tuần hoàn và quyết định tác dụng của thuốc.
+
+Cũng là uống, nhưng AUC khác nhau do:
+
+Liều thuốc dùng;
+
+Tính chất của hoạt chất như kích thước tiểu phân, dạng kết tinh hay vô định hình, ngậm nước hay không ngậm nước;
+
+Dạng bào chế, loại và tỷ lệ tá được, kỹ thuật bào chế;
+
+Cơ thể như uống lúc no hay đói, tình trạng nhu động ruột, độ pH ở dạ dày, ruột và bản chất của thành ruột.
+
+#### **Sinh khả dụng**
+
+Sinh khả dụng (Bioavailability: BA) biểu thị mức độ hấp thu hoạt chất từ một dạng thuốc để có tại nơi hoạt chất tác động.
+
+Đó là định nghĩa lý thuyết của sinh khả dụng. Trong thực hành, rất hiếm khi có thể định lượng được hoạt chất ở nơi hoạt chất tác động là thụ thể (receptor). Đó là chưa kể đến có rất nhiều trường hợp không biết nơi hoạt chất tác động ở đâu.
+
+Tuy nhiên, có mối liên quan giữa nồng độ hoạt chất trong tuần hoàn chung với nồng độ hoạt chất ở nơi tác động và dựa vào khái niệm dược động học và lâm sàng, ta chấp nhận là ở cùng một đối tượng người bệnh, diễn biến nồng độ hoạt chất theo thời gian ở huyết tương cũng giống hệt diễn biến nồng độ theo thời gian ở nơi hoạt chất tác động (diễn biến nồng độ giống hệt nhau, còn trị số nồng độ thì có thể khác nhau), trong khi đó, nồng độ hoạt chất trong huyết tương có thể định lượng được. Do đó, định nghĩa *thực hành* của sinh khả dụng là:
+
+Sinh khả dụng (Bioavailability) biểu thị mức độ hấp thu hoạt chất từ một dạng thuốc vào được tuần hoàn chung.
+
+Định nghĩa này chỉ đúng khi thuốc vào tuần hoàn chung rồi mới thâm nhập vào nơi tác động (ví dụ uống, hoặc tiêm không phải trực tiếp vào nơi tác động). Trường hợp đưa thuốc trực tiếp vào nơi tác động như: Đặt thuốc tại chỗ, hoặc tiêm thuốc trực tiếp vào chỗ hoạt chất tác động (ví dụ tiêm trực tiếp vào khớp) thì phải hiểu sinh khả dụng theo định nghĩa lý thuyết.
+
+Theo định nghĩa trên, sinh khả dụng biểu thị mức độ hấp thu hoạt chất vào được tuần hoàn chung, do đó, nếu tiêm IV, thì toàn bộ thuốc đều vào vòng tuần hoàn chung nên BA = 1. Trường hợp thuốc được dùng theo đường khác (đường uống, tiêm dưới da...) thì luôn có một lượng thuốc bị hao hụt trong quá trình hấp thu vào tuần hoàn chung, nên BA < 1.
+
+#### **Sinh khả dụng tuyệt đối**
+
+Sinh khả dụng tuyệt đối (F) là tỷ lệ AUC của thuốc được dùng không phải theo đường tiêm tĩnh mạch (như đường uống, tiêm dưới da...) so với AUC khi tiêm tĩnh mạch với cùng một liều:
+
+$$F = \frac{AUC_{\text{uống, tiêm dưới da}}}{AUC_{\text{tĩnh mach}}}$$
+
+F luôn luôn < 1 và phản ánh tỷ lệ thuốc bị hao hụt trong quá trình hấp thu.
+
+Nếu dùng liều khác nhau, ví dụ liều tiêm tĩnh mạch là  $D_{tĩnh mạch}$  được  $AUC_{tĩnh mạch}$  và liều uống  $D_{uống}$  được  $AUC_{uống}$ , ta phải quy ra AUC của cùng một đơn vị liều dùng, khi đó F sẽ là:
+
+$$F = \frac{AUC_{\text{uống}} \ / \ D_{\text{uống}}}{AUC_{\text{tĩnh mạch}} \ / \ D_{\text{tĩnh mạch}}} = \frac{AUC_{\text{uống}}}{AUC_{\text{tĩnh mạch}}} \times \frac{D_{\text{tĩnh mạch}}}{D_{\text{uống}}}$$
+
+#### **Sinh khả dụng tương đối**
+
+Sinh khả dụng tương đối (F') là tỷ lệ giữa 2 giá trị AUC của cùng một thuốc, cùng đường dùng với cùng một liều, nhưng do cách bào chế khác nhau như viên nén và viên sủi hoặc có thể cùng bào chế ra viên nén, nhưng do 2 nhà sản xuất khác nhau bào chế theo 2 kỹ thuật khác nhau nên *AUC* khác nhau. Ví dụ, viên nén của nhà sản xuất A cho *AUCA* và nhà sản xuất B cho *AUCB*, thì sinh khả dụng tương đối *F'* của thuốc do 2 nhà sản xuất là:
+
+$$F' = \frac{AUC_A}{AUC_B}$$
+
+Trong trường hợp này nếu *AUCA* > *AUCB* thì *F'* > 1 hoặc > 100%; nếu *AUCA* < *AUCB* thì *F'* < 1 hoặc < 100%.
+
+#### *Tương đương sinh học*
+
+*Hai thuốc là tương đương sinh học nếu chúng là các thuốc tương đương dược học hoặc là các thế phẩm dược học có mức độ và tốc độ hấp thu hoạt chất của chúng (AUC, Cmax* và T*max) tương đương nhau ở vị trí tác động, nên hiệu quả điều trị của chúng được coi là như nhau*.
+
+Trên đây là định nghĩa *lý thuyết* của tương đương sinh học và cũng như trường hợp "Sinh khả dụng", trong thực hành, rất hiếm khi có thể định lượng được hoạt chất ở vị trí tác động, nên trong những trường hợp hoạt chất hấp thu vào tuần hoàn rồi mới vào vị trí tác động, ta có định nghĩa *thực hành* của "Tương đương sinh học" như sau:
+
+*Hai thuốc gọi là tương đương sinh học nếu chúng là các thuốc tương đương dược học hoặc là các thế phẩm dược học có mức độ và tốc độ hấp thu hoạt chất của chúng (AUC, Cmax* và T*max) tương đương nhau trong tuần hoàn chung, nên hiệu quả điều trị của chúng được coi là như nhau*.
+
+*Ghi chú:* 
+
+Thế phẩm dược học: Những thuốc được coi là thế phẩm dược học nếu chúng chứa cùng loại dược chất nhưng khác nhau về dạng hóa học của dược chất (base, muối hay ester...) hay khác nhau về hàm lượng hoặc dạng bào chế.
+
+Như vậy, muốn đánh giá hai thuốc có tương đương sinh học không thì trước hết chúng phải là các thuốc tương đương dược học (pharmacetical equivalents). Hai thuốc là tương đương dược học khi có 4 tiêu chí sau:
+
+- Cùng chứa một loại hoạt chất;
+
+- Cùng có một hàm lượng hoặc nồng độ;
+
+- Cùng là một dạng thuốc (viên nén, dung dịch ...);
+
+- Cùng một đường dùng (uống, tiêm dưới da...).
+
+Sau đó, phải chứng minh mức độ và tốc độ hấp thu của chúng (*AUC*, *Cmax* và *Tmax*) có tương đương nhau không. Nếu *AUC*, *Cmax* và *Tmax* tương đương nhau thì 2 thuốc được coi là tương đương sinh học.
+
+### **Phân bố thuốc**
+
+Sau khi hấp thu vào tuần hoàn, một phần thuốc liên kết với protein huyết tương (các protein trong tế bào cũng liên kết với thuốc). Tỷ lệ thuốc liên kết với protein huyết tương tùy theo ái lực của từng thuốc. Có thuốc không liên kết như carboplatin, nhưng clorambucil lại liên kết đến 99%. Thuốc tự do (T) đã liên kết với protein (P) luôn có cân bằng động. Một mặt T + P thành TP, nhưng khi T tự do trong huyết tương giảm thì TP lại giải phóng ra T.
+
+Phần thuốc tự do của T không liên kết với protein đi qua được thành mạch để chuyển vào các mô, gắn với các protein đặc hiệu là các thụ thể để gây ra tác dụng dược lý, hoặc vào các mô dự trữ như mô mỡ, da, cơ, gân, xương.
+
+Sự phân bố vào các mô phụ thuộc vào 2 yếu tố là thuốc và cơ thể. Yếu tố thuốc như khối lượng phân tử, tỷ lệ tan trong nước và lipid, độ pH, độ ion hóa và ái lực của thuốc với thụ thể. Yếu tố cơ thể như tính chất của màng tế bào, màng mao mạch, số lượng thụ thể, pH môi trường. Những mô được tưới máu nhiều thì thuốc cũng đến nhiều như gan, thận, phổi; những mô được tưới máu ít thì thuốc cũng đến ít như gân, xương, da. Sự thâm nhập thuốc còn phụ thuộc vào các hàng rào sinh học như hàng rào máu - não, máu - dịch não tuỷ, máu - thủy dịch ở mắt.
+
+#### *Thể tích phân bố*
+
+*Thể tích phân bố (Volume of distribution, viết tắt là Vd ) biểu thị một thể tích biểu kiến (không có thực) chứa toàn bộ lượng thuốc đã được đưa vào cơ thể để đạt được nồng độ bằng nồng độ thuốc trong huyết tương.*
+
+Thể tích phân bố *Vd* (lít) được tính theo công thức sau:
+
+$$V_d = \frac{A}{C_p}$$
+
+Trong đó: *A* là lượng thuốc đưa vào cơ thể (mg);
+
+*Cp* là nồng độ thuốc trong huyết tương (mg/lít). 
+
+Nếu người đó nặng *W*(kg), thì thể tích phân bố cho 1 kg cân nặng *vd* là:
+
+$$v_d = \frac{V_d}{W}$$
+
+*vd* được tính theo lít/kg. Biết *vd* của một thuốc, có thể tính thể tích phân bố cho người có cân nặng bất kỳ.
+
+Nếu thuốc chỉ ở huyết tương (3 lít cho người 70 kg) thì *vd* = 3/70 = 0,043 lít/kg. Nhưng thực ra thì không có thuốc nào chỉ phân bố ở huyết tương. Heparin là thuốc phân bố vào các mô rất ít có *vd* = 0,058 lít/kg. Nếu thuốc phân bố nhiều vào các mô thì *vd* rất lớn như propranolol có *vd* là 4 lít/kg, clorpromazin là 15 lít/kg. Khi biết thể tích phân bố của một thuốc, có thể tính được liều cần dùng (*D*) để có nồng độ mong muốn trong huyết tương *C<sup>p</sup>* theo công thức sau:
+
+$$D = V_d.C_p = v_d.C_p.W$$
+
+Đó là trường hợp khi tiêm tĩnh mạch, thuốc vào máu hoàn toàn và *F* = 1. Nếu uống hoặc đưa vào theo đường dùng khác thì *F* < 1, nên liều cần dùng phải lớn hơn.
+
+$$D = V_d.C_p/F = v_d.C_p.W/F$$
+
+### **Chuyển hóa thuốc**
+
+Thuốc là chất lạ đối với cơ thể, vì vậy, cơ thể luôn muốn loại bỏ thuốc ra khỏi cơ thể. Nhưng thuốc thường là những phân tử tan được trong lipid, không hoặc ít ion hóa, dễ gắn vào protein huyết tương, dễ thấm qua màng tế bào và giữ lại trong cơ thể.
+
+Muốn thải trừ, ngoài bài xuất thuốc ra khỏi cơ thể dưới dạng không thay đổi, cơ thể phải chuyển hóa thuốc thành các phức hợp có cực, dễ ion hóa, ít tan trong lipid, khó thấm vào tế bào, tan nhiều hơn trong nước để thải trừ qua thận. Ví dụ, pentothal là thuốc dễ tan trong lipid, nếu không bị chuyển hóa, có thể bị giữ lại trong cơ thể hàng trăm năm.
+
+Đa số các chất chuyển hóa không còn hoạt tính hoặc hoạt tính kém so với thuốc mẹ, nhưng cũng có chất chuyển hóa vẫn còn tác dụng và có thể gây độc; thậm chí có thuốc bản thân không có tác dụng dược lý (gọi là tiền chất) mà chỉ sau khi chuyển hóa thành một dạng khác mới có tác dụng.
+
+Rất nhiều cơ quan tham gia vào quá trình chuyển hóa thuốc, nhưng gan là cơ quan chính chứa hầu hết các enzym tham gia các phản ứng chuyển hóa thuốc thông qua 2 pha:
+
+*Pha I*: Diễn ra phản ứng oxy hóa thuốc, chủ yếu nhờ hệ enzym cytochrom P450 (quan trọng nhất), rồi đến phản ứng khử nhờ các enzym reductase, dehydrogenase và phản ứng thủy phân nhờ enzym esterase, amidase. Một thuốc có thể bị chuyển hóa qua nhiều phản ứng xảy ra cùng một lúc hoặc nối tiếp nhau thành các chất trung gian có các nhóm chức đặc trung cần thiết cho phản ứng ở pha II.
+
+Pha II: Diễn ra phản ứng liên hợp giữa các chất trung gian đã bị chuyển hóa có các nhóm chức đặc trung với phân tử có sẵn trong cơ thể như acid glucuronic, glutathion, glycin, các gốc sulfat, acetyl để thành các phức hợp tan trong nước, nên dễ dàng bị thải ra ngoài theo nước tiểu hoặc qua mật rồi ra ngoài theo phân.
+
+### **Thải trừ thuốc**
+
+Thải trừ (elimination) biểu thị sự hao hụt không phục hồi của thuốc trong cơ thể. Sự thải trừ xảy ra là do thuốc bị bài xuất (excretion) khỏi cơ thể dưới dạng không thay đổi (chất mẹ) và dưới dạng chuyển hóa.
+
+Sự bài xuất thuốc dạng thuốc mẹ có thể theo nhiều đường khác nhau như thận, mật (rồi đổ ra ngoài theo phân), phổi, sữa, mồ hôi, tuyến nước bọt, tuyến lệ, nhưng quan trọng nhất là qua thận và qua mật.
+
+#### **Độ thanh thải**
+
+Độ thanh thải (Clearance, viết tắt là Cl) là một thể tích giả thuyết (không có thực) của máu (huyết tương hoặc huyết thanh) được một cơ quan (thận, gan) loại bỏ hoàn toàn thuốc trong một đơn vị thời gian.
+
+Gọi là giả thuyết vì khi máu qua một cơ quan (thận, gan), không có thể tích máu nào lại không còn thuốc. Nhưng độ thanh thải có thể được xác định theo nhiều cách:
+
+Xác định Cl theo tỷ số chiết xuất E
+
+Gọi thể tích máu đi qua cơ quan (thận, gan) trong a giờ là  $V_{CQ}$  lít (L) thì lượng thuốc m (mg) bị thải trừ sau khi qua cơ quan là:
+
+$$m = V_{CQ} \times (C_a - C_v)$$
+
+Trong đó:
+
+ $C_a$  là nồng độ thuốc trong máu động mạch khi vào cơ quan (mg/lít).  
+ $C_v$  là nồng độ máu tĩnh mạch khi ra khỏi cơ quan (mg/lít).
+
+m (mg) thuốc bị thải trừ này cần một thể tích V (thể tích bằng khối lương chia nồng đô) là:
+
+$$V = m/C_a = V_{CQ} \times (C_a - C_v)/C_a$$
+
+Gọi Q là tốc độ lưu lượng máu (tức là thể tích máu qua cơ quan trong 1 giờ (h)) thì  $Q=V_{CQ}/a$ , nên:
+
+$$V = \frac{V_{CQ}}{a} \times \frac{C_a - C_v}{C_a} = Q \times E$$
+
+E gọi là tỷ số chiết xuất (extraction ratio). Tất cả các giá trị  $V_{CQ}$, $a$,  $C_a$  và  $C_v$  đều có thể đo được, nên ta tính được V. V chính là thể tích được loại bỏ hoàn toàn thuốc trong một đơn vị thời gian và theo định nghĩa độ thanh thải ở trên, thì đó chính là độ thanh thải Cl. Ta có:
+
+$$Cl = Q \times E = Q \times \frac{C_a - C_v}{C_a}$$
+
+$Q$ được tính theo L/h; $C_a$ và $C_b$ tính theo mg/lít thì $Cl$ tính theo L/h hoặc L.h⁻¹. Để có thể áp dụng cho một người bất kỳ có cân nặng là $W$ kg, người ta tính $Cl$ theo L.h⁻¹.kg⁻¹. Nhưng tính theo L.h⁻¹.kg⁻¹ thì đa số trị số của $Cl$ < 1 (ví dụ 0,156) nên để cho gọn, người ta dùng một đơn vị khác là ml.min⁻¹.kg⁻¹ và 1 L.h⁻¹.kg⁻¹ = 16,7 ml.min⁻¹.kg⁻¹. Trên đây là độ thanh thải của một cơ quan. Độ thanh thải toàn phần ($Cl_{TP}$) bằng tổng độ thanh thải của thận ($Cl_T$), của gan ($Cl_G$) và các cơ quan khác ($Cl_{khác}$). Ta có:
+
+$$Cl_{TP} = Cl_T + Cl_G + Cl_{kh\acute{a}c}$$
+
+95
+
+Tuy nhiên, độ thanh thải của các cơ quan khác rất nhỏ, nên trong thực tế, có thể coi như:
+
+$$Cl_{TP} = Cl_T + Cl_G$$
+
+Xác định độ thanh thải theo liều dùng và AUC
+
+Khi tiêm tĩnh mạch thuốc với liều D, rồi xác định AUC thì  $Cl_{TP}$  được tính theo công thức sau:
+
+$$Cl_{TP} = \frac{D}{AUC}$$
+
+D tính bằng mg, AUC tính bằng mg.L-¹.h thì  $Cl_{\mathit{TP}}$  tính bằng L.h-¹. Nếu liều D tính cho 1 kg cân nặng thì  $Cl_{\mathit{TP}}$  tính theo L.h-¹.kg-¹ hoặc ml.min-¹.kg-¹ (xem trên).
+
+Trường hợp không tiêm tĩnh mạch mà dùng theo đường khác, ví dụ uống, thì phải xét đến cả sinh khả dụng tuyệt đối F, ta có công thức:
+
+$$Cl_{TP} = \frac{F \times D}{AUC}$$
+
+#### **Nửa đời thải trừ**
+
+Nửa đời thải trừ (elimination half-life) là khoảng thời gian (tính bằng giờ (h) hoặc phút (min)) cần thiết để lượng thuốc trong cơ thể giảm đi còn một nửa; còn gọi là nửa đời trong huyết tương (plasma half-life hoặc plasmatic half-life).
+
+Trong thực tế, do ta định lượng nồng độ thuốc trong huyết tương, nên có thể đinh nghĩa:
+
+Nửa đời thải trừ là khoảng thời gian (h, min) cần thiết để nồng độ thuốc trong huyết tương giảm đi còn một nửa. Nửa đời thải trừ được ký hiệu là  $t_{1/2}$ .
+
+Nghiên cứu động học đã chứng minh rằng, nếu ban đầu, nồng độ của thuốc là  $C_0$ , sau một thời gian t thuốc bị thải trừ còn lại là  $C_t$  thì:
+
+$$C_{t} = C_{0}.e^{-Kt}$$
+
+trong đó K là hằng số thải trừ.
+
+Theo định nghĩa ở trên, sau một thời gian bằng nửa đời thải trừ  $(t_{1/2})$  thì nồng độ  $C_t=1/2C_o$  nên:
+
+$$1/2C_0 = C_0.e^{-K.t/2}$$
+  
+$$1/2 = 0.5 = e^{-Kt/2}$$ 
+
+Lấy logarit tự nhiên cả 2 vế, ta có:
+
+$$\ln 0.5 = -Kt_{1/2}.\ln e = -Kt_{1/2}$$
+
+Vì  $\ln 0.5 = -0.693$ , nên:  $-0.693 = -Kt_{1/2}$ 
+
+và hằng số tốc độ thải trừ  $K = Cl/V_d$  nên:
+
+$$t_{1/2} = \frac{0.693}{K} = \frac{0.693 \times V_d}{Cl}$$
+
+## **TƯƠNG TÁC THUỐC**
+
+Tương tác thuốc là hiện tượng một thuốc bị thay đổi tác dụng hoặc trở thành độc trên người bệnh khi được sử dụng đồng thời với thuốc khác. Tương tác giữa thuốc với thức ăn và đồ uống cũng được coi là một loại tương tác thuốc. Tương tác thuốc có thể được lợi dụng để xây dựng các phác đồ điều trị nhằm mục đích tăng hiệu quả điều trị hoặc để giải độc. Tuy nhiên trong thực hành lâm sàng, mặt trái của tương tác thuốc là giảm hiệu quả điều trị, tăng tỷ lệ gặp tác dụng không mong muốn hoặc độc tính được lưu ý nhiều hơn bởi đây là những hậu quả không định trước có thể dẫn đến thất bại điều trị và làm tăng tỷ lệ tai biến do thuốc gây ra. Chính vì vậy những hiểu biết về cơ chế tương tác thuốc là cơ sở để bảo đảm sử dụng thuốc hiệu quả, an toàn.
+
+Các tương tác thuốc được chia làm 2 loại theo cơ chế xảy ra tương tác:
+
+### **Tương tác dược lực học**
+
+Đây là loại tương tác thể hiện tại receptor hoặc trên cùng hướng tác dụng của một hệ thống sinh lý. Kết quả của phối hợp thuốc có thể dẫn đến tăng hiệu quả hoặc độc tính (hiệp đồng) hoặc ngược lại, giảm tác dụng (đối kháng).
+
+*Tương tác hiệp đồng* gặp khi phối hợp các thuốc có tác dụng trên cùng một hệ thống sinh lý. Ví dụ: Phối hợp các thuốc giảm đau chống viêm không steroid (NSAID) với thuốc giảm đau opiod để tăng hiệu quả giảm đau; phối hợp các kháng sinh với chất chẹn bơm proton để tăng hiệu quả diệt trừ *Helicobacter pylori* trong điều trị viêm loét dạ dày - tá tràng… Các phối hợp kiểu này thường được lợi dụng để xây dựng các phác đồ điều trị. Cần lưu ý tránh tác dụng hiệp đồng xảy ra gây tăng tác dụng không mong muốn hoặc độc tính khi phối hợp các chất trong cùng một nhóm dược lý. Ví dụ: Việc phối hợp các thuốc cùng nhóm NSAID với nhau gây tăng tỷ lệ và mức độ trầm trọng của loét dạ dày tá tràng, xuất huyết và suy thận; phối hợp các kháng sinh aminoglycosid gây tăng độc tính trên thận và thính giác.
+
+*Tương tác đối kháng* là loại tương tác xảy ra khi dùng đồng thời hai thuốc gắn trên cùng một thụ thể (receptor) hoặc các thuốc có tác dụng sinh lý đối lập nhau. Hậu quả dẫn đến giảm hoặc mất tác dụng của thuốc. Ứng dụng của loại tương tác này là để giải độc khi ngộ độc thuốc. Ví dụ: dùng naloxon để giải độc morphin. Việc sử dụng các thuốc có cùng điểm gắn trên receptor như kháng sinh nhóm macrolid, lincosamid, phenicol cùng gắn lên 50S-ribosom của vi khuẩn sẽ dẫn đến đối kháng, làm giảm tác dụng kháng khuẩn. Phối hợp các thuốc có tác dụng sinh lý đối lập nhau gây mất tác dụng điều trị thường do vô tình gây ra khi kê đơn điều trị các bệnh khác nhau; ví dụ: các thuốc chẹn thụ thể beta-adrenergic để điều trị tăng huyết áp, loạn nhịp tim (propranolol) có thể làm mất tác dụng giãn phế quản của các thuốc điều trị hen nhóm kích thích thụ thể beta 2-adrenergic (salbutamol).
+
+### **Tương tác dược động học**
+
+Đây là tương tác xảy ra trong quá trình hấp thu, phân bố, chuyển hóa và thải trừ của thuốc; hậu quả làm tăng hoặc giảm nồng độ thuốc trong máu dẫn đến quá liều hoặc ngược lại giảm hiệu quả điều trị. Nguy hiểm thường xảy ra khi phối hợp những thuốc có độc tính cao hoặc có chỉ số điều trị hẹp, vì nồng độ thuốc chỉ thay đổi ít có thể đã dẫn đến những hậu quả có hại rõ rệt trên lâm sàng. Tương tác loại này khó đoán trước vì không liên quan đến tác dụng dược lý. Tương tác theo cơ chế dược động học có thể xảy ra ở cả 4 giai đoạn trong vòng tuần hoàn của thuốc.
+
+*Tương tác ở giai đoạn hấp thu:* Đây là tương tác làm thay đổi tốc độ và/hoặc tổng lượng thuốc vào được vòng tuần hoàn; trong đó sự thay đổi tổng lượng thuốc dẫn đến thay đổi nồng độ gây hậu quả lâm sàng nghiêm trọng hơn việc thay đổi tốc độ hấp thu. Tương tác loại này thường gặp với các thuốc dùng theo đường uống. Điều lưu ý là tương tác không chỉ xảy ra giữa thuốc - thuốc mà cả thuốc thức ăn và thuốc - đồ uống. Do vị trí xảy ra tương tác tại dạ dày, nơi thuốc hầu như chưa kịp hấp thu nên để tránh hậu quả, có thể giải quyết bằng cách uống các thuốc cách nhau tối thiểu 2 giờ.
+
+*Tương tác ở giai đoạn phân bố:* Đây là tương tác đẩy nhau ra khỏi vị trí liên kết tại protein huyết tương, dẫn đến tăng nồng độ thuốc ở dạng tự do, kéo theo tăng tác dụng dược lý và/hoặc độc tính của thuốc. Tương tác chỉ có ý nghĩa lâm sàng khi phối hợp các thuốc có tỷ lệ liên kết protein huyết tương cao (> 90%) và có phạm vi điều trị hẹp; ví dụ tương tác giữa các salicylat với methotrexat, gây tăng tỷ lệ methotrexat ở dạng tự do, tăng độc tính trên hệ tạo máu. *Tương tác ở giai đoạn chuyển hóa*: Với các thuốc chuyển hóa khi qua gan, sự tăng hoặc giảm chuyển hóa của một thuốc do thuốc phối hợp gây ra dẫn đến sự thay đổi nồng độ chất hoạt tính có trong máu, hậu quả làm thay đổi tác dụng dược lý hoặc độc tính. Enzym chịu trách nhiệm chính cho chuyển hóa thuốc là hệ cytochrom P450, chủ yếu ở microsom gan và tham gia vào chuyển hóa ở pha I.
+
+Có 2 cơ chế tương tác thuốc ở giai đoạn chuyển hóa là cảm ứng và ức chế.
+
+Theo cơ chế cảm ứng thì một thuốc có thể gây cảm ứng đối với hệ enzym cytocrom P450, dẫn đến tăng tốc độ chuyển hóa của thuốc phối hợp và làm giảm nồng độ thuốc trong máu. Với tương tác thuốc theo cơ chế này, cần lưu ý không chỉ gây giảm hiệu quả của thuốc phối hợp mà còn gây giảm hiệu quả của chính thuốc đó (hiện tượng tự cảm ứng, thường gặp khi sử dụng barbiturat), đặc biệt là hiện tượng tăng nồng độ trở lại khi ngừng thuốc gây cảm ứng dẫn đến tăng độc tính. Các barbiturat, griseofulvin, một số thuốc chống động kinh, rifampicin là những chất gây cảm ứng quan trọng nhất. Thuốc bị ảnh hưởng bao gồm warfarin, các thuốc tránh thai dạng uống…
+
+Theo cơ chế ức chế (kìm hãm) thì một thuốc có thể ức chế hoạt tính của một enzym microsom gan nào đó dẫn đến giảm chuyển hóa của thuốc bị phá hủy bởi enzym này, gây tăng nồng độ và độc tính ở liều thường dùng. Tương tác loại này có tính đặc hiệu, chỉ xảy ra khi 2 thuốc cùng bị chuyển hóa trên một enzym. Ví dụ erythromycin và terfenadin cùng chuyển hóa qua CYP3A4, tác động gây ức chế của erythromycin lên CYP3A4 đã làm tăng nồng độ terfenadin và tăng nguy cơ loạn nhịp thất, chủ yếu gây xoắn đỉnh. Chính do nguy cơ này mà hiện tại terfenadin đã bị rút khỏi thị trường. Một thuốc có thể là cơ chất, chất cảm ứng hoặc chất ức chế của các isoenzym khác nhau.
+
+*Tương tác ở giai đoạn thải trừ*: Thải trừ qua thận là giai đoạn cuối cùng trong vòng đời của thuốc trong cơ thể. Tại đây thuốc được lọc qua cầu thận rồi tái hấp thu trở lại một phần và tiếp tục được thải trừ ra ngoài. Tương tác thuốc xảy ra tại thận là do ảnh hưởng đến quá trình tái hấp thu và thải trừ. Khuếch tán thụ động là cơ chế của quá trình tái hấp thu thuốc trở lại máu còn vận chuyển tích cực là cơ thể thải trừ. Những chất làm thay đổi pH nước tiểu (amoni clorid, acid ascorbic, các antacid, các chất chẹn bơm proton…) có thể làm thay đổi tỷ lệ thuốc được tái hấp thu đối với các thuốc có bản chất acid yếu hoặc base yếu (các barbiturat, quinin…) dẫn đến tăng nồng độ, kéo dài thời gian tồn tại của thuốc trong cơ thể, gây nguy cơ ngộ độc. Với tương tác qua hệ thống thải trừ nhờ chất mang (carrier), sự cạnh tranh chất mang cũng dẫn đến kết quả tương tự. Hậu quả của tương tác sẽ nguy hiểm nếu chất bị ứ đọng có độc tính cao, ví dụ tương tác giữa probenecid và methotrexat gây tăng kéo dài nồng độ methotrexat, làm tăng độc tính trên hệ tạo máu. Vì bài tiết qua ống thận là con đường thải trừ chính với nhiều thuốc, do đó tương tác loại này có thể gây tăng nguy cơ tai biến do thuốc gây ra.
+
+### **Một số điểm cần lưu ý**
+
+Một cặp phối hợp thuốc có thể gây tương tác không chỉ ở một giai đoạn mà có thể ở các giai đoạn khác nhau trong vòng đời dược động học, hơn nữa có thể đồng thời gặp cả tương tác dược lực học và dược động học.
+
+Tương tác giữa thuốc với thức ăn và đồ uống phần lớn là tương tác xảy ra ở giai đoạn hấp thu. Các thông tin về tương tác loại này là cơ sở để hướng dẫn thời gian uống thuốc so với bữa ăn và các chỉ dẫn về các đồ uống cần tránh khi sử dụng thuốc.
+
+Các tài liệu hướng dẫn sử dụng thuốc chỉ đề cập đến tương tác bất lợi. Các sách tra cứu hoặc phần mềm duyệt tương tác thuốc được chia theo các mức độ nghiêm trọng trên lâm sàng: nguy hiểm (chống chỉ định) → nghiêm trọng (cân nhắc nguy cơ/lợi ích khi phối hợp) → thận trọng hoặc chưa rõ hậu quả; trong đó 2 mức có ý nghĩa lâm sàng là mức nguy hiểm (chống chỉ định) và mức nghiêm trọng. Việc phân độ chỉ có tính tương đối vì hậu quả xảy ra khác nhau rất nhiều giữa các người bệnh do ảnh hưởng của lứa tuổi, cơ địa, bệnh mắc kèm, đặc biệt là chức năng của cơ quan bài xuất thuốc là gan và thận.
+
+Cần lưu ý rằng tương tác thuốc công bố trên các tài liệu chỉ đánh giá từng cặp 2 thuốc, kết quả có thể sẽ khác đi nhiều khi sử dụng đồng thời nhiều thuốc. Do đó các thông tin về tương tác thuốc chỉ có giá trị tham khảo; quyết định cuối cùng phải căn cứ vào diễn biến lâm sàng và kết quả xét nghiệm khi điều trị ở người bệnh cụ thể. Các cảnh báo về tương tác thuốc đặc biệt quan trọng với các thuốc có phạm vi điều trị hẹp và các thuốc cần theo dõi chặt chẽ khi sử dụng (ví dụ thuốc chống đông máu, thuốc chống tăng huyết áp, điều trị đái tháo đường…). Những người bệnh có nguy cơ cao khi gặp tương tác thuốc là các người bệnh cao tuổi, người bệnh có sự suy giảm chức năng gan và/hoặc thận.
+
+Tương tác thuốc - thuốc chỉ là một trong nhiều yếu tố có thể ảnh hưởng đến đáp ứng của người bệnh với điều trị. Nhiệm vụ chủ yếu của người thầy thuốc là xác định tương tác có xảy ra hay không và mức độ ảnh hưởng của nó. Khi thấy có những tác dụng không mong muốn, phải nghĩ đến khả năng gặp tương tác bất lợi. Ðánh giá cẩn thận toàn bộ tiền sử dùng thuốc của người bệnh là quan trọng vì khả năng tương tác không chỉ xảy ra với các thuốc có trong đơn mà còn có thể xảy ra do người bệnh dùng các thuốc không kê đơn, dùng thuốc do nhiều thầy thuốc chỉ định.
