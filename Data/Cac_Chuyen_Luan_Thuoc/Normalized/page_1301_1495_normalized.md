@@ -186,7 +186,7 @@ Spironolacton có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 **Loại thuốc:** Nucleosid ức chế enzym sao chép ngược, kháng retrovirus.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc bột để pha dung dịch uống: 1 mg/ml (200 ml).
 
@@ -352,7 +352,7 @@ Stavudin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toán
 
 **Loại thuốc:** Thuốc tiêu huyết khối.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Tác dụng của streptokinase được biểu thị bằng đơn vị quốc tế (đvqt). Đơn vị Christensen là lượng streptokinase có tác dụng làm tan hoàn toàn cục huyết khối chuẩn trong 10 phút và tương đương với một đơn vị quốc tế.
 
@@ -528,7 +528,7 @@ Streptokinase có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 **Loại thuốc:** Kháng sinh nhóm aminoglycosid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Lọ thuốc bột dạng muối sulfat để pha tiêm: 1 g (tính theo streptomycin base).
 
@@ -732,7 +732,7 @@ Mystrep; Strepto-Fatol; Trepmycin; Tsar Streptomycin.
 
 **Loại thuốc:** Thuốc bảo vệ niêm mạc dạ dày; điều trị loét dạ dày, tá tràng.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 1 g/viên.
 
@@ -874,7 +874,7 @@ Sucralfat có trong Danh mục thuốc tân được thuộc phạm vi thanh to�
 
 **Loại thuốc:** Sulfonamid kháng khuẩn.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc nhỏ mắt 10% (5 ml, 15 ml), 15%, 30% (chứa một số thành phần khác như paraben, benzalkonium clorid).
 
@@ -970,7 +970,7 @@ Sulfacetamid có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc chống viêm.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 500 mg, viên bao tan trong ruột 500 mg.
 
@@ -1160,7 +1160,7 @@ Sulfasalazin có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc chống loạn thần.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 50 mg, 200 mg, 400 mg.
 
@@ -1358,7 +1358,7 @@ Ancicon; Anxita; Biosride; Cadipiride; Devodil 50; Docnotine; Dogatina; Dogmatil
 
 **Loại thuốc:** Thuốc chủ vận thụ thể serotonin  $5\text{-HT}_{\text{IB, 1D}}$ , thuốc chống đau nửa đầu.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén (dưới dạng Sumatriptan succinat): 50 - 100 mg. Dung dịch tiêm(dưới Sumatriptan dạng Sumatriptan succinat): 12 mg/ml.
 
@@ -1554,7 +1554,7 @@ Sumatriptan có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 **Loại thuốc:** Thuốc chẹn thần kinh - cơ khử cực.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm: 20 mg; 50 mg; 100 mg/ml. Lọ thuốc bột pha tiêm: 50 mg; 100 mg.
 
@@ -1696,7 +1696,7 @@ Suxamethonium clorid có trong Danh mục thuốc thiết yếu tân dược ban
 
 **Lọai thuốc:** Thuốc ức chế miễn dịch.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nang: 0,5 mg; 1 mg; 5 mg. Thuốc tiêm: 5 mg/5 ml. Thuốc mỡ: 0,03%; 0,1%.
 
@@ -2034,7 +2034,7 @@ Tacrolimus có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 10 mg, 20 mg tamoxifen (dưới dạng muối citrat). Thuốc nước để uống: tamoxifen (dưới dạng muối citrat) 10 mg/5 ml.
 
@@ -2162,7 +2162,7 @@ Tamoxifen citrat có trong Danh mục thuốc thiết yếu tân dược ban hà
 
 **Loại thuốc:** Kháng sinh glycopeptid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm: Lọ chứa 200 mg hoặc 400 mg teicoplanin đông khô và không chứa chất bảo quản. Mỗi lọ kèm theo một ống dung môi (nước cất pha tiêm).
 
@@ -2306,7 +2306,7 @@ Teicoplanin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 **Loại thuốc:** Thuốc đối kháng thụ thể angiotensin II. Thuốc tim mạch.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 20 mg, 40 mg, 80 mg.
 
@@ -2488,7 +2488,7 @@ Telmisartan có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nang: 5 mg, 20 mg, 100 mg, 140 mg, 180 mg, 250 mg.
 
@@ -2678,7 +2678,7 @@ Temobela; Temodal; Temoside 100; Venutel.
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 ống tiêm 50 mg/5 ml (để truyền tĩnh mạch sau khi đã pha loãng).
 
@@ -2816,7 +2816,7 @@ Không có thuốc giải độc đặc hiệu. Biến chứng quá liều là h
 
 **Loại thuốc:** Thuốc kháng retrovirus.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 300 mg tenofovir disoproxil fumarat.
 
@@ -2974,7 +2974,7 @@ Tenofovir có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Thuốc chống viêm không steroid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 20 mg.
 
@@ -3120,7 +3120,7 @@ Tenoxicam có trong Danh mục thuốc chữa bệnh chủ yếu sử dụng t�
 
 **Loại thuốc:** Thuốc chẹn thụ thể alpha<sup>1</sup> -adrenergic.
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên nang: 1mg, 2mg, 5mg, 10mg.
 
@@ -3270,7 +3270,7 @@ Có một báo cáo về nhịp tim chậm xoang và hạ huyết áp xảy ra �
 
 **Loại thuốc:** Thuốc chống nấm, dẫn chất allylamin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc cốm: Gói 125 mg, gói 187,5 mg.
 
@@ -3442,7 +3442,7 @@ Terbinafin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc giãn phế quản, giảm cơn co tử cung, chủ vận chọn lọc beta2 .
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 2,5 mg và 5 mg.
 
@@ -3658,7 +3658,7 @@ Terbutalin có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Hormon sinh dục nam (androgen).
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên nén: 5; 10; 25; 50 mg; 
 
@@ -3858,7 +3858,7 @@ Testosteron có trong Danh mục thuốc tân dược thuộc phạm vi thanh to
 
 **Loại thuốc:** Gây tê.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dung dịch dùng tại chỗ: 0,25%; 0,5%, 2%. Dung dịch nhỏ mắt: 0,25%; 0,5%.
 
@@ -4018,7 +4018,7 @@ Tetracain có trong Danh mục thuốc có trong Danh mục thuốc tân dược
 
 **Loại thuốc:** Thuốc chẩn đoán suy vỏ tuyến thượng thận.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc bột đông khô, lọ 0,25 mg, kèm ống 1 ml dung môi, thường là dung dịch tiêm natri clorid 0,9% để pha tiêm.
 
@@ -4150,7 +4150,7 @@ Ngộ độc cấp không mấy khi xảy ra vì thuốc ở dạng tiêm. Nhưn
 
 **Loại thuốc:** Kháng sinh.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Liều của tetracyclin base và tetracyclin hydroclorid được tính theo tetracyclin hydroclorid.
 
@@ -4358,7 +4358,7 @@ Tetracyclin hydroclorid có trong Danh mục thuốc thiết yếu tân dược 
 
 **Loại thuốc:** Thuốc giãn cơ.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén bao phim: 50 mg.
 
@@ -4530,7 +4530,7 @@ Thuốc hướng tâm thần.
 
 **Loại thuốc:** Thuốc điều hòa miễn dịch.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nang: 50 mg, 100 mg, 150 mg, 200 mg.
 
@@ -4764,7 +4764,7 @@ Thalidomid có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc giải độc. 
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Nang 250 mg; viên nén 250 mg, 500 mg.
 
@@ -4860,7 +4860,7 @@ Than hoạt có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Thuốc giãn phế quản.
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Nang: 100 mg, 200 mg.
 
@@ -5108,7 +5108,7 @@ Theophylin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc kháng giáp, dẫn chất thioimidazol.
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên nén: 5 mg, 10 mg và 20 mg.
 
@@ -5278,7 +5278,7 @@ Thiamazol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Vitamin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 10 mg, 50 mg, 100 mg, 250 mg, 300 mg.
 
@@ -5412,7 +5412,7 @@ Thiamin có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 
 **Loại thuốc:** Thuốc chống ung thư loại chống chuyển hóa.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 40 mg.
 
@@ -5530,7 +5530,7 @@ Chưa có phương pháp giải độc đặc hiệu quá liều thioguanin. N�
 
 **Loại thuốc:** Thuốc mê đường tĩnh mạch.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Lọ hoặc chai chứa bột đông khô 0,5 g; 1 g; 2,5 g; 5 g kèm một ống hoặc chai nước cất vô khuẩn (20 ml, 40 ml, 100 ml hoặc 200 ml) để pha tiêm.
 
@@ -5688,7 +5688,7 @@ Thiopental natri có trong Danh mục thuốc thiết yếu tân dược ban hà
 
 **Loại thuốc:** Thuốc an thần kinh/thuốc chống loạn thần điển hình.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 10 mg, 15 mg, 25 mg, 50 mg, 100 mg, 150 mg và 200 mg. Dung dịch uống chứa 30 mg/ml và 100 mg/ml.
 
@@ -5878,7 +5878,7 @@ Magnesi silicat: A02AA05.
 
 **Loại thuốc:** Kháng acid (cả 4 chất); nhuận tràng (trừ magnesi trisilicat).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Magnesi hydroxyd: Hỗn dịch 40 mg/ml, 800 mg/ml, 1,2 g/ml;
 
@@ -6000,7 +6000,7 @@ Thuốc giảm đau Opioid: N02A; R05DA04; N01AH01; N02AB03.
 
 **Loại thuốc:** Thuốc giảm đau Opioid. Thuốc giảm đau gây nghiện.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Chế phẩm dạng tự nhiên: Bột thuốc phiện màu nâu nhạt hoặc vàng nâu chứa 10 - 10,5 % morphin khan; bột Pantopon: Hỗn hợp các muối hydroclorid của các alcaloid toàn phần của thuốc phiện, chứa 50 % morphin; cao thuốc phiện: 20 % morphin khan; cồn thuốc phiện (Laudanum), cồn Paregoric; viên nén Opizoic (5 mg cao thuốc phiện). Dạng bán tổng hợp và tổng hợp: Xem chuyên luận riêng: Morphin, Codein, Fentanyl, Naloxon, Pethidin, Tramadol…
 
@@ -6070,7 +6070,7 @@ Gonadorelin: H01C A01, V04C M01 (xem chuyên luận Gonadorelin).
 
 **Loại thuốc:** Thuốc tương tự hormon giải phóng gonadotropin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Buserelin (Suprefact): Thuốc tiêm 1 mg (dạng acetat)/ml và phun mũi (dạng acetat): 150 microgam/liều xịt đã định trước.
 
@@ -6258,7 +6258,7 @@ Goserelin acetat, leuprorelin acetat có trong Danh mục thuốc tân dược t
 
 **Loại thuốc:** Bù nước và điện giải.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc bột uống; viên nén sủi bọt.
 
@@ -6407,7 +6407,7 @@ Dung dịch uống bù nước và điện giải có có trong Danh mục thu�
 
 **Loại thuốc:** Thuốc kháng sinh; penicilin bán tổng hợp.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Bột vô khuẩn ticarcilin natri để pha tiêm: 1 g, 3 g, 6 g, 20 g, 30 g ticarcilin base.
 
@@ -6589,7 +6589,7 @@ Ticarcilin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc kháng tiểu cầu (ức chế ngưng tập tiểu cầu).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên bao phim 250 mg (ticlopidin hydroclorid).
 
@@ -6787,7 +6787,7 @@ Bảo quản viên nén ticlopidin trong đồ đựng kín ở nhiệt độ t�
 
 **Loại thuốc:** Thuốc dùng ngoài chống vi khuẩn, chống nấm.
 
-## **Dạng thuốc và hàm lượng** Dung dịch dùng ngoài: 1%; 2%.
+**Dạng thuốc và hàm lượng** Dung dịch dùng ngoài: 1%; 2%.
 
 ## **Dược lý và cơ chế tác dụng**
 
@@ -6885,7 +6885,7 @@ Tím gentian có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc chống glôcôm, chống tăng nhãn áp, chẹn beta không chọn lọc.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Gel nhỏ mắt timolol maleat tác dụng kéo dài, tương ứng với các nồng độ 0,25% (5 ml) và 0,50% (5 ml) (tính theo timolol base).
 
@@ -7049,7 +7049,7 @@ Timolol có trong Danh mục thuốc thiết yếu tân dược ban hành lần 
 
 **Loại thuốc:** Thuốc kháng khuẩn; kháng động vật nguyên sinh.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 250 mg; 500 mg.
 
@@ -7305,7 +7305,7 @@ Tinidazol có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Thuốc chống nấm (tại chỗ).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dạng bôi ngoài: Kem, thuốc bôi, bột 1%, dung dịch 28%.
 
@@ -7445,7 +7445,7 @@ Bảo quản các dạng thuốc tioconazol ở nhiệt độ từ 15 - 30 ºC n
 
 **Loại thuốc:** Thuốc kháng muscarinic, làm giãn phế quản tác dụng kéo dài.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Nang cứng chứa 18 microgam bột thuốc để hít bằng dụng cụ chuyên dụng (HandiHaler).
 
@@ -7597,7 +7597,7 @@ Tiotropium có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Corticoid dùng tại chỗ.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dạng hỗn dịch để phun (xịt) 1% (lọ 10 ml) hoặc bình xịt 100 - 200 liều, 1 mg/liều.
 
@@ -7707,7 +7707,7 @@ Tixocortol có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Giãn cơ xương, tác động hệ TKTW.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 2 mg, 4 mg (tizanidin). Viên nang: 2 mg, 4 mg, 6 mg (tizanidin).
 
@@ -7921,7 +7921,7 @@ Tizanidin hydroclorid có trong Danh mục thuốc tân dược thuộc phạm v
 
 **Loại thuốc:** Kháng sinh nhóm aminoglycosid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm: 20 mg/2 ml, 25 mg/2,5 ml, 40 mg/1 ml, 60 mg/6 ml, 75 mg/1,5 ml, 80 mg/8 ml, 80 mg/2 ml, 100 mg/2 ml, 240 mg/6 ml, 1,2 g/30 ml, 2 g/50 ml.
 
@@ -8263,7 +8263,7 @@ Tobramycin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc giãn mạch ngoại vi, đối kháng thụ thể -adrenergic.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm 25 mg/ml.
 
@@ -8421,7 +8421,7 @@ Divascol; Vinphacol.
 
 **Loại thuốc:** Thuốc uống chống đái tháo đường loại sulfonylurê, ức chế kênh kali.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 250 mg, 500 mg.
 
@@ -8579,7 +8579,7 @@ Bảo quản trong bao bì kín, ở nhiệt độ 15 - 30 <sup>o</sup> C.
 
 **Loại thuốc:** Thuốc giảm đau tổng hợp nhóm opioid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 50 mg.
 
@@ -8745,7 +8745,7 @@ Thuốc gây nghiện.
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Bột dùng để pha dịch truyền: 150 mg trong lọ 15 ml; 440 mg trong lọ 20 ml.
 
@@ -8939,7 +8939,7 @@ Chưa có dữ liệu về quá liều và ngộ độc cấp trastuzumab, ngay 
 
 **Loại thuốc:** Retinoid dùng bôi trị trứng cá.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Kem để bôi: 0,025%; 0,05%; 0,1% Gel: 0,01%; 0,025%; 0,04%; 0,05%
 
@@ -9059,7 +9059,7 @@ Tretinoin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nang 10 mg.
 
@@ -9265,7 +9265,7 @@ Tretinoin có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Glucocorticoid.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Kem bôi, mỡ, bột nhão: 0,1%.
 
@@ -9441,7 +9441,7 @@ Triamcinolon có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Thuốc lợi tiểu giữ kali.
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên nang: 50 mg, 100 mg. 
 
@@ -9581,7 +9581,7 @@ Bảo quản thuốc ở nhiệt độ 15 - 30 <sup>o</sup> C, trong lọ đựn
 
 **Loại thuốc:** Thuốc kháng virus, nhỏ mắt.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dung dịch nhỏ mắt 1% (7,5 ml). Bột đông khô lọ 50 mg, lọ 5 ml.
 
@@ -9691,7 +9691,7 @@ Chưa có dữ liệu. Thuốc nhỏ mắt 1% không gây hấp thu toàn thân.
 
 **Loại thuốc:** Thuốc kháng muscarin, thuốc chống loạn động, điều trị Parkinson.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 2 mg, 5 mg; Viên nang 5 mg; Cồn ngọt 2 mg/5 ml.
 
@@ -9815,7 +9815,7 @@ Trihexyphenidyl hydroclorid có trong Danh mục các thuốc tân dược thu�
 
 **Loại thuốc:** Thuốc chống đau thắt ngực/Chống thiếu máu cơ tim cục bộ.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên bao phim 20 mg.
 
@@ -9941,7 +9941,7 @@ Trimetazidin có trong Danh mục thuốc tân dược thuộc phạm vi thanh t
 
 **Loại thuốc:** Kháng khuẩn. 
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên nén: 100 mg; 200 mg. Dung dịch uống: 50 mg/ml.
 
@@ -10127,7 +10127,7 @@ Trimethoprim có trong Danh mục thuốc thiết yếu tân dược ban hành l
 
 **Loại thuốc:** Kháng histamin thế hệ 1, chất đối kháng thụ thể H<sup>1</sup> .
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén triprolidin 2,5 mg hoặc viên triprolidin 2,5 mg + pseudoephedrin 60 mg.
 
@@ -10271,7 +10271,7 @@ Triprolidin hydroclorid có trong Danh mục thuốc tân dược thuộc phạm
 
 **Loại thuốc:** Thuốc giãn đồng tử, kháng muscarin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dung dịch nhỏ mắt 0,5% (15 ml) và 1% (2 ml, 3 ml, 15 ml). (Một số biệt dược có chứa chất bảo quản benzalkonium clorid 0,01%).
 
@@ -10381,7 +10381,7 @@ Tropicamid có trong Danh mục thuốc thiết yếu tân dược ban hành l�
 
 **Loại thuốc:** Thuốc da liễu, lợi tiểu thẩm thấu. Thuốc kích thích tử cung.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Kem bôi tại chỗ 10%, 20%, 39%, 40%, 50%. Nước súc, rửa 10%, 40%, 50%. Thuốc mỡ 10%, 20%.
 
@@ -10503,7 +10503,7 @@ Urê có trong Danh mục thuốc thiết yếu tân dược ban hành lần th�
 
 **Loại thuốc:** Thuốc tan huyết khối.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 *Bột pha tiêm*: 25 000 đvqt, 100 000 đvqt, 300 000 đvqt, 600 000 đvqt.
 
@@ -10665,7 +10665,7 @@ Urokinase có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Vắc xin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Lọ hoặc bơm tiêm chứa 0,5 ml hỗn dịch tiêm: Hàm lượng thay đổi theo độ tuổi đối tượng sử dụng. Thành phần vắc xin bạch hầu trong các vắc xin khác nhau là khác nhau thay đổi từ 2 - 25 Lf (đơn vị lên bông) và liều sử dụng theo hướng dẫn của nhà sản xuất.
 
@@ -10745,7 +10745,7 @@ Vắc xin phải được bảo quản ở nơi lạnh có nhiệt độ từ 2 
 
 **Loại thuốc:** Vắc xin tạo miễn dịch (chủ động).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Hàm lượng kháng giải độc tố trong vắc xin DPT được thể hiện bằng đơn vị lên bông Lf (flocculation units).
 
@@ -10891,7 +10891,7 @@ Vắc xin bạch hầu - ho gà - uốn ván hấp phụ có trong Danh mục th
 
 **Loại thuốc:** Vắc xin bất hoạt.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm dạng hỗn dịch 0,5 ml hoặc 5 ml, mỗi 0,5 ml chứa 40 đơn vị kháng nguyên D của virus bại liệt typ 1, 8 đơn vị kháng nguyên D của virus typ 2 và 32 đơn vị kháng nguyên typ 3.
 
@@ -11011,7 +11011,7 @@ Nếu bảo quản đúng theo hướng dẫn, IPV ổn định trong vòng 1 n�
 
 **Loại thuốc:** Vắc xin sống giảm độc lực.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Hỗn dịch dùng để uống.
 
@@ -11121,7 +11121,7 @@ Vắc xin bại liệt OPV (uống) có trong Danh mục thuốc thiết yếu t
 
 **Loại thuốc:** Vắc xin BCG sống giảm độc lực; thuốc điều hòa đáp ứng miễn dịch.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dạng tiêm trong da: Vắc xin BCG do Việt Nam sản xuất chứa 1 mg BCG đông khô trong 1 ống; dung dịch để pha tiêm là dung dịch natri clorid 0,9%, mỗi ống chứa 2 ml.
 
@@ -11317,7 +11317,7 @@ Vắc xin Lao (BCG) có trong Danh mục thuốc thiết yếu tân dược ban 
 
 **Loại thuốc:** Vắc xin virus bất hoạt.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 *Vắc xin dại tế bào lưỡng bội người (HDCV): Imovax rabies.*
 
@@ -11509,7 +11509,7 @@ Vắc xin dại có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 **Loại thuốc:** Vắc xin polysaccarid bất hoạt cộng hợp.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vắc xin *Haemophilus* b cộng hợp (cộng hợp với protein não mô cầu) (PRP-OMP, Pedvax HIB): Mỗi liều tiêm bắp 0,5 ml chứa 7,5 microgam polyribosylribitol phosphate (PRP) vỏ *Haemophilus* b tinh khiết, 125 microgam phức hợp protein màng ngoài (OMP) của *N*. *meningitidis* và 225 microgam nhôm dưới dạng nhôm hydroxyphosphat sulfat vô định hình (trước đây dùng nhôm hydroxyd).
 
@@ -11661,7 +11661,7 @@ Bảo quản trong tủ lạnh (2 - 8 <sup>o</sup> C). Không được để đ�
 
 **Loại thuốc:** Vắc xin polysaccarid bất hoạt.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vắc xin polysaccarid não mô cầu nhóm A, C, Y và W135 phối hợp (Menomune, vắc xin tứ liên không liên kết, MPSV4) để tiêm dưới da: 50 microgam kháng nguyên vỏ polysaccarid não mô cầu mỗi loại A, C, Y và W135/0,5 ml. Bột đông khô pha tiêm với dung môi (thể tích dung môi ghi trên nhãn kèm theo của nhà sản xuất), sau khi hoàn nguyên cung cấp 1 ml dung dịch trong, không màu.
 
@@ -11801,7 +11801,7 @@ Vắc xin sau khi hoàn nguyên cần dùng trong vòng 30 phút.
 
 **Loại thuốc:** Vắc xin sống giảm độc lực.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm (mỗi lọ chứa một liều đơn dạng bột đông khô, hoàn nguyên thành 0,5 ml ngay trước khi sử dụng): Chế phẩm chứa chủng virus rubella phù hợp đã làm giảm độc lực được nuôi cấy trong tế bào lưỡng bội người (WI-38 cell hoặc MRC 5) hoặc tế bào phôi vịt hoặc theo lựa chọn của nhà sản xuất. Mỗi liều vắc xin chứa không ít hơn 1 000 CCID50.
 
@@ -11931,7 +11931,7 @@ Vắc xin rubella có trong Danh mục thuốc thiết yếu tân dược ban h�
 
 **Loại thuốc:** Vắc xin sống giảm độc lực.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm: Lọ hoặc ống tiêm chứa 1 liều, 5 liều, 10 liều vắc xin đông khô. Mỗi liều 0,5 ml vắc xin sau khi pha chứa không dưới một lượng tương đương 1 000 CCID50 và thành phần khác: Khoảng 25 microgam neomycin. Vắc xin không chứa chất bảo quản, chất sát khuẩn và chất tẩy rửa.
 
@@ -12103,7 +12103,7 @@ Vắc xin sởi có trong Danh mục thuốc thiết yếu tân dược ban hàn
 
 **Loại thuốc:** Vắc xin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vắc xin dạng đông khô pha tiêm kèm theo dung môi hồi chỉnh là dung dịch natri clorid 0,9%: Đóng lọ 1 liều kèm hoặc 5 liều. 
 
@@ -12229,7 +12229,7 @@ Bột đông khô của vắc xin sốt vàng có khả năng chịu nhiệt r�
 
 **Loại thuốc:** Thuốc tạo miễn dịch chủ động (vắc xin).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 *Dạng uống:*
 
@@ -12361,7 +12361,7 @@ Vắc xin tả có trong Danh mục thuốc thiết yếu tân dược ban hành
 
 **Loại thuốc:** Vắc xin virus sống (giảm độc lực).
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Thuốc tiêm (bột đông khô và dung môi để hoàn nguyên thành 0,5 ml ngay trước khi sử dụng) chứa một liều đơn chủng virus sởi, quai bị và rubella thích hợp sống, giảm độc lực. Mỗi nhà sản xuất có quy định chi tiết về liều đơn từng chủng virus sống giảm độc lực. độc lực trong đó chứa: Sởi (chủng Schevarz) nuôi cấy chủ yếu trên tế bào phôi gà, ít nhất 1 000 CCID50 (liều gây nhiễm 50% tế bào nuôi cấy); quai bị (chủng Urabe-AM-9) nuôi cấy trên tế bào phôi gà, ít nhất 5 000 CCID50; rubella (chủng Wistar RA 27/3M) nuôi cấy trên tế bào lưỡng bội người, ít nhất 1 000 CCID50.
 
@@ -12503,7 +12503,7 @@ Bảo quản vắc xin ở nhiệt độ 2 - 8 o C, tránh ánh sáng. Trong đi
 
 **Loại thuốc:** Vắc xin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Có 3 loại vắc xin phòng bệnh thương hàn khác nhau hiện dùng: Vắc xin thương hàn vỏ polysacarid Vi: Thuốc tiêm bắp 25 microgram/0,5 ml. Thành phần khác: Phenol, polydimethylsiloxan. Ngoài ra vắc xin thương hàn polysacarid Vi còn có dạng cộng hợp với giải độc tố uốn ván.
 
@@ -12637,7 +12637,7 @@ Vắc xin thương hàn có trong Danh mục thuốc thiết yếu tân dược 
 
 **Loại thuốc:** Vắc xin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Hỗn dịch tiêm, đóng lọ hoặc bơm tiêm 0,5 ml hoặc 1 ml chứa 5 microgam, 10 microgam hoặc 20 microgam HBsAg (thay đổi tùy nhà sản xuất).
 
@@ -12787,7 +12787,7 @@ Vắc xin viêm gan B có trong Danh mục thuốc thiết yếu tân dược ba
 
 **Loại thuốc:** Vắc xin.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vắc xin bất hoạt: Lọ bột đông khô kèm ống dung môi hoặc dạng dung dịch. Lọ 1 hoặc 10 liều kèm ống dung môi nước cất pha tiêm không chứa chất bảo quản 1,3 - 11 ml.
 
@@ -12917,7 +12917,7 @@ Vắc xin viên não Nhật Bản B có trong Danh mục thuốc thiết yếu t
 
 **Loại thuốc:** Đối kháng thụ thể angiotensin II.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén bao phim: 40 mg, 80 mg, 160 mg và 320 mg.
 
@@ -13109,7 +13109,7 @@ Valsartan có trong Danh mục thuốc tân dược thuộc phạm vi thanh toá
 
 **Loại thuốc:** Kháng sinh glycopeptid nhân 3 vòng phổ hẹp.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vancomycin được dùng ở dạng muối hydroclorid. Hàm lượng và liều dùng được tính theo dạng base.
 
@@ -13363,7 +13363,7 @@ Lypressin (Lysin-8-vasopressin): H01BA03. Argipressin (D-arginin-8-vasopressin):
 
 **Loại thuốc:** Hormon chống bài niệu.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Vasopressin: 20 đvqt/1 ml (thuốc tiêm, nhỏ mũi).
 
@@ -13495,7 +13495,7 @@ Vasopressin, desmopresin có trong Danh mục thuốc thiết yếu tân dược
 
 **Loại thuốc:** Thuốc giãn cơ; thuốc phong bế thần kinh - cơ không khử cực.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Ống tiêm 4 mg bột dạng muối bromid kèm ống dung môi 1 ml để pha tiêm.
 
@@ -13691,7 +13691,7 @@ Tên thương mại *Norcuron; Survec.*
 
 **Loại thuốc:** Chống trầm cảm.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 25 mg, 37,5 mg; 50 mg; 75 mg và 100 mg. Viên nang giải phóng kéo dài: 37,5 mg; 75 mg và 150 mg.
 
@@ -13873,7 +13873,7 @@ Venlafaxin có trong Danh mục thuốc tân dược thuộc phạm vi thanh to�
 
 **Loại thuốc:** Thuốc chẹn kênh calci nhóm non-dihydropyridin.
 
-## **Dạng thuốc và hàm lượng** 
+**Dạng thuốc và hàm lượng** 
 
 Viên bao 40 mg, 80 mg, 120 mg. 
 
@@ -14083,7 +14083,7 @@ Verapamil hydroclorid có trong Danh mục thuốc thiết yếu tân dược ba
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Ống tiêm vinblastin sulfat hàm lượng 1 mg/ml; 10 mg/ml dùng để tiêm tĩnh mạch.
 
@@ -14281,7 +14281,7 @@ Vinblastin sulfat có trong Danh mục thuốc thiết yếu tân dược ban h�
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Ống tiêm hoặc lọ chứa vincristin sulfat 0,5 mg/1 ml; 1 mg/1 ml; 2 mg/2 ml; 5 mg/5 ml.
 
@@ -14515,7 +14515,7 @@ Vincristin sulfat có trong Danh mục thuốc thiết yếu tân dược ban h�
 
 **Loại thuốc:** Thuốc chống ung thư.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dung dịch để tiêm tĩnh mạch 10 mg/ml (lọ 1 ml, 10 ml), 50 mg/5 ml (lọ 5 ml, 10 ml)
 
@@ -14767,7 +14767,7 @@ A11C C05 (Colecalciferol); A11C C06 (Calcifediol); H05BX02 (Paricalcitol).
 
 **Loại thuốc:** Vitamin hòa tan trong mỡ.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Một đơn vị quốc tế vitamin D có 25 nanogam ergocalciferol hay colecalciferol, nghĩa là 1 mg colecalciferol hoặc ergocalciferol tương đương với 40 000 đơn vị quốc tế vitamin D.
 
@@ -15151,7 +15151,7 @@ Vitamin D có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 **Loại thuốc:** Thuốc chống nấm.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dung dịch treo: 200 mg/5 ml (có chứa natri benzoat, sucrose).
 
@@ -15357,7 +15357,7 @@ Chưa có dữ liệu về quá liều. Xử trí bao gồm: Ngừng thuốc, đ
 
 **Loại thuốc:** Thuốc chống đông máu loại kháng vitamin K.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 1 mg; 2 mg; 2,5 mg; 3 mg; 4 mg; 5 mg; 6 mg; 7,5 mg; 10 mg warfarin natri.
 
@@ -15623,7 +15623,7 @@ Warfarin natri có trong Danh mục thuốc thiết yếu tân dược ban hành
 
 **Loại thuốc:** Thuốc giải độc, sát khuẩn nhẹ.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén: 55 mg, 65 mg.
 
@@ -15727,7 +15727,7 @@ Xanh methylen có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 **Loại thuốc:** Chống sung huyết, chống ngạt mũi.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Dùng dưới dạng xylometazolin hydroclorid.
 
@@ -15847,7 +15847,7 @@ Xylometazolin có trong Danh mục thuốc thiết yếu tân dược ban hành 
 
 **Loại thuốc:** Thuốc chống retrovirus; Thuốc chống HIV; Thuốc nucleosid ức chế enzym phiên mã ngược.
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén 300 mg;
 
@@ -16085,7 +16085,7 @@ Zidovudin có trong Danh mục thuốc thiết yếu tân dược ban hành lầ
 
 **Loại thuốc:** An thần gây ngủ. 
 
-## **Dạng thuốc và hàm lượng**
+**Dạng thuốc và hàm lượng**
 
 Viên nén, viên bao phim 5 mg và 10 mg (zolpidem tartrat). Viên giải phóng chậm 6,25 mg và 12,5 mg (zolpidem tartrat).
 
