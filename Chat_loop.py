@@ -203,7 +203,7 @@ def ask(query: str, chat_history: list[dict]) -> dict:
         standalone_query = query
 
     # Retrieve Top 5 tài liệu liên quan từ VectorStore
-    docs = vectorstore.similarity_search(query, k=5)
+    docs = vectorstore.similarity_search(standalone_query, k=5)
     context = "\n\n".join(
         f"Metadata: {doc.page_content}"
         for doc in docs
