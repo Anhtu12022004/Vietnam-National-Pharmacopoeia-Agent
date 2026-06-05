@@ -83,6 +83,38 @@ summary_prompt = PromptTemplate(
 summary_chain = summary_prompt | llm | StrOutputParser()
 
 # ──────────────────────────────────────────────
+# 4. Khởi tọa Chain chuẩn hóa Query (Query Rewriting)
+# ──────────────────────────────────────────────
+
+# Chỉ sử dụng model nhỏ, tốc độ cao chỉ để viết lại câu hỏi.
+fast_llm = ChatGroq(
+    temperature=0,
+    model_name="llama-3.1-8b-instant"
+    # Bạn cũng có thể thử: "mixtral-8x7b-32768" hoặc "gemma2-9b-it"
+)
+
+rewrite_prompt_template = """
+Bạn là một trợ lý AI xử lý ngôn ngữ. Dựa vào lịch sử trò chuyện dưới đây, hãy viết lại câu hỏi hiện tại của người dùng thành một câu truy vấn độc lập, đầy đủ chủ ngữ, danh từ chuyên môn và ngữ nghĩa để phục vụ cho hệ thống tìm kiếm tài liệu y khoa.
+Nếu câu hỏi đã đầy đủ ý nghĩa hoặc không liên quan đến lịch sử, hãy giữ nguyên.
+KHÔNG trả lời câu hỏi, KHÔNG giải thích, CHỈ in ra câu hỏi đã được viết lại.
+
+Lịch sử trò chuyện gần nhất:
+{history}
+
+Câu hỏi hiện tại: {query}
+
+Câu truy vấn độc lập:
+"""
+
+rewrite_prompt = PromptTemplate(
+    template=rewrite_prompt_template,
+    input_variables=["history", "query"]
+)
+
+rewrite_chain = rewrite_prompt | fast_llm | StrOutputParser()
+
+
+# ──────────────────────────────────────────────
 # 5. Kết nối thành một Chain chính
 # ──────────────────────────────────────────────
 chain = prompt | llm | StrOutputParser()
@@ -154,6 +186,22 @@ def ask(query: str, chat_history: list[dict]) -> dict:
           - "answer": Chuỗi câu trả lời từ mô hình.
           - "contexts": Danh sách dict chứa nội dung và metadata của từng tài liệu đã truy vấn.
     """
+
+    # Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
+    summary, recent_history = build_history_context(chat_history)
+
+    # Chuẩn hóa Query
+    # Chỉ cần chuẩn hóa nếu đã có lịch sử trò chuyện
+    if recent_history != "Chưa có lịch sử hội thoại.":
+        print("\n[Đang chuẩn hóa câu truy vấn...]")
+        standalone_query = rewrite_chain.invoke({
+            "history": recent_history,
+            "query": query
+        }).strip()
+        print(f"[Query sau chuẩn hóa]: {standalone_query}")
+    else:
+        standalone_query = query
+
     # Retrieve Top 5 tài liệu liên quan từ VectorStore
     docs = vectorstore.similarity_search(query, k=5)
     context = "\n\n".join(
@@ -170,15 +218,13 @@ def ask(query: str, chat_history: list[dict]) -> dict:
             "metadata": doc.metadata if doc.metadata else {},
         })
  
-    # Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
-    summary, recent_history = build_history_context(chat_history)
  
     # Gọi chain chính
     answer = chain.invoke({
         "context": context,
         "summary": summary,
         "recent_history": recent_history,
-        "query": query,
+        "query": standalone_query,
     })
     return {"answer": answer, "contexts": contexts_for_ui}
 
