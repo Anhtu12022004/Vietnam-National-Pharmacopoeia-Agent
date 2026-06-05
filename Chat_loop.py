@@ -141,16 +141,18 @@ def build_history_context(chat_history: list[dict]) -> tuple[str, str]:
  
     return summary_text, recent_history_text
 
-def ask(query: str, chat_history: list[dict]) -> str:
+def ask(query: str, chat_history: list[dict]) -> dict:
     """
-    Nhận câu hỏi và lịch sử chat, trả về câu trả lời từ LLM.
+    Nhận câu hỏi và lịch sử chat, trả về câu trả lời từ LLM kèm context.
  
     Args:
         query: Câu hỏi hiện tại của người dùng.
         chat_history: Danh sách dict {"role": ..., "content": ...}.
  
     Returns:
-        Chuỗi câu trả lời từ mô hình.
+        Dict gồm:
+          - "answer": Chuỗi câu trả lời từ mô hình.
+          - "contexts": Danh sách dict chứa nội dung và metadata của từng tài liệu đã truy vấn.
     """
     # Retrieve Top 5 tài liệu liên quan từ VectorStore
     docs = vectorstore.similarity_search(query, k=5)
@@ -158,6 +160,15 @@ def ask(query: str, chat_history: list[dict]) -> str:
         f"Metadata: {doc.page_content}"
         for doc in docs
     )
+
+    # Thu thập thông tin context để hiển thị trên UI
+    contexts_for_ui = []
+    for i, doc in enumerate(docs):
+        contexts_for_ui.append({
+            "index": i + 1,
+            "content": doc.page_content,
+            "metadata": doc.metadata if doc.metadata else {},
+        })
  
     # Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
     summary, recent_history = build_history_context(chat_history)
@@ -169,7 +180,7 @@ def ask(query: str, chat_history: list[dict]) -> str:
         "recent_history": recent_history,
         "query": query,
     })
-    return answer
+    return {"answer": answer, "contexts": contexts_for_ui}
 
 
 # ──────────────────────────────────────────────
@@ -187,7 +198,8 @@ def main():
             print("Tạm biệt!")
             break
  
-        answer = ask(query, chat_history)
+        result = ask(query, chat_history)
+        answer = result["answer"]
  
         # Lưu vào lịch sử
         chat_history.append({"role": "user", "content": query})
@@ -199,4 +211,4 @@ def main():
  
  
 if __name__ == "__main__":
-    main()
+    main()

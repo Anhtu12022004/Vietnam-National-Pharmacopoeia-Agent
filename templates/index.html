@@ -1,0 +1,1185 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PharmaRAG-VN — Dược sĩ Lâm sàng AI</title>
+    <meta name="description" content="Trợ lý dược sĩ lâm sàng AI dựa trên Dược điển Quốc gia Việt Nam.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* ─── CSS Reset & Variables ─── */
+        *,
+        *::before,
+        *::after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #0f0f14;
+            --bg-secondary: #1a1a24;
+            --bg-tertiary: #22222f;
+            --bg-hover: #2a2a3a;
+            --bg-input: #1e1e2c;
+            --bg-user-msg: #2c2c40;
+            --bg-context: #181825;
+            --bg-context-item: #1e1e30;
+            --border-color: rgba(255, 255, 255, 0.06);
+            --border-accent: rgba(99, 102, 241, 0.3);
+            --text-primary: #e8e8f0;
+            --text-secondary: #9898b0;
+            --text-muted: #6b6b84;
+            --accent-primary: #6366f1;
+            --accent-hover: #818cf8;
+            --accent-glow: rgba(99, 102, 241, 0.15);
+            --accent-green: #34d399;
+            --accent-green-glow: rgba(52, 211, 153, 0.12);
+            --accent-amber: #f59e0b;
+            --accent-rose: #fb7185;
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
+            --radius-full: 9999px;
+            --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+            --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+            --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+            --shadow-glow: 0 0 20px var(--accent-glow);
+            --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+            --font-main: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            --sidebar-width: 280px;
+        }
+
+        html {
+            height: 100%;
+            font-size: 15px;
+        }
+
+        body {
+            font-family: var(--font-main);
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            height: 100%;
+            overflow: hidden;
+            display: flex;
+        }
+
+        /* ─── Sidebar ─── */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--bg-secondary);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            transition: transform var(--transition-base);
+            z-index: 100;
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .sidebar-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .sidebar-logo .logo-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: var(--radius-md);
+            background: linear-gradient(135deg, var(--accent-primary), #a855f7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            box-shadow: var(--shadow-glow);
+        }
+
+        .sidebar-logo .logo-text h1 {
+            font-size: 1rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #e0e0ff, #a5b4fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .sidebar-logo .logo-text p {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+
+        .new-chat-btn {
+            margin: 16px 20px;
+            padding: 12px 16px;
+            border: 1px dashed rgba(99, 102, 241, 0.4);
+            border-radius: var(--radius-md);
+            background: transparent;
+            color: var(--accent-hover);
+            font-family: var(--font-main);
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .new-chat-btn:hover {
+            background: var(--accent-glow);
+            border-color: var(--accent-primary);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .sidebar-info {
+            margin-top: auto;
+            padding: 20px;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .sidebar-info p {
+            font-size: 0.72rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .sidebar-info .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-top: 8px;
+            padding: 4px 10px;
+            border-radius: var(--radius-full);
+            background: var(--accent-green-glow);
+            color: var(--accent-green);
+            font-size: 0.68rem;
+            font-weight: 600;
+        }
+
+        .badge-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--accent-green);
+            animation: pulse-dot 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse-dot {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.4;
+            }
+        }
+
+        /* ─── Main Chat Area ─── */
+        .main-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+            position: relative;
+        }
+
+        /* Top Bar */
+        .top-bar {
+            padding: 12px 28px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: rgba(15, 15, 20, 0.7);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            flex-shrink: 0;
+        }
+
+        .top-bar-title {
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .model-tag {
+            padding: 3px 10px;
+            border-radius: var(--radius-full);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            font-size: 0.7rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .sidebar-toggle {
+            display: none;
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 1.2rem;
+            cursor: pointer;
+            padding: 6px;
+            border-radius: var(--radius-sm);
+            transition: color var(--transition-fast);
+        }
+
+        .sidebar-toggle:hover {
+            color: var(--text-primary);
+        }
+
+        /* ─── Messages Container ─── */
+        .messages-container {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding: 0;
+            scroll-behavior: smooth;
+        }
+
+        .messages-container::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .messages-container::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .messages-container::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 3px;
+        }
+
+        .messages-container::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.14);
+        }
+
+        /* Welcome Screen */
+        .welcome-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 24px;
+            text-align: center;
+            height: 100%;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(24px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .welcome-icon {
+            width: 72px;
+            height: 72px;
+            border-radius: var(--radius-xl);
+            background: linear-gradient(135deg, var(--accent-primary), #a855f7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 36px;
+            margin-bottom: 24px;
+            box-shadow: 0 0 40px rgba(99, 102, 241, 0.25);
+        }
+
+        .welcome-screen h2 {
+            font-size: 1.6rem;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #e0e0ff, #a5b4fc, #c4b5fd);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .welcome-screen p {
+            color: var(--text-secondary);
+            max-width: 420px;
+            line-height: 1.65;
+            font-size: 0.9rem;
+        }
+
+        .suggestions {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 32px;
+            max-width: 560px;
+            width: 100%;
+        }
+
+        .suggestion-card {
+            padding: 14px 18px;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            background: var(--bg-secondary);
+            cursor: pointer;
+            transition: all var(--transition-base);
+            text-align: left;
+        }
+
+        .suggestion-card:hover {
+            border-color: var(--border-accent);
+            background: var(--bg-tertiary);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .suggestion-card .icon {
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+
+        .suggestion-card .text {
+            font-size: 0.82rem;
+            color: var(--text-secondary);
+            line-height: 1.4;
+        }
+
+        /* ─── Message Bubbles ─── */
+        .message-row {
+            padding: 24px 0;
+            animation: fadeInMsg 0.35s ease-out;
+        }
+
+        @keyframes fadeInMsg {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message-row.assistant-row {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .message-inner {
+            max-width: 780px;
+            margin: 0 auto;
+            padding: 0 28px;
+            display: flex;
+            gap: 16px;
+        }
+
+        .message-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            font-size: 14px;
+            margin-top: 2px;
+        }
+
+        .user-row .message-avatar {
+            background: linear-gradient(135deg, #374151, #4b5563);
+        }
+
+        .assistant-row .message-avatar {
+            background: linear-gradient(135deg, var(--accent-primary), #a855f7);
+            box-shadow: 0 0 12px var(--accent-glow);
+        }
+
+        .message-body {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .message-sender {
+            font-size: 0.78rem;
+            font-weight: 600;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .user-row .message-sender {
+            color: var(--text-secondary);
+        }
+
+        .assistant-row .message-sender {
+            color: var(--accent-hover);
+        }
+
+        .message-content {
+            font-size: 0.92rem;
+            line-height: 1.75;
+            color: var(--text-primary);
+            word-wrap: break-word;
+        }
+
+        .message-content p {
+            margin-bottom: 12px;
+        }
+
+        .message-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .message-content ul,
+        .message-content ol {
+            padding-left: 20px;
+            margin-bottom: 12px;
+        }
+
+        .message-content li {
+            margin-bottom: 4px;
+        }
+
+        .message-content strong {
+            color: #c4b5fd;
+            font-weight: 600;
+        }
+
+        .message-content code {
+            background: var(--bg-tertiary);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            color: var(--accent-green);
+        }
+
+        .message-content pre {
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-sm);
+            padding: 16px;
+            overflow-x: auto;
+            margin: 12px 0;
+        }
+
+        .message-content pre code {
+            background: none;
+            padding: 0;
+            font-size: 0.85rem;
+        }
+
+        /* ─── Context Panel ─── */
+        .context-toggle-bar {
+            margin-top: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .context-toggle-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 14px;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            background: var(--bg-primary);
+            color: var(--text-secondary);
+            font-family: var(--font-main);
+            font-size: 0.78rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all var(--transition-base);
+        }
+
+        .context-toggle-btn:hover {
+            border-color: var(--border-accent);
+            color: var(--accent-hover);
+            background: var(--accent-glow);
+        }
+
+        .context-toggle-btn.active {
+            border-color: var(--accent-primary);
+            color: var(--accent-hover);
+            background: var(--accent-glow);
+        }
+
+        .context-toggle-btn .chevron {
+            transition: transform var(--transition-base);
+            font-size: 0.7rem;
+        }
+
+        .context-toggle-btn.active .chevron {
+            transform: rotate(180deg);
+        }
+
+        .context-count {
+            padding: 2px 8px;
+            border-radius: var(--radius-full);
+            background: var(--accent-primary);
+            color: #fff;
+            font-size: 0.68rem;
+            font-weight: 700;
+        }
+
+        .context-panel {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height var(--transition-slow), opacity var(--transition-base);
+            opacity: 0;
+        }
+
+        .context-panel.open {
+            max-height: 2000px;
+            opacity: 1;
+            margin-top: 12px;
+        }
+
+        .context-list {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .context-item {
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            background: var(--bg-context-item);
+            overflow: hidden;
+            transition: border-color var(--transition-base);
+        }
+
+        .context-item:hover {
+            border-color: var(--border-accent);
+        }
+
+        .context-item-header {
+            padding: 10px 14px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+            transition: background var(--transition-fast);
+        }
+
+        .context-item-header:hover {
+            background: var(--bg-hover);
+        }
+
+        .context-item-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+
+        .context-item-title .ctx-number {
+            width: 22px;
+            height: 22px;
+            border-radius: 6px;
+            background: var(--accent-glow);
+            color: var(--accent-hover);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.7rem;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        .context-item-header .expand-icon {
+            color: var(--text-muted);
+            font-size: 0.72rem;
+            transition: transform var(--transition-base);
+        }
+
+        .context-item.expanded .expand-icon {
+            transform: rotate(180deg);
+        }
+
+        .context-item-body {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height var(--transition-slow);
+        }
+
+        .context-item.expanded .context-item-body {
+            max-height: 600px;
+        }
+
+        .context-item-content {
+            padding: 0 14px 14px 14px;
+            font-size: 0.82rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+            white-space: pre-wrap;
+            word-break: break-word;
+            border-top: 1px solid var(--border-color);
+            padding-top: 12px;
+        }
+
+        .context-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            padding: 0 14px 10px;
+        }
+
+        .context-meta-tag {
+            padding: 2px 8px;
+            border-radius: var(--radius-full);
+            background: rgba(99, 102, 241, 0.08);
+            border: 1px solid rgba(99, 102, 241, 0.15);
+            font-size: 0.68rem;
+            color: var(--accent-hover);
+        }
+
+        /* ─── Typing Indicator ─── */
+        .typing-indicator {
+            display: none;
+        }
+
+        .typing-indicator.visible {
+            display: block;
+        }
+
+        .typing-dots {
+            display: flex;
+            gap: 5px;
+            padding: 4px 0;
+        }
+
+        .typing-dots span {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent-primary);
+            animation: typingBounce 1.4s ease-in-out infinite;
+        }
+
+        .typing-dots span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .typing-dots span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes typingBounce {
+
+            0%,
+            60%,
+            100% {
+                transform: translateY(0);
+                opacity: 0.4;
+            }
+
+            30% {
+                transform: translateY(-8px);
+                opacity: 1;
+            }
+        }
+
+        /* ─── Input Area ─── */
+        .input-area {
+            padding: 16px 28px 24px;
+            border-top: 1px solid var(--border-color);
+            background: rgba(15, 15, 20, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            flex-shrink: 0;
+        }
+
+        .input-wrapper {
+            max-width: 780px;
+            margin: 0 auto;
+            position: relative;
+        }
+
+        .input-box {
+            display: flex;
+            align-items: flex-end;
+            background: var(--bg-input);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            padding: 8px 8px 8px 20px;
+            transition: all var(--transition-base);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .input-box:focus-within {
+            border-color: var(--accent-primary);
+            box-shadow: var(--shadow-glow), var(--shadow-md);
+        }
+
+        .input-box textarea {
+            flex: 1;
+            background: none;
+            border: none;
+            outline: none;
+            color: var(--text-primary);
+            font-family: var(--font-main);
+            font-size: 0.92rem;
+            line-height: 1.5;
+            resize: none;
+            max-height: 160px;
+            padding: 8px 0;
+        }
+
+        .input-box textarea::placeholder {
+            color: var(--text-muted);
+        }
+
+        .send-btn {
+            width: 40px;
+            height: 40px;
+            border: none;
+            border-radius: var(--radius-md);
+            background: var(--accent-primary);
+            color: #fff;
+            font-size: 1rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all var(--transition-base);
+            flex-shrink: 0;
+        }
+
+        .send-btn:hover:not(:disabled) {
+            background: var(--accent-hover);
+            transform: scale(1.05);
+            box-shadow: 0 0 16px var(--accent-glow);
+        }
+
+        .send-btn:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .input-hint {
+            text-align: center;
+            margin-top: 8px;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+        }
+
+        /* ─── Responsive ─── */
+        @media (max-width: 768px) {
+            .sidebar {
+                position: fixed;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                transform: translateX(-100%);
+            }
+
+            .sidebar.open {
+                transform: translateX(0);
+            }
+
+            .sidebar-toggle {
+                display: block;
+            }
+
+            .suggestions {
+                grid-template-columns: 1fr;
+            }
+
+            .message-inner {
+                padding: 0 16px;
+            }
+
+            .input-area {
+                padding: 12px 16px 18px;
+            }
+        }
+
+        /* ─── Overlay for mobile sidebar ─── */
+        .sidebar-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 99;
+        }
+
+        .sidebar-overlay.visible {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <div class="sidebar-logo">
+                <div class="logo-icon">💊</div>
+                <div class="logo-text">
+                    <h1>PharmaRAG-VN</h1>
+                    <p>Dược điển Quốc gia Việt Nam</p>
+                </div>
+            </div>
+        </div>
+        <button class="new-chat-btn" id="newChatBtn" onclick="clearChat()">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round">
+                <line x1="8" y1="3" x2="8" y2="13" />
+                <line x1="3" y1="8" x2="13" y2="8" />
+            </svg>
+            Cuộc trò chuyện mới
+        </button>
+        <div class="sidebar-info">
+            <p>Sử dụng mô hình Llama 3.3 70B thông qua Groq và tìm kiếm ngữ cảnh từ Dược điển Quốc gia Việt Nam
+                2018.</p>
+            <div class="badge">
+                <span class="badge-dot"></span>
+                RAG Pipeline Active
+            </div>
+        </div>
+    </aside>
+
+    <!-- Mobile Overlay -->
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+
+    <!-- Main Chat Area -->
+    <div class="main-area">
+        <!-- Top Bar -->
+        <div class="top-bar">
+            <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
+            <div class="top-bar-title">
+                💊 Dược sĩ Lâm sàng AI
+                <span class="model-tag">Llama 3.3 · 70B</span>
+            </div>
+            <div></div>
+        </div>
+
+        <!-- Messages -->
+        <div class="messages-container" id="messagesContainer">
+            <!-- Welcome Screen -->
+            <div class="welcome-screen" id="welcomeScreen">
+                <div class="welcome-icon">💊</div>
+                <h2>Xin chào! Tôi là Dược sĩ AI</h2>
+                <p>Tôi có thể giúp bạn tra cứu thông tin từ Dược điển Quốc gia Việt Nam 2018. Hãy đặt câu hỏi về
+                    thuốc, hoạt chất, liều dùng, tương tác thuốc, v.v.</p>
+                <div class="suggestions">
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">💉</div>
+                        <div class="text">Liều dùng và cách sử dụng Paracetamol cho trẻ em?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">⚠️</div>
+                        <div class="text">Tương tác thuốc giữa Warfarin và Aspirin?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">📋</div>
+                        <div class="text">Tiêu chuẩn chất lượng của viên nén Amoxicillin?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">🔬</div>
+                        <div class="text">Phương pháp kiểm nghiệm Metformin theo DĐVN?</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <div class="input-wrapper">
+                <div class="input-box">
+                    <textarea id="messageInput" rows="1" placeholder="Nhập câu hỏi về dược phẩm..."
+                        onkeydown="handleKeyDown(event)" oninput="autoResize(this)"></textarea>
+                    <button class="send-btn" id="sendBtn" onclick="sendMessage()" disabled>
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z" />
+                        </svg>
+                    </button>
+                </div>
+                <div class="input-hint">
+                    Nhấn <strong>Enter</strong> để gửi · <strong>Shift+Enter</strong> để xuống dòng
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ─── State ───
+        let isLoading = false;
+
+        // ─── DOM Elements ───
+        const messagesContainer = document.getElementById('messagesContainer');
+        const welcomeScreen = document.getElementById('welcomeScreen');
+        const messageInput = document.getElementById('messageInput');
+        const sendBtn = document.getElementById('sendBtn');
+
+        // ─── Input Handling ───
+        messageInput.addEventListener('input', () => {
+            sendBtn.disabled = !messageInput.value.trim() || isLoading;
+        });
+
+        function autoResize(el) {
+            el.style.height = 'auto';
+            el.style.height = Math.min(el.scrollHeight, 160) + 'px';
+        }
+
+        function handleKeyDown(e) {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                if (!sendBtn.disabled) sendMessage();
+            }
+        }
+
+        // ─── Sidebar ───
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+            document.getElementById('sidebarOverlay').classList.toggle('visible');
+        }
+
+        // ─── Send Message ───
+        async function sendMessage() {
+            const text = messageInput.value.trim();
+            if (!text || isLoading) return;
+
+            // Hide welcome screen
+            if (welcomeScreen) welcomeScreen.style.display = 'none';
+
+            // Add user message
+            appendMessage('user', text);
+
+            // Clear input
+            messageInput.value = '';
+            messageInput.style.height = 'auto';
+            sendBtn.disabled = true;
+            isLoading = true;
+
+            // Show typing indicator
+            const typingEl = showTypingIndicator();
+
+            try {
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: text }),
+                });
+
+                const data = await response.json();
+
+                // Remove typing indicator
+                typingEl.remove();
+
+                if (response.ok) {
+                    appendMessage('assistant', data.answer, data.contexts);
+                } else {
+                    appendMessage('assistant', `⚠️ Lỗi: ${data.error || 'Không thể kết nối đến server.'}`);
+                }
+            } catch (err) {
+                typingEl.remove();
+                appendMessage('assistant', '⚠️ Không thể kết nối đến server. Vui lòng kiểm tra lại.');
+            }
+
+            isLoading = false;
+            sendBtn.disabled = !messageInput.value.trim();
+            messageInput.focus();
+        }
+
+        // ─── Suggestion Click ───
+        function sendSuggestion(el) {
+            const text = el.querySelector('.text').textContent;
+            messageInput.value = text;
+            sendBtn.disabled = false;
+            sendMessage();
+        }
+
+        // ─── Append Message ───
+        function appendMessage(role, content, contexts = null) {
+            const row = document.createElement('div');
+            row.className = `message-row ${role}-row`;
+
+            const isUser = role === 'user';
+
+            // Render markdown for assistant messages
+            const renderedContent = isUser ? escapeHtml(content) : marked.parse(content);
+
+            let contextHTML = '';
+            if (!isUser && contexts && contexts.length > 0) {
+                const ctxId = 'ctx-' + Date.now();
+                contextHTML = `
+                    <div class="context-toggle-bar">
+                        <button class="context-toggle-btn" onclick="toggleContextPanel('${ctxId}', this)">
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                                <polyline points="14 2 14 8 20 8"/>
+                                <line x1="16" y1="13" x2="8" y2="13"/>
+                                <line x1="16" y1="17" x2="8" y2="17"/>
+                            </svg>
+                            Nguồn tham khảo
+                            <span class="context-count">${contexts.length}</span>
+                            <span class="chevron">▼</span>
+                        </button>
+                    </div>
+                    <div class="context-panel" id="${ctxId}">
+                        <div class="context-list">
+                            ${contexts.map((ctx, i) => {
+                    const metaTags = Object.entries(ctx.metadata || {})
+                        .map(([k, v]) => `<span class="context-meta-tag">${escapeHtml(k)}: ${escapeHtml(String(v))}</span>`)
+                        .join('');
+                    const preview = ctx.content.substring(0, 120).replace(/\n/g, ' ') + (ctx.content.length > 120 ? '…' : '');
+                    return `
+                                    <div class="context-item" id="${ctxId}-item-${i}">
+                                        <div class="context-item-header" onclick="toggleContextItem('${ctxId}-item-${i}')">
+                                            <div class="context-item-title">
+                                                <span class="ctx-number">${i + 1}</span>
+                                                <span>${escapeHtml(preview)}</span>
+                                            </div>
+                                            <span class="expand-icon">▼</span>
+                                        </div>
+                                        ${metaTags ? `<div class="context-meta">${metaTags}</div>` : ''}
+                                        <div class="context-item-body">
+                                            <div class="context-item-content">${escapeHtml(ctx.content)}</div>
+                                        </div>
+                                    </div>
+                                `;
+                }).join('')}
+                        </div>
+                    </div>
+                `;
+            }
+
+            row.innerHTML = `
+                <div class="message-inner">
+                    <div class="message-avatar">${isUser ? '👤' : '💊'}</div>
+                    <div class="message-body">
+                        <div class="message-sender">${isUser ? 'Bạn' : 'Dược sĩ AI'}</div>
+                        <div class="message-content">${renderedContent}</div>
+                        ${contextHTML}
+                    </div>
+                </div>
+            `;
+
+            messagesContainer.appendChild(row);
+            scrollToBottom();
+        }
+
+        // ─── Typing Indicator ───
+        function showTypingIndicator() {
+            const row = document.createElement('div');
+            row.className = 'message-row assistant-row';
+            row.innerHTML = `
+                <div class="message-inner">
+                    <div class="message-avatar">💊</div>
+                    <div class="message-body">
+                        <div class="message-sender">Dược sĩ AI</div>
+                        <div class="typing-dots visible" style="display:flex;">
+                            <span></span><span></span><span></span>
+                        </div>
+                    </div>
+                </div>
+            `;
+            messagesContainer.appendChild(row);
+            scrollToBottom();
+            return row;
+        }
+
+        // ─── Context Panel Toggle ───
+        function toggleContextPanel(id, btn) {
+            const panel = document.getElementById(id);
+            panel.classList.toggle('open');
+            btn.classList.toggle('active');
+        }
+
+        function toggleContextItem(id) {
+            document.getElementById(id).classList.toggle('expanded');
+        }
+
+        // ─── Clear Chat ───
+        async function clearChat() {
+            try {
+                await fetch('/api/clear', { method: 'POST' });
+            } catch (e) { }
+
+            // Reset UI
+            messagesContainer.innerHTML = '';
+            const welcome = document.createElement('div');
+            welcome.className = 'welcome-screen';
+            welcome.id = 'welcomeScreen';
+            welcome.innerHTML = `
+                <div class="welcome-icon">💊</div>
+                <h2>Xin chào! Tôi là Dược sĩ AI</h2>
+                <p>Tôi có thể giúp bạn tra cứu thông tin từ Dược điển Quốc gia Việt Nam 2018. Hãy đặt câu hỏi về thuốc, hoạt chất, liều dùng, tương tác thuốc, v.v.</p>
+                <div class="suggestions">
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">💉</div>
+                        <div class="text">Liều dùng và cách sử dụng Paracetamol cho trẻ em?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">⚠️</div>
+                        <div class="text">Tương tác thuốc giữa Warfarin và Aspirin?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">📋</div>
+                        <div class="text">Tiêu chuẩn chất lượng của viên nén Amoxicillin?</div>
+                    </div>
+                    <div class="suggestion-card" onclick="sendSuggestion(this)">
+                        <div class="icon">🔬</div>
+                        <div class="text">Phương pháp kiểm nghiệm Metformin theo DĐVN?</div>
+                    </div>
+                </div>
+            `;
+            messagesContainer.appendChild(welcome);
+
+            // Close sidebar on mobile
+            document.getElementById('sidebar').classList.remove('open');
+            document.getElementById('sidebarOverlay').classList.remove('visible');
+        }
+
+        // ─── Helpers ───
+        function scrollToBottom() {
+            requestAnimationFrame(() => {
+                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            });
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        // ─── Configure marked ───
+        marked.setOptions({
+            breaks: true,
+            gfm: true,
+        });
+
+        // Focus input on load
+        messageInput.focus();
+    </script>
+</body>
+
+</html>
