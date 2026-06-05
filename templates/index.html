@@ -575,27 +575,8 @@
             border-color: var(--border-accent);
         }
 
-        .context-item-header {
-            padding: 10px 14px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            cursor: pointer;
-            user-select: none;
-            transition: background var(--transition-fast);
-        }
-
         .context-item-header:hover {
             background: var(--bg-hover);
-        }
-
-        .context-item-title {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 0.8rem;
-            font-weight: 500;
-            color: var(--text-secondary);
         }
 
         .context-item-title .ctx-number {
@@ -612,10 +593,16 @@
             flex-shrink: 0;
         }
 
+        .context-item-title .ctx-number.web {
+            background: rgba(245, 158, 11, 0.12);
+            color: var(--accent-amber);
+        }
+
         .context-item-header .expand-icon {
             color: var(--text-muted);
             font-size: 0.72rem;
             transition: transform var(--transition-base);
+            flex-shrink: 0;
         }
 
         .context-item.expanded .expand-icon {
@@ -657,6 +644,90 @@
             border: 1px solid rgba(99, 102, 241, 0.15);
             font-size: 0.68rem;
             color: var(--accent-hover);
+        }
+
+        /* ─── Source Type Badges ─── */
+        .source-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 3px 10px;
+            border-radius: var(--radius-full);
+            font-size: 0.68rem;
+            font-weight: 600;
+            letter-spacing: 0.02em;
+            flex-shrink: 0;
+        }
+
+        .source-badge.internal {
+            background: var(--accent-green-glow);
+            color: var(--accent-green);
+            border: 1px solid rgba(52, 211, 153, 0.2);
+        }
+
+        .source-badge.web {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--accent-amber);
+            border: 1px solid rgba(245, 158, 11, 0.2);
+        }
+
+        /* ─── Web Search Info Banner ─── */
+        .web-search-banner {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 14px;
+            padding: 10px 14px;
+            border-radius: var(--radius-md);
+            background: rgba(245, 158, 11, 0.06);
+            border: 1px solid rgba(245, 158, 11, 0.15);
+            font-size: 0.8rem;
+            color: var(--accent-amber);
+            animation: fadeInMsg 0.35s ease-out;
+        }
+
+        .web-search-banner .banner-icon {
+            font-size: 1rem;
+            flex-shrink: 0;
+        }
+
+        .web-search-banner .banner-text {
+            line-height: 1.4;
+        }
+
+        .web-search-banner .banner-text strong {
+            color: var(--accent-amber);
+        }
+
+        /* Context item header with source badge */
+        .context-item-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            flex: 1;
+            min-width: 0;
+        }
+
+        .context-item-title .preview-text {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            flex: 1;
+            min-width: 0;
+        }
+
+        .context-item-header {
+            padding: 10px 14px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            user-select: none;
+            transition: background var(--transition-fast);
+            gap: 10px;
         }
 
         /* ─── Typing Indicator ─── */
@@ -994,7 +1065,7 @@
                 typingEl.remove();
 
                 if (response.ok) {
-                    appendMessage('assistant', data.answer, data.contexts);
+                    appendMessage('assistant', data.answer, data.contexts, data.used_web_search);
                 } else {
                     appendMessage('assistant', `⚠️ Lỗi: ${data.error || 'Không thể kết nối đến server.'}`);
                 }
@@ -1017,7 +1088,7 @@
         }
 
         // ─── Append Message ───
-        function appendMessage(role, content, contexts = null) {
+        function appendMessage(role, content, contexts = null, usedWebSearch = false) {
             const row = document.createElement('div');
             row.className = `message-row ${role}-row`;
 
@@ -1026,9 +1097,34 @@
             // Render markdown for assistant messages
             const renderedContent = isUser ? escapeHtml(content) : marked.parse(content);
 
+            // Web search banner
+            let webSearchBanner = '';
+            if (!isUser && usedWebSearch) {
+                webSearchBanner = `
+                    <div class="web-search-banner">
+                        <span class="banner-icon">🌐</span>
+                        <span class="banner-text">
+                            <strong>Google Search đã được sử dụng.</strong>
+                            Tài liệu nội bộ không đủ thông tin, hệ thống đã bổ sung kết quả từ web.
+                        </span>
+                    </div>
+                `;
+            }
+
             let contextHTML = '';
             if (!isUser && contexts && contexts.length > 0) {
                 const ctxId = 'ctx-' + Date.now();
+
+                // Count internal vs web contexts
+                const internalCount = contexts.filter(c => (c.type || c.metadata?.type) !== 'web_search').length;
+                const webCount = contexts.filter(c => (c.type || c.metadata?.type) === 'web_search').length;
+
+                let countLabel = `${contexts.length}`;
+                let countDetail = '';
+                if (webCount > 0) {
+                    countDetail = `<span style="font-size:0.72rem; color:var(--text-muted); margin-left: 4px;">(${internalCount} nội bộ · ${webCount} web)</span>`;
+                }
+
                 contextHTML = `
                     <div class="context-toggle-bar">
                         <button class="context-toggle-btn" onclick="toggleContextPanel('${ctxId}', this)">
@@ -1039,14 +1135,23 @@
                                 <line x1="16" y1="17" x2="8" y2="17"/>
                             </svg>
                             Nguồn tham khảo
-                            <span class="context-count">${contexts.length}</span>
+                            <span class="context-count">${countLabel}</span>
+                            ${countDetail}
                             <span class="chevron">▼</span>
                         </button>
                     </div>
                     <div class="context-panel" id="${ctxId}">
                         <div class="context-list">
                             ${contexts.map((ctx, i) => {
+                    const isWeb = (ctx.type || ctx.metadata?.type) === 'web_search';
+                    const sourceIcon = isWeb ? '🌐' : '📄';
+                    const sourceBadge = isWeb
+                        ? '<span class="source-badge web">🔍 Web</span>'
+                        : '<span class="source-badge internal">📚 DĐVN</span>';
+                    const numberClass = isWeb ? 'ctx-number web' : 'ctx-number';
+
                     const metaTags = Object.entries(ctx.metadata || {})
+                        .filter(([k]) => k !== 'type')  // Don't show 'type' as a tag, we have badge
                         .map(([k, v]) => `<span class="context-meta-tag">${escapeHtml(k)}: ${escapeHtml(String(v))}</span>`)
                         .join('');
                     const preview = ctx.content.substring(0, 120).replace(/\n/g, ' ') + (ctx.content.length > 120 ? '…' : '');
@@ -1054,8 +1159,9 @@
                                     <div class="context-item" id="${ctxId}-item-${i}">
                                         <div class="context-item-header" onclick="toggleContextItem('${ctxId}-item-${i}')">
                                             <div class="context-item-title">
-                                                <span class="ctx-number">${i + 1}</span>
-                                                <span>${escapeHtml(preview)}</span>
+                                                <span class="${numberClass}">${i + 1}</span>
+                                                <span class="preview-text">${escapeHtml(preview)}</span>
+                                                ${sourceBadge}
                                             </div>
                                             <span class="expand-icon">▼</span>
                                         </div>
@@ -1077,6 +1183,7 @@
                     <div class="message-body">
                         <div class="message-sender">${isUser ? 'Bạn' : 'Dược sĩ AI'}</div>
                         <div class="message-content">${renderedContent}</div>
+                        ${webSearchBanner}
                         ${contextHTML}
                     </div>
                 </div>

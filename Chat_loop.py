@@ -1,6 +1,8 @@
 import os
 from dotenv import load_dotenv
 
+import re
+
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 from langchain_core.output_parsers import StrOutputParser
@@ -143,6 +145,8 @@ Hãy đánh giá theo các tiêu chí sau:
 Chỉ trả lời MỘT trong hai từ sau (không thêm bất kỳ nội dung nào khác):
 - SUFFICIENT: nếu ngữ cảnh đủ để trả lời câu hỏi
 - INSUFFICIENT: nếu ngữ cảnh không đủ hoặc không liên quan
+Tuyệt đối KHÔNG trả về quá trình suy luận. 
+Chỉ trả về đúng 1 từ duy nhất là SUFFICIENT hoặc INSUFFICIENT.
 """
 
 retrieval_eval_prompt = PromptTemplate(
@@ -174,9 +178,14 @@ def evaluate_retrieval_sufficiency(query: str, context: str) -> bool:
         "query": query,
         "context": context
     }).strip().upper()
+
+    print(f"[Raw Verdict]: {verdict}")
  
-    # Chỉ lấy từ đầu tiên để tránh model trả về text dư thừa
-    first_word = verdict.split()[0] if verdict else "INSUFFICIENT"
+    # Dùng Regex để loại bỏ toàn bộ thẻ <THINK>...</THINK> và nội dung bên trong
+    clean_verdict = re.sub(r'<THINK>.*?</THINK>', '', verdict, flags=re.DOTALL | re.IGNORECASE).strip()
+    
+    # Lấy từ đầu tiên của chuỗi ĐÃ ĐƯỢC LÀM SẠCH
+    first_word = clean_verdict.split()[0] if clean_verdict else "INSUFFICIENT"
     is_sufficient = first_word == "SUFFICIENT"
  
     print(f"[Kết quả đánh giá]: {first_word} → {'✅ Đủ thông tin' if is_sufficient else '⚠️ Không đủ, sẽ tìm kiếm Google'}")
@@ -333,9 +342,9 @@ def ask(query: str, chat_history: list[dict]) -> dict:
  
             # Gộp context: nội bộ trước, web sau
             final_context = (
-                "=== Tài liệu nội bộ ===\n"
+                "=== Tài liệu dược thư quốc gia ===\n"
                 + internal_context
-                + "\n\n=== Kết quả tìm kiếm Web ===\n"
+                + "\n\n=== Kết quả tìm kiếm Internet ===\n"
                 + web_context_text
             )
  

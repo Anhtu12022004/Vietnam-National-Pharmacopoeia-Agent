@@ -51,6 +51,7 @@ def chat():
         return jsonify({
             "answer": result["answer"],
             "contexts": result["contexts"],
+            "used_web_search": result.get("used_web_search", False),
         })
     except Exception as e:
         print(f"[ERROR] {e}")
