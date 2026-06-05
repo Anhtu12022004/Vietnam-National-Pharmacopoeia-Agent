@@ -20,9 +20,9 @@ build/
 */.ipynb_checkpoints/
 
 # Vector Store and local model caches
-Data/VectorStore/
-*.faiss
-*.pkl
+# Data/VectorStore/
+# *.faiss
+# *.pkl
 
 # OS/System files
 .DS_Store

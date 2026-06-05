@@ -4,7 +4,7 @@ Cung cấp giao diện chat giống ChatGPT với khả năng hiển thị conte
 """
 
 from flask import Flask, render_template, request, jsonify, session
-from Chat_loop import ask
+from core.chat_engine import ask
 import os
 import secrets
 
