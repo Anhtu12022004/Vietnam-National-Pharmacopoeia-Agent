@@ -224,7 +224,7 @@ def ask(query: str, chat_history: list[dict]) -> dict:
         "context": context,
         "summary": summary,
         "recent_history": recent_history,
-        "query": standalone_query,
+        "query": query,
     })
     return {"answer": answer, "contexts": contexts_for_ui}
 
