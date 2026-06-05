@@ -7,6 +7,8 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
+from Search_On_Google import search_on_google
+
 # Tải biến môi trường từ file .env
 load_dotenv()
 
@@ -83,7 +85,7 @@ summary_prompt = PromptTemplate(
 summary_chain = summary_prompt | llm | StrOutputParser()
 
 # ──────────────────────────────────────────────
-# 4. Khởi tọa Chain chuẩn hóa Query (Query Rewriting)
+# 5. Khởi tọa Chain chuẩn hóa Query (Query Rewriting)
 # ──────────────────────────────────────────────
 
 # Chỉ sử dụng model nhỏ, tốc độ cao chỉ để viết lại câu hỏi.
@@ -115,9 +117,96 @@ rewrite_chain = rewrite_prompt | fast_llm | StrOutputParser()
 
 
 # ──────────────────────────────────────────────
-# 5. Kết nối thành một Chain chính
+# 6. Khởi tạo LLM đánh giá Retrieval (Qwen3-32b)
+# ──────────────────────────────────────────────
+# Qwen3-32b có khả năng suy luận tốt, phù hợp để đánh giá mức độ liên quan.
+# Lưu ý: Groq hỗ trợ qwen/qwen3-32b qua OpenAI-compatible endpoint.
+eval_llm = ChatGroq(
+    temperature=0,
+    model_name="qwen/qwen3-32b"
+)
+
+retrieval_eval_prompt_template = """
+Bạn là một chuyên gia đánh giá chất lượng thông tin y dược. Nhiệm vụ của bạn là đánh giá xem ngữ cảnh được truy xuất có đủ thông tin để trả lời câu hỏi của người dùng hay không.
+ 
+Câu hỏi của người dùng:
+{query}
+ 
+Ngữ cảnh đã truy xuất từ tài liệu nội bộ:
+{context}
+ 
+Hãy đánh giá theo các tiêu chí sau:
+1. Ngữ cảnh có đề cập trực tiếp hoặc liên quan chặt chẽ đến chủ đề của câu hỏi không?
+2. Thông tin trong ngữ cảnh có đủ chi tiết để đưa ra câu trả lời đáng tin cậy không?
+3. Có thiếu các thông tin quan trọng mà câu hỏi yêu cầu không?
+ 
+Chỉ trả lời MỘT trong hai từ sau (không thêm bất kỳ nội dung nào khác):
+- SUFFICIENT: nếu ngữ cảnh đủ để trả lời câu hỏi
+- INSUFFICIENT: nếu ngữ cảnh không đủ hoặc không liên quan
+"""
+
+retrieval_eval_prompt = PromptTemplate(
+    template=retrieval_eval_prompt_template,
+    input_variables=["query", "context"]
+)
+
+retrieval_eval_chain = retrieval_eval_prompt | eval_llm | StrOutputParser()
+ 
+
+# ──────────────────────────────────────────────
+# 7. Kết nối thành một Chain chính
 # ──────────────────────────────────────────────
 chain = prompt | llm | StrOutputParser()
+
+def evaluate_retrieval_sufficiency(query: str, context: str) -> bool:
+    """
+    Dùng Qwen3-32b để đánh giá context có đủ để trả lời câu hỏi không.
+ 
+    Args:
+        query: Câu hỏi của người dùng (đã được chuẩn hóa).
+        context: Văn bản context đã retrieve từ VectorStore.
+ 
+    Returns:
+        True nếu context đủ (SUFFICIENT), False nếu không đủ (INSUFFICIENT).
+    """
+    print("\n[Đang đánh giá chất lượng retrieval với Qwen3-32b...]")
+    verdict = retrieval_eval_chain.invoke({
+        "query": query,
+        "context": context
+    }).strip().upper()
+ 
+    # Chỉ lấy từ đầu tiên để tránh model trả về text dư thừa
+    first_word = verdict.split()[0] if verdict else "INSUFFICIENT"
+    is_sufficient = first_word == "SUFFICIENT"
+ 
+    print(f"[Kết quả đánh giá]: {first_word} → {'✅ Đủ thông tin' if is_sufficient else '⚠️ Không đủ, sẽ tìm kiếm Google'}")
+    return is_sufficient
+
+def build_web_context(web_results: list[dict]) -> tuple[str, list[dict]]:
+    """
+    Chuyển đổi kết quả từ search_on_google thành context text và danh sách UI.
+ 
+    Args:
+        web_results: Danh sách dict {"source_url": ..., "markdown_content": ...}.
+ 
+    Returns:
+        (context_text, contexts_for_ui)
+    """
+    context_lines = []
+    contexts_for_ui = []
+ 
+    for i, item in enumerate(web_results):
+        source = item.get("source_url", "Không rõ nguồn")
+        content = item.get("markdown_content", "").strip()
+        if content:
+            context_lines.append(f"[Nguồn Web {i+1}] {source}\n{content}")
+            contexts_for_ui.append({
+                "index": i + 1,
+                "content": content,
+                "metadata": {"source": source, "type": "web_search"},
+            })
+ 
+    return "\n\n".join(context_lines), contexts_for_ui
 
 def summarize_old_history(old_messages: list[dict]) -> str:
     """
@@ -177,6 +266,15 @@ def ask(query: str, chat_history: list[dict]) -> dict:
     """
     Nhận câu hỏi và lịch sử chat, trả về câu trả lời từ LLM kèm context.
  
+    Luồng xử lý:
+      1. Build history context (summary + recent)
+      2. Chuẩn hóa query (nếu có lịch sử)
+      3. Retrieve Top 3 từ VectorStore
+      4. Đánh giá context bằng Qwen3-32b
+         - SUFFICIENT → dùng context nội bộ
+         - INSUFFICIENT → bổ sung bằng Google Search
+      5. Gọi chain chính với context đã được bổ sung (nếu cần)
+ 
     Args:
         query: Câu hỏi hiện tại của người dùng.
         chat_history: Danh sách dict {"role": ..., "content": ...}.
@@ -184,14 +282,13 @@ def ask(query: str, chat_history: list[dict]) -> dict:
     Returns:
         Dict gồm:
           - "answer": Chuỗi câu trả lời từ mô hình.
-          - "contexts": Danh sách dict chứa nội dung và metadata của từng tài liệu đã truy vấn.
+          - "contexts": Danh sách dict chứa nội dung và metadata.
+          - "used_web_search": Boolean — có dùng Google Search không.
     """
-
-    # Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
+    # ── Bước 1: Tách lịch sử thành summary (cũ) + recent (3 lượt gần nhất)
     summary, recent_history = build_history_context(chat_history)
-
-    # Chuẩn hóa Query
-    # Chỉ cần chuẩn hóa nếu đã có lịch sử trò chuyện
+ 
+    # ── Bước 2: Chuẩn hóa Query
     if recent_history != "Chưa có lịch sử hội thoại.":
         print("\n[Đang chuẩn hóa câu truy vấn...]")
         standalone_query = rewrite_chain.invoke({
@@ -201,32 +298,69 @@ def ask(query: str, chat_history: list[dict]) -> dict:
         print(f"[Query sau chuẩn hóa]: {standalone_query}")
     else:
         standalone_query = query
-
-    # Retrieve Top 5 tài liệu liên quan từ VectorStore
-    docs = vectorstore.similarity_search(standalone_query, k=5)
-    context = "\n\n".join(
+ 
+    # ── Bước 3: Retrieve Top 3 từ VectorStore
+    print("\n[Đang truy xuất tài liệu nội bộ...]")
+    docs = vectorstore.similarity_search(standalone_query, k=3)
+    internal_context = "\n\n".join(
         f"Metadata: {doc.page_content}"
         for doc in docs
     )
-
-    # Thu thập thông tin context để hiển thị trên UI
+ 
+    # Thu thập context nội bộ cho UI
     contexts_for_ui = []
     for i, doc in enumerate(docs):
         contexts_for_ui.append({
             "index": i + 1,
             "content": doc.page_content,
             "metadata": doc.metadata if doc.metadata else {},
+            "type": "internal",
         })
  
+    # ── Bước 4: Đánh giá retrieval với Qwen3-32b
+    is_sufficient = evaluate_retrieval_sufficiency(standalone_query, internal_context)
+    used_web_search = False
+    final_context = internal_context
  
-    # Gọi chain chính
+    if not is_sufficient:
+        # ── Bước 4b: Fallback — tìm kiếm Google và gộp context
+        print(f"\n[Đang tìm kiếm bổ sung trên Google: '{standalone_query}'...]")
+        web_results = search_on_google(standalone_query, num_results=3)
+ 
+        if web_results:
+            web_context_text, web_contexts_for_ui = build_web_context(web_results)
+            used_web_search = True
+ 
+            # Gộp context: nội bộ trước, web sau
+            final_context = (
+                "=== Tài liệu nội bộ ===\n"
+                + internal_context
+                + "\n\n=== Kết quả tìm kiếm Web ===\n"
+                + web_context_text
+            )
+ 
+            # Đánh số lại index cho web contexts
+            for wc in web_contexts_for_ui:
+                wc["index"] += len(contexts_for_ui)
+            contexts_for_ui.extend(web_contexts_for_ui)
+ 
+            print(f"[Đã bổ sung {len(web_results)} nguồn web vào context.]")
+        else:
+            print("[Không tìm thấy kết quả web phù hợp, tiếp tục với context nội bộ.]")
+ 
+    # ── Bước 5: Gọi chain chính
     answer = chain.invoke({
-        "context": context,
+        "context": final_context,
         "summary": summary,
         "recent_history": recent_history,
         "query": query,
     })
-    return {"answer": answer, "contexts": contexts_for_ui}
+ 
+    return {
+        "answer": answer,
+        "contexts": contexts_for_ui,
+        "used_web_search": used_web_search,
+    }
 
 
 # ──────────────────────────────────────────────
@@ -251,7 +385,9 @@ def main():
         chat_history.append({"role": "user", "content": query})
         chat_history.append({"role": "assistant", "content": answer})
  
-        print(f"\n=== CÂU TRẢ LỜI TỪ GROQ ===")
+        # Hiển thị kết quả
+        source_label = "GROQ + WEB SEARCH" if result["used_web_search"] else "GROQ (NỘI BỘ)"
+        print(f"\n=== CÂU TRẢ LỜI TỪ {source_label} ===")
         print(answer)
         print()
  
