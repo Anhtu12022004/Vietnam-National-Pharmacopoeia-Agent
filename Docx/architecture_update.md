@@ -7,7 +7,7 @@ Dự án nhằm mục đích xây dựng một hệ thống **RAG (Retrieval-Aug
 
 ## 2. PHÂN TÍCH KIẾN TRÚC
 
-Kiến trúc hệ thống được xây dựng dựa trên cơ chế Xử lý lịch sử, Chuẩn hóa truy vấn (Query Rewriting), Truy xuất (Retrieval) và Tối ưu hóa ngữ cảnh thông qua sự phối hợp của 3 mô hình LLM chuyên biệt (Fast LLM, Eval LLM và Main LLM) cùng công cụ tìm kiếm mở rộng (Web Search).
+Kiến trúc hệ thống được xây dựng dựa trên cơ chế Xử lý lịch sử, Chuẩn hóa truy vấn (Query Rewriting), Truy xuất (Retrieval) và Tối ưu hóa ngữ cảnh thông qua sự phối hợp của 3 mô hình chuyên biệt (Fast LLM, Reranker và Main LLM) cùng công cụ tìm kiếm mở rộng (Web Search).
 
 ### 2.1. Luồng xử lý dữ liệu (Workflow)
 
@@ -22,7 +22,7 @@ Kiến trúc hệ thống được xây dựng dựa trên cơ chế Xử lý l�
 
 
 3. **Truy xuất tài liệu nội bộ (Retrieval):**
-* Hệ thống sử dụng câu truy vấn vừa được chuẩn hóa để tìm kiếm nội suy (Similarity Search) ra Top 3 đoạn tài liệu liên quan nhất từ VectorStore (chứa Dữ liệu Dược thư quốc gia).
+* Hệ thống sử dụng câu truy vấn vừa được chuẩn hóa để tìm kiếm nội suy (Similarity Search) ra Top 10 đoạn tài liệu liên quan nhất từ VectorStore (chứa Dữ liệu Dược thư quốc gia).
 
 
 4. **Đánh giá ngữ cảnh (Context Evaluation):**
@@ -30,8 +30,8 @@ Kiến trúc hệ thống được xây dựng dựa trên cơ chế Xử lý l�
 
 
 5. **Tối ưu và Bổ sung ngữ cảnh (Fallback Web Search):**
-* **Nếu ĐỦ thông tin score >=0.7:** Hệ thống chốt sử dụng duy nhất tài liệu nội bộ làm ngữ cảnh.
-* **Nếu THIẾU thông tin score < 0.7:** Hệ thống kích hoạt API tìm kiếm trên Google để lấy thêm 3 nguồn kết quả trên Web. Ngữ cảnh cuối cùng sẽ được **gộp chung** (Bao gồm phần Tài liệu dược thư nội bộ ở trên và phần Kết quả Web ở dưới).
+* **Nếu ĐỦ thông tin max_rerank_score >=0.7:** Hệ thống chốt sử dụng duy nhất tài liệu nội bộ làm ngữ cảnh.
+* **Nếu THIẾU thông tin max_rerank_score < 0.7:** Hệ thống kích hoạt API tìm kiếm trên Google để lấy thêm 3 nguồn kết quả trên Web. Ngữ cảnh cuối cùng sẽ được **gộp chung** (Bao gồm phần Tài liệu dược thư nội bộ ở trên (nếu rerank_score >= 0.4) và phần Kết quả Web ở dưới).
 
 
 6. **Tổng hợp câu trả lời cuối (Final Generation):**
@@ -47,7 +47,7 @@ Kiến trúc hệ thống được xây dựng mang đậm tính chất của m�
 ### 3.1. Ưu điểm vượt trội
 
 1. **Tối ưu hóa tài nguyên qua chiến lược Multi-LLM:**
-* Thay vì sử dụng một mô hình khổng lồ cho toàn bộ quy trình, hệ thống đã khéo léo "cắt lớp" tác vụ: Dùng mô hình nhỏ, tốc độ phản hồi cực nhanh (`Llama-3.1-8B-Instant`) cho tác vụ biến đổi văn bản cơ bản (Query Rewriting); dùng mô hình tầm trung với khả năng suy luận logic xuất sắc (`Qwen3-32B`) cho nhiệm vụ phân loại/kiểm duyệt nhị phân; và chỉ dành mô hình nặng nhất (`Llama-3.3-70B`) cho bước sinh văn bản cuối cùng. Điều này tối ưu hóa đáng kể lượng token tiêu thụ và chi phí tính toán.
+* Thay vì sử dụng một mô hình khổng lồ cho toàn bộ quy trình, hệ thống đã khéo léo "cắt lớp" tác vụ: Dùng mô hình nhỏ, tốc độ phản hồi cực nhanh (`Llama-3.1-8B-Instant`) cho tác vụ biến đổi văn bản cơ bản (Query Rewriting); dùng mô hình reranker cho nhiệm vụ đánh giá độ tương đồng giữa query và dữ liệu nội bộ; và chỉ dành mô hình nặng nhất (`Llama-3.3-70B`) cho bước sinh văn bản cuối cùng. Điều này tối ưu hóa đáng kể lượng token tiêu thụ và chi phí tính toán.
 
 
 2. **Cơ chế quản lý Context Window thông minh:**
@@ -55,21 +55,18 @@ Kiến trúc hệ thống được xây dựng mang đậm tính chất của m�
 
 
 3. **Giảm thiểu tối đa rủi ro Ảo giác (Hallucination) trong y khoa:**
-* Trong lĩnh vực y tế, tính chính xác là yếu tố sống còn. Cơ chế "người gác cổng" của `Qwen3-32B` giúp hệ thống có khả năng tự nhận thức giới hạn tri thức của VectorStore nội bộ. Việc kích hoạt Web Search fallback khi `INSUFFICIENT` đảm bảo hệ thống không tự suy diễn (confabulation) khi gặp các loại thuốc mới hoặc ca bệnh chưa có trong "Dược thư quốc gia".
+* Trong lĩnh vực y tế, tính chính xác là yếu tố sống còn. Cơ chế chọn score cao (rerank_score >= 0.7) của "người gác cổng" giúp hệ thống có khả năng tự nhận thức giới hạn tri thức của VectorStore nội bộ. Việc kích hoạt Web Search fallback khi rerank_score < 0.7 đảm bảo hệ thống không tự suy diễn (confabulation) khi gặp các loại thuốc mới hoặc ca bệnh chưa có trong "Dược thư quốc gia".
 
 
 
 ### 3.2. Hạn chế và Rủi ro tiềm ẩn
 
 1. **Độ trễ tích lũy (Latency Bottleneck):**
-* Kiến trúc đang vận hành theo cơ chế tuần tự (Sequential Pipeline): *Summary -> Rewrite -> Retrieve -> Evaluate -> Web Search (nếu có) -> Generate*. Việc phải chờ API của nhiều LLM phản hồi nối tiếp nhau có thể gây ra độ trễ (latency) đáng kể cho người dùng cuối, đặc biệt trong kịch bản kích hoạt Fallback Web Search.
+* Kiến trúc đang vận hành theo cơ chế tuần tự (Sequential Pipeline): *Summary -> Rewrite -> Retrieve -> Rerank -> Web Search (nếu có) -> Generate*. Việc phải chờ API của nhiều LLM phản hồi nối tiếp nhau có thể gây ra độ trễ (latency) đáng kể cho người dùng cuối, đặc biệt trong kịch bản kích hoạt Fallback Web Search.
 
 
-2. **Điểm mù của cơ chế đánh giá nhị phân (Binary Evaluation):**
-* `Qwen3-32B` hiện chỉ được phép trả về `SUFFICIENT` hoặc `INSUFFICIENT`. Trong thực tế truy xuất tài liệu, thường xuyên xảy ra tình trạng "Partially Sufficient" (Tài liệu có chứa tên thuốc, nhưng thiếu liều dùng). Việc chỉ có 2 nhãn có thể khiến hệ thống liên tục gọi Web Search một cách lãng phí hoặc bỏ sót việc bổ sung thông tin khi tài liệu nội bộ mới chỉ giải quyết được một nửa câu hỏi.
 
-
-3. **Phụ thuộc hạ tầng và rủi ro bảo mật y tế:**
+2. **Phụ thuộc hạ tầng và rủi ro bảo mật y tế:**
 * Việc gọi dữ liệu thông qua các API bên ngoài (Groq, OpenAI Embeddings, Google Search) đặt ra thách thức về tính ổn định của mạng. Đồng thời, đối với hệ thống tư vấn lâm sàng, việc gửi trực tiếp các truy vấn y tế qua nền tảng bên thứ ba cần sự kiểm duyệt chặt chẽ về việc ẩn danh hóa dữ liệu người dùng (Data Masking / PII removal) để tránh vi phạm các tiêu chuẩn bảo mật.
 
 
