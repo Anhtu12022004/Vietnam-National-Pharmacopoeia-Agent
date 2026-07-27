@@ -30,8 +30,8 @@ Kiến trúc hệ thống được xây dựng dựa trên cơ chế Xử lý l�
 
 
 5. **Tối ưu và Bổ sung ngữ cảnh (Fallback Web Search):**
-* **Nếu ĐỦ thông tin max_rerank_score >=0.7:** Hệ thống chốt sử dụng duy nhất tài liệu nội bộ làm ngữ cảnh.
-* **Nếu THIẾU thông tin max_rerank_score < 0.7:** Hệ thống kích hoạt API tìm kiếm trên Google để lấy thêm 3 nguồn kết quả trên Web. Ngữ cảnh cuối cùng sẽ được **gộp chung** (Bao gồm phần Tài liệu dược thư nội bộ ở trên (nếu rerank_score >= 0.4) và phần Kết quả Web ở dưới).
+* **Nếu ĐỦ thông tin max_rerank_score >=0.7 và average_rerank_score >= 0.5:** Hệ thống chốt sử dụng duy nhất tài liệu nội bộ làm ngữ cảnh.
+* **Nếu THIẾU thông tin max_rerank_score < 0.7 hoặc average_rerank_score < 0.5 :** Hệ thống kích hoạt API tìm kiếm trên Google để lấy thêm 3 nguồn kết quả trên Web. Ngữ cảnh cuối cùng sẽ được **gộp chung** (Bao gồm phần Tài liệu dược thư nội bộ ở trên (nếu rerank_score >= 0.4) và phần Kết quả Web ở dưới).
 
 
 6. **Tổng hợp câu trả lời cuối (Final Generation):**
