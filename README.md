@@ -52,12 +52,13 @@ Nguồn dữ liệu cốt lõi (Ground Truth) là **"Dược thư Quốc gia Vi�
 
 | Tính năng | Mô tả |
 |---|---|
-| 🤖 **Multi-LLM Orchestration** | Điều phối 3 mô hình LLM chuyên biệt cho từng tác vụ, tối ưu hiệu năng và chi phí |
-| 🔄 **Query Rewriting** | Tự động chuẩn hóa câu hỏi thành truy vấn độc lập, tối ưu cho vector search |
-| 🧠 **Adaptive RAG** | Tự đánh giá chất lượng retrieval, kích hoạt Web Search khi dữ liệu nội bộ không đủ |
-| 📚 **Context Window Management** | Quản lý lịch sử thông minh: giữ 3 lượt gần nhất + tóm tắt lịch sử cũ |
-| 🌐 **Fallback Web Search** | Tìm kiếm bổ sung qua Google (Serper API + Trafilatura) khi cần thiết |
-| 🎨 **Modern Chat UI** | Giao diện web đẹp mắt kiểu ChatGPT với khả năng xem context đã truy xuất |
+| 🤖 **Multi-Model Orchestration** | Điều phối 3 mô hình LLM chuyên biệt cùng mô hình Jina Reranker v3, tối ưu hiệu năng và chi phí |
+| 🔄 **Query Rewriting** | Tự động chuẩn hóa câu hỏi thành truy vấn độc lập bằng `Llama-3.1-8B-Instant` |
+| 🎯 **Two-Stage Retrieval & Reranking** | Retrieve Top 10 từ VectorStore và tái xếp hạng chọn Top 3 bằng `Jina Reranker v3` |
+| 🧠 **Adaptive RAG & Threshold Eval** | Đánh giá chất lượng dựa trên điểm Rerank (`max >= 0.7` và `avg >= 0.5`), tự động kích hoạt Web Search khi thiếu dữ liệu |
+| 📚 **Context Window Management** | Quản lý lịch sử thông minh: giữ 3 lượt gần nhất + tóm tắt lịch sử cũ bằng `Qwen3-32B` |
+| 🌐 **Fallback Web Search** | Tìm kiếm bổ sung qua Google (Serper API + Trafilatura) kết hợp lọc nội bộ (`score >= 0.4`) |
+| 🎨 **Modern Chat UI** | Giao diện web đẹp mắt kiểu ChatGPT với khả năng xem context đã truy xuất kèm `rerank_score` |
 | 🖥️ **CLI Mode** | Hỗ trợ chạy trực tiếp trên terminal cho mục đích phát triển và debug |
 
 ---
@@ -69,24 +70,24 @@ Nguồn dữ liệu cốt lõi (Ground Truth) là **"Dược thư Quốc gia Vi�
 flowchart LR
 
     U[User Query]
-    HM[History Manager]
-    QR[Query Rewriter]
+    HM[History Manager\nQwen3-32B Summary]
+    QR[Query Rewriter\nLlama-8B]
 
-    FS[(FAISS VectorStore)]
-    RE{Retrieval Evaluator}
+    FS[(FAISS VectorStore\nRetrieve Top 10)]
+    RR[Jina Reranker v3\nTop 3 & Score Eval]
 
-    GW[(Google Search)]
+    GW[(Google Search\nFallback + Filter >= 0.4)]
 
-    MG[Main Generator]
+    MG[Main Generator\nLlama-70B]
     FA[Final Answer]
 
     U --> HM
     HM --> QR
     QR --> FS
-    FS --> RE
+    FS --> RR
 
-    RE -- Sufficient --> MG
-    RE -- Insufficient --> GW
+    RR -- Sufficient\n(max>=0.7 & avg>=0.5) --> MG
+    RR -- Insufficient\n(max<0.7 or avg<0.5) --> GW
     GW --> MG
 
     MG --> FA
@@ -96,12 +97,14 @@ flowchart LR
 
 ### Luồng xử lý chi tiết
 
-1. **Tiếp nhận & quản lý lịch sử** — Tách lịch sử thành phần tóm tắt (cũ) và 3 lượt gần nhất (nguyên bản)
-2. **Chuẩn hóa truy vấn (Query Rewriting)** — Sử dụng `Llama-3.1-8B-Instant` viết lại câu hỏi thành truy vấn độc lập
-3. **Truy xuất tài liệu (Retrieval)** — Tìm kiếm Top 3 đoạn tương đồng nhất từ FAISS VectorStore
-4. **Đánh giá ngữ cảnh (Context Evaluation)** — `Qwen3-32B` phân tích: `SUFFICIENT` hoặc `INSUFFICIENT`
-5. **Bổ sung nguồn web (Fallback)** — Kích hoạt Google Search nếu dữ liệu nội bộ không đủ
-6. **Sinh câu trả lời (Generation)** — `Llama-3.3-70B-Versatile` tổng hợp tất cả ngữ cảnh để trả lời
+1. **Tiếp nhận & quản lý lịch sử** — Tách lịch sử thành phần tóm tắt các lượt cũ bằng `Qwen3-32B` (khi > 3 lượt) và 3 lượt gần nhất (nguyên bản).
+2. **Chuẩn hóa truy vấn (Query Rewriting)** — Sử dụng `Llama-3.1-8B-Instant` phân tích và viết lại câu hỏi thành truy vấn độc lập.
+3. **Truy xuất tài liệu nội bộ (Retrieval)** — Truy xuất Top 10 đoạn tài liệu liên quan nhất từ FAISS VectorStore.
+4. **Tái xếp hạng & Đánh giá (Reranking & Evaluation)** — Sử dụng `Jina Reranker v3` để chấm điểm tương đồng cho Top 10 và trích xuất Top 3 đoạn tốt nhất:
+   - **Đủ thông tin (Sufficient)**: Nếu `max_rerank_score >= 0.7` **VÀ** `average_rerank_score >= 0.5` → Sử dụng duy nhất tài liệu nội bộ.
+   - **Thiếu thông tin (Insufficient)**: Nếu `max_rerank_score < 0.7` **HOẶC** `average_rerank_score < 0.5` → Kích hoạt Fallback Web Search.
+5. **Tối ưu & Bổ sung nguồn web (Fallback Web Search)** — Tìm kiếm 3 kết quả từ Google Search. Ngữ cảnh nội bộ chỉ giữ lại các đoạn có `rerank_score >= 0.4` trước khi gộp chung với dữ liệu Web.
+6. **Sinh câu trả lời (Generation)** — `Llama-3.3-70B-Versatile` làm vai trò Dược sĩ lâm sàng, tổng hợp toàn bộ ngữ cảnh đã tối ưu để lập luận và đưa ra kết quả cuối cùng.
 
 ---
 
@@ -111,6 +114,7 @@ flowchart LR
 |---|---|
 | **Framework** | [LangChain](https://www.langchain.com/) |
 | **LLM Provider** | [Groq](https://groq.com/) (Llama 3.3 70B, Llama 3.1 8B, Qwen3 32B) |
+| **Reranker Model** | [Jina AI](https://jina.ai/) (`jina-reranker-v3`) |
 | **Embedding** | [OpenAI](https://openai.com/) `text-embedding-3-large` |
 | **Vector Store** | [FAISS](https://github.com/facebookresearch/faiss) (Facebook AI Similarity Search) |
 | **Web Server** | [Flask](https://flask.palletsprojects.com/) |
@@ -163,6 +167,7 @@ Tạo file `.env` tại thư mục gốc:
 OPENAI_API_KEY=sk-your-openai-api-key
 GROQ_API_KEY=gsk_your-groq-api-key
 SERPER_API_KEY=your-serper-api-key
+JINA_API_KEY=jina_your-jina-api-key
 ```
 
 **5. Chuẩn bị dữ liệu Vector Store**
@@ -183,7 +188,7 @@ Truy cập `http://localhost:5000` trên trình duyệt.
 
 **Các tính năng UI:**
 - 💬 Chat với giao diện giống ChatGPT
-- 📖 Xem chi tiết context đã truy xuất (nội bộ + web)
+- 📖 Xem chi tiết context đã truy xuất (nội bộ + web kèm điểm `rerank_score`)
 - 🔖 Phân biệt nguồn: badge xanh (Dược thư) và badge vàng (Web Search)
 - 🗑️ Xóa lịch sử chat để bắt đầu cuộc hội thoại mới
 - 💡 Gợi ý câu hỏi mẫu trên trang chào mừng
@@ -218,11 +223,11 @@ PharmaRAG-VN/
 │
 ├── core/                           # 🧠 Package xử lý chính
 │   ├── __init__.py                 # Export hàm ask()
-│   ├── config.py                   # Khởi tạo Embeddings, VectorStore, LLM instances
-│   ├── prompts.py                  # Tất cả Prompt Templates (Main, Summary, Rewrite, Eval)
+│   ├── config.py                   # Khởi tạo Embeddings, VectorStore, LLM & Reranker instances
+│   ├── prompts.py                  # Tất cả Prompt Templates (Main, Summary, Rewrite)
 │   ├── chains.py                   # Tạo LangChain chains từ prompts + LLMs
 │   ├── chat_engine.py              # Hàm ask() chính — điều phối toàn bộ pipeline
-│   └── retrieval.py                # Đánh giá retrieval + xây dựng web context
+│   └── retrieval.py                # Jina Reranker v3 scoring, threshold eval + web context
 │
 ├── search/                         # 🌐 Package tìm kiếm web
 │   ├── __init__.py                 # Export search_on_google()
@@ -248,22 +253,23 @@ PharmaRAG-VN/
 │   └── Chat.ipynb                 # Thử nghiệm vòng lặp chat
 │
 └── Docx/                          # 📄 Tài liệu kỹ thuật
-    └── architecture_rag.md        # Báo cáo kiến trúc hệ thống chi tiết
+    └── architecture_update.md     # Báo cáo kiến trúc hệ thống cập nhật
 ```
 
 ---
 
-## 🤖 Mô hình LLM
+## 🤖 Mô hình LLM & Reranker
 
-Hệ thống sử dụng chiến lược **Multi-LLM Orchestration** — phân rã tác vụ cho từng mô hình có kích thước phù hợp:
+Hệ thống sử dụng chiến lược **Multi-Model Orchestration** — phân rã tác vụ cho các mô hình chuyên biệt:
 
-| Vai trò | Mô hình | Kích thước | Mục đích |
+| Vai trò | Mô hình | Kích thước / Loại | Mục đích |
 |---|---|---|---|
 | ⚡ **Fast LLM** | `Llama-3.1-8B-Instant` | 8B | Chuẩn hóa truy vấn (Query Rewriting) — tốc độ cao, tiết kiệm token |
-| 🔍 **Eval LLM** | `Qwen3-32B` | 32B | Đánh giá chất lượng retrieval — suy luận logic tốt, phân loại nhị phân |
-| 🧠 **Main LLM** | `Llama-3.3-70B-Versatile` | 70B | Sinh câu trả lời chính — suy luận mạnh, hỗ trợ tiếng Việt tốt |
+| 📝 **Mid LLM** | `Qwen3-32B` | 32B | Tóm tắt lịch sử hội thoại cũ — suy luận ngữ cảnh tốt |
+| 🎯 **Reranker** | `Jina Reranker v3` | Cross-Encoder Reranker | Tái xếp hạng Top 10 & chấm điểm tương đồng (`max >= 0.7`, `avg >= 0.5`) |
+| 🧠 **Main LLM** | `Llama-3.3-70B-Versatile` | 70B | Sinh câu trả lời chính — suy luận y khoa mạnh, hỗ trợ tiếng Việt tốt |
 
-> Tất cả các mô hình đều được phục vụ qua **Groq API** với tốc độ inference cực nhanh nhờ phần cứng LPU.
+> Các mô hình LLM được phục vụ qua **Groq API** với tốc độ inference cực nhanh nhờ phần cứng LPU, kết hợp cùng **Jina Reranker v3 API** phục vụ đánh giá ngữ cảnh.
 
 ---
 
@@ -318,9 +324,8 @@ PDF gốc → marker-pdf → Markdown → Chuẩn hóa headers → Chunking → 
 
 | Vấn đề | Chi tiết |
 |---|---|
-| 🕐 **Độ trễ tuần tự** | Pipeline chạy sequential qua nhiều LLM API, gây latency khi kích hoạt Web Search |
-| 🔲 **Đánh giá nhị phân** | Chỉ có `SUFFICIENT/INSUFFICIENT`, thiếu trạng thái `PARTIALLY_SUFFICIENT` |
-| ☁️ **Phụ thuộc API** | Toàn bộ LLM chạy qua Groq/OpenAI API — phụ thuộc kết nối mạng |
+| 🕐 **Độ trễ tuần tự** | Pipeline chạy sequential qua nhiều API (Rewrite -> Retrieve -> Rerank -> Web Search -> Generate), gây latency khi kích hoạt Web Search |
+| ☁️ **Phụ thuộc API** | Toàn bộ LLM & Reranker chạy qua API (Groq, Jina, OpenAI) — phụ thuộc kết nối mạng |
 
 ### Hướng phát triển
 
