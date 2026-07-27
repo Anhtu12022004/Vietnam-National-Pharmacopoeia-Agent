@@ -50,9 +50,16 @@ fast_llm = ChatGroq(
 )
 
 # ──────────────────────────────────────────────
-# 4. LLM đánh giá Retrieval — Qwen3-32b (suy luận tốt)
+# 4. LLM trung — Qwen3-32b — dùng cho tóm tắt lịch sử hội thoại
 # ──────────────────────────────────────────────
-eval_llm = ChatGroq(
+mid_llm = ChatGroq(
     temperature=0,
     model_name="qwen/qwen3-32b"
 )
+
+# ──────────────────────────────────────────────
+# 5. Jina Reranker v3 — Cấu hình API
+# ──────────────────────────────────────────────
+JINA_RERANKER_URL = "https://api.jina.ai/v1/rerank"
+JINA_RERANKER_MODEL = "jina-reranker-v3"
+JINA_API_KEY = os.getenv("JINA_API_KEY")

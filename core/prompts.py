@@ -74,31 +74,4 @@ rewrite_prompt = PromptTemplate(
     input_variables=["history", "query"]
 )
 
-# ──────────────────────────────────────────────
-# 4. Prompt đánh giá chất lượng Retrieval
-# ──────────────────────────────────────────────
-RETRIEVAL_EVAL_PROMPT_TEMPLATE = """
-Bạn là một chuyên gia đánh giá chất lượng thông tin y dược. Nhiệm vụ của bạn là đánh giá xem ngữ cảnh được truy xuất có đủ thông tin để trả lời câu hỏi của người dùng hay không.
- 
-Câu hỏi của người dùng:
-{query}
- 
-Ngữ cảnh đã truy xuất từ tài liệu nội bộ:
-{context}
- 
-Hãy đánh giá theo các tiêu chí sau:
-1. Ngữ cảnh có đề cập trực tiếp hoặc liên quan chặt chẽ đến chủ đề của câu hỏi không?
-2. Thông tin trong ngữ cảnh có đủ chi tiết để đưa ra câu trả lời đáng tin cậy không?
-3. Có thiếu các thông tin quan trọng mà câu hỏi yêu cầu không?
- 
-Chỉ trả lời MỘT trong hai từ sau (không thêm bất kỳ nội dung nào khác):
-- SUFFICIENT: nếu ngữ cảnh đủ để trả lời câu hỏi
-- INSUFFICIENT: nếu ngữ cảnh không đủ hoặc không liên quan
-Tuyệt đối KHÔNG trả về quá trình suy luận. 
-Chỉ trả về đúng 1 từ duy nhất là SUFFICIENT hoặc INSUFFICIENT.
-"""
 
-retrieval_eval_prompt = PromptTemplate(
-    template=RETRIEVAL_EVAL_PROMPT_TEMPLATE,
-    input_variables=["query", "context"]
-)

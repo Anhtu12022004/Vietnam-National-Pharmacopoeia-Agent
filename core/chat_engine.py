@@ -4,14 +4,20 @@ core/chat_engine.py — Hàm ask() chính và quản lý lịch sử hội tho�
 Đây là module trung tâm, điều phối toàn bộ luồng xử lý:
   1. Build history context (summary + recent)
   2. Chuẩn hóa query (Query Rewriting)
-  3. Retrieve từ VectorStore
-  4. Đánh giá retrieval → fallback Google Search
-  5. Gọi chain chính để sinh câu trả lời
+  3. Retrieve Top 10 từ VectorStore
+  4. Rerank với Jina Reranker v3 → Top 3
+  5. Đánh giá ngưỡng → fallback Google Search nếu cần
+  6. Gọi chain chính để sinh câu trả lời
 """
 
 from core.config import vectorstore
 from core.chains import chain, summary_chain, rewrite_chain
-from core.retrieval import evaluate_retrieval_sufficiency, build_web_context
+from core.retrieval import (
+    rerank_documents,
+    evaluate_by_rerank_scores,
+    filter_docs_by_threshold,
+    build_web_context,
+)
 from search.google import search_on_google
 
 
@@ -62,7 +68,7 @@ def build_history_context(chat_history: list[dict]) -> tuple[str, str]:
     # Tóm tắt lịch sử cũ (chỉ khi có > 3 lượt)
     total_turns = len(chat_history) // 2
     if total_turns > RECENT_TURNS and old_messages:
-        print("[Đang tóm tắt lịch sử hội thoại cũ...]")
+        print("[Đang tóm tắt lịch sử hội thoại cũ với Qwen3-32b...]")
         summary_text = summarize_old_history(old_messages)
     else:
         summary_text = "Không có."
@@ -77,11 +83,12 @@ def ask(query: str, chat_history: list[dict]) -> dict:
     Luồng xử lý:
       1. Build history context (summary + recent)
       2. Chuẩn hóa query (nếu có lịch sử)
-      3. Retrieve Top 3 từ VectorStore
-      4. Đánh giá context bằng Qwen3-32b
-         - SUFFICIENT → dùng context nội bộ
-         - INSUFFICIENT → bổ sung bằng Google Search
-      5. Gọi chain chính với context đã được bổ sung (nếu cần)
+      3. Retrieve Top 10 từ VectorStore
+      4. Rerank với Jina Reranker v3 → lấy Top 3
+      5. Đánh giá ngưỡng (max >= 0.7 AND avg >= 0.5)
+         - SUFFICIENT → dùng Top 3 nội bộ
+         - INSUFFICIENT → lọc docs >= 0.4 + bổ sung Google Search
+      6. Gọi chain chính với context đã được tối ưu
  
     Args:
         query: Câu hỏi hiện tại của người dùng.
@@ -107,46 +114,88 @@ def ask(query: str, chat_history: list[dict]) -> dict:
     else:
         standalone_query = query
  
-    # ── Bước 3: Retrieve Top 3 từ VectorStore
-    print("\n[Đang truy xuất tài liệu nội bộ...]")
-    docs = vectorstore.similarity_search(standalone_query, k=3)
-    internal_context = "\n\n".join(
-        f"Metadata: {doc.page_content}"
-        for doc in docs
+    # ── Bước 3: Retrieve Top 10 từ VectorStore
+    print("\n[Đang truy xuất Top 10 tài liệu nội bộ...]")
+    docs = vectorstore.similarity_search(standalone_query, k=10)
+    print(f"[Đã truy xuất {len(docs)} tài liệu từ VectorStore.]")
+
+    # ── Bước 4: Rerank với Jina Reranker v3
+    reranked_docs = rerank_documents(standalone_query, docs)
+
+    # ── Bước 5: Đánh giá ngưỡng — lấy Top 3 và kiểm tra score
+    top_3_docs, is_sufficient, max_score, avg_score = evaluate_by_rerank_scores(
+        reranked_docs, top_k=3
     )
- 
-    # Thu thập context nội bộ cho UI
+
+    # Xây dựng context từ Top 3 sau reranking
+    internal_context = "\n\n".join(
+        f"Metadata: {item['doc'].page_content}"
+        for item in top_3_docs
+    )
+
+    # Thu thập context nội bộ cho UI (Top 3)
     contexts_for_ui = []
-    for i, doc in enumerate(docs):
+    for i, item in enumerate(top_3_docs):
         contexts_for_ui.append({
             "index": i + 1,
-            "content": doc.page_content,
-            "metadata": doc.metadata if doc.metadata else {},
+            "content": item["doc"].page_content,
+            "metadata": {
+                **(item["doc"].metadata if item["doc"].metadata else {}),
+                "rerank_score": round(item["rerank_score"], 4),
+            },
             "type": "internal",
         })
- 
-    # ── Bước 4: Đánh giá retrieval với Qwen3-32b
-    is_sufficient = evaluate_retrieval_sufficiency(standalone_query, internal_context)
+
     used_web_search = False
     final_context = internal_context
  
     if not is_sufficient:
-        # ── Bước 4b: Fallback — tìm kiếm Google và gộp context
+        # ── Bước 5b: Fallback — Lọc internal docs và tìm kiếm Google
         print(f"\n[Đang tìm kiếm bổ sung trên Google: '{standalone_query}'...]")
         web_results = search_on_google(standalone_query, num_results=3)
- 
+
+        # Lọc tài liệu nội bộ: chỉ giữ docs có rerank_score >= 0.4
+        filtered_internal = filter_docs_by_threshold(top_3_docs, threshold=0.4)
+
+        if filtered_internal:
+            filtered_context = "\n\n".join(
+                f"Metadata: {item['doc'].page_content}"
+                for item in filtered_internal
+            )
+        else:
+            filtered_context = ""
+
         if web_results:
             web_context_text, web_contexts_for_ui = build_web_context(web_results)
             used_web_search = True
  
-            # Gộp context: nội bộ trước, web sau
-            final_context = (
-                "=== Tài liệu dược thư quốc gia ===\n"
-                + internal_context
-                + "\n\n=== Kết quả tìm kiếm Internet ===\n"
-                + web_context_text
-            )
- 
+            # Gộp context: nội bộ đã lọc trước, web sau
+            if filtered_context:
+                final_context = (
+                    "=== Tài liệu dược thư quốc gia ===\n"
+                    + filtered_context
+                    + "\n\n=== Kết quả tìm kiếm Internet ===\n"
+                    + web_context_text
+                )
+            else:
+                final_context = (
+                    "=== Kết quả tìm kiếm Internet ===\n"
+                    + web_context_text
+                )
+
+            # Cập nhật contexts_for_ui: chỉ giữ internal đã lọc
+            contexts_for_ui = []
+            for i, item in enumerate(filtered_internal):
+                contexts_for_ui.append({
+                    "index": i + 1,
+                    "content": item["doc"].page_content,
+                    "metadata": {
+                        **(item["doc"].metadata if item["doc"].metadata else {}),
+                        "rerank_score": round(item["rerank_score"], 4),
+                    },
+                    "type": "internal",
+                })
+
             # Đánh số lại index cho web contexts
             for wc in web_contexts_for_ui:
                 wc["index"] += len(contexts_for_ui)
@@ -156,7 +205,7 @@ def ask(query: str, chat_history: list[dict]) -> dict:
         else:
             print("[Không tìm thấy kết quả web phù hợp, tiếp tục với context nội bộ.]")
  
-    # ── Bước 5: Gọi chain chính
+    # ── Bước 6: Gọi chain chính
     answer = chain.invoke({
         "context": final_context,
         "summary": summary,

@@ -6,8 +6,8 @@ Mỗi chain kết hợp một PromptTemplate với một LLM và StrOutputParser
 
 from langchain_core.output_parsers import StrOutputParser
 
-from core.config import llm, fast_llm, eval_llm
-from core.prompts import main_prompt, summary_prompt, rewrite_prompt, retrieval_eval_prompt
+from core.config import llm, fast_llm, mid_llm
+from core.prompts import main_prompt, summary_prompt, rewrite_prompt
 
 # ──────────────────────────────────────────────
 # 1. Chain chính — Trả lời câu hỏi dược
@@ -15,16 +15,11 @@ from core.prompts import main_prompt, summary_prompt, rewrite_prompt, retrieval_
 chain = main_prompt | llm | StrOutputParser()
 
 # ──────────────────────────────────────────────
-# 2. Chain tóm tắt lịch sử hội thoại cũ
+# 2. Chain tóm tắt lịch sử hội thoại cũ — dùng Qwen3-32b
 # ──────────────────────────────────────────────
-summary_chain = summary_prompt | llm | StrOutputParser()
+summary_chain = summary_prompt | mid_llm | StrOutputParser()
 
 # ──────────────────────────────────────────────
 # 3. Chain chuẩn hóa câu hỏi (Query Rewriting) — dùng model nhỏ, nhanh
 # ──────────────────────────────────────────────
 rewrite_chain = rewrite_prompt | fast_llm | StrOutputParser()
-
-# ──────────────────────────────────────────────
-# 4. Chain đánh giá chất lượng Retrieval — dùng Qwen3-32b
-# ──────────────────────────────────────────────
-retrieval_eval_chain = retrieval_eval_prompt | eval_llm | StrOutputParser()
