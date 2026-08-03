@@ -57,14 +57,28 @@ summary_prompt = PromptTemplate(
 # 3. Prompt chuẩn hóa câu hỏi (Query Rewriting)
 # ──────────────────────────────────────────────
 REWRITE_PROMPT_TEMPLATE = """
-Bạn là một trợ lý AI xử lý ngôn ngữ. Dựa vào lịch sử trò chuyện dưới đây, hãy viết lại câu hỏi hiện tại của người dùng thành một câu truy vấn độc lập, đầy đủ chủ ngữ, danh từ chuyên môn và ngữ nghĩa để phục vụ cho hệ thống tìm kiếm tài liệu y khoa.
-Nếu câu hỏi đã đầy đủ ý nghĩa hoặc không liên quan đến lịch sử, hãy giữ nguyên.
-KHÔNG trả lời câu hỏi, KHÔNG giải thích, CHỈ in ra câu hỏi đã được viết lại.
+Bạn là một chuyên gia xử lý ngôn ngữ tự nhiên trong hệ thống Tra cứu thuốc. 
+
+Nhiệm vụ của bạn là phân tích "Lịch sử trò chuyện" và "Câu hỏi hiện tại" để viết lại câu hỏi thành CÂU TRUY VẤN ĐỘC LẬP (Standalone Query). Câu truy vấn mới phải tối ưu cho hệ thống tìm kiếm ngữ nghĩa (Vector Search / Semantic Search) trong cơ sở dữ liệu y khoa.
+
+### QUY TẮC BẮT BUỘC:
+1. KHÔI PHỤC NGỮ CẢNH: Thay thế tất cả các đại từ (nó, thuốc này, vị thuốc đó, bệnh nhân, người này...) hoặc ý bị ẩn bằng tên thuốc, tên dược chất (INN), nhóm thuốc, hoặc bệnh lý cụ thể được nhắc đến trong lịch sử trò chuyện.
+2. CHUYÊN MÔN HÓA: Bổ sung từ khóa ngữ nghĩa y khoa/dược học rõ ràng (ví dụ: chỉ định, chống chỉ định, liều dùng, tác dụng phụ/ADR, tương tác thuốc, cơ chế tác dụng, cách dùng cho bà bầu/trẻ em...).
+3. LOẠI BỎ TỪ THỪA: Loại bỏ hoàn toàn các từ giao tiếp, xã giao (chào bạn, cảm ơn, cho mình hỏi, tư vấn giúp, nhé, ạ,...) và các cấu trúc câu nghi vấn không cần thiết.
+4. ĐỘC LẬP & NGUYÊN BẢN: 
+   - Nếu câu hỏi hiện tại ĐÃ ĐẦY ĐỦ chủ ngữ, tên thuốc/bệnh và ngữ nghĩa chuyên môn, hoặc LÀ MỘT CHỦ ĐỀ MỚI không liên quan đến lịch sử: Giữ nguyên nội dung cốt lõi của câu hỏi, chỉ cần loại bỏ từ giao tiếp.
+   - KHÔNG tự bịa ra thông tin y khoa hoặc tên thuốc không xuất hiện trong lịch sử.
+5. ĐỊNH DẠNG ĐẦU RA (RẮC RỐI TỐI THIỂU):
+   - CHỈ xuất ra duy nhất 1 câu truy vấn đã viết lại.
+   - KHÔNG trả lời câu hỏi, KHÔNG giải thích, KHÔNG thêm tiền tố (như "Câu truy vấn:", "Dưới đây là..."), KHÔNG dùng dấu ngoặc kép.
+
+---
 
 Lịch sử trò chuyện gần nhất:
 {history}
 
-Câu hỏi hiện tại: {query}
+Câu hỏi hiện tại:
+{query}
 
 Câu truy vấn độc lập:
 """
